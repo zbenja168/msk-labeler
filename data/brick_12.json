@@ -1,0 +1,242 @@
+{
+ "brick": 12,
+ "title": "Skeletal Muscle Adaptations",
+ "diagrams": [
+  {
+   "title": "Skeletal muscle injury and regeneration (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"700\"><text x=\"60\" y=\"248\">Muscle fiber (longitudinal)</text><text x=\"40\" y=\"300\">Regeneration</text></g>\n<rect x=\"45\" y=\"48\" width=\"715\" height=\"128\" rx=\"34\" fill=\"none\" stroke=\"#78716c\" stroke-width=\"3\"/>\n<rect x=\"62\" y=\"74\" width=\"420\" height=\"80\" rx=\"26\" fill=\"#e07a5f\" stroke=\"#7c2d12\" stroke-width=\"4\"/>\n<g stroke=\"#b45309\" stroke-width=\"2\" opacity=\"0.45\"><line x1=\"90\" y1=\"80\" x2=\"90\" y2=\"148\"/><line x1=\"108\" y1=\"80\" x2=\"108\" y2=\"148\"/><line x1=\"126\" y1=\"80\" x2=\"126\" y2=\"148\"/><line x1=\"144\" y1=\"80\" x2=\"144\" y2=\"148\"/><line x1=\"162\" y1=\"80\" x2=\"162\" y2=\"148\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"148\"/><line x1=\"198\" y1=\"80\" x2=\"198\" y2=\"148\"/><line x1=\"216\" y1=\"80\" x2=\"216\" y2=\"148\"/><line x1=\"234\" y1=\"80\" x2=\"234\" y2=\"148\"/><line x1=\"252\" y1=\"80\" x2=\"252\" y2=\"148\"/><line x1=\"270\" y1=\"80\" x2=\"270\" y2=\"148\"/><line x1=\"288\" y1=\"80\" x2=\"288\" y2=\"148\"/><line x1=\"306\" y1=\"80\" x2=\"306\" y2=\"148\"/><line x1=\"324\" y1=\"80\" x2=\"324\" y2=\"148\"/><line x1=\"342\" y1=\"80\" x2=\"342\" y2=\"148\"/><line x1=\"360\" y1=\"80\" x2=\"360\" y2=\"148\"/><line x1=\"378\" y1=\"80\" x2=\"378\" y2=\"148\"/><line x1=\"396\" y1=\"80\" x2=\"396\" y2=\"148\"/><line x1=\"414\" y1=\"80\" x2=\"414\" y2=\"148\"/><line x1=\"432\" y1=\"80\" x2=\"432\" y2=\"148\"/><line x1=\"450\" y1=\"80\" x2=\"450\" y2=\"148\"/><line x1=\"468\" y1=\"80\" x2=\"468\" y2=\"148\"/></g>\n<g fill=\"#4c1d95\" stroke=\"#fff\" stroke-width=\"1.5\"><ellipse cx=\"130\" cy=\"88\" rx=\"20\" ry=\"7\"/><ellipse cx=\"250\" cy=\"141\" rx=\"20\" ry=\"7\"/><ellipse cx=\"400\" cy=\"88\" rx=\"20\" ry=\"7\"/></g>\n<ellipse cx=\"300\" cy=\"61\" rx=\"32\" ry=\"10\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/><ellipse cx=\"300\" cy=\"61\" rx=\"13\" ry=\"5\" fill=\"#a16207\"/>\n<path d=\"M500 80 L560 78 L548 112 L566 150 L500 152 Z\" fill=\"#e9a48f\" stroke=\"#7c2d12\" stroke-width=\"3\" stroke-dasharray=\"7 6\"/><path d=\"M650 82 L742 86 Q752 116 742 148 L660 150 L676 116 Z\" fill=\"#e9a48f\" stroke=\"#7c2d12\" stroke-width=\"3\" stroke-dasharray=\"7 6\"/>\n<circle cx=\"602\" cy=\"104\" r=\"19\" fill=\"#e0f2fe\" stroke=\"#0369a1\" stroke-width=\"2\"/><g fill=\"#1e3a8a\"><circle cx=\"594\" cy=\"99\" r=\"5\"/><circle cx=\"604\" cy=\"108\" r=\"5\"/><circle cx=\"612\" cy=\"98\" r=\"5\"/></g>\n<path d=\"M700 100 q14 -14 26 0 q10 12 0 26 q-12 12 -26 2 q-14 -12 0 -28 Z\" fill=\"#d9f99d\" stroke=\"#3f6212\" stroke-width=\"2\"/><ellipse cx=\"712\" cy=\"114\" rx=\"8\" ry=\"6\" fill=\"#3f6212\"/>\n<rect x=\"520\" y=\"196\" width=\"250\" height=\"22\" rx=\"11\" fill=\"#fecaca\" stroke=\"#dc2626\" stroke-width=\"3\"/>\n<g fill=\"#7e22ce\"><circle cx=\"560\" cy=\"160\" r=\"4\"/><circle cx=\"572\" cy=\"168\" r=\"4\"/><circle cx=\"590\" cy=\"180\" r=\"4\"/><circle cx=\"606\" cy=\"172\" r=\"4\"/><circle cx=\"620\" cy=\"186\" r=\"4\"/><circle cx=\"640\" cy=\"176\" r=\"4\"/><circle cx=\"655\" cy=\"190\" r=\"4\"/><circle cx=\"600\" cy=\"207\" r=\"4\"/><circle cx=\"630\" cy=\"206\" r=\"4\"/><circle cx=\"668\" cy=\"206\" r=\"4\"/></g>\n<circle cx=\"95\" cy=\"370\" r=\"22\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"95\" cy=\"370\" r=\"9\" fill=\"#a16207\"/>\n<line x1=\"124\" y1=\"370\" x2=\"160\" y2=\"370\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"160,363 172,370 160,377\" fill=\"#3b1d0a\"/>\n<ellipse cx=\"215\" cy=\"335\" rx=\"30\" ry=\"11\" fill=\"#fdba74\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"215\" cy=\"335\" rx=\"8\" ry=\"5\" fill=\"#4c1d95\"/>\n<ellipse cx=\"260\" cy=\"375\" rx=\"30\" ry=\"11\" fill=\"#fdba74\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"260\" cy=\"375\" rx=\"8\" ry=\"5\" fill=\"#4c1d95\"/>\n<ellipse cx=\"220\" cy=\"410\" rx=\"30\" ry=\"11\" fill=\"#fdba74\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"220\" cy=\"410\" rx=\"8\" ry=\"5\" fill=\"#4c1d95\"/>\n<ellipse cx=\"300\" cy=\"345\" rx=\"30\" ry=\"11\" fill=\"#fdba74\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"300\" cy=\"345\" rx=\"8\" ry=\"5\" fill=\"#4c1d95\"/>\n<line x1=\"340\" y1=\"370\" x2=\"375\" y2=\"370\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"375,363 387,370 375,377\" fill=\"#3b1d0a\"/>\n<rect x=\"395\" y=\"352\" width=\"190\" height=\"36\" rx=\"18\" fill=\"#f4a58a\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<g fill=\"#4c1d95\"><ellipse cx=\"420\" cy=\"370\" rx=\"9\" ry=\"5\"/><ellipse cx=\"446\" cy=\"370\" rx=\"9\" ry=\"5\"/><ellipse cx=\"472\" cy=\"370\" rx=\"9\" ry=\"5\"/><ellipse cx=\"498\" cy=\"370\" rx=\"9\" ry=\"5\"/><ellipse cx=\"524\" cy=\"370\" rx=\"9\" ry=\"5\"/><ellipse cx=\"550\" cy=\"370\" rx=\"9\" ry=\"5\"/></g>\n<line x1=\"592\" y1=\"370\" x2=\"625\" y2=\"370\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"625,363 637,370 625,377\" fill=\"#3b1d0a\"/>\n<rect x=\"645\" y=\"340\" width=\"130\" height=\"60\" rx=\"22\" fill=\"#e07a5f\" stroke=\"#7c2d12\" stroke-width=\"3\"/>\n<g stroke=\"#b45309\" stroke-width=\"2\" opacity=\"0.45\"><line x1=\"662\" y1=\"346\" x2=\"662\" y2=\"394\"/><line x1=\"676\" y1=\"346\" x2=\"676\" y2=\"394\"/><line x1=\"690\" y1=\"346\" x2=\"690\" y2=\"394\"/><line x1=\"704\" y1=\"346\" x2=\"704\" y2=\"394\"/><line x1=\"718\" y1=\"346\" x2=\"718\" y2=\"394\"/><line x1=\"732\" y1=\"346\" x2=\"732\" y2=\"394\"/><line x1=\"746\" y1=\"346\" x2=\"746\" y2=\"394\"/><line x1=\"760\" y1=\"346\" x2=\"760\" y2=\"394\"/></g>\n<g fill=\"#4c1d95\" stroke=\"#fff\" stroke-width=\"1.5\"><ellipse cx=\"685\" cy=\"351\" rx=\"14\" ry=\"5\"/><ellipse cx=\"740\" cy=\"390\" rx=\"14\" ry=\"5\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"60\" y=\"420\">activated</text><text x=\"190\" y=\"455\">proliferate</text><text x=\"420\" y=\"425\">differentiate &amp; fuse</text><text x=\"640\" y=\"430\">mature, reinnervate</text><text x=\"520\" y=\"240\">plasma</text><text x=\"565\" y=\"30\">Injured segment</text></g>",
+   "labels": [
+    {
+     "name": "Basal lamina",
+     "accept": [
+      "basement membrane",
+      "basal membrane"
+     ],
+     "function": "Outer sheath; quiescent stem cells sit just inside it",
+     "x": 160,
+     "y": 48,
+     "lx": 160,
+     "ly": 20
+    },
+    {
+     "name": "Sarcolemma",
+     "accept": [
+      "muscle cell membrane",
+      "plasma membrane"
+     ],
+     "function": "Fiber membrane whose dissolution begins degeneration",
+     "x": 230,
+     "y": 74,
+     "lx": 215,
+     "ly": 205
+    },
+    {
+     "name": "Satellite cell",
+     "accept": [
+      "satellite cells",
+      "muscle stem cell"
+     ],
+     "function": "Quiescent stem cell that activates after injury to regenerate",
+     "x": 300,
+     "y": 61,
+     "lx": 330,
+     "ly": 20
+    },
+    {
+     "name": "Myonucleus",
+     "accept": [
+      "myonuclei",
+      "nucleus"
+     ],
+     "function": "One of many per fiber; directs new actin and myosin synthesis",
+     "x": 400,
+     "y": 88
+    },
+    {
+     "name": "Neutrophil",
+     "accept": [
+      "neutrophils"
+     ],
+     "function": "Early inflammatory cell that clears damaged tissue",
+     "x": 602,
+     "y": 104,
+     "lx": 600,
+     "ly": 60
+    },
+    {
+     "name": "Macrophage",
+     "accept": [
+      "macrophages"
+     ],
+     "function": "Phagocyte that clears debris and releases repair signals",
+     "x": 714,
+     "y": 106,
+     "lx": 720,
+     "ly": 60
+    },
+    {
+     "name": "Creatine kinase",
+     "accept": [
+      "CK",
+      "creatine phosphokinase",
+      "CPK"
+     ],
+     "function": "Leaks into plasma; sensitive, non-specific marker of damage",
+     "x": 620,
+     "y": 186,
+     "lx": 470,
+     "ly": 220
+    },
+    {
+     "name": "Myoblast",
+     "accept": [
+      "myoblasts",
+      "myogenic progenitor cell"
+     ],
+     "function": "Proliferating progenitor that differentiates and fuses",
+     "x": 260,
+     "y": 375
+    },
+    {
+     "name": "Myotube",
+     "accept": [
+      "myotubes"
+     ],
+     "function": "Multinucleated fused cell that matures into a new fiber",
+     "x": 500,
+     "y": 370
+    }
+   ]
+  },
+  {
+   "title": "Signaling in muscle hypertrophy, endurance adaptation and atrophy (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"25\" y=\"70\" width=\"750\" height=\"410\" rx=\"30\" fill=\"#fbe3da\" stroke=\"#9a3412\" stroke-width=\"4\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"700\"><text x=\"35\" y=\"28\">Resistance exercise</text><text x=\"615\" y=\"28\">Endurance exercise</text><text x=\"250\" y=\"28\">Catabolic signals</text></g>\n<g fill=\"#16a34a\" stroke=\"#14532d\" stroke-width=\"1.5\"><circle cx=\"110\" cy=\"46\" r=\"9\"/><circle cx=\"135\" cy=\"40\" r=\"7\"/><circle cx=\"86\" cy=\"40\" r=\"7\"/></g>\n<path d=\"M110 58 L110 100 M100 58 L100 66 L110 72 L120 66 L120 58\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"4\"/>\n<line x1=\"110\" y1=\"102\" x2=\"110\" y2=\"124\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"110,136 116,124 104,124\" fill=\"#3b1d0a\"/>\n<ellipse cx=\"110\" cy=\"160\" rx=\"42\" ry=\"22\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2.5\"/>\n<line x1=\"110\" y1=\"184\" x2=\"110\" y2=\"210\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"110,222 116,210 104,210\" fill=\"#3b1d0a\"/>\n<polygon points=\"80,250 95,226 125,226 140,250 125,274 95,274\" fill=\"#bbf7d0\" stroke=\"#15803d\" stroke-width=\"2.5\"/>\n<line x1=\"110\" y1=\"276\" x2=\"110\" y2=\"306\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"110,318 116,306 104,306\" fill=\"#3b1d0a\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"48\" y=\"338\">protein synthesis</text><text x=\"66\" y=\"356\" font-weight=\"700\">HYPERTROPHY</text></g>\n<line x1=\"152\" y1=\"160\" x2=\"222\" y2=\"150\" stroke=\"#b91c1c\" stroke-width=\"3\"/><line x1=\"220\" y1=\"138\" x2=\"224\" y2=\"162\" stroke=\"#b91c1c\" stroke-width=\"4\"/>\n<line x1=\"290\" y1=\"36\" x2=\"282\" y2=\"100\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"280,112 288,101 276,99\" fill=\"#3b1d0a\"/>\n<polygon points=\"260,118 290,148 260,178 230,148\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2.5\"/>\n<ellipse cx=\"440\" cy=\"235\" rx=\"135\" ry=\"72\" fill=\"#dbeafe\" stroke=\"#3b82f6\" stroke-width=\"3\"/>\n<path d=\"M335 235 q12 -12 24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0 t24 0\" fill=\"none\" stroke=\"#1e40af\" stroke-width=\"2.5\"/>\n<line x1=\"282\" y1=\"165\" x2=\"343\" y2=\"214\" stroke=\"#5b21b6\" stroke-width=\"3\"/><polygon points=\"352,222 346,210 339,219\" fill=\"#5b21b6\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\"><text x=\"400\" y=\"190\">Nucleus</text></g>\n<polygon points=\"505,262 515,245 525,262 543,262 529,274 535,292 515,281 495,292 501,274 487,262\" fill=\"#f9a8d4\" stroke=\"#9d174d\" stroke-width=\"2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"625\" y=\"100\">energy stress</text><text x=\"625\" y=\"116\">(low ATP, low glycogen)</text></g>\n<rect x=\"625\" y=\"136\" width=\"80\" height=\"44\" rx=\"8\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"2.5\"/>\n<line x1=\"640\" y1=\"182\" x2=\"550\" y2=\"245\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"540,252 553,250 546,240\" fill=\"#3b1d0a\"/>\n<line x1=\"550\" y1=\"278\" x2=\"636\" y2=\"282\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"648,282 636,276 636,288\" fill=\"#3b1d0a\"/>\n<ellipse cx=\"690\" cy=\"268\" rx=\"34\" ry=\"16\" fill=\"#fed7aa\" stroke=\"#c2410c\" stroke-width=\"2\"/><path d=\"M664 268 q6 -10 12 0 t12 0 t12 0 t12 0\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"2\"/>\n<ellipse cx=\"728\" cy=\"304\" rx=\"34\" ry=\"16\" fill=\"#fed7aa\" stroke=\"#c2410c\" stroke-width=\"2\"/><path d=\"M702 304 q6 -10 12 0 t12 0 t12 0 t12 0\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"700\"><text x=\"655\" y=\"352\">ENDURANCE</text><text x=\"655\" y=\"368\">ADAPTATION</text></g>\n<line x1=\"380\" y1=\"300\" x2=\"277\" y2=\"384\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"268,392 281,389 273,380\" fill=\"#3b1d0a\"/>\n<line x1=\"500\" y1=\"302\" x2=\"553\" y2=\"369\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"560,378 557,365 548,372\" fill=\"#3b1d0a\"/>\n<path d=\"M232 420 L258 404 A30 30 0 1 0 258 436 Z\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/>\n<path d=\"M290 450 q10 -14 20 0 t20 0 t20 0\" fill=\"none\" stroke=\"#6b7280\" stroke-width=\"4\"/>\n<g fill=\"#fef08a\" stroke=\"#a16207\" stroke-width=\"2\"><circle cx=\"300\" cy=\"426\" r=\"8\"/><circle cx=\"312\" cy=\"412\" r=\"8\"/><circle cx=\"324\" cy=\"398\" r=\"8\"/></g>\n<line x1=\"355\" y1=\"440\" x2=\"373\" y2=\"440\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"385,440 373,434 373,446\" fill=\"#3b1d0a\"/>\n<g fill=\"#d6d3d1\" stroke=\"#57534e\" stroke-width=\"2\"><rect x=\"392\" y=\"416\" width=\"14\" height=\"48\" rx=\"5\"/><rect x=\"408\" y=\"416\" width=\"14\" height=\"48\" rx=\"5\"/><rect x=\"424\" y=\"416\" width=\"14\" height=\"48\" rx=\"5\"/><rect x=\"440\" y=\"416\" width=\"14\" height=\"48\" rx=\"5\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"300\" y=\"477\">protein breakdown</text></g>\n<circle cx=\"585\" cy=\"420\" r=\"32\" fill=\"#bbf7d0\" stroke=\"#15803d\" stroke-width=\"3\"/><ellipse cx=\"580\" cy=\"420\" rx=\"16\" ry=\"8\" fill=\"#fed7aa\" stroke=\"#c2410c\" stroke-width=\"1.5\"/><g fill=\"#6b7280\"><circle cx=\"596\" cy=\"406\" r=\"3\"/><circle cx=\"600\" cy=\"432\" r=\"3\"/><circle cx=\"570\" cy=\"435\" r=\"3\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"700\"><text x=\"460\" y=\"402\">ATROPHY</text></g>",
+   "labels": [
+    {
+     "name": "IGF-1",
+     "accept": [
+      "insulin-like growth factor 1",
+      "IGF1",
+      "insulin like growth factor"
+     ],
+     "function": "Growth factor that starts the anabolic cascade after contraction",
+     "x": 110,
+     "y": 46,
+     "lx": 175,
+     "ly": 46
+    },
+    {
+     "name": "Akt",
+     "accept": [
+      "protein kinase B",
+      "PKB"
+     ],
+     "function": "Kinase whose activity blocks nuclear entry of a catabolic factor",
+     "x": 110,
+     "y": 160,
+     "lx": 185,
+     "ly": 200
+    },
+    {
+     "name": "mTOR",
+     "accept": [
+      "mammalian target of rapamycin",
+      "mechanistic target of rapamycin"
+     ],
+     "function": "Key regulator of protein synthesis; activation weak in sarcopenia",
+     "x": 110,
+     "y": 250,
+     "lx": 180,
+     "ly": 285
+    },
+    {
+     "name": "FoxO",
+     "accept": [
+      "FOXO",
+      "forkhead box O"
+     ],
+     "function": "Transcription factor that moves to the nucleus on catabolic cues",
+     "x": 260,
+     "y": 148,
+     "lx": 330,
+     "ly": 120
+    },
+    {
+     "name": "PGC-1α",
+     "accept": [
+      "PGC1a",
+      "PGC-1a",
+      "PGC1alpha",
+      "Pgc1α1",
+      "PGC-1 alpha"
+     ],
+     "function": "Master regulator of mitochondrial biogenesis",
+     "x": 515,
+     "y": 266,
+     "lx": 560,
+     "ly": 210
+    },
+    {
+     "name": "AMPK",
+     "accept": [
+      "AMP-activated protein kinase",
+      "AMP kinase"
+     ],
+     "function": "Energy-stress sensor; strongly engaged by endurance work",
+     "x": 665,
+     "y": 158,
+     "lx": 740,
+     "ly": 158
+    },
+    {
+     "name": "E3 ligase",
+     "accept": [
+      "E3 ligases",
+      "E3 ubiquitin ligase"
+     ],
+     "function": "Enzyme that tags proteins destined for degradation",
+     "x": 240,
+     "y": 420,
+     "lx": 200,
+     "ly": 470
+    },
+    {
+     "name": "Ubiquitin",
+     "accept": [
+      "ubiquitin chain"
+     ],
+     "function": "Small protein tag that delivers proteins for breakdown",
+     "x": 312,
+     "y": 412,
+     "lx": 330,
+     "ly": 370
+    },
+    {
+     "name": "Proteasome",
+     "accept": [
+      "26S proteasome",
+      "cytosolic proteasome"
+     ],
+     "function": "Cytosolic complex that degrades tagged proteins",
+     "x": 424,
+     "y": 440
+    },
+    {
+     "name": "Lysosome",
+     "accept": [
+      "autophagy-lysosome pathway",
+      "autolysosome",
+      "autophagy"
+     ],
+     "function": "Degrades mitochondria and aggregates; excess drives wasting",
+     "x": 572,
+     "y": 438,
+     "lx": 530,
+     "ly": 472
+    }
+   ]
+  }
+ ]
+}

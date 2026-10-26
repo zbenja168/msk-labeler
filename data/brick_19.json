@@ -1,0 +1,345 @@
+{
+ "brick": 19,
+ "title": "Functional Anatomy of the Forearm & Hand",
+ "diagrams": [
+  {
+   "title": "Right wrist cross-section: carpal tunnel and Guyon's canal (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M90 300 Q100 170 400 160 Q700 170 710 300 Q700 460 400 470 Q100 460 90 300 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><ellipse cx=\"205\" cy=\"330\" rx=\"52\" ry=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"300\" cy=\"385\" rx=\"52\" ry=\"38\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"408\" cy=\"400\" rx=\"56\" ry=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"515\" cy=\"380\" rx=\"52\" ry=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M548 350 Q600 300 588 262 Q570 252 560 270 Q552 300 520 340 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M200 292 Q400 215 584 266\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M200 292 Q400 215 584 266\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"11\" stroke-linecap=\"round\"/><circle cx=\"168\" cy=\"268\" r=\"15\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><path d=\"M148 250 Q168 236 190 252\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/><circle cx=\"318\" cy=\"272\" r=\"17\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"3\"/><circle cx=\"372\" cy=\"272\" r=\"15\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><circle cx=\"410\" cy=\"268\" r=\"15\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><circle cx=\"448\" cy=\"272\" r=\"15\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><circle cx=\"485\" cy=\"282\" r=\"15\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><circle cx=\"365\" cy=\"326\" r=\"15\" fill=\"#e7dcc4\" stroke=\"#78716c\" stroke-width=\"3\"/><circle cx=\"405\" cy=\"333\" r=\"15\" fill=\"#e7dcc4\" stroke=\"#78716c\" stroke-width=\"3\"/><circle cx=\"445\" cy=\"330\" r=\"15\" fill=\"#e7dcc4\" stroke=\"#78716c\" stroke-width=\"3\"/><circle cx=\"485\" cy=\"322\" r=\"15\" fill=\"#e7dcc4\" stroke=\"#78716c\" stroke-width=\"3\"/><circle cx=\"268\" cy=\"318\" r=\"16\" fill=\"#fff7e6\" stroke=\"#a8a29e\" stroke-width=\"3\"/><path d=\"M548 228 Q600 196 650 232\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/><circle cx=\"580\" cy=\"234\" r=\"12\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"2\"/><circle cx=\"616\" cy=\"240\" r=\"14\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"3\"/><text x=\"400\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Palmar \u2191</text><text x=\"20\" y=\"470\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Lateral (thumb side)</text><text x=\"780\" y=\"470\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"end\">Medial</text>",
+   "labels": [
+    {
+     "name": "Flexor retinaculum",
+     "accept": [
+      "transverse carpal ligament"
+     ],
+     "function": "Fibrous roof that holds the long tendons close to the wrist",
+     "x": 455,
+     "y": 232,
+     "lx": 470,
+     "ly": 110
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Compressed here: numb lateral 3\u00bd digits, weak thumb opposition",
+     "x": 318,
+     "y": 272,
+     "lx": 300,
+     "ly": 110
+    },
+    {
+     "name": "Flexor digitorum superficialis tendons",
+     "accept": [
+      "flexor digitorum superficialis",
+      "FDS",
+      "FDS tendons"
+     ],
+     "function": "Superficial row of four; bend the PIP joints of digits 2-5",
+     "x": 410,
+     "y": 268,
+     "lx": 380,
+     "ly": 150
+    },
+    {
+     "name": "Flexor digitorum profundus tendons",
+     "accept": [
+      "flexor digitorum profundus",
+      "FDP",
+      "FDP tendons"
+     ],
+     "function": "Deep row of four; bend the DIP joints of digits 2-5",
+     "x": 445,
+     "y": 330,
+     "lx": 560,
+     "ly": 450
+    },
+    {
+     "name": "Flexor pollicis longus tendon",
+     "accept": [
+      "flexor pollicis longus",
+      "FPL"
+     ],
+     "function": "Single thumb tendon in the tunnel; bends the distal thumb phalanx",
+     "x": 268,
+     "y": 318,
+     "lx": 140,
+     "ly": 380
+    },
+    {
+     "name": "Flexor carpi radialis tendon",
+     "accept": [
+      "flexor carpi radialis",
+      "FCR"
+     ],
+     "function": "Wrist tendon in its own sheath, NOT inside the tunnel",
+     "x": 168,
+     "y": 268,
+     "lx": 70,
+     "ly": 210
+    },
+    {
+     "name": "Ulnar artery",
+     "accept": [
+      "ulnar a"
+     ],
+     "function": "Vessel entering the hand superficial to the roof",
+     "x": 580,
+     "y": 234,
+     "lx": 600,
+     "ly": 130
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Passes in Guyon's canal; supplies most intrinsic hand muscles",
+     "x": 616,
+     "y": 240,
+     "lx": 710,
+     "ly": 170
+    },
+    {
+     "name": "Carpal bones",
+     "accept": [
+      "carpals",
+      "carpal bone"
+     ],
+     "function": "Bony floor and walls of the tunnel",
+     "x": 408,
+     "y": 405,
+     "lx": 408,
+     "ly": 450
+    }
+   ]
+  },
+  {
+   "title": "Bones and joints of the forearm, wrist and hand (schematic)",
+   "viewBox": "0 0 640 720",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"640\" height=\"720\" fill=\"#f8f5ee\"/><path d=\"M222 715 L272 715 L280 600 L300 555 L178 548 L196 600 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M330 715 L370 715 L366 612 Q392 590 380 566 Q356 554 334 572 Q326 596 332 612 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"210\" cy=\"512\" rx=\"32\" ry=\"20\" transform=\"rotate(-25 210 512)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"268\" cy=\"508\" rx=\"26\" ry=\"22\" transform=\"rotate(0 268 508)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"322\" cy=\"512\" rx=\"24\" ry=\"20\" transform=\"rotate(0 322 512)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"356\" cy=\"494\" rx=\"13\" ry=\"13\" transform=\"rotate(0 356 494)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"178\" cy=\"458\" rx=\"24\" ry=\"20\" transform=\"rotate(0 178 458)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"226\" cy=\"452\" rx=\"20\" ry=\"18\" transform=\"rotate(0 226 452)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"276\" cy=\"450\" rx=\"26\" ry=\"24\" transform=\"rotate(0 276 450)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"330\" cy=\"456\" rx=\"28\" ry=\"24\" transform=\"rotate(0 330 456)\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"160\" y1=\"420\" x2=\"112\" y2=\"352\" stroke=\"#7c6a4f\" stroke-width=\"23\" stroke-linecap=\"round\"/><line x1=\"160\" y1=\"420\" x2=\"112\" y2=\"352\" stroke=\"#e8dcc4\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"230\" y1=\"425\" x2=\"222\" y2=\"300\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"230\" y1=\"425\" x2=\"222\" y2=\"300\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"278\" y1=\"420\" x2=\"280\" y2=\"290\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"278\" y1=\"420\" x2=\"280\" y2=\"290\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"326\" y1=\"425\" x2=\"336\" y2=\"300\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"326\" y1=\"425\" x2=\"336\" y2=\"300\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"362\" y1=\"438\" x2=\"388\" y2=\"322\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"362\" y1=\"438\" x2=\"388\" y2=\"322\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"102\" y1=\"336\" x2=\"78\" y2=\"282\" stroke=\"#7c6a4f\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"102\" y1=\"336\" x2=\"78\" y2=\"282\" stroke=\"#e8dcc4\" stroke-width=\"15\" stroke-linecap=\"round\"/><line x1=\"72\" y1=\"266\" x2=\"60\" y2=\"236\" stroke=\"#7c6a4f\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"72\" y1=\"266\" x2=\"60\" y2=\"236\" stroke=\"#e8dcc4\" stroke-width=\"13\" stroke-linecap=\"round\"/><line x1=\"221\" y1=\"284\" x2=\"218\" y2=\"218\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"221\" y1=\"284\" x2=\"218\" y2=\"218\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"218\" y1=\"204\" x2=\"216\" y2=\"168\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"218\" y1=\"204\" x2=\"216\" y2=\"168\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\"/><line x1=\"216\" y1=\"154\" x2=\"215\" y2=\"128\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"216\" y1=\"154\" x2=\"215\" y2=\"128\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\"/><line x1=\"281\" y1=\"273\" x2=\"282\" y2=\"200\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"281\" y1=\"273\" x2=\"282\" y2=\"200\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"282\" y1=\"186\" x2=\"283\" y2=\"146\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"282\" y1=\"186\" x2=\"283\" y2=\"146\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\"/><line x1=\"283\" y1=\"132\" x2=\"284\" y2=\"104\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"283\" y1=\"132\" x2=\"284\" y2=\"104\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\"/><line x1=\"338\" y1=\"284\" x2=\"342\" y2=\"216\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"338\" y1=\"284\" x2=\"342\" y2=\"216\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"342\" y1=\"202\" x2=\"344\" y2=\"166\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"342\" y1=\"202\" x2=\"344\" y2=\"166\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\"/><line x1=\"344\" y1=\"152\" x2=\"346\" y2=\"126\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"344\" y1=\"152\" x2=\"346\" y2=\"126\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\"/><line x1=\"391\" y1=\"306\" x2=\"398\" y2=\"254\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"391\" y1=\"306\" x2=\"398\" y2=\"254\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"398\" y1=\"240\" x2=\"402\" y2=\"214\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"398\" y1=\"240\" x2=\"402\" y2=\"214\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\"/><line x1=\"402\" y1=\"200\" x2=\"404\" y2=\"182\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"402\" y1=\"200\" x2=\"404\" y2=\"182\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\"/><text x=\"20\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\" text-anchor=\"start\">Right hand, palmar view</text><text x=\"20\" y=\"700\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Lateral</text><text x=\"620\" y=\"700\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"end\">Medial</text>",
+   "labels": [
+    {
+     "name": "Radius",
+     "accept": [],
+     "function": "Bone that turns over its partner to rotate the palm; Colles site",
+     "x": 248,
+     "y": 660,
+     "lx": 140,
+     "ly": 640
+    },
+    {
+     "name": "Ulna",
+     "accept": [],
+     "function": "Relatively stationary forearm bone: the axis of rotation",
+     "x": 350,
+     "y": 670,
+     "lx": 450,
+     "ly": 660
+    },
+    {
+     "name": "Distal radioulnar joint",
+     "accept": [
+      "DRUJ",
+      "distal radio-ulnar joint"
+     ],
+     "function": "Distal pivot of pronation and supination",
+     "x": 318,
+     "y": 566,
+     "lx": 450,
+     "ly": 590
+    },
+    {
+     "name": "Radiocarpal joint",
+     "accept": [
+      "wrist joint",
+      "radiocarpal"
+     ],
+     "function": "Condyloid joint: flex/extend, radial/ulnar deviation, circumduction",
+     "x": 240,
+     "y": 537,
+     "lx": 110,
+     "ly": 560
+    },
+    {
+     "name": "Scaphoid",
+     "accept": [
+      "scaphoid bone"
+     ],
+     "function": "Snuffbox-tender after FOOSH; poor proximal supply risks AVN",
+     "x": 206,
+     "y": 512,
+     "lx": 100,
+     "ly": 490
+    },
+    {
+     "name": "Trapezium",
+     "accept": [
+      "trapezium bone"
+     ],
+     "function": "Distal-row carpal bearing the thumb's metacarpal",
+     "x": 176,
+     "y": 460,
+     "lx": 90,
+     "ly": 430
+    },
+    {
+     "name": "First carpometacarpal joint",
+     "accept": [
+      "thumb CMC joint",
+      "first CMC joint",
+      "CMC joint of thumb",
+      "1st CMC"
+     ],
+     "function": "Saddle joint enabling opposition; common osteoarthritis site",
+     "x": 166,
+     "y": 432,
+     "lx": 70,
+     "ly": 380
+    },
+    {
+     "name": "Metacarpophalangeal joint",
+     "accept": [
+      "MCP joint",
+      "MCP",
+      "metacarpophalangeal"
+     ],
+     "function": "Knuckle joint joining a metacarpal to a proximal phalanx",
+     "x": 336,
+     "y": 292,
+     "lx": 480,
+     "ly": 300
+    },
+    {
+     "name": "Proximal interphalangeal joint",
+     "accept": [
+      "PIP joint",
+      "PIP"
+     ],
+     "function": "Middle finger-joint bent by the superficial long flexor",
+     "x": 342,
+     "y": 203,
+     "lx": 480,
+     "ly": 220
+    },
+    {
+     "name": "Distal interphalangeal joint",
+     "accept": [
+      "DIP joint",
+      "DIP"
+     ],
+     "function": "Fingertip joint bent only by the deep long flexor",
+     "x": 345,
+     "y": 153,
+     "lx": 480,
+     "ly": 140
+    }
+   ]
+  },
+  {
+   "title": "Intrinsic muscles and nerves of the palm (schematic)",
+   "viewBox": "0 0 640 700",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"640\" height=\"700\" fill=\"#f8f5ee\"/><path d=\"M190 700 L190 560 Q150 520 120 470 L70 380 Q50 340 70 320 Q92 304 112 330 L170 410 L190 300 L188 140 Q188 112 212 112 Q236 112 238 140 L248 270 L256 100 Q258 72 282 72 Q306 72 308 100 L316 270 L326 120 Q330 92 352 94 Q374 98 372 126 L370 290 L392 170 Q398 148 418 152 Q438 158 432 182 L420 380 Q414 470 400 560 L400 700 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><path d=\"M262 590 L213 300\" stroke=\"#d6cfc0\" stroke-width=\"9\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M282 590 L282 270\" stroke=\"#d6cfc0\" stroke-width=\"9\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M304 590 L349 290\" stroke=\"#d6cfc0\" stroke-width=\"9\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M330 590 L410 320\" stroke=\"#d6cfc0\" stroke-width=\"9\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M238 470 L204 330\" stroke=\"#9a3412\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M238 470 L204 330\" stroke=\"#f0a58f\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M274 470 L270 312\" stroke=\"#9a3412\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M274 470 L270 312\" stroke=\"#f0a58f\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M300 470 L334 322\" stroke=\"#9a3412\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M300 470 L334 322\" stroke=\"#f0a58f\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M324 470 L392 352\" stroke=\"#9a3412\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M324 470 L392 352\" stroke=\"#f0a58f\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"244\" cy=\"380\" rx=\"10\" ry=\"34\" fill=\"#b45309\" stroke=\"#78350f\" stroke-width=\"2\"/><ellipse cx=\"298\" cy=\"382\" rx=\"10\" ry=\"34\" fill=\"#b45309\" stroke=\"#78350f\" stroke-width=\"2\"/><ellipse cx=\"352\" cy=\"390\" rx=\"10\" ry=\"34\" fill=\"#b45309\" stroke=\"#78350f\" stroke-width=\"2\"/><path d=\"M290 460 L292 395 L180 418 L168 440 Z\" fill=\"#c2553b\" stroke=\"#7c2d12\" stroke-width=\"2.5\"/><path d=\"M200 560 Q140 520 116 450 Q110 418 148 430 Q190 470 212 520 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M352 560 Q408 540 414 440 Q414 400 398 402 Q372 430 360 480 Q350 520 352 560 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><rect x=\"200\" y=\"560\" width=\"160\" height=\"26\" rx=\"8\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><path d=\"M262 700 L262 545\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M262 545 L232 460 L216 330 M262 545 L274 330\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M248 552 Q215 556 192 520\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M372 700 L372 548\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M372 548 L382 515\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M372 548 Q330 470 296 440\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"6 4\"/><text x=\"20\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\" text-anchor=\"start\">Right hand, palmar view</text><text x=\"20\" y=\"690\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Lateral</text><text x=\"620\" y=\"690\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"end\">Medial</text>",
+   "labels": [
+    {
+     "name": "Thenar muscles",
+     "accept": [
+      "thenar eminence",
+      "thenar group",
+      "thenar"
+     ],
+     "function": "Oppose and abduct the thumb; waste in chronic carpal tunnel compression",
+     "x": 160,
+     "y": 480,
+     "lx": 60,
+     "ly": 520
+    },
+    {
+     "name": "Hypothenar muscles",
+     "accept": [
+      "hypothenar eminence",
+      "hypothenar group",
+      "hypothenar"
+     ],
+     "function": "Move the little finger and help cup the hand",
+     "x": 398,
+     "y": 462,
+     "lx": 500,
+     "ly": 480
+    },
+    {
+     "name": "Adductor pollicis",
+     "accept": [
+      "adductor pollicis muscle"
+     ],
+     "function": "Pulls the thumb toward the palm; ulnar-supplied, not thenar",
+     "x": 230,
+     "y": 425,
+     "lx": 60,
+     "ly": 420
+    },
+    {
+     "name": "Lumbricals",
+     "accept": [
+      "lumbrical",
+      "lumbrical muscles"
+     ],
+     "function": "Bend MCP and straighten IP joints via the extensor hood",
+     "x": 330,
+     "y": 338,
+     "lx": 500,
+     "ly": 300
+    },
+    {
+     "name": "Interossei",
+     "accept": [
+      "interosseous muscles",
+      "interosseous",
+      "dorsal and palmar interossei"
+     ],
+     "function": "Spread (DAB) and close (PAD) the digits about the 3rd digit",
+     "x": 298,
+     "y": 382,
+     "lx": 500,
+     "ly": 380
+    },
+    {
+     "name": "Recurrent branch of median nerve",
+     "accept": [
+      "recurrent branch",
+      "thenar branch",
+      "motor branch of median nerve"
+     ],
+     "function": "Superficial motor twig: cut it and opposition fails, skin spared",
+     "x": 206,
+     "y": 540,
+     "lx": 90,
+     "ly": 600
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Skin of lateral palm and lateral 3\u00bd digits (palmar side)",
+     "x": 262,
+     "y": 640,
+     "lx": 180,
+     "ly": 650
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Supplies most intrinsics; injury gives claw of digits 4-5",
+     "x": 372,
+     "y": 640,
+     "lx": 470,
+     "ly": 640
+    }
+   ]
+  }
+ ]
+}

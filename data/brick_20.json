@@ -1,0 +1,330 @@
+{
+ "brick": 20,
+ "title": "Upper Extremity Injuries",
+ "diagrams": [
+  {
+   "title": "Upper limb nerves and arteries at common injury sites (schematic)",
+   "viewBox": "0 0 900 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"560\" fill=\"#f8f5ee\"/><rect x=\"0\" y=\"120\" width=\"130\" height=\"440\" fill=\"#f1d3b3\"/><path d=\"M0 170 Q70 152 130 164\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 230 Q70 212 130 224\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 290 Q70 272 130 284\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 350 Q70 332 130 344\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 410 Q70 392 130 404\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 470 Q70 452 130 464\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M0 530 Q70 512 130 524\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"7\"/><path d=\"M30 200 L118 178 L118 206 L30 214 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M30 260 L118 238 L118 266 L30 274 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M30 320 L118 298 L118 326 L30 334 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M30 380 L118 358 L118 386 L30 394 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M30 440 L118 418 L118 446 L30 454 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M150 70 L205 64 Q212 80 222 66 L300 70 L280 210 L170 230 Z\" fill=\"#efe6d3\" stroke=\"#7c6a4f\" stroke-width=\"2.5\" stroke-dasharray=\"7 5\"/><path d=\"M230 250 L560 250 L574 222 L598 226 L592 262 L592 300 L612 326 L588 336 L562 292 L230 292 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"210\" cy=\"271\" r=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"618\" y1=\"230\" x2=\"850\" y2=\"230\" stroke=\"#7c6a4f\" stroke-width=\"23\" stroke-linecap=\"round\"/><line x1=\"618\" y1=\"230\" x2=\"850\" y2=\"230\" stroke=\"#e8dcc4\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"620\" y1=\"318\" x2=\"850\" y2=\"318\" stroke=\"#7c6a4f\" stroke-width=\"23\" stroke-linecap=\"round\"/><line x1=\"620\" y1=\"318\" x2=\"850\" y2=\"318\" stroke=\"#e8dcc4\" stroke-width=\"18\" stroke-linecap=\"round\"/><path d=\"M40 378 Q140 374 240 370\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M240 370 L560 372 Q610 368 640 300\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M140 302 Q218 322 236 300 Q250 276 238 246 Q238 222 272 212\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M140 280 Q220 170 320 156 L600 150\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M140 322 Q250 345 330 300\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M330 300 L430 238\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"round\" stroke-dasharray=\"10 7\"/><path d=\"M430 238 Q480 210 580 205 L860 196\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M600 204 Q632 210 645 256 L830 260\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"round\" stroke-dasharray=\"10 7\"/><path d=\"M140 345 L560 345 Q600 342 618 285 L860 285\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M140 400 Q330 410 540 400 Q590 392 598 350 Q606 342 640 352 L860 354\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M150 20 Q190 40 212 66 L240 120\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M70 120 L80 540\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"450\" y=\"540\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"500\" text-anchor=\"middle\">Right upper limb abducted, anterior view (dashed = deep/posterior)</text><text x=\"890\" y=\"140\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"end\">Lateral</text><text x=\"890\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"end\">Medial</text>",
+   "labels": [
+    {
+     "name": "Long thoracic nerve",
+     "accept": [
+      "long thoracic"
+     ],
+     "function": "Hurt in axillary surgery; wall push shows a winged scapula",
+     "x": 76,
+     "y": 300,
+     "lx": 30,
+     "ly": 90
+    },
+    {
+     "name": "Suprascapular nerve",
+     "accept": [
+      "suprascapular"
+     ],
+     "function": "Notch entrapment: weak abduction start and lateral rotation, no numbness",
+     "x": 222,
+     "y": 86,
+     "lx": 330,
+     "ly": 30
+    },
+    {
+     "name": "Axillary nerve",
+     "accept": [
+      "axillary"
+     ],
+     "function": "Surgical neck/dislocation injury: weak abduction past 15\u00b0, badge numbness",
+     "x": 242,
+     "y": 262,
+     "lx": 320,
+     "ly": 210
+    },
+    {
+     "name": "Musculocutaneous nerve",
+     "accept": [
+      "musculocutaneous"
+     ],
+     "function": "Weak elbow flexion and supination; numb lateral forearm",
+     "x": 450,
+     "y": 152,
+     "lx": 450,
+     "ly": 90
+    },
+    {
+     "name": "Radial nerve",
+     "accept": [
+      "radial"
+     ],
+     "function": "Midshaft fracture in its groove: wrist drop, numb dorsal 1st web space",
+     "x": 380,
+     "y": 269,
+     "lx": 400,
+     "ly": 200
+    },
+    {
+     "name": "Posterior interosseous nerve",
+     "accept": [
+      "PIN",
+      "posterior interosseous",
+      "deep branch of radial nerve"
+     ],
+     "function": "Weak finger and thumb extension with no skin sensory loss",
+     "x": 720,
+     "y": 259,
+     "lx": 700,
+     "ly": 120
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Lost thumb opposition; numb palmar lateral 3\u00bd digits",
+     "x": 380,
+     "y": 345,
+     "lx": 330,
+     "ly": 470
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Cubital tunnel behind medial epicondyle: weak finger spread/closure",
+     "x": 740,
+     "y": 354,
+     "lx": 760,
+     "ly": 440
+    },
+    {
+     "name": "Brachial artery",
+     "accept": [
+      "brachial"
+     ],
+     "function": "Torn by supracondylar fracture: cool, pale, pulseless hand",
+     "x": 480,
+     "y": 371,
+     "lx": 520,
+     "ly": 480
+    },
+    {
+     "name": "Axillary artery",
+     "accept": [
+      "axillary a"
+     ],
+     "function": "Can be torn by anterior shoulder dislocation",
+     "x": 160,
+     "y": 376,
+     "lx": 200,
+     "ly": 470
+    }
+   ]
+  },
+  {
+   "title": "Shoulder girdle and proximal humerus injury sites (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><path d=\"M470 150 L520 165 L520 300 L430 480 L330 440 L330 210 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M455 190 Q440 150 420 150 Q400 152 404 168 Q420 168 432 196 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M508 98 L600 104 Q625 112 615 132 L520 140 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M120 112 Q200 90 300 118 Q390 140 500 100 L506 122 Q392 162 296 140 Q200 114 124 138 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"490\" y=\"92\" width=\"34\" height=\"14\" rx=\"4\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><path d=\"M412 158 L398 140 M426 158 L436 132\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M412 158 L398 140 M426 158 L436 132\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M566 262 L616 262 L626 510 L566 510 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"586\" cy=\"235\" r=\"58\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M538 268 Q520 235 538 200\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"6\"/><path d=\"M526 270 Q512 235 526 198\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"6\"/><path d=\"M522 176 Q560 160 596 190 L612 300 Q616 340 640 350\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M522 176 Q560 160 596 190 L612 300 Q616 340 640 350\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M628 340 Q690 360 690 430 Q688 480 650 500 L640 500 Q660 430 628 340 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><text x=\"20\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\" text-anchor=\"start\">Right shoulder, anterior view</text><text x=\"20\" y=\"500\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">\u2190 Medial</text><text x=\"780\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"end\">Lateral \u2192</text>",
+   "labels": [
+    {
+     "name": "Clavicle",
+     "accept": [
+      "collarbone"
+     ],
+     "function": "Most commonly fractured bone, usually in its middle third",
+     "x": 300,
+     "y": 128,
+     "lx": 300,
+     "ly": 60
+    },
+    {
+     "name": "Acromioclavicular ligament",
+     "accept": [
+      "AC ligament",
+      "acromioclavicular"
+     ],
+     "function": "Torn alone by a direct blow to the lateral shoulder",
+     "x": 507,
+     "y": 99,
+     "lx": 470,
+     "ly": 40
+    },
+    {
+     "name": "Coracoclavicular ligaments",
+     "accept": [
+      "coracoclavicular ligament",
+      "CC ligaments",
+      "CC ligament"
+     ],
+     "function": "Also torn in severe separations, giving a visible step-off",
+     "x": 430,
+     "y": 145,
+     "lx": 370,
+     "ly": 200
+    },
+    {
+     "name": "Glenohumeral joint",
+     "accept": [
+      "shoulder joint",
+      "glenohumeral"
+     ],
+     "function": "Most dislocated major joint; over 90% go anterior (abduction + ER)",
+     "x": 530,
+     "y": 235,
+     "lx": 430,
+     "ly": 260
+    },
+    {
+     "name": "Surgical neck of humerus",
+     "accept": [
+      "surgical neck"
+     ],
+     "function": "Low-energy fracture in older adults that endangers the deltoid's nerve",
+     "x": 595,
+     "y": 300,
+     "lx": 720,
+     "ly": 270
+    },
+    {
+     "name": "Midshaft of humerus",
+     "accept": [
+      "humeral shaft",
+      "midshaft humerus",
+      "humerus shaft"
+     ],
+     "function": "Higher-energy fracture; ~10% injure the nerve causing wrist drop",
+     "x": 596,
+     "y": 430,
+     "lx": 500,
+     "ly": 440
+    },
+    {
+     "name": "Long head of biceps tendon",
+     "accept": [
+      "long head of biceps",
+      "proximal biceps tendon"
+     ],
+     "function": "Most common tendon rupture of this muscle (Popeye bulge)",
+     "x": 606,
+     "y": 240,
+     "lx": 720,
+     "ly": 190
+    }
+   ]
+  },
+  {
+   "title": "Elbow, wrist and finger injury sites (schematic)",
+   "viewBox": "0 0 900 540",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"540\" fill=\"#f8f5ee\"/><path d=\"M120 40 L180 40 L186 190 L246 236 L238 262 L214 266 L208 290 L150 292 L150 280 L96 280 L90 262 L60 246 L72 224 L114 192 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"122\" cy=\"272\" rx=\"28\" ry=\"18\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><rect x=\"102\" y=\"300\" width=\"42\" height=\"26\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"124\" y1=\"330\" x2=\"116\" y2=\"500\" stroke=\"#7c6a4f\" stroke-width=\"27\" stroke-linecap=\"round\"/><line x1=\"124\" y1=\"330\" x2=\"116\" y2=\"500\" stroke=\"#e8dcc4\" stroke-width=\"22\" stroke-linecap=\"round\"/><path d=\"M156 296 L212 296 L204 340 L196 500 L168 500 L166 340 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"96\" y=\"296\" width=\"54\" height=\"34\" rx=\"12\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"7\"/><path d=\"M238 258 L206 330\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"13\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M238 258 L206 330\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M126 40 L176 40 Q180 120 158 175 L146 175 Q124 120 126 40 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M152 175 Q150 240 140 290 Q136 330 128 356\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"13\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M152 175 Q150 240 140 290 Q136 330 128 356\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M84 206 L232 206\" stroke=\"#7c6a4f\" stroke-width=\"2\" stroke-dasharray=\"5 4\" fill=\"none\"/><text x=\"150\" y=\"525\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"500\" text-anchor=\"middle\">Elbow, anterior (right)</text><text x=\"20\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Lateral</text><text x=\"280\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"end\">Medial</text><line x1=\"300\" y1=\"10\" x2=\"300\" y2=\"530\" stroke=\"#d6cbb5\" stroke-width=\"2\"/><path d=\"M340 495 L410 495 L416 330 L440 300 L330 300 L334 340 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M460 495 L500 495 L496 330 Q512 316 500 304 Q478 298 462 312 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M334 372 L416 360\" stroke=\"#7f1d1d\" stroke-width=\"3\" fill=\"none\" stroke-dasharray=\"8 4\"/><path d=\"M346 290 Q330 262 352 240 Q370 228 382 246 L392 266 Q396 286 376 296 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M352 268 L392 262\" stroke=\"#7f1d1d\" stroke-width=\"2.5\" fill=\"none\"/><ellipse cx=\"420\" cy=\"274\" rx=\"24\" ry=\"22\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"470\" cy=\"280\" rx=\"22\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"360\" cy=\"200\" rx=\"22\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"408\" cy=\"196\" rx=\"20\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"456\" cy=\"196\" rx=\"24\" ry=\"24\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"505\" cy=\"206\" rx=\"24\" ry=\"22\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"345\" y1=\"170\" x2=\"320\" y2=\"60\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"345\" y1=\"170\" x2=\"320\" y2=\"60\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"408\" y1=\"170\" x2=\"404\" y2=\"60\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"408\" y1=\"170\" x2=\"404\" y2=\"60\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"456\" y1=\"170\" x2=\"460\" y2=\"60\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"456\" y1=\"170\" x2=\"460\" y2=\"60\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><line x1=\"500\" y1=\"170\" x2=\"520\" y2=\"60\" stroke=\"#7c6a4f\" stroke-width=\"19\" stroke-linecap=\"round\"/><line x1=\"500\" y1=\"170\" x2=\"520\" y2=\"60\" stroke=\"#e8dcc4\" stroke-width=\"14\" stroke-linecap=\"round\"/><text x=\"450\" y=\"525\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"500\" text-anchor=\"middle\">Wrist, palmar (right)</text><text x=\"318\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Lateral</text><line x1=\"600\" y1=\"10\" x2=\"600\" y2=\"530\" stroke=\"#d6cbb5\" stroke-width=\"2\"/><path d=\"M615 220 L840 232 Q880 240 880 272 Q878 302 840 306 L615 322 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><line x1=\"625\" y1=\"272\" x2=\"690\" y2=\"272\" stroke=\"#7c6a4f\" stroke-width=\"39\" stroke-linecap=\"round\"/><line x1=\"625\" y1=\"272\" x2=\"690\" y2=\"272\" stroke=\"#e8dcc4\" stroke-width=\"34\" stroke-linecap=\"round\"/><line x1=\"712\" y1=\"272\" x2=\"770\" y2=\"272\" stroke=\"#7c6a4f\" stroke-width=\"29\" stroke-linecap=\"round\"/><line x1=\"712\" y1=\"272\" x2=\"770\" y2=\"272\" stroke=\"#e8dcc4\" stroke-width=\"24\" stroke-linecap=\"round\"/><line x1=\"788\" y1=\"273\" x2=\"825\" y2=\"273\" stroke=\"#7c6a4f\" stroke-width=\"25\" stroke-linecap=\"round\"/><line x1=\"788\" y1=\"273\" x2=\"825\" y2=\"273\" stroke=\"#e8dcc4\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"842\" y1=\"274\" x2=\"862\" y2=\"274\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"842\" y1=\"274\" x2=\"862\" y2=\"274\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M615 244 L760 252\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M615 244 L760 252\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M800 255 L848 258\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M800 255 L848 258\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M760 252 L800 255\" stroke=\"#a8a29e\" stroke-width=\"5\" fill=\"none\"/><path d=\"M615 302 L852 293\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M615 302 L852 293\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"750\" y=\"525\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"500\" text-anchor=\"middle\">Finger, side view</text><text x=\"615\" y=\"210\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Dorsal</text><text x=\"615\" y=\"350\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Palmar</text><text x=\"880\" y=\"210\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"end\">Distal \u2192</text>",
+   "labels": [
+    {
+     "name": "Supracondylar humerus",
+     "accept": [
+      "supracondylar region",
+      "supracondylar",
+      "distal humerus"
+     ],
+     "function": "Pediatric FOOSH fracture; risks brachial artery and compartment syndrome",
+     "x": 190,
+     "y": 206,
+     "lx": 60,
+     "ly": 150
+    },
+    {
+     "name": "Capitulum",
+     "accept": [
+      "capitellum"
+     ],
+     "function": "A line through the radial neck should always intersect it",
+     "x": 112,
+     "y": 272,
+     "lx": 40,
+     "ly": 300
+    },
+    {
+     "name": "Annular ligament",
+     "accept": [
+      "annular"
+     ],
+     "function": "Ring a child's radial head slips under with arm traction (nursemaid's)",
+     "x": 98,
+     "y": 320,
+     "lx": 50,
+     "ly": 380
+    },
+    {
+     "name": "Ulnar collateral ligament",
+     "accept": [
+      "UCL",
+      "medial collateral ligament of the elbow"
+     ],
+     "function": "Resists valgus stress; torn in throwing athletes",
+     "x": 222,
+     "y": 294,
+     "lx": 270,
+     "ly": 330
+    },
+    {
+     "name": "Distal biceps tendon",
+     "accept": [
+      "biceps tendon",
+      "distal biceps"
+     ],
+     "function": "Rupture chiefly weakens supination; muscle bunches up",
+     "x": 143,
+     "y": 262,
+     "lx": 250,
+     "ly": 430
+    },
+    {
+     "name": "Distal radius",
+     "accept": [
+      "distal end of radius",
+      "radius"
+     ],
+     "function": "Most common FOOSH fracture; dorsal tilt gives a dinner-fork wrist",
+     "x": 376,
+     "y": 400,
+     "lx": 380,
+     "ly": 470
+    },
+    {
+     "name": "Scaphoid",
+     "accept": [
+      "scaphoid bone"
+     ],
+     "function": "Snuffbox-tender carpal; waist break risks proximal pole AVN",
+     "x": 368,
+     "y": 265,
+     "lx": 330,
+     "ly": 120
+    },
+    {
+     "name": "Terminal extensor tendon",
+     "accept": [
+      "extensor tendon",
+      "terminal extensor"
+     ],
+     "function": "Ball strikes the fingertip: DIP droops and can't straighten (mallet)",
+     "x": 830,
+     "y": 257,
+     "lx": 820,
+     "ly": 160
+    },
+    {
+     "name": "Flexor digitorum profundus tendon",
+     "accept": [
+      "FDP",
+      "flexor digitorum profundus",
+      "FDP tendon"
+     ],
+     "function": "Avulsed grabbing a jersey: DIP cannot actively bend",
+     "x": 800,
+     "y": 296,
+     "lx": 800,
+     "ly": 400
+    }
+   ]
+  }
+ ]
+}

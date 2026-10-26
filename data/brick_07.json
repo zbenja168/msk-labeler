@@ -1,0 +1,350 @@
+{
+ "brick": 7,
+ "title": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+ "diagrams": [
+  {
+   "title": "Collagen synthesis steps (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M30 40 L470 40 Q490 40 490 60 L490 440 Q490 460 470 460 L30 460 Q10 460 10 440 L10 60 Q10 40 30 40 Z\" fill=\"#f1d3b3\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<ellipse cx=\"105\" cy=\"250\" rx=\"72\" ry=\"105\" fill=\"#efe3d0\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<polyline points=\"95.0,175.0 100.7,179.0 105.4,183.0 108.3,187.0 108.9,191.0 107.1,195.0 103.2,199.0 97.9,203.0 92.1,207.0 86.8,211.0 82.9,215.0 81.1,219.0 81.7,223.0 84.6,227.0 89.3,231.0 95.0,235.0 100.7,239.0 105.4,243.0 108.3,247.0 108.9,251.0 107.1,255.0 103.2,259.0 97.9,263.0 92.1,267.0 86.8,271.0 82.9,275.0 81.1,279.0 81.7,283.0 84.6,287.0 89.3,291.0 95.0,295.0 100.7,299.0 105.4,303.0 108.3,307.0 108.9,311.0 107.1,315.0 103.2,319.0 97.9,323.0 92.1,327.0\" fill=\"none\" stroke=\"#6d28d9\" stroke-width=\"3\"/>\n<polyline points=\"95.0,175.0 89.3,179.0 84.6,183.0 81.7,187.0 81.1,191.0 82.9,195.0 86.8,199.0 92.1,203.0 97.9,207.0 103.2,211.0 107.1,215.0 108.9,219.0 108.3,223.0 105.4,227.0 100.7,231.0 95.0,235.0 89.3,239.0 84.6,243.0 81.7,247.0 81.1,251.0 82.9,255.0 86.8,259.0 92.1,263.0 97.9,267.0 103.2,271.0 107.1,275.0 108.9,279.0 108.3,283.0 105.4,287.0 100.7,291.0 95.0,295.0 89.3,299.0 84.6,303.0 81.7,307.0 81.1,311.0 82.9,315.0 86.8,319.0 92.1,323.0 97.9,327.0\" fill=\"none\" stroke=\"#a78bfa\" stroke-width=\"3\"/>\n<line x1=\"88.0\" y1=\"180\" x2=\"102.0\" y2=\"180\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"81.0\" y1=\"190\" x2=\"109.0\" y2=\"190\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"88.0\" y1=\"200\" x2=\"102.0\" y2=\"200\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"102.0\" y1=\"210\" x2=\"88.0\" y2=\"210\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"109.0\" y1=\"220\" x2=\"81.0\" y2=\"220\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"102.0\" y1=\"230\" x2=\"88.0\" y2=\"230\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"88.0\" y1=\"240\" x2=\"102.0\" y2=\"240\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"81.0\" y1=\"250\" x2=\"109.0\" y2=\"250\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"88.0\" y1=\"260\" x2=\"102.0\" y2=\"260\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"102.0\" y1=\"270\" x2=\"88.0\" y2=\"270\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"109.0\" y1=\"280\" x2=\"81.0\" y2=\"280\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"102.0\" y1=\"290\" x2=\"88.0\" y2=\"290\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"88.0\" y1=\"300\" x2=\"102.0\" y2=\"300\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"81.0\" y1=\"310\" x2=\"109.0\" y2=\"310\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<line x1=\"88.0\" y1=\"320\" x2=\"102.0\" y2=\"320\" stroke=\"#c4b5fd\" stroke-width=\"1.5\"/>\n<polyline points=\"172.0,160.0 176.0,164.9 180.0,161.7 184.0,155.7 188.0,156.8 192.0,163.2 196.0,164.3 200.0,158.3 204.0,155.1 208.0,160.0 212.0,164.9 216.0,161.7 220.0,155.7 224.0,156.8 228.0,163.2 232.0,164.3\" fill=\"none\" stroke=\"#0891b2\" stroke-width=\"3\"/>\n<path d=\"M235 120 Q285 102 335 120\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M235 120 Q285 102 335 120\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<circle cx=\"243.3\" cy=\"111.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"260.0\" cy=\"107.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"276.7\" cy=\"105.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"293.3\" cy=\"105.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"310.0\" cy=\"107.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"326.7\" cy=\"111.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<path d=\"M235 145 Q285 127 335 145\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M235 145 Q285 127 335 145\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<circle cx=\"243.3\" cy=\"136.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"260.0\" cy=\"132.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"276.7\" cy=\"130.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"293.3\" cy=\"130.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"310.0\" cy=\"132.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"326.7\" cy=\"136.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<path d=\"M235 170 Q285 152 335 170\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M235 170 Q285 152 335 170\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<circle cx=\"243.3\" cy=\"161.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"260.0\" cy=\"157.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"276.7\" cy=\"155.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"293.3\" cy=\"155.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"310.0\" cy=\"157.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<circle cx=\"326.7\" cy=\"161.2\" r=\"3\" fill=\"#3b1d0a\"/>\n<polyline points=\"250.0,205.0 254.0,207.7 258.0,207.3 262.0,204.2 266.0,202.0 270.0,203.4 274.0,206.6 278.0,208.0 282.0,205.8 286.0,202.7 290.0,202.3 294.0,205.0 298.0,207.7 302.0,207.3 306.0,204.2 310.0,202.0 314.0,203.4 318.0,206.6 322.0,208.0 326.0,205.8 330.0,202.7\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"3\"/>\n<polyline points=\"250.0,216.5 254.0,216.5 258.0,213.6 262.0,211.1 266.0,212.0 270.0,215.2 274.0,217.0 278.0,215.2 282.0,212.0 286.0,211.1 290.0,213.6 294.0,216.5 298.0,216.5 302.0,213.6 306.0,211.1 310.0,212.0 314.0,215.2 318.0,217.0 322.0,215.2 326.0,212.0 330.0,211.1\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"3\"/>\n<polyline points=\"250.0,225.7 254.0,223.0 258.0,220.3 262.0,220.7 266.0,223.8 270.0,226.0 274.0,224.6 278.0,221.4 282.0,220.0 286.0,222.2 290.0,225.3 294.0,225.7 298.0,223.0 302.0,220.3 306.0,220.7 310.0,223.8 314.0,226.0 318.0,224.6 322.0,221.4 326.0,220.0 330.0,222.2\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"3\"/>\n<path d=\"M330.0 255 Q365 243 400.0 255\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M330.0 255 Q365 243 400.0 255\" fill=\"none\" stroke=\"#fde68a\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<path d=\"M325.0 271 Q365 259 405.0 271\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M325.0 271 Q365 259 405.0 271\" fill=\"none\" stroke=\"#fde68a\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<path d=\"M327.0 287 Q365 275 403.0 287\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M327.0 287 Q365 275 403.0 287\" fill=\"none\" stroke=\"#fde68a\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<path d=\"M333.0 303 Q365 291 397.0 303\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M333.0 303 Q365 291 397.0 303\" fill=\"none\" stroke=\"#fde68a\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<path d=\"M330 230 Q345 228 352 242\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/>\n<circle cx=\"430\" cy=\"360\" r=\"20\" fill=\"#fef3c7\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<polyline points=\"418.0,360.0 422.0,361.2 426.0,358.1 430.0,361.9 434.0,358.8 438.0,360.0 442.0,361.2\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/>\n<path d=\"M478 335 Q505 345 478 385\" fill=\"#fef3c7\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<polyline points=\"484.0,360.0 488.0,361.2 492.0,358.1 496.0,361.9 500.0,358.8 504.0,360.0 508.0,361.2 512.0,358.1 516.0,361.9 520.0,358.8\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n<path d=\"M405 330 Q395 300 410 280\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/>\n<polyline points=\"560.0,110.0 564.0,113.8 568.0,112.4 572.0,107.6 576.0,106.2 580.0,110.0 584.0,113.8 588.0,112.4 592.0,107.6 596.0,106.2 600.0,110.0 604.0,113.8 608.0,112.4 612.0,107.6 616.0,106.2 620.0,110.0 624.0,113.8 628.0,112.4 632.0,107.6 636.0,106.2 640.0,110.0 644.0,113.8 648.0,112.4 652.0,107.6 656.0,106.2 660.0,110.0 664.0,113.8 668.0,112.4 672.0,107.6 676.0,106.2 680.0,110.0 684.0,113.8 688.0,112.4 692.0,107.6 696.0,106.2 700.0,110.0\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2.5\"/><polyline points=\"560.0,113.5 564.0,109.1 568.0,106.0 572.0,108.4 576.0,113.0 580.0,113.5 584.0,109.1 588.0,106.0 592.0,108.4 596.0,113.0 600.0,113.5 604.0,109.1 608.0,106.0 612.0,108.4 616.0,113.0 620.0,113.5 624.0,109.1 628.0,106.0 632.0,108.4 636.0,113.0 640.0,113.5 644.0,109.1 648.0,106.0 652.0,108.4 656.0,113.0 660.0,113.5 664.0,109.1 668.0,106.0 672.0,108.4 676.0,113.0 680.0,113.5 684.0,109.1 688.0,106.0 692.0,108.4 696.0,113.0 700.0,113.5\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2.5\"/><polyline points=\"560.0,106.5 564.0,107.1 568.0,111.7 572.0,114.0 576.0,110.8 580.0,106.5 584.0,107.1 588.0,111.7 592.0,114.0 596.0,110.8 600.0,106.5 604.0,107.1 608.0,111.7 612.0,114.0 616.0,110.8 620.0,106.5 624.0,107.1 628.0,111.7 632.0,114.0 636.0,110.8 640.0,106.5 644.0,107.1 648.0,111.7 652.0,114.0 656.0,110.8 660.0,106.5 664.0,107.1 668.0,111.7 672.0,114.0 676.0,110.8 680.0,106.5 684.0,107.1 688.0,111.7 692.0,114.0 696.0,110.8 700.0,106.5\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2.5\"/>\n<circle cx=\"550\" cy=\"110\" r=\"11\" fill=\"#fcd34d\" stroke=\"#92400e\" stroke-width=\"2\"/>\n<circle cx=\"725\" cy=\"92\" r=\"11\" fill=\"#fcd34d\" stroke=\"#92400e\" stroke-width=\"2\"/>\n<line x1=\"708\" y1=\"96\" x2=\"708\" y2=\"124\" stroke=\"#3b1d0a\" stroke-width=\"2.5\" stroke-dasharray=\"4 3\"/>\n<line x1=\"564\" y1=\"96\" x2=\"564\" y2=\"124\" stroke=\"#3b1d0a\" stroke-width=\"2.5\" stroke-dasharray=\"4 3\"/>\n<path d=\"M630 140 L630 175\" stroke=\"#3b1d0a\" stroke-width=\"2.5\" marker-end=\"\"/><polygon points=\"624,172 636,172 630,182\" fill=\"#3b1d0a\"/>\n<polyline points=\"560.0,210.0 564.0,213.8 568.0,212.4 572.0,207.6 576.0,206.2 580.0,210.0 584.0,213.8 588.0,212.4 592.0,207.6 596.0,206.2 600.0,210.0 604.0,213.8 608.0,212.4 612.0,207.6 616.0,206.2 620.0,210.0 624.0,213.8 628.0,212.4 632.0,207.6 636.0,206.2 640.0,210.0 644.0,213.8 648.0,212.4\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/><polyline points=\"560.0,213.5 564.0,209.1 568.0,206.0 572.0,208.4 576.0,213.0 580.0,213.5 584.0,209.1 588.0,206.0 592.0,208.4 596.0,213.0 600.0,213.5 604.0,209.1 608.0,206.0 612.0,208.4 616.0,213.0 620.0,213.5 624.0,209.1 628.0,206.0 632.0,208.4 636.0,213.0 640.0,213.5 644.0,209.1 648.0,206.0\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2\"/><polyline points=\"560.0,206.5 564.0,207.1 568.0,211.7 572.0,214.0 576.0,210.8 580.0,206.5 584.0,207.1 588.0,211.7 592.0,214.0 596.0,210.8 600.0,206.5 604.0,207.1 608.0,211.7 612.0,214.0 616.0,210.8 620.0,206.5 624.0,207.1 628.0,211.7 632.0,214.0 636.0,210.8 640.0,206.5 644.0,207.1 648.0,211.7\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n<polyline points=\"600.0,228.0 604.0,231.8 608.0,230.4 612.0,225.6 616.0,224.2 620.0,228.0 624.0,231.8 628.0,230.4 632.0,225.6 636.0,224.2 640.0,228.0 644.0,231.8 648.0,230.4 652.0,225.6 656.0,224.2 660.0,228.0 664.0,231.8 668.0,230.4 672.0,225.6 676.0,224.2 680.0,228.0 684.0,231.8 688.0,230.4 692.0,225.6 696.0,224.2 700.0,228.0\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/><polyline points=\"600.0,231.5 604.0,227.1 608.0,224.0 612.0,226.4 616.0,231.0 620.0,231.5 624.0,227.1 628.0,224.0 632.0,226.4 636.0,231.0 640.0,231.5 644.0,227.1 648.0,224.0 652.0,226.4 656.0,231.0 660.0,231.5 664.0,227.1 668.0,224.0 672.0,226.4 676.0,231.0 680.0,231.5 684.0,227.1 688.0,224.0 692.0,226.4 696.0,231.0 700.0,231.5\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2\"/><polyline points=\"600.0,224.5 604.0,225.1 608.0,229.7 612.0,232.0 616.0,228.8 620.0,224.5 624.0,225.1 628.0,229.7 632.0,232.0 636.0,228.8 640.0,224.5 644.0,225.1 648.0,229.7 652.0,232.0 656.0,228.8 660.0,224.5 664.0,225.1 668.0,229.7 672.0,232.0 676.0,228.8 680.0,224.5 684.0,225.1 688.0,229.7 692.0,232.0 696.0,228.8 700.0,224.5\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n<polyline points=\"540.0,246.0 544.0,249.8 548.0,248.4 552.0,243.6 556.0,242.2 560.0,246.0 564.0,249.8 568.0,248.4 572.0,243.6 576.0,242.2 580.0,246.0 584.0,249.8 588.0,248.4 592.0,243.6 596.0,242.2 600.0,246.0 604.0,249.8 608.0,248.4 612.0,243.6 616.0,242.2 620.0,246.0 624.0,249.8 628.0,248.4\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/><polyline points=\"540.0,249.5 544.0,245.1 548.0,242.0 552.0,244.4 556.0,249.0 560.0,249.5 564.0,245.1 568.0,242.0 572.0,244.4 576.0,249.0 580.0,249.5 584.0,245.1 588.0,242.0 592.0,244.4 596.0,249.0 600.0,249.5 604.0,245.1 608.0,242.0 612.0,244.4 616.0,249.0 620.0,249.5 624.0,245.1 628.0,242.0\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2\"/><polyline points=\"540.0,242.5 544.0,243.1 548.0,247.7 552.0,250.0 556.0,246.8 560.0,242.5 564.0,243.1 568.0,247.7 572.0,250.0 576.0,246.8 580.0,242.5 584.0,243.1 588.0,247.7 592.0,250.0 596.0,246.8 600.0,242.5 604.0,243.1 608.0,247.7 612.0,250.0 616.0,246.8 620.0,242.5 624.0,243.1 628.0,247.7\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n<polyline points=\"650.0,246.0 654.0,249.8 658.0,248.4 662.0,243.6 666.0,242.2 670.0,246.0 674.0,249.8 678.0,248.4 682.0,243.6 686.0,242.2 690.0,246.0 694.0,249.8 698.0,248.4 702.0,243.6 706.0,242.2 710.0,246.0 714.0,249.8 718.0,248.4 722.0,243.6 726.0,242.2 730.0,246.0 734.0,249.8 738.0,248.4\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/><polyline points=\"650.0,249.5 654.0,245.1 658.0,242.0 662.0,244.4 666.0,249.0 670.0,249.5 674.0,245.1 678.0,242.0 682.0,244.4 686.0,249.0 690.0,249.5 694.0,245.1 698.0,242.0 702.0,244.4 706.0,249.0 710.0,249.5 714.0,245.1 718.0,242.0 722.0,244.4 726.0,249.0 730.0,249.5 734.0,245.1 738.0,242.0\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2\"/><polyline points=\"650.0,242.5 654.0,243.1 658.0,247.7 662.0,250.0 666.0,246.8 670.0,242.5 674.0,243.1 678.0,247.7 682.0,250.0 686.0,246.8 690.0,242.5 694.0,243.1 698.0,247.7 702.0,250.0 706.0,246.8 710.0,242.5 714.0,243.1 718.0,247.7 722.0,250.0 726.0,246.8 730.0,242.5 734.0,243.1 738.0,247.7\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n<polyline points=\"580.0,264.0 584.0,267.8 588.0,266.4 592.0,261.6 596.0,260.2 600.0,264.0 604.0,267.8 608.0,266.4 612.0,261.6 616.0,260.2 620.0,264.0 624.0,267.8 628.0,266.4 632.0,261.6 636.0,260.2 640.0,264.0 644.0,267.8 648.0,266.4 652.0,261.6 656.0,260.2 660.0,264.0 664.0,267.8 668.0,266.4 672.0,261.6 676.0,260.2 680.0,264.0 684.0,267.8 688.0,266.4\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"2\"/><polyline points=\"580.0,267.5 584.0,263.1 588.0,260.0 592.0,262.4 596.0,267.0 600.0,267.5 604.0,263.1 608.0,260.0 612.0,262.4 616.0,267.0 620.0,267.5 624.0,263.1 628.0,260.0 632.0,262.4 636.0,267.0 640.0,267.5 644.0,263.1 648.0,260.0 652.0,262.4 656.0,267.0 660.0,267.5 664.0,263.1 668.0,260.0 672.0,262.4 676.0,267.0 680.0,267.5 684.0,263.1 688.0,260.0\" fill=\"none\" stroke=\"#d97706\" stroke-width=\"2\"/><polyline points=\"580.0,260.5 584.0,261.1 588.0,265.7 592.0,268.0 596.0,264.8 600.0,260.5 604.0,261.1 608.0,265.7 612.0,268.0 616.0,264.8 620.0,260.5 624.0,261.1 628.0,265.7 632.0,268.0 636.0,264.8 640.0,260.5 644.0,261.1 648.0,265.7 652.0,268.0 656.0,264.8 660.0,260.5 664.0,261.1 668.0,265.7 672.0,268.0 676.0,264.8 680.0,260.5 684.0,261.1 688.0,265.7\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"2\"/>\n<line x1=\"615\" y1=\"211\" x2=\"615\" y2=\"228\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<line x1=\"655\" y1=\"229\" x2=\"655\" y2=\"246\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<line x1=\"612\" y1=\"247\" x2=\"612\" y2=\"264\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<line x1=\"680\" y1=\"247\" x2=\"680\" y2=\"264\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<line x1=\"630\" y1=\"265\" x2=\"630\" y2=\"282\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<line x1=\"690\" y1=\"229\" x2=\"690\" y2=\"246\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<path d=\"M640 290 L640 325\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"634,322 646,322 640,332\" fill=\"#3b1d0a\"/>\n<rect x=\"540\" y=\"345\" width=\"220\" height=\"80\" rx=\"38\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<line x1=\"562\" y1=\"358\" x2=\"740\" y2=\"358\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"368\" x2=\"740\" y2=\"368\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"378\" x2=\"740\" y2=\"378\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"388\" x2=\"740\" y2=\"388\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"398\" x2=\"740\" y2=\"398\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"408\" x2=\"740\" y2=\"408\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<line x1=\"562\" y1=\"418\" x2=\"740\" y2=\"418\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<text x=\"250\" y=\"245\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"start\">1</text>\n<text x=\"415\" y=\"312\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"start\">2-3</text>\n<text x=\"455\" y=\"405\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"start\">4</text>\n<text x=\"735\" y=\"140\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"start\">5</text>\n<text x=\"735\" y=\"290\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"start\">6</text>\n<text x=\"105\" y=\"380\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\">Nucleus</text>\n<text x=\"250\" y=\"485\" font-family=\"Segoe UI, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Inside the cell</text>\n<text x=\"650\" y=\"485\" font-family=\"Segoe UI, sans-serif\" font-size=\"15\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Extracellular space</text>",
+   "labels": [
+    {
+     "name": "Collagen gene",
+     "accept": [
+      "COL gene",
+      "collagen DNA",
+      "DNA",
+      "COL3A1",
+      "COL5A1"
+     ],
+     "function": "Mutation here gives a structurally abnormal protein",
+     "x": 95,
+     "y": 260,
+     "lx": 40,
+     "ly": 100
+    },
+    {
+     "name": "Collagen mRNA",
+     "accept": [
+      "mRNA",
+      "messenger RNA",
+      "collagen messenger RNA"
+     ],
+     "function": "If unstable, less type III or V product is made",
+     "x": 190,
+     "y": 160,
+     "lx": 190,
+     "ly": 80
+    },
+    {
+     "name": "Procollagen chain",
+     "accept": [
+      "procollagen backbone",
+      "pro-alpha chain",
+      "procollagen chains"
+     ],
+     "function": "Translated backbone that is processed inside the cell (step 1)",
+     "x": 290,
+     "y": 215,
+     "lx": 290,
+     "ly": 310
+    },
+    {
+     "name": "Post-translational modification",
+     "accept": [
+      "posttranslational modification",
+      "intracellular modification",
+      "post translational modification"
+     ],
+     "function": "Steps 2-3: processing of the chains before secretion",
+     "x": 365,
+     "y": 270,
+     "lx": 365,
+     "ly": 400
+    },
+    {
+     "name": "Exocytosis",
+     "accept": [
+      "secretion",
+      "secretory vesicle"
+     ],
+     "function": "Releases the processed protein outside the cell",
+     "x": 432,
+     "y": 360,
+     "lx": 440,
+     "ly": 440
+    },
+    {
+     "name": "Cleavage of terminal regions",
+     "accept": [
+      "propeptide cleavage",
+      "terminal cleavage",
+      "cleavage",
+      "terminal region cleavage"
+     ],
+     "function": "Step 5: removes disulfide-rich ends; affected in EDS",
+     "x": 725,
+     "y": 92,
+     "lx": 775,
+     "ly": 60
+    },
+    {
+     "name": "Cross-linkage",
+     "accept": [
+      "cross-linking",
+      "crosslinking",
+      "cross linking",
+      "cross-links"
+     ],
+     "function": "Step 6: joins adjacent molecules; if disturbed, unstable",
+     "x": 655,
+     "y": 238,
+     "lx": 775,
+     "ly": 215
+    },
+    {
+     "name": "Collagen fiber",
+     "accept": [
+      "collagen fibers",
+      "collagen fibre"
+     ],
+     "function": "Final structural form used in skin, bone and vessels",
+     "x": 650,
+     "y": 385
+    }
+   ]
+  },
+  {
+   "title": "Marfan syndrome: where it shows (schematic, anterior view)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M350 105 L330 215 L322 345\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"23\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M350 105 L330 215 L322 345\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M450 105 L470 215 L478 345\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"23\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M450 105 L470 215 L478 345\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M378 300 L374 395 L372 470\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M378 300 L374 395 L372 470\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M422 300 L426 395 L428 470\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M422 300 L426 395 L428 470\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"362\" cy=\"482\" rx=\"20\" ry=\"9\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"438\" cy=\"482\" rx=\"20\" ry=\"9\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M352 95 Q400 88 448 95 Q462 100 458 125 L446 245 Q452 280 450 305 Q425 318 400 318 Q375 318 350 305 Q348 280 354 245 L342 125 Q338 100 352 95 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<rect x=\"389\" y=\"74\" width=\"22\" height=\"24\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"400\" cy=\"50\" rx=\"24\" ry=\"32\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<rect x=\"389\" y=\"80\" width=\"22\" height=\"16\" fill=\"#f1d3b3\"/>\n<ellipse cx=\"322\" cy=\"355\" rx=\"11\" ry=\"13\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<line x1=\"314\" y1=\"363\" x2=\"311.6\" y2=\"388.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"314\" y1=\"363\" x2=\"311.6\" y2=\"388.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"319\" y1=\"363\" x2=\"318.1\" y2=\"391.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"319\" y1=\"363\" x2=\"318.1\" y2=\"391.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"324\" y1=\"363\" x2=\"324.6\" y2=\"391.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"324\" y1=\"363\" x2=\"324.6\" y2=\"391.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"329\" y1=\"363\" x2=\"331.1\" y2=\"388.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"329\" y1=\"363\" x2=\"331.1\" y2=\"388.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<ellipse cx=\"478\" cy=\"355\" rx=\"11\" ry=\"13\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<line x1=\"470\" y1=\"363\" x2=\"467.6\" y2=\"388.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"470\" y1=\"363\" x2=\"467.6\" y2=\"388.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"475\" y1=\"363\" x2=\"474.1\" y2=\"391.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"475\" y1=\"363\" x2=\"474.1\" y2=\"391.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"480\" y1=\"363\" x2=\"480.6\" y2=\"391.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"480\" y1=\"363\" x2=\"480.6\" y2=\"391.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"485\" y1=\"363\" x2=\"487.1\" y2=\"388.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"485\" y1=\"363\" x2=\"487.1\" y2=\"388.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<ellipse cx=\"389\" cy=\"46\" rx=\"7\" ry=\"5\" fill=\"#fff\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/><circle cx=\"386\" cy=\"43\" r=\"3\" fill=\"#60a5fa\" stroke=\"#1d4ed8\" stroke-width=\"1\"/>\n<ellipse cx=\"411\" cy=\"46\" rx=\"7\" ry=\"5\" fill=\"#fff\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/><circle cx=\"411\" cy=\"46\" r=\"3\" fill=\"#60a5fa\" stroke=\"#1d4ed8\" stroke-width=\"1\"/>\n<path d=\"M390 68 Q400 56 410 68 Z\" fill=\"#fca5a5\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<path d=\"M375 112 Q352 125 352 190 Q362 205 388 198 L390 120 Q385 110 375 112 Z\" fill=\"#ffffff\" stroke=\"#be7c80\" stroke-width=\"2\"/>\n<path d=\"M425 112 Q448 125 448 190 Q438 205 412 198 L410 120 Q415 110 425 112 Z\" fill=\"#fde2e4\" stroke=\"#be7c80\" stroke-width=\"2\"/>\n<path d=\"M382 135 Q372 146 374 178 Q379 186 387 182 L388 138 Z\" fill=\"#f9a8b0\" stroke=\"#be7c80\" stroke-width=\"1.5\"/>\n<rect x=\"395\" y=\"104\" width=\"10\" height=\"70\" rx=\"4\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M412 172 Q408 150 425 148 Q440 146 444 160 Q448 182 425 200 Q412 188 412 172 Z\" fill=\"#fca5a5\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M422 150 Q414 132 420 118 Q428 104 440 112 Q446 118 444 132\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<ellipse cx=\"423\" cy=\"143\" rx=\"10\" ry=\"9\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"2\"/>\n<line x1=\"420\" y1=\"166\" x2=\"434\" y2=\"172\" stroke=\"#7f1d1d\" stroke-width=\"3\"/>\n<path d=\"M400 205 Q385 225 400 245 Q415 265 400 290\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"9\" stroke-linecap=\"round\"/>\n<path d=\"M400 205 Q385 225 400 245 Q415 265 400 290\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"6 3\"/>\n<path d=\"M430 228 Q436 245 432 262\" fill=\"none\" stroke=\"#9333ea\" stroke-width=\"2\"/>\n<path d=\"M435 232 Q441 249 437 266\" fill=\"none\" stroke=\"#9333ea\" stroke-width=\"2\"/>\n<path d=\"M440 236 Q446 253 442 270\" fill=\"none\" stroke=\"#9333ea\" stroke-width=\"2\"/>\n<path d=\"M360 282 Q400 300 440 282\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"4\"/>\n<circle cx=\"372\" cy=\"296\" r=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M360 290 Q362 310 378 310\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<text x=\"40\" y=\"470\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"start\">Patient's right</text>\n<text x=\"760\" y=\"470\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"end\">Patient's left</text>",
+   "labels": [
+    {
+     "name": "Lens",
+     "accept": [
+      "ocular lens",
+      "eye lens",
+      "crystalline lens"
+     ],
+     "function": "Subluxates up and out, causing myopia",
+     "x": 386,
+     "y": 43,
+     "lx": 250,
+     "ly": 35
+    },
+    {
+     "name": "Palate",
+     "accept": [
+      "hard palate",
+      "roof of the mouth"
+     ],
+     "function": "Highly arched, with crowded teeth and malocclusion",
+     "x": 400,
+     "y": 64,
+     "lx": 560,
+     "ly": 45
+    },
+    {
+     "name": "Aortic root",
+     "accept": [
+      "aortic root dilation",
+      "aortic sinus"
+     ],
+     "function": "Progressive dilation; regurgitation, aneurysm, dissection",
+     "x": 423,
+     "y": 143,
+     "lx": 590,
+     "ly": 110
+    },
+    {
+     "name": "Mitral valve",
+     "accept": [
+      "mitral"
+     ],
+     "function": "Prolapse with regurgitation; surgery if severe",
+     "x": 428,
+     "y": 170,
+     "lx": 590,
+     "ly": 170
+    },
+    {
+     "name": "Sternum",
+     "accept": [
+      "chest wall",
+      "breastbone",
+      "anterior chest wall"
+     ],
+     "function": "Sunken (excavatum) or pigeon (carinatum) deformity",
+     "x": 400,
+     "y": 125,
+     "lx": 250,
+     "ly": 105
+    },
+    {
+     "name": "Pleural cavity",
+     "accept": [
+      "pleural space",
+      "pleura"
+     ],
+     "function": "Recurrent pneumothorax: air collects here",
+     "x": 362,
+     "y": 165,
+     "lx": 250,
+     "ly": 170
+    },
+    {
+     "name": "Vertebral column",
+     "accept": [
+      "spine",
+      "spinal column",
+      "vertebrae"
+     ],
+     "function": "Scoliosis develops; treated by bracing or surgery",
+     "x": 396,
+     "y": 232,
+     "lx": 250,
+     "ly": 240
+    },
+    {
+     "name": "Abdominal skin",
+     "accept": [
+      "skin",
+      "skin of the abdomen"
+     ],
+     "function": "Purple striae, as in pregnancy or cortisol excess",
+     "x": 437,
+     "y": 245,
+     "lx": 590,
+     "ly": 250
+    },
+    {
+     "name": "Acetabulum",
+     "accept": [
+      "hip joint",
+      "hip socket"
+     ],
+     "function": "Protrusio deformity distorts the hip joint",
+     "x": 368,
+     "y": 306,
+     "lx": 250,
+     "ly": 315
+    },
+    {
+     "name": "Fingers",
+     "accept": [
+      "digits",
+      "fingers and toes"
+     ],
+     "function": "Abnormally long and slender (arachnodactyly)",
+     "x": 482,
+     "y": 385,
+     "lx": 590,
+     "ly": 400
+    }
+   ]
+  },
+  {
+   "title": "Ehlers-Danlos syndrome: sites of involvement (schematic, anterior view)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M350 105 L330 215 L322 320\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"23\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M350 105 L330 215 L322 320\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M450 105 L470 215 L478 320\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"23\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M450 105 L470 215 L478 320\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M378 300 L374 395 L372 470\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M378 300 L374 395 L372 470\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M422 300 L426 395 L428 470\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M422 300 L426 395 L428 470\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"362\" cy=\"482\" rx=\"20\" ry=\"9\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"438\" cy=\"482\" rx=\"20\" ry=\"9\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M352 95 Q400 88 448 95 Q462 100 458 125 L446 245 Q452 280 450 305 Q425 318 400 318 Q375 318 350 305 Q348 280 354 245 L342 125 Q338 100 352 95 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<rect x=\"389\" y=\"74\" width=\"22\" height=\"24\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"400\" cy=\"50\" rx=\"28\" ry=\"30\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<rect x=\"389\" y=\"80\" width=\"22\" height=\"16\" fill=\"#f1d3b3\"/>\n<ellipse cx=\"322\" cy=\"330\" rx=\"11\" ry=\"13\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<line x1=\"314\" y1=\"338\" x2=\"311.6\" y2=\"349.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"314\" y1=\"338\" x2=\"311.6\" y2=\"349.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"319\" y1=\"338\" x2=\"318.1\" y2=\"352.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"319\" y1=\"338\" x2=\"318.1\" y2=\"352.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"324\" y1=\"338\" x2=\"324.6\" y2=\"352.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"324\" y1=\"338\" x2=\"324.6\" y2=\"352.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"329\" y1=\"338\" x2=\"331.1\" y2=\"349.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"329\" y1=\"338\" x2=\"331.1\" y2=\"349.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<ellipse cx=\"478\" cy=\"330\" rx=\"11\" ry=\"13\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<line x1=\"470\" y1=\"338\" x2=\"467.6\" y2=\"349.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"470\" y1=\"338\" x2=\"467.6\" y2=\"349.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"475\" y1=\"338\" x2=\"474.1\" y2=\"352.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"475\" y1=\"338\" x2=\"474.1\" y2=\"352.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"480\" y1=\"338\" x2=\"480.6\" y2=\"352.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"480\" y1=\"338\" x2=\"480.6\" y2=\"352.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"485\" y1=\"338\" x2=\"487.1\" y2=\"349.5\" stroke=\"#b08968\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<line x1=\"485\" y1=\"338\" x2=\"487.1\" y2=\"349.5\" stroke=\"#f1d3b3\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<line x1=\"394\" y1=\"98\" x2=\"392\" y2=\"72\" stroke=\"#dc2626\" stroke-width=\"4\"/><line x1=\"406\" y1=\"98\" x2=\"408\" y2=\"72\" stroke=\"#dc2626\" stroke-width=\"4\"/>\n<path d=\"M402 165 Q396 125 412 118 Q428 112 428 135 L426 280\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"8\" stroke-linecap=\"round\"/>\n<ellipse cx=\"427\" cy=\"170\" rx=\"8\" ry=\"11\" fill=\"#dc2626\"/>\n<path d=\"M392 170 Q388 150 402 148 Q416 146 418 162 Q420 182 402 196 Q390 185 392 170 Z\" fill=\"#fca5a5\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M372 220 Q380 210 392 220 Q404 230 414 220 Q420 214 416 236 Q404 246 392 236 Q378 228 372 244 Q370 258 388 258 Q402 258 412 252\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M372 220 Q380 210 392 220 Q404 230 414 220 Q420 214 416 236 Q404 246 392 236 Q378 228 372 244 Q370 258 388 258 Q402 258 412 252\" fill=\"none\" stroke=\"#fdba74\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<path d=\"M385 278 Q400 270 415 278 Q414 296 404 300 L404 308 L396 308 L396 300 Q386 296 385 278 Z\" fill=\"#f9a8d4\" stroke=\"#9d174d\" stroke-width=\"2.5\"/>\n<path d=\"M322 260 L296 252 L298 274 L324 272 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<line x1=\"294\" y1=\"262\" x2=\"280\" y2=\"262\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><polygon points=\"282,257 282,267 274,262\" fill=\"#3b1d0a\"/>\n<path d=\"M486 336 L500 318 L506 300\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M486 336 L500 318 L506 300\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<circle cx=\"370\" cy=\"425\" r=\"4.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\"/>\n<circle cx=\"375\" cy=\"440\" r=\"4.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\"/>\n<circle cx=\"369\" cy=\"452\" r=\"4.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.5\"/>\n<circle cx=\"446\" cy=\"483\" r=\"3.2\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"451\" cy=\"479\" r=\"3.2\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"452\" cy=\"487\" r=\"3.2\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<text x=\"40\" y=\"470\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"start\">Patient's right</text>\n<text x=\"760\" y=\"470\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"end\">Patient's left</text>",
+   "labels": [
+    {
+     "name": "Carotid artery",
+     "accept": [
+      "carotid",
+      "internal carotid artery"
+     ],
+     "function": "May form a fistula with the cavernous sinus and rupture",
+     "x": 406,
+     "y": 88,
+     "lx": 560,
+     "ly": 70
+    },
+    {
+     "name": "Aorta",
+     "accept": [
+      "thoracic aorta"
+     ],
+     "function": "Aneurysm, dissection or rupture; shortens lifespan",
+     "x": 427,
+     "y": 200,
+     "lx": 580,
+     "ly": 175
+    },
+    {
+     "name": "Intestine",
+     "accept": [
+      "bowel",
+      "gut",
+      "small intestine"
+     ],
+     "function": "Can rupture, reflecting type III collagen distribution",
+     "x": 392,
+     "y": 236,
+     "lx": 250,
+     "ly": 220
+    },
+    {
+     "name": "Uterus",
+     "accept": [
+      "womb"
+     ],
+     "function": "Rupture risk in pregnancy and childbirth",
+     "x": 400,
+     "y": 287,
+     "lx": 580,
+     "ly": 290
+    },
+    {
+     "name": "Skin",
+     "accept": [
+      "dermis",
+      "skin of forearm"
+     ],
+     "function": "Stretches over 4 cm; close wounds with multiple sutures",
+     "x": 300,
+     "y": 263,
+     "lx": 210,
+     "ly": 300
+    },
+    {
+     "name": "Finger joints",
+     "accept": [
+      "joints",
+      "finger joint",
+      "interphalangeal joints"
+     ],
+     "function": "Hypermobile and prone to frequent dislocation",
+     "x": 500,
+     "y": 318,
+     "lx": 590,
+     "ly": 345
+    },
+    {
+     "name": "Shin",
+     "accept": [
+      "anterior leg",
+      "lower leg",
+      "tibia"
+     ],
+     "function": "Bluish-grey spongy pseudotumors and hard spheroids",
+     "x": 371,
+     "y": 440,
+     "lx": 250,
+     "ly": 430
+    },
+    {
+     "name": "Heel",
+     "accept": [
+      "heels",
+      "calcaneal skin"
+     ],
+     "function": "Yellow fat protrusions appear here on standing",
+     "x": 450,
+     "y": 483,
+     "lx": 590,
+     "ly": 470
+    }
+   ]
+  }
+ ]
+}

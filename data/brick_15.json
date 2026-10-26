@@ -1,0 +1,225 @@
+{
+ "brick": 15,
+ "title": "Inflammatory Myopathies",
+ "diagrams": [
+  {
+   "title": "Muscle biopsy patterns in inflammatory myopathy, cross-section (schematic)",
+   "viewBox": "0 0 900 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"14\" y=\"40\" width=\"872\" height=\"430\" rx=\"40\" fill=\"#ede4cf\" stroke=\"#a8a29e\" stroke-width=\"3\"/><ellipse cx=\"165\" cy=\"252\" rx=\"122\" ry=\"170\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><ellipse cx=\"450\" cy=\"252\" rx=\"122\" ry=\"170\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><ellipse cx=\"735\" cy=\"252\" rx=\"122\" ry=\"170\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><circle cx=\"140.0\" cy=\"122.1\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"153.0\" cy=\"110.5\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"190.0\" cy=\"122.1\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"203.0\" cy=\"110.5\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"115.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"128.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"165.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"178.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"215.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"228.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"90.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"103.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"140.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"153.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"190.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"203.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"240.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"253.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"65.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"78.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"115.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"128.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"165.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"178.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"215.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"228.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"265.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"278.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"90.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"103.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"140.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"153.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"190.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"203.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"240.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"253.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"115.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"128.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"165.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"178.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"215.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"228.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"140.0\" cy=\"381.9\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"153.0\" cy=\"370.3\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"190.0\" cy=\"381.9\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"203.0\" cy=\"370.3\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"156.0\" cy=\"295.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"160.8\" cy=\"307.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"148.0\" cy=\"309.2\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"140.0\" cy=\"319.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"132.0\" cy=\"309.2\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"119.2\" cy=\"307.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"124.0\" cy=\"295.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"119.2\" cy=\"283.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"132.0\" cy=\"281.4\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"140.0\" cy=\"271.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"148.0\" cy=\"281.4\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"160.8\" cy=\"283.3\" r=\"4.5\" fill=\"#1e3a8a\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"425.0\" cy=\"122.1\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"432.4\" cy=\"115.5\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"475.0\" cy=\"122.1\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"482.4\" cy=\"115.5\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"400.0\" cy=\"165.4\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"407.4\" cy=\"158.8\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"450.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"463.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"500.0\" cy=\"165.4\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"507.4\" cy=\"158.8\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"375.0\" cy=\"208.7\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"382.4\" cy=\"202.1\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"425.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"438.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"475.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"488.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"525.0\" cy=\"208.7\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"532.4\" cy=\"202.1\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"350.0\" cy=\"252.0\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"357.4\" cy=\"245.4\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"400.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"413.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"450.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"463.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"500.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"513.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"550.0\" cy=\"252.0\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"557.4\" cy=\"245.4\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"375.0\" cy=\"295.3\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"382.4\" cy=\"288.7\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"425.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"438.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"475.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"488.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"525.0\" cy=\"295.3\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"532.4\" cy=\"288.7\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"400.0\" cy=\"338.6\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"407.4\" cy=\"332.0\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"450.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"463.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"500.0\" cy=\"338.6\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"507.4\" cy=\"332.0\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"425.0\" cy=\"381.9\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"432.4\" cy=\"375.3\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"475.0\" cy=\"381.9\" r=\"12\" fill=\"#eba08a\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"482.4\" cy=\"375.3\" r=\"2.0\" fill=\"#4c1d95\"/><circle cx=\"710.0\" cy=\"122.1\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"723.0\" cy=\"110.5\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"760.0\" cy=\"122.1\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"773.0\" cy=\"110.5\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"685.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"698.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"735.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"748.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"785.0\" cy=\"165.4\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"798.0\" cy=\"153.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"660.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"673.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"710.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"723.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"760.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"773.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"810.0\" cy=\"208.7\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"823.0\" cy=\"197.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"635.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"648.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"685.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"698.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"735.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"748.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"785.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"798.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"835.0\" cy=\"252.0\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"848.0\" cy=\"240.4\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"660.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"673.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"710.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"723.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"760.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"773.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"810.0\" cy=\"295.3\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"823.0\" cy=\"283.8\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"685.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"698.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"735.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"748.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"785.0\" cy=\"338.6\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"798.0\" cy=\"327.1\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"710.0\" cy=\"381.9\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"723.0\" cy=\"370.3\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"760.0\" cy=\"381.9\" r=\"21\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><circle cx=\"773.0\" cy=\"370.3\" r=\"2.7\" fill=\"#4c1d95\"/><circle cx=\"706.0\" cy=\"211.7\" r=\"8\" fill=\"#ffffff\" stroke=\"#be185d\" stroke-width=\"3\"/><circle cx=\"756.0\" cy=\"298.3\" r=\"8\" fill=\"#ffffff\" stroke=\"#be185d\" stroke-width=\"3\"/><circle cx=\"706.0\" cy=\"384.9\" r=\"8\" fill=\"#ffffff\" stroke=\"#be185d\" stroke-width=\"3\"/><path d=\"M750.0 120.1 q4 -11 12 -7 q9 -2 7 8 q2 8 -8 9 q-9 3 -11 -10 Z\" fill=\"#facc15\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"307\" cy=\"252\" r=\"12\" fill=\"#fee2e2\" stroke=\"#dc2626\" stroke-width=\"4\"/><circle cx=\"326.0\" cy=\"252.0\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"320.4\" cy=\"267.6\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"307.0\" cy=\"274.0\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"293.6\" cy=\"267.6\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"288.0\" cy=\"252.0\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"293.6\" cy=\"236.4\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"307.0\" cy=\"230.0\" r=\"3.5\" fill=\"#1e3a8a\"/><circle cx=\"320.4\" cy=\"236.4\" r=\"3.5\" fill=\"#1e3a8a\"/><text x=\"165\" y=\"30\" font-family=\"Segoe UI, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">A</text><text x=\"450\" y=\"30\" font-family=\"Segoe UI, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">B</text><text x=\"735\" y=\"30\" font-family=\"Segoe UI, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">C</text><text x=\"450\" y=\"492\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\" font-style=\"italic\">Transverse section, three biopsies (schematic)</text>",
+   "labels": [
+    {
+     "name": "Perimysium",
+     "accept": [
+      "perimysial connective tissue"
+     ],
+     "function": "Sheath around a bundle of fibers; inflamed around vessels in DM",
+     "x": 307,
+     "y": 95
+    },
+    {
+     "name": "Endomysium",
+     "accept": [
+      "endomysial connective tissue"
+     ],
+     "function": "Thin sheath around each fiber; site of PM inflammation",
+     "x": 140,
+     "y": 151.0,
+     "lx": 60,
+     "ly": 70
+    },
+    {
+     "name": "Myocyte",
+     "accept": [
+      "muscle fiber",
+      "skeletal muscle fiber",
+      "muscle cell",
+      "myofiber"
+     ],
+     "function": "Contractile cell; releases CK and aldolase when damaged",
+     "x": 115,
+     "y": 165.4,
+     "lx": 70,
+     "ly": 130
+    },
+    {
+     "name": "CD8+ cytotoxic T cells",
+     "accept": [
+      "CD8 T cells",
+      "CD8+ T cells",
+      "cytotoxic T cells",
+      "CD8+ T cell",
+      "T cells"
+     ],
+     "function": "Invade non-necrotic fibers in polymyositis (and IBM)",
+     "x": 156.0,
+     "y": 295.3,
+     "lx": 60,
+     "ly": 330
+    },
+    {
+     "name": "Perimysial blood vessel",
+     "accept": [
+      "perimysial vessel",
+      "blood vessel",
+      "capillary"
+     ],
+     "function": "Complement-mediated injury makes bundle-edge fibers ischemic",
+     "x": 307,
+     "y": 252
+    },
+    {
+     "name": "Perifascicular atrophy",
+     "accept": [
+      "perifascicular atrophic fibers",
+      "atrophic fibers"
+     ],
+     "function": "Shrunken fibers at bundle edges; diagnostic of dermatomyositis",
+     "x": 350,
+     "y": 252.0,
+     "lx": 375,
+     "ly": 440
+    },
+    {
+     "name": "Rimmed vacuole",
+     "accept": [
+      "rimmed vacuoles",
+      "sarcoplasmic rimmed vacuole"
+     ],
+     "function": "Sarcoplasmic inclusion seen only in inclusion body myositis",
+     "x": 756.0,
+     "y": 298.3,
+     "lx": 850,
+     "ly": 330
+    },
+    {
+     "name": "Amyloid deposit",
+     "accept": [
+      "amyloid",
+      "amyloid deposits"
+     ],
+     "function": "Congo red-positive protein aggregate in IBM fibers",
+     "x": 761.0,
+     "y": 122.1,
+     "lx": 850,
+     "ly": 120
+    }
+   ]
+  },
+  {
+   "title": "Inflammatory myopathies: skin findings and sites of involvement (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><polyline points=\"138,122 112,205 96,285\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"138,122 112,205 96,285\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"262,122 288,205 304,285\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"262,122 288,205 304,285\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"94\" cy=\"303\" rx=\"12\" ry=\"17\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"306\" cy=\"303\" rx=\"12\" ry=\"17\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><polyline points=\"170,290 164,385 162,466\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"41\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"170,290 164,385 162,466\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"230,290 236,385 238,466\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"41\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"230,290 236,385 238,466\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"154\" cy=\"478\" rx=\"20\" ry=\"8\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"246\" cy=\"478\" rx=\"20\" ry=\"8\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><path d=\"M140 112 Q200 102 260 112 Q276 120 272 150 L258 292 Q200 306 142 292 L128 150 Q124 120 140 112 Z\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><rect x=\"188\" y=\"88\" width=\"24\" height=\"24\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"200\" cy=\"60\" rx=\"28\" ry=\"34\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><path d=\"M192 135 Q150 128 148 175 Q146 222 188 225 Z\" fill=\"#fbcfe8\" stroke=\"#be6b8a\" stroke-width=\"2.5\"/><path d=\"M208 135 Q250 128 252 175 Q254 222 212 225 Z\" fill=\"#fbcfe8\" stroke=\"#be6b8a\" stroke-width=\"2.5\"/><path d=\"M202 178 q14 -16 26 0 q8 14 -18 34 q-20 -14 -14 -28 q4 -8 6 -6 Z\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"2\"/><ellipse cx=\"136\" cy=\"126\" rx=\"19\" ry=\"17\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"264\" cy=\"126\" rx=\"19\" ry=\"17\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"200\" cy=\"103\" rx=\"9\" ry=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"104\" cy=\"246\" rx=\"9\" ry=\"32\" transform=\"rotate(11 104 246)\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"233\" cy=\"340\" rx=\"14\" ry=\"42\" transform=\"rotate(-3 233 340)\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><line x1=\"226\" y1=\"50\" x2=\"472\" y2=\"100\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"590\" cy=\"140\" r=\"118\" fill=\"#fffdf8\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><ellipse cx=\"590\" cy=\"144\" rx=\"78\" ry=\"100\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><path d=\"M515 100 Q590 15 665 100 Q650 60 590 50 Q530 60 515 100 Z\" fill=\"#6b4a2f\"/><path d=\"M528 152 Q540 132 572 142 Q590 134 608 142 Q640 132 652 152 Q650 198 620 202 Q590 180 560 202 Q530 198 528 152 Z\" fill=\"#e11d48\" fill-opacity=\"0.33\"/><path d=\"M536 116 Q558 106 580 116\" fill=\"none\" stroke=\"#6b4a2f\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M539 130 Q558 110 577 130 Q558 123 539 130 Z\" fill=\"#8b5cf6\" fill-opacity=\"0.85\"/><ellipse cx=\"558\" cy=\"134\" rx=\"15\" ry=\"6\" fill=\"#fff\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"558\" cy=\"134\" r=\"4\" fill=\"#3b1d0a\"/><path d=\"M576 170 Q560 186 562 204\" fill=\"none\" stroke=\"#9a6b48\" stroke-width=\"2.5\"/><path d=\"M600 116 Q622 106 644 116\" fill=\"none\" stroke=\"#6b4a2f\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M603 130 Q622 110 641 130 Q622 123 603 130 Z\" fill=\"#8b5cf6\" fill-opacity=\"0.85\"/><ellipse cx=\"622\" cy=\"134\" rx=\"15\" ry=\"6\" fill=\"#fff\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"622\" cy=\"134\" r=\"4\" fill=\"#3b1d0a\"/><path d=\"M604 170 Q620 186 618 204\" fill=\"none\" stroke=\"#9a6b48\" stroke-width=\"2.5\"/><path d=\"M590 138 L582 168 Q590 174 598 168\" fill=\"none\" stroke=\"#9a6b48\" stroke-width=\"2.5\"/><path d=\"M570 210 Q590 218 610 210\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"3\"/><line x1=\"312\" y1=\"310\" x2=\"470\" y2=\"390\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><rect x=\"470\" y=\"282\" width=\"240\" height=\"210\" rx=\"18\" fill=\"#fffdf8\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><rect x=\"530\" y=\"386\" width=\"112\" height=\"86\" rx=\"20\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><rect x=\"533\" y=\"316\" width=\"22\" height=\"92\" rx=\"11\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><rect x=\"561\" y=\"300\" width=\"22\" height=\"108\" rx=\"11\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><rect x=\"589\" y=\"296\" width=\"22\" height=\"112\" rx=\"11\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><rect x=\"617\" y=\"308\" width=\"22\" height=\"100\" rx=\"11\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><path d=\"M642 430 Q674 410 682 372\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"27\" stroke-linecap=\"round\"/><path d=\"M642 430 Q674 410 682 372\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"22\" stroke-linecap=\"round\"/><ellipse cx=\"544\" cy=\"396.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"544\" cy=\"360.7\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"544\" cy=\"335.5\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"572\" cy=\"396.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"572\" cy=\"354.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"572\" cy=\"324.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"600\" cy=\"396.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"600\" cy=\"352.3\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"600\" cy=\"321.1\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"628\" cy=\"396.0\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"628\" cy=\"357.4\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><ellipse cx=\"628\" cy=\"329.8\" rx=\"7\" ry=\"4.5\" fill=\"#7c3aed\" fill-opacity=\"0.8\" stroke=\"#4c1d95\" stroke-width=\"1\"/><text x=\"590\" y=\"485\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\" font-style=\"italic\">Dorsum of hand</text><text x=\"200\" y=\"20\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\" font-style=\"italic\">Anterior view</text>",
+   "labels": [
+    {
+     "name": "Heliotrope rash",
+     "accept": [
+      "heliotrope"
+     ],
+     "function": "Lilac eruption on the upper eyelids; pathognomonic of DM",
+     "x": 558,
+     "y": 123,
+     "lx": 500,
+     "ly": 70
+    },
+    {
+     "name": "Malar rash",
+     "accept": [
+      "malar erythema",
+      "butterfly rash"
+     ],
+     "function": "Central facial erythema that also crosses the nasolabial fold",
+     "x": 545,
+     "y": 170,
+     "lx": 495,
+     "ly": 205
+    },
+    {
+     "name": "Gottron papules",
+     "accept": [
+      "gottron's papules",
+      "gottron papule",
+      "gottron"
+     ],
+     "function": "Scaly violaceous papules over the MCP, PIP and DIP joints",
+     "x": 572,
+     "y": 396,
+     "lx": 505,
+     "ly": 465
+    },
+    {
+     "name": "Oropharyngeal muscles",
+     "accept": [
+      "pharyngeal muscles",
+      "oropharynx",
+      "swallowing muscles"
+     ],
+     "function": "Weakness causes dysphagia and aspiration risk",
+     "x": 200,
+     "y": 103,
+     "lx": 300,
+     "ly": 85
+    },
+    {
+     "name": "Shoulder girdle muscles",
+     "accept": [
+      "shoulder muscles",
+      "proximal shoulder muscles",
+      "deltoid",
+      "shoulder girdle"
+     ],
+     "function": "Symmetric proximal weakness of PM and DM; hard to lift overhead",
+     "x": 136,
+     "y": 126,
+     "lx": 70,
+     "ly": 100
+    },
+    {
+     "name": "Lungs",
+     "accept": [
+      "lung"
+     ],
+     "function": "Interstitial disease is a systemic manifestation",
+     "x": 166,
+     "y": 172
+    },
+    {
+     "name": "Heart",
+     "accept": [
+      "myocardium"
+     ],
+     "function": "Myocarditis and arrhythmias may occur",
+     "x": 215,
+     "y": 192,
+     "lx": 320,
+     "ly": 185
+    },
+    {
+     "name": "Finger flexors",
+     "accept": [
+      "finger flexor muscles",
+      "forearm flexors",
+      "deep finger flexors"
+     ],
+     "function": "Distal arm weakness typical of inclusion body myositis",
+     "x": 104,
+     "y": 246,
+     "lx": 50,
+     "ly": 260
+    },
+    {
+     "name": "Quadriceps",
+     "accept": [
+      "quadriceps femoris",
+      "quads",
+      "knee extensors"
+     ],
+     "function": "Early, often asymmetric IBM target; falls, trouble rising",
+     "x": 233,
+     "y": 340,
+     "lx": 320,
+     "ly": 350
+    }
+   ]
+  }
+ ]
+}

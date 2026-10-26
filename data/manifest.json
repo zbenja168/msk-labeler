@@ -1,0 +1,178 @@
+[
+ {
+  "num": 1,
+  "week": 1,
+  "session": 1,
+  "title": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 2,
+  "week": 1,
+  "session": 1,
+  "title": "Anatomy of the Spinal Cord",
+  "diagrams": 3,
+  "labels": 29
+ },
+ {
+  "num": 3,
+  "week": 1,
+  "session": 1,
+  "title": "Histology of Bone and Cartilage",
+  "diagrams": 3,
+  "labels": 28
+ },
+ {
+  "num": 4,
+  "week": 1,
+  "session": 1,
+  "title": "Spine Disorders",
+  "diagrams": 3,
+  "labels": 27
+ },
+ {
+  "num": 5,
+  "week": 1,
+  "session": 2,
+  "title": "Development of the Musculoskeletal System",
+  "diagrams": 3,
+  "labels": 23
+ },
+ {
+  "num": 6,
+  "week": 1,
+  "session": 2,
+  "title": "Congenital Disorders of the Musculoskeletal System",
+  "diagrams": 3,
+  "labels": 23
+ },
+ {
+  "num": 7,
+  "week": 1,
+  "session": 2,
+  "title": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 8,
+  "week": 1,
+  "session": 2,
+  "title": "Acquired Bone Disorders",
+  "diagrams": 3,
+  "labels": 25
+ },
+ {
+  "num": 9,
+  "week": 1,
+  "session": 3,
+  "title": "Mechanics of Muscle Force Production",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 10,
+  "week": 1,
+  "session": 3,
+  "title": "Neuromuscular Junction Disorders",
+  "diagrams": 2,
+  "labels": 20
+ },
+ {
+  "num": 11,
+  "week": 1,
+  "session": 3,
+  "title": "Muscle Metabolism",
+  "diagrams": 2,
+  "labels": 20
+ },
+ {
+  "num": 12,
+  "week": 1,
+  "session": 3,
+  "title": "Skeletal Muscle Adaptations",
+  "diagrams": 2,
+  "labels": 19
+ },
+ {
+  "num": 13,
+  "week": 2,
+  "session": 1,
+  "title": "Functional Anatomy of the Shoulder & Arm",
+  "diagrams": 3,
+  "labels": 30
+ },
+ {
+  "num": 14,
+  "week": 2,
+  "session": 1,
+  "title": "Vasculature and Lymphatics of the Upper Extremities",
+  "diagrams": 2,
+  "labels": 23
+ },
+ {
+  "num": 15,
+  "week": 2,
+  "session": 2,
+  "title": "Inflammatory Myopathies",
+  "diagrams": 2,
+  "labels": 17
+ },
+ {
+  "num": 16,
+  "week": 2,
+  "session": 2,
+  "title": "Muscular Dystrophy",
+  "diagrams": 2,
+  "labels": 19
+ },
+ {
+  "num": 17,
+  "week": 2,
+  "session": 2,
+  "title": "Traumatic Muscle Injury",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 18,
+  "week": 2,
+  "session": 2,
+  "title": "Common Tendon, Bursa, and Joint Capsule Disorders",
+  "diagrams": 3,
+  "labels": 24
+ },
+ {
+  "num": 19,
+  "week": 2,
+  "session": 3,
+  "title": "Functional Anatomy of the Forearm & Hand",
+  "diagrams": 3,
+  "labels": 27
+ },
+ {
+  "num": 20,
+  "week": 2,
+  "session": 3,
+  "title": "Upper Extremity Injuries",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 21,
+  "week": 2,
+  "session": 3,
+  "title": "Upper Extremity Nerve Entrapment Syndromes",
+  "diagrams": 2,
+  "labels": 18
+ },
+ {
+  "num": 22,
+  "week": 2,
+  "session": 3,
+  "title": "Pharmacologic Treatment of Musculoskeletal Pain",
+  "diagrams": 3,
+  "labels": 25
+ }
+]

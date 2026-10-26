@@ -1,0 +1,281 @@
+{
+ "brick": 14,
+ "title": "Vasculature and Lymphatics of the Upper Extremities",
+ "diagrams": [
+  {
+   "title": "Arteries of the upper limb (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M200 130 Q280 100 345 118 L580 160 L715 182 Q790 175 790 250 Q790 325 715 318 L580 318 L380 338 Q300 352 200 372 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"192\" cy=\"250\" rx=\"11\" ry=\"78\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"335\" cy=\"168\" r=\"30\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><rect x=\"355\" y=\"156\" width=\"212\" height=\"24\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><rect x=\"585\" y=\"218\" width=\"128\" height=\"14\" rx=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/><rect x=\"572\" y=\"264\" width=\"141\" height=\"14\" rx=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"245\" y=\"140\" width=\"30\" height=\"210\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\" opacity=\"0.5\"/>\n<rect x=\"352\" y=\"232\" width=\"22\" height=\"105\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\" opacity=\"0.5\"/>\n<path d=\"M30 280 Q110 205 192 228 L360 240 L575 250\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M105 226 L105 110 M105 140 Q180 115 250 112\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M315 239 L315 330 M315 300 L280 360\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M338 239 Q352 205 378 196 Q398 186 385 150\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M395 242 Q410 206 440 196 L545 190\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M575 250 Q620 205 722 208\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M575 250 Q620 292 722 292\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M604 280 Q608 250 625 248 L700 246\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M722 208 Q748 225 748 250 Q747 275 722 292\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M722 292 Q776 285 776 250 Q775 215 730 205\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<g stroke=\"#dc2626\" stroke-width=\"2.5\"><line x1=\"775\" y1=\"226\" x2=\"790\" y2=\"226\"/><line x1=\"775\" y1=\"244\" x2=\"790\" y2=\"244\"/><line x1=\"775\" y1=\"262\" x2=\"790\" y2=\"262\"/><line x1=\"775\" y1=\"280\" x2=\"790\" y2=\"280\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"560\" y=\"30\">Lateral (thumb side)</text><text x=\"590\" y=\"480\">Medial</text><text x=\"20\" y=\"480\">Midline</text><text x=\"172\" y=\"350\">1st rib</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"215\" y=\"132\">Pec. minor</text><text x=\"340\" y=\"356\">Teres major</text><text x=\"30\" y=\"60\" font-weight=\"700\" font-size=\"15\">Right upper limb arteries, abducted (schematic)</text></g>",
+   "labels": [
+    {
+     "name": "Subclavian artery",
+     "accept": [
+      "subclavian"
+     ],
+     "function": "Becomes the next segment at the lateral border of the 1st rib",
+     "x": 150,
+     "y": 216,
+     "lx": 150,
+     "ly": 400
+    },
+    {
+     "name": "Thyrocervical trunk",
+     "accept": [
+      "thyrocervical"
+     ],
+     "function": "Neck branch whose suprascapular artery joins the scapular network",
+     "x": 105,
+     "y": 180,
+     "lx": 50,
+     "ly": 180
+    },
+    {
+     "name": "Axillary artery",
+     "accept": [
+      "axillary"
+     ],
+     "function": "Divided into three parts by pectoralis minor",
+     "x": 225,
+     "y": 232,
+     "lx": 225,
+     "ly": 410
+    },
+    {
+     "name": "Subscapular artery",
+     "accept": [
+      "subscapular"
+     ],
+     "function": "Largest part-3 branch; gives the circumflex scapular artery",
+     "x": 315,
+     "y": 290,
+     "lx": 300,
+     "ly": 420
+    },
+    {
+     "name": "Posterior circumflex humeral artery",
+     "accept": [
+      "posterior circumflex humeral",
+      "PCHA"
+     ],
+     "function": "Encircles the surgical neck via the quadrangular space",
+     "x": 380,
+     "y": 192,
+     "lx": 300,
+     "ly": 80
+    },
+    {
+     "name": "Brachial artery",
+     "accept": [
+      "brachial"
+     ],
+     "function": "Begins at teres major; main supply of the arm",
+     "x": 480,
+     "y": 246,
+     "lx": 470,
+     "ly": 400
+    },
+    {
+     "name": "Deep brachial artery",
+     "accept": [
+      "profunda brachii",
+      "profunda brachii artery",
+      "deep brachial"
+     ],
+     "function": "Largest arm branch; supplies the posterior compartment",
+     "x": 470,
+     "y": 194,
+     "lx": 450,
+     "ly": 80
+    },
+    {
+     "name": "Radial artery",
+     "accept": [
+      "radial"
+     ],
+     "function": "Lateral forearm artery; most commonly checked wrist pulse",
+     "x": 660,
+     "y": 205,
+     "lx": 640,
+     "ly": 80
+    },
+    {
+     "name": "Ulnar artery",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Medial forearm artery; pulse at the medial wrist",
+     "x": 660,
+     "y": 291,
+     "lx": 640,
+     "ly": 410
+    },
+    {
+     "name": "Common interosseous artery",
+     "accept": [
+      "common interosseous"
+     ],
+     "function": "Splits into anterior and posterior branches for the deep forearm",
+     "x": 660,
+     "y": 247,
+     "lx": 560,
+     "ly": 370
+    },
+    {
+     "name": "Deep palmar arch",
+     "accept": [
+      "deep arch"
+     ],
+     "function": "Hand arch fed mainly by the lateral forearm artery",
+     "x": 748,
+     "y": 250,
+     "lx": 740,
+     "ly": 360
+    },
+    {
+     "name": "Superficial palmar arch",
+     "accept": [
+      "superficial arch"
+     ],
+     "function": "Hand arch fed mainly by the medial forearm artery",
+     "x": 776,
+     "y": 250,
+     "lx": 760,
+     "ly": 130
+    }
+   ]
+  },
+  {
+   "title": "Veins and lymphatic drainage of the upper limb (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M200 130 Q280 100 345 118 L580 160 L715 182 Q790 175 790 250 Q790 325 715 318 L580 318 L380 338 Q300 352 200 372 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"192\" cy=\"250\" rx=\"11\" ry=\"78\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"335\" cy=\"168\" r=\"30\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><rect x=\"355\" y=\"156\" width=\"212\" height=\"24\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><rect x=\"585\" y=\"218\" width=\"128\" height=\"14\" rx=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/><rect x=\"572\" y=\"264\" width=\"141\" height=\"14\" rx=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M110 40 L110 232\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M110 232 L110 340\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M110 232 Q150 238 195 246\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M195 246 L362 256\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M362 252 L578 258 M362 262 L578 270\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M720 300 Q640 312 560 306 Q470 300 420 290 Q385 280 362 260\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M720 196 Q640 168 520 148 Q380 120 280 132 Q238 150 230 246\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M606 174 L548 304\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M715 322 Q660 334 590 330\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3\" stroke-dasharray=\"6 4\" stroke-linecap=\"round\"/>\n<path d=\"M545 334 Q450 330 330 318\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3\" stroke-dasharray=\"6 4\" stroke-linecap=\"round\"/>\n<path d=\"M270 310 Q200 296 150 266\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3\" stroke-dasharray=\"6 4\" stroke-linecap=\"round\"/>\n<path d=\"M150 266 Q128 250 116 236\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<g fill=\"#16a34a\" stroke=\"#fff\" stroke-width=\"2\"><circle cx=\"575\" cy=\"330\" r=\"9\"/><circle cx=\"558\" cy=\"336\" r=\"8\"/></g>\n<g fill=\"#16a34a\" stroke=\"#fff\" stroke-width=\"2\"><circle cx=\"300\" cy=\"312\" r=\"11\"/><circle cx=\"282\" cy=\"300\" r=\"9\"/><circle cx=\"318\" cy=\"300\" r=\"9\"/><circle cx=\"296\" cy=\"292\" r=\"8\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"560\" y=\"30\">Lateral (thumb side)</text><text x=\"590\" y=\"480\">Medial</text><text x=\"20\" y=\"480\">Midline</text><text x=\"172\" y=\"350\">1st rib</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"88\" y=\"360\">to SVC</text><text x=\"270\" y=\"110\">deltopectoral groove</text><text x=\"150\" y=\"30\" font-weight=\"700\" font-size=\"15\">Right upper limb veins and lymphatics</text></g>",
+   "labels": [
+    {
+     "name": "Internal jugular vein",
+     "accept": [
+      "internal jugular",
+      "IJ",
+      "IJV"
+     ],
+     "function": "Neck vein that meets the limb's main vein near the clavicle",
+     "x": 110,
+     "y": 90,
+     "lx": 60,
+     "ly": 90
+    },
+    {
+     "name": "Brachiocephalic vein",
+     "accept": [
+      "brachiocephalic"
+     ],
+     "function": "Right and left unite to form the superior vena cava",
+     "x": 110,
+     "y": 300,
+     "lx": 60,
+     "ly": 300
+    },
+    {
+     "name": "Subclavian vein",
+     "accept": [
+      "subclavian"
+     ],
+     "function": "Continues the limb vein from the lateral border of the 1st rib",
+     "x": 160,
+     "y": 240,
+     "lx": 170,
+     "ly": 175
+    },
+    {
+     "name": "Right lymphatic duct",
+     "accept": [
+      "right lymphatic"
+     ],
+     "function": "Returns lymph of the right upper limb to the bloodstream",
+     "x": 132,
+     "y": 250,
+     "lx": 60,
+     "ly": 420
+    },
+    {
+     "name": "Axillary vein",
+     "accept": [],
+     "function": "Formed at teres major; receives the deltopectoral vein",
+     "x": 300,
+     "y": 253,
+     "lx": 240,
+     "ly": 430
+    },
+    {
+     "name": "Axillary lymph nodes",
+     "accept": [
+      "axillary nodes",
+      "axillary lymph node"
+     ],
+     "function": "Main limb drainage center; removal causes lymphedema",
+     "x": 300,
+     "y": 312,
+     "lx": 360,
+     "ly": 420
+    },
+    {
+     "name": "Brachial veins",
+     "accept": [
+      "brachial vein",
+      "brachial"
+     ],
+     "function": "Paired deep veins formed by the radial and ulnar veins",
+     "x": 470,
+     "y": 266,
+     "lx": 470,
+     "ly": 205
+    },
+    {
+     "name": "Cephalic vein",
+     "accept": [
+      "cephalic"
+     ],
+     "function": "Lateral superficial vein ascending to the deltopectoral groove",
+     "x": 440,
+     "y": 135,
+     "lx": 440,
+     "ly": 75
+    },
+    {
+     "name": "Basilic vein",
+     "accept": [
+      "basilic"
+     ],
+     "function": "Medial superficial vein that joins the paired deep veins",
+     "x": 470,
+     "y": 299,
+     "lx": 480,
+     "ly": 400
+    },
+    {
+     "name": "Median cubital vein",
+     "accept": [
+      "median cubital",
+      "median cubital v"
+     ],
+     "function": "Common venipuncture site at the front of the elbow",
+     "x": 577,
+     "y": 240,
+     "lx": 640,
+     "ly": 130
+    },
+    {
+     "name": "Cubital lymph nodes",
+     "accept": [
+      "cubital nodes",
+      "cubital lymph node",
+      "supratrochlear nodes"
+     ],
+     "function": "First nodes near the elbow for hand and forearm lymph",
+     "x": 575,
+     "y": 330,
+     "lx": 620,
+     "ly": 400
+    }
+   ]
+  }
+ ]
+}

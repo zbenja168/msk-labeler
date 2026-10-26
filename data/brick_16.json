@@ -1,0 +1,258 @@
+{
+ "brick": 16,
+ "title": "Muscular Dystrophy",
+ "diagrams": [
+  {
+   "title": "Dystrophin-glycoprotein complex and other dystrophy proteins (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"20\" y=\"30\" width=\"760\" height=\"150\" rx=\"14\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/><line x1=\"-110\" y1=\"40\" x2=\"-20\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"-20\" y1=\"40\" x2=\"-110\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"-45\" y1=\"40\" x2=\"45\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"45\" y1=\"40\" x2=\"-45\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"20\" y1=\"40\" x2=\"110\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"110\" y1=\"40\" x2=\"20\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"85\" y1=\"40\" x2=\"175\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"175\" y1=\"40\" x2=\"85\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"240\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"240\" y1=\"40\" x2=\"150\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"215\" y1=\"40\" x2=\"305\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"305\" y1=\"40\" x2=\"215\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"280\" y1=\"40\" x2=\"370\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"370\" y1=\"40\" x2=\"280\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"345\" y1=\"40\" x2=\"435\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"435\" y1=\"40\" x2=\"345\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"410\" y1=\"40\" x2=\"500\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"500\" y1=\"40\" x2=\"410\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"475\" y1=\"40\" x2=\"565\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"565\" y1=\"40\" x2=\"475\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"540\" y1=\"40\" x2=\"630\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"630\" y1=\"40\" x2=\"540\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"605\" y1=\"40\" x2=\"695\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"695\" y1=\"40\" x2=\"605\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"670\" y1=\"40\" x2=\"760\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"760\" y1=\"40\" x2=\"670\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"735\" y1=\"40\" x2=\"825\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"825\" y1=\"40\" x2=\"735\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"800\" y1=\"40\" x2=\"890\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"890\" y1=\"40\" x2=\"800\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><line x1=\"865\" y1=\"40\" x2=\"955\" y2=\"172\" stroke=\"#c9bfa9\" stroke-width=\"3\"/><line x1=\"955\" y1=\"40\" x2=\"865\" y2=\"172\" stroke=\"#d6ccb6\" stroke-width=\"2\"/><rect x=\"20\" y=\"30\" width=\"760\" height=\"150\" rx=\"14\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"2\"/><rect x=\"0\" y=\"0\" width=\"20\" height=\"200\" fill=\"#f8f5ee\"/><rect x=\"780\" y=\"0\" width=\"20\" height=\"200\" fill=\"#f8f5ee\"/><rect x=\"20\" y=\"198\" width=\"670\" height=\"44\" fill=\"#fdf3e1\"/><circle cx=\"26\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"26\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"38\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"38\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"50\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"50\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"62\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"62\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"74\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"74\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"86\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"86\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"98\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"98\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"110\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"110\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"122\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"122\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"134\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"134\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"146\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"146\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"158\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"158\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"170\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"170\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"182\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"182\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"194\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"194\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"206\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"206\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"218\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"218\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"230\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"230\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"242\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"242\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"254\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"254\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"266\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"266\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"278\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"278\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"290\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"290\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"302\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"302\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"314\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"314\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"326\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"326\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"338\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"338\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"350\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"350\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"362\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"362\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"374\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"374\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"386\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"386\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"398\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"398\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"410\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"410\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"422\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"422\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"434\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"434\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"446\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"446\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"458\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"458\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"470\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"470\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"482\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"482\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"494\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"494\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"506\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"506\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"518\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"518\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"530\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"530\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"542\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"542\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"554\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"554\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"566\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"566\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"578\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"578\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"590\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"590\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"602\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"602\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"614\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"614\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"626\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"626\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"638\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"638\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"650\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"650\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"662\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"662\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"674\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"674\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"686\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"686\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><rect x=\"712\" y=\"198\" width=\"68\" height=\"44\" fill=\"#fdf3e1\"/><circle cx=\"718\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"718\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"730\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"730\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"742\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"742\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"754\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"754\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"766\" cy=\"203\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><circle cx=\"766\" cy=\"237\" r=\"5\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"1.5\"/><path d=\"M690 198 l6 10 l-5 10 l7 10 l-6 14 M712 198 l-5 12 l6 9 l-6 10 l4 13\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"2\"/><path d=\"M118 242 Q120 300 160 302 Q200 300 202 242\" fill=\"#fdf3e1\" stroke=\"#b98a5e\" stroke-width=\"10\" stroke-opacity=\"0.55\"/><path d=\"M123.1 275.6 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M132.2 289.3 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M146.8 297.0 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M163.2 297.0 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M177.8 289.3 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M186.9 275.6 q5 14 10 0\" fill=\"none\" stroke=\"#ca8a04\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"40\" cy=\"430.0\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"48\" cy=\"442.0\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"56\" cy=\"433.9\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"64\" cy=\"438.1\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"72\" cy=\"434.9\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"80\" cy=\"437.1\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"88\" cy=\"432.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"96\" cy=\"439.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"104\" cy=\"427.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"112\" cy=\"444.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"425.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"128\" cy=\"446.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"136\" cy=\"426.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"144\" cy=\"445.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"152\" cy=\"430.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"441.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"168\" cy=\"434.0\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"176\" cy=\"438.0\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"184\" cy=\"434.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"192\" cy=\"437.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"200\" cy=\"432.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"208\" cy=\"439.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"216\" cy=\"427.7\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"224\" cy=\"444.3\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"232\" cy=\"425.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"240\" cy=\"446.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"248\" cy=\"426.2\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"256\" cy=\"445.8\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"264\" cy=\"430.2\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"272\" cy=\"441.8\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"280\" cy=\"434.0\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"288\" cy=\"438.0\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"296\" cy=\"434.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"304\" cy=\"437.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"312\" cy=\"432.0\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"320\" cy=\"440.0\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"328\" cy=\"427.6\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"336\" cy=\"444.4\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"344\" cy=\"425.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"352\" cy=\"446.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"360\" cy=\"426.2\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"368\" cy=\"445.8\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"376\" cy=\"430.3\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"384\" cy=\"441.7\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"392\" cy=\"434.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"400\" cy=\"437.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"408\" cy=\"434.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"416\" cy=\"437.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"424\" cy=\"431.9\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"432\" cy=\"440.1\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"440\" cy=\"427.6\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"448\" cy=\"444.4\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"456\" cy=\"425.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"464\" cy=\"446.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"472\" cy=\"426.3\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"480\" cy=\"445.7\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"488\" cy=\"430.3\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"496\" cy=\"441.7\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"504\" cy=\"434.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"512\" cy=\"437.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"520\" cy=\"434.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"528\" cy=\"437.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"536\" cy=\"431.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"544\" cy=\"440.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"552\" cy=\"427.5\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"560\" cy=\"444.5\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"568\" cy=\"425.1\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"576\" cy=\"446.9\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"584\" cy=\"426.4\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"592\" cy=\"445.6\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"600\" cy=\"430.4\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"608\" cy=\"441.6\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"616\" cy=\"434.2\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"624\" cy=\"437.8\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"632\" cy=\"434.8\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"640\" cy=\"437.2\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"648\" cy=\"431.7\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"656\" cy=\"440.3\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"664\" cy=\"427.4\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"672\" cy=\"444.6\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"680\" cy=\"425.0\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"688\" cy=\"447.0\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"696\" cy=\"426.4\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"704\" cy=\"445.6\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"712\" cy=\"430.5\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"720\" cy=\"441.5\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"728\" cy=\"434.2\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"736\" cy=\"437.8\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"744\" cy=\"434.7\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"752\" cy=\"437.3\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"760\" cy=\"431.7\" r=\"8\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><circle cx=\"768\" cy=\"440.3\" r=\"8\" fill=\"#e8957d\" stroke=\"#9a3412\" stroke-width=\"1.5\"/><rect x=\"378\" y=\"190\" width=\"24\" height=\"76\" rx=\"8\" fill=\"#0f766e\" stroke=\"#064e3b\" stroke-width=\"2.5\"/><rect x=\"384\" y=\"150\" width=\"12\" height=\"44\" fill=\"#14b8a6\" stroke=\"#0f766e\" stroke-width=\"2\"/><ellipse cx=\"390\" cy=\"132\" rx=\"38\" ry=\"26\" fill=\"#14b8a6\" stroke=\"#0f766e\" stroke-width=\"3\"/><path d=\"M364 112 l-6.5 -18 l-6 -14 M357.5 94 l7 -12\" fill=\"none\" stroke=\"#65a30d\" stroke-width=\"2.5\"/><polygon points=\"351.5,80 355.5,74 360.5,80 356.5,86\" fill=\"#84cc16\" stroke=\"#3f6212\" stroke-width=\"1\"/><path d=\"M381 112 l-2.2 -18 l-6 -14 M378.8 94 l7 -12\" fill=\"none\" stroke=\"#65a30d\" stroke-width=\"2.5\"/><polygon points=\"372.8,80 376.8,74 381.8,80 377.8,86\" fill=\"#84cc16\" stroke=\"#3f6212\" stroke-width=\"1\"/><path d=\"M399 112 l2.2 -18 l-6 -14 M401.2 94 l7 -12\" fill=\"none\" stroke=\"#65a30d\" stroke-width=\"2.5\"/><polygon points=\"395.2,80 399.2,74 404.2,80 400.2,86\" fill=\"#84cc16\" stroke=\"#3f6212\" stroke-width=\"1\"/><path d=\"M416 112 l6.5 -18 l-6 -14 M422.5 94 l7 -12\" fill=\"none\" stroke=\"#65a30d\" stroke-width=\"2.5\"/><polygon points=\"416.5,80 420.5,74 425.5,80 421.5,86\" fill=\"#84cc16\" stroke=\"#3f6212\" stroke-width=\"1\"/><rect x=\"440\" y=\"191.0\" width=\"13\" height=\"58\" rx=\"5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"2\"/><rect x=\"457\" y=\"188.0\" width=\"13\" height=\"64\" rx=\"5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"2\"/><rect x=\"474\" y=\"193.0\" width=\"13\" height=\"54\" rx=\"5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"2\"/><rect x=\"491\" y=\"190.0\" width=\"13\" height=\"60\" rx=\"5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"2\"/><polyline points=\"390.0,268.0 388.8,286.9 361.2,281.3 368.8,308.3 341.2,302.7 348.8,329.7 321.2,324.1 328.8,351.2 301.2,345.6 308.8,372.6 281.2,367.0 288.8,394.0 261.2,388.4 268.8,415.4 250.0,418.0\" fill=\"none\" stroke=\"#1d4ed8\" stroke-width=\"6\" stroke-linejoin=\"round\"/><circle cx=\"390\" cy=\"270\" r=\"9\" fill=\"#1d4ed8\"/><ellipse cx=\"250\" cy=\"418\" rx=\"13\" ry=\"9\" fill=\"#1d4ed8\"/><rect x=\"642\" y=\"192\" width=\"14\" height=\"60\" rx=\"6\" fill=\"#db2777\" stroke=\"#831843\" stroke-width=\"2\"/><circle cx=\"649.0\" cy=\"266\" r=\"10\" fill=\"#f472b6\" stroke=\"#831843\" stroke-width=\"2\"/><circle cx=\"658.6\" cy=\"285\" r=\"10\" fill=\"#f472b6\" stroke=\"#831843\" stroke-width=\"2\"/><circle cx=\"654.2\" cy=\"304\" r=\"10\" fill=\"#f472b6\" stroke=\"#831843\" stroke-width=\"2\"/><circle cx=\"642.1\" cy=\"323\" r=\"10\" fill=\"#f472b6\" stroke=\"#831843\" stroke-width=\"2\"/><circle cx=\"640.2\" cy=\"342\" r=\"10\" fill=\"#f472b6\" stroke=\"#831843\" stroke-width=\"2\"/><text x=\"28\" y=\"24\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"start\" font-style=\"italic\">Outside</text><text x=\"28\" y=\"488\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"start\" font-style=\"italic\">Inside (cytoplasm)</text>",
+   "labels": [
+    {
+     "name": "Extracellular matrix",
+     "accept": [
+      "ECM",
+      "basal lamina",
+      "basement membrane"
+     ],
+     "function": "Outer scaffold the fiber is anchored to",
+     "x": 150,
+     "y": 100
+    },
+    {
+     "name": "Sarcolemma",
+     "accept": [
+      "cell membrane",
+      "plasma membrane",
+      "muscle cell membrane",
+      "muscle fiber membrane"
+     ],
+     "function": "Fragile fiber membrane shielded from contraction stress",
+     "x": 290,
+     "y": 220
+    },
+    {
+     "name": "α-dystroglycan",
+     "accept": [
+      "alpha-dystroglycan",
+      "alpha dystroglycan",
+      "a-dystroglycan"
+     ],
+     "function": "Glycosylated outer subunit; faulty glycosylation causes LGMD",
+     "x": 390,
+     "y": 132,
+     "lx": 470,
+     "ly": 60
+    },
+    {
+     "name": "β-dystroglycan",
+     "accept": [
+      "beta-dystroglycan",
+      "beta dystroglycan",
+      "b-dystroglycan"
+     ],
+     "function": "Transmembrane anchor bound by the cytoplasmic linker rod",
+     "x": 390,
+     "y": 214,
+     "lx": 318,
+     "ly": 292
+    },
+    {
+     "name": "Sarcoglycans",
+     "accept": [
+      "sarcoglycan",
+      "sarcoglycan complex",
+      "alpha beta gamma delta sarcoglycans"
+     ],
+     "function": "α, β, γ, δ subunits stabilizing the complex; mutated in LGMD",
+     "x": 471,
+     "y": 220,
+     "lx": 540,
+     "ly": 300
+    },
+    {
+     "name": "Dystrophin",
+     "accept": [
+      "dystrophin protein"
+     ],
+     "function": "Cytoplasmic shock-absorber rod; absent in DMD, truncated in BMD",
+     "x": 320,
+     "y": 343,
+     "lx": 200,
+     "ly": 330
+    },
+    {
+     "name": "Actin",
+     "accept": [
+      "actin filament",
+      "F-actin",
+      "actin cytoskeleton",
+      "cytoskeleton"
+     ],
+     "function": "Intracellular filament anchored to the membrane complex",
+     "x": 560,
+     "y": 436,
+     "lx": 560,
+     "ly": 476
+    },
+    {
+     "name": "Caveolin-3",
+     "accept": [
+      "caveolin 3",
+      "caveolin",
+      "cav3"
+     ],
+     "function": "Organizes membrane and its signaling; mutated in some LGMD",
+     "x": 132,
+     "y": 280,
+     "lx": 70,
+     "ly": 330
+    },
+    {
+     "name": "Dysferlin",
+     "accept": [
+      "dysferlin protein"
+     ],
+     "function": "Repairs microtears from contraction; mutated in LGMD",
+     "x": 649,
+     "y": 304,
+     "lx": 730,
+     "ly": 330
+    }
+   ]
+  },
+  {
+   "title": "Muscular dystrophies: characteristic sites of involvement (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><polyline points=\"138,122 112,205 96,285\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"138,122 112,205 96,285\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"262,122 288,205 304,285\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"29\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"262,122 288,205 304,285\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"24\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"94\" cy=\"303\" rx=\"12\" ry=\"17\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"306\" cy=\"303\" rx=\"12\" ry=\"17\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><polyline points=\"170,290 164,385 162,466\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"41\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"170,290 164,385 162,466\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"230,290 236,385 238,466\" fill=\"none\" stroke=\"#b98a5e\" stroke-width=\"41\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"230,290 236,385 238,466\" fill=\"none\" stroke=\"#f1d3b3\" stroke-width=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"154\" cy=\"478\" rx=\"20\" ry=\"8\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"246\" cy=\"478\" rx=\"20\" ry=\"8\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><path d=\"M140 112 Q200 102 260 112 Q276 120 272 150 L258 292 Q200 306 142 292 L128 150 Q124 120 140 112 Z\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><rect x=\"188\" y=\"88\" width=\"24\" height=\"24\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"2.5\"/><ellipse cx=\"200\" cy=\"60\" rx=\"28\" ry=\"34\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><path d=\"M192 135 Q150 128 148 172 Q146 214 188 212 Z\" fill=\"#fbcfe8\" stroke=\"#be6b8a\" stroke-width=\"2.5\"/><path d=\"M208 135 Q250 128 252 172 Q254 214 212 212 Z\" fill=\"#fbcfe8\" stroke=\"#be6b8a\" stroke-width=\"2.5\"/><path d=\"M142 232 Q170 196 200 204 Q230 196 258 232\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M142 232 Q170 196 200 204 Q230 196 258 232\" fill=\"none\" stroke=\"#e07a5f\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M196 168 q16 -18 30 0 q10 16 -20 34 q-24 -14 -16 -30 q4 -8 6 -4 Z\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"2\"/><rect x=\"180\" y=\"236\" width=\"40\" height=\"22\" rx=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><rect x=\"180\" y=\"262\" width=\"40\" height=\"26\" rx=\"5\" fill=\"#f5d0c5\" stroke=\"#9a3412\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><circle cx=\"200\" cy=\"260\" r=\"3.5\" fill=\"#7c6a4f\"/><path d=\"M230 266 l0 -18 m-5 6 l5 -6 l5 6\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><ellipse cx=\"124\" cy=\"166\" rx=\"5\" ry=\"26\" transform=\"rotate(19 124 166)\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"276\" cy=\"166\" rx=\"10\" ry=\"28\" transform=\"rotate(-19 276 166)\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><ellipse cx=\"156\" cy=\"298\" rx=\"20\" ry=\"13\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"244\" cy=\"298\" rx=\"20\" ry=\"13\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"163\" cy=\"424\" rx=\"23\" ry=\"30\" fill=\"#fde68a\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"237\" cy=\"424\" rx=\"23\" ry=\"30\" fill=\"#fde68a\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><ellipse cx=\"306\" cy=\"304\" rx=\"9\" ry=\"12\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/><line x1=\"226\" y1=\"50\" x2=\"462\" y2=\"110\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"590\" cy=\"150\" r=\"128\" fill=\"#fffdf8\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><ellipse cx=\"590\" cy=\"156\" rx=\"80\" ry=\"104\" fill=\"#f1d3b3\" stroke=\"#b98a5e\" stroke-width=\"3\"/><path d=\"M510 160 Q504 100 538 68 Q528 110 522 158 Z\" fill=\"#6b4a2f\"/><path d=\"M670 160 Q676 100 642 68 Q652 110 658 158 Z\" fill=\"#6b4a2f\"/><ellipse cx=\"558\" cy=\"152\" rx=\"16\" ry=\"7\" fill=\"#fff\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"558\" cy=\"153\" r=\"4.5\" fill=\"#3b1d0a\"/><path d=\"M539 151 Q558 132 577 151 Q558 155 539 151 Z\" fill=\"#e8bf98\" stroke=\"#9a6b48\" stroke-width=\"2\"/><path d=\"M540 130 L576 132\" stroke=\"#6b4a2f\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><ellipse cx=\"622\" cy=\"152\" rx=\"16\" ry=\"7\" fill=\"#fff\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"622\" cy=\"153\" r=\"4.5\" fill=\"#3b1d0a\"/><path d=\"M603 151 Q622 132 641 151 Q622 155 603 151 Z\" fill=\"#e8bf98\" stroke=\"#9a6b48\" stroke-width=\"2\"/><path d=\"M604 130 L640 132\" stroke=\"#6b4a2f\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><path d=\"M590 156 L582 188 Q590 192 598 188\" fill=\"none\" stroke=\"#9a6b48\" stroke-width=\"2.5\"/><ellipse cx=\"590\" cy=\"218\" rx=\"30\" ry=\"15\" fill=\"none\" stroke=\"#e07a5f\" stroke-width=\"7\"/><line x1=\"570\" y1=\"218\" x2=\"610\" y2=\"218\" stroke=\"#9a3412\" stroke-width=\"3\"/><text x=\"200\" y=\"20\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\" font-style=\"italic\">Anterior view</text>",
+   "labels": [
+    {
+     "name": "Frontal scalp",
+     "accept": [
+      "forehead",
+      "frontal hairline",
+      "scalp",
+      "hairline"
+     ],
+     "function": "Balding here is a hallmark of myotonic dystrophy",
+     "x": 590,
+     "y": 80,
+     "lx": 610,
+     "ly": 38
+    },
+    {
+     "name": "Upper eyelid",
+     "accept": [
+      "eyelid",
+      "eyelids",
+      "levator palpebrae"
+     ],
+     "function": "Ptosis, with facial weakness, in myotonic dystrophy type 1",
+     "x": 622,
+     "y": 144,
+     "lx": 700,
+     "ly": 120
+    },
+    {
+     "name": "Facial muscles",
+     "accept": [
+      "orbicularis oris",
+      "muscles of facial expression",
+      "perioral muscles",
+      "face muscles"
+     ],
+     "function": "Earliest FSHD weakness: can't smile, pucker or shut the eyes",
+     "x": 620,
+     "y": 218,
+     "lx": 690,
+     "ly": 245
+    },
+    {
+     "name": "Biceps",
+     "accept": [
+      "biceps brachii"
+     ],
+     "function": "Asymmetric atrophy here is a sign of FSHD",
+     "x": 124,
+     "y": 166,
+     "lx": 70,
+     "ly": 140
+    },
+    {
+     "name": "Heart",
+     "accept": [
+      "myocardium"
+     ],
+     "function": "Dilated cardiomyopathy; main adult cause of death in DMD/BMD",
+     "x": 214,
+     "y": 180,
+     "lx": 330,
+     "ly": 160
+    },
+    {
+     "name": "Diaphragm",
+     "accept": [],
+     "function": "Inspiratory weakness causes respiratory failure and pneumonia",
+     "x": 170,
+     "y": 208,
+     "lx": 70,
+     "ly": 215
+    },
+    {
+     "name": "Lower abdominal muscles",
+     "accept": [
+      "lower rectus abdominis",
+      "lower abdominal wall",
+      "rectus abdominis",
+      "abdominal muscles"
+     ],
+     "function": "Weakness lets the navel rise on head lift (Beevor sign)",
+     "x": 200,
+     "y": 276,
+     "lx": 330,
+     "ly": 280
+    },
+    {
+     "name": "Pelvic girdle muscles",
+     "accept": [
+      "hip girdle muscles",
+      "hip muscles",
+      "gluteal muscles",
+      "pelvic girdle"
+     ],
+     "function": "Proximal LGMD weakness: stairs, rising from a seat",
+     "x": 156,
+     "y": 298,
+     "lx": 70,
+     "ly": 320
+    },
+    {
+     "name": "Calf muscles",
+     "accept": [
+      "calves",
+      "calf",
+      "gastrocnemius",
+      "calf muscle"
+     ],
+     "function": "Enlarged by fat replacement (pseudohypertrophy) in DMD/BMD",
+     "x": 237,
+     "y": 424,
+     "lx": 330,
+     "ly": 430
+    },
+    {
+     "name": "Hand muscles",
+     "accept": [
+      "hand",
+      "intrinsic hand muscles",
+      "distal hand muscles"
+     ],
+     "function": "Distal weakness and grip myotonia of myotonic dystrophy 1",
+     "x": 306,
+     "y": 304,
+     "lx": 340,
+     "ly": 345
+    }
+   ]
+  }
+ ]
+}

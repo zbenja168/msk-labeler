@@ -1,0 +1,216 @@
+{
+ "brick": 21,
+ "title": "Upper Extremity Nerve Entrapment Syndromes",
+ "diagrams": [
+  {
+   "title": "Carpal tunnel and Guyon canal, wrist cross-section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"270\" rx=\"330\" ry=\"200\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<ellipse cx=\"282\" cy=\"352\" rx=\"50\" ry=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"388\" cy=\"380\" rx=\"55\" ry=\"44\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"492\" cy=\"364\" rx=\"48\" ry=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M128 330 Q120 280 160 262 Q185 250 205 268 Q228 292 222 330 Q212 365 172 366 Q135 362 128 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M190 232 Q196 205 214 188 L226 172 L240 186 Q262 205 262 232 Q258 262 226 266 Q194 262 190 232 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M540 330 Q538 296 560 290 L562 236 Q566 206 588 198 Q604 196 606 214 L600 290 Q624 300 622 332 Q614 366 580 366 Q546 362 540 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"690\" cy=\"268\" rx=\"32\" ry=\"30\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<g fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"><circle cx=\"300\" cy=\"248\" r=\"15\"/><circle cx=\"412\" cy=\"232\" r=\"15\"/><circle cx=\"462\" cy=\"244\" r=\"15\"/><circle cx=\"512\" cy=\"260\" r=\"14\"/><circle cx=\"335\" cy=\"290\" r=\"15\"/><circle cx=\"392\" cy=\"282\" r=\"15\"/><circle cx=\"450\" cy=\"290\" r=\"15\"/><circle cx=\"255\" cy=\"290\" r=\"13\"/></g>\n<ellipse cx=\"355\" cy=\"198\" rx=\"27\" ry=\"16\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2.5\"/>\n<path d=\"M232 192 Q400 118 572 204\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"17\" stroke-linecap=\"round\"/>\n<path d=\"M232 192 Q400 118 572 204\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"12\" stroke-linecap=\"round\"/>\n<circle cx=\"322\" cy=\"132\" r=\"8\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2.5\"/>\n<ellipse cx=\"634\" cy=\"208\" rx=\"17\" ry=\"14\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2.5\"/>\n<path d=\"M592 196 Q636 120 712 246\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"10\" stroke-linecap=\"round\"/>\n<path d=\"M592 196 Q636 120 712 246\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\"><text x=\"372\" y=\"44\">Palmar</text><text x=\"374\" y=\"494\">Dorsal</text><text x=\"8\" y=\"262\">Lateral</text><text x=\"8\" y=\"282\">(radial)</text><text x=\"736\" y=\"262\">Medial</text><text x=\"736\" y=\"282\">(ulnar)</text></g>",
+   "labels": [
+    {
+     "name": "Flexor retinaculum",
+     "accept": [
+      "transverse carpal ligament",
+      "TCL",
+      "flexor retinaculum ligament"
+     ],
+     "function": "Roof of the median tunnel; divided in its release surgery",
+     "x": 470,
+     "y": 158,
+     "lx": 470,
+     "ly": 108
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Thumb, index, middle, radial ring sensation; thumb opposition",
+     "x": 355,
+     "y": 198
+    },
+    {
+     "name": "Palmar cutaneous branch of the median nerve",
+     "accept": [
+      "palmar cutaneous branch",
+      "palmar cutaneous nerve"
+     ],
+     "function": "Exits proximal to the tunnel, so thenar and central palm skin is spared",
+     "x": 322,
+     "y": 132,
+     "lx": 290,
+     "ly": 92
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Compressed in its wrist canal by handlebars; grip and pinch weakness",
+     "x": 634,
+     "y": 208
+    },
+    {
+     "name": "Palmar carpal ligament",
+     "accept": [
+      "volar carpal ligament"
+     ],
+     "function": "Roof of Guyon canal; divided in Guyon canal release",
+     "x": 690,
+     "y": 200,
+     "lx": 740,
+     "ly": 160
+    },
+    {
+     "name": "Hook of the hamate",
+     "accept": [
+      "hamate",
+      "hook of hamate",
+      "hamulus"
+     ],
+     "function": "Medial tunnel pillar; lateral wall of Guyon canal",
+     "x": 584,
+     "y": 250
+    },
+    {
+     "name": "Pisiform",
+     "accept": [
+      "pisiform bone"
+     ],
+     "function": "Medial-most wall of Guyon canal; medial carpal tunnel border",
+     "x": 692,
+     "y": 278
+    },
+    {
+     "name": "Tubercle of the scaphoid",
+     "accept": [
+      "scaphoid tubercle",
+      "scaphoid"
+     ],
+     "function": "Lateral (radial) tunnel attachment in the proximal carpal row",
+     "x": 172,
+     "y": 318
+    },
+    {
+     "name": "Ridge of the trapezium",
+     "accept": [
+      "trapezium ridge",
+      "trapezium"
+     ],
+     "function": "Lateral (radial) tunnel attachment in the distal carpal row",
+     "x": 226,
+     "y": 225
+    }
+   ]
+  },
+  {
+   "title": "Median and ulnar nerve entrapment sites, anterior limb (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<g fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\" stroke-linejoin=\"round\"><path d=\"M20 172 L232 160 L540 204 L540 312 L232 342 L20 328 Z\"/><path d=\"M540 200 L690 190 L692 338 L540 314 Z\"/><rect x=\"680\" y=\"192\" width=\"98\" height=\"30\" rx=\"14\"/><rect x=\"680\" y=\"230\" width=\"104\" height=\"30\" rx=\"14\"/><rect x=\"680\" y=\"268\" width=\"98\" height=\"30\" rx=\"14\"/><rect x=\"680\" y=\"306\" width=\"84\" height=\"30\" rx=\"14\"/><path d=\"M572 204 Q600 150 640 108 Q656 96 666 110 Q664 130 640 160 Q620 190 620 200 Z\"/></g>\n<ellipse cx=\"606\" cy=\"190\" rx=\"34\" ry=\"15\" transform=\"rotate(-38 606 190)\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<ellipse cx=\"232\" cy=\"356\" rx=\"28\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<g fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 238 L232 244 L560 252 L640 252\"/><path d=\"M640 252 L690 210 M640 252 L690 246 M640 252 L690 276\"/><path d=\"M585 252 Q598 222 606 194\"/></g>\n<g fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"><path d=\"M20 306 L198 318\"/><path d=\"M198 318 L266 320\" stroke-dasharray=\"9 7\"/><path d=\"M266 320 Q400 312 545 299 L640 300 L690 288 M640 300 L690 322\"/></g>\n<path d=\"M462 305 Q482 326 476 364 Q470 392 486 420\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-dasharray=\"10 6\"/>\n<rect x=\"200\" y=\"306\" width=\"62\" height=\"26\" rx=\"10\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/>\n<rect x=\"548\" y=\"226\" width=\"30\" height=\"52\" rx=\"6\" fill=\"#f5f0e1\" fill-opacity=\"0.75\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<rect x=\"548\" y=\"287\" width=\"30\" height=\"24\" rx=\"6\" fill=\"#f5f0e1\" fill-opacity=\"0.75\" stroke=\"#78716c\" stroke-width=\"3\"/>\n<path d=\"M498 251 Q520 214 562 212 Q612 214 640 236\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\"><text x=\"330\" y=\"40\">Lateral (thumb side)</text><text x=\"360\" y=\"478\">Medial</text><text x=\"20\" y=\"140\">Proximal (arm)</text><text x=\"690\" y=\"420\">Distal</text><text x=\"492\" y=\"440\" font-size=\"13\" font-weight=\"400\">to back of hand</text><text x=\"210\" y=\"398\" font-size=\"13\" font-weight=\"400\">Elbow</text><text x=\"515\" y=\"180\" font-size=\"13\" font-weight=\"400\">Wrist</text></g>",
+   "labels": [
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Thumb-to-radial-ring sensation; thumb abduction and opposition",
+     "x": 360,
+     "y": 247,
+     "lx": 360,
+     "ly": 205
+    },
+    {
+     "name": "Carpal tunnel",
+     "accept": [
+      "carpal tunnel at the wrist"
+     ],
+     "function": "Most common entrapment site; probed by Tinel and Phalen tests",
+     "x": 563,
+     "y": 240
+    },
+    {
+     "name": "Palmar cutaneous branch of the median nerve",
+     "accept": [
+      "palmar cutaneous branch",
+      "palmar cutaneous nerve"
+     ],
+     "function": "Runs superficial to the retinaculum; thenar skin stays normal",
+     "x": 530,
+     "y": 216,
+     "lx": 455,
+     "ly": 140
+    },
+    {
+     "name": "Thenar muscles",
+     "accept": [
+      "thenar eminence",
+      "thenar",
+      "thenar muscle"
+     ],
+     "function": "Atrophy here implies chronic or severe median compression",
+     "x": 606,
+     "y": 190,
+     "lx": 650,
+     "ly": 160
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Supplies little-finger skin; controls finger abduction/adduction",
+     "x": 110,
+     "y": 312,
+     "lx": 110,
+     "ly": 360
+    },
+    {
+     "name": "Medial epicondyle",
+     "accept": [
+      "medial epicondyle of the humerus"
+     ],
+     "function": "Bony landmark the nerve passes behind at the elbow",
+     "x": 232,
+     "y": 362,
+     "lx": 290,
+     "ly": 420
+    },
+    {
+     "name": "Cubital tunnel",
+     "accept": [
+      "cubital"
+     ],
+     "function": "Elbow flexion raises its pressure; 2nd most common entrapment",
+     "x": 231,
+     "y": 319,
+     "lx": 231,
+     "ly": 272
+    },
+    {
+     "name": "Guyon canal",
+     "accept": [
+      "ulnar tunnel",
+      "guyon's canal",
+      "guyon",
+      "canal of guyon"
+     ],
+     "function": "4-cm wrist canal between pisiform and hamate; cycling compresses it",
+     "x": 563,
+     "y": 299
+    },
+    {
+     "name": "Dorsal cutaneous branch of the ulnar nerve",
+     "accept": [
+      "dorsal cutaneous branch",
+      "dorsal branch of the ulnar nerve"
+     ],
+     "function": "Leaves above the wrist; its back-of-hand area is spared at the wrist",
+     "x": 478,
+     "y": 352,
+     "lx": 420,
+     "ly": 400
+    }
+   ]
+  }
+ ]
+}

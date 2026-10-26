@@ -1,0 +1,4 @@
+node_modules
+dist
+_renders/
+__pycache__/

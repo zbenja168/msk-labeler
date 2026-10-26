@@ -1,0 +1,329 @@
+{
+ "brick": 13,
+ "title": "Functional Anatomy of the Shoulder & Arm",
+ "diagrams": [
+  {
+   "title": "Brachial plexus (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<g fill=\"none\" stroke=\"#eab308\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M70 70 L230 120 M70 150 L230 120 M70 240 L230 240 M70 330 L230 360 M70 410 L230 360\"/><path d=\"M230 120 L330 120 M230 240 L330 240 M230 360 L330 360\"/><path d=\"M330 120 L480 140 M330 240 L480 140 M330 360 L480 360\"/><path d=\"M330 120 L480 250 M330 240 L480 250 M330 360 L480 250\" stroke=\"#a16207\" stroke-dasharray=\"2 10\"/><path d=\"M480 140 L560 140 M480 250 L560 250 M480 360 L560 360\"/><path d=\"M560 140 L730 85 M560 140 L630 330 M560 360 L630 330 L730 345 M560 250 L730 190 M560 250 L730 270 M560 360 L730 440\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"18\" font-weight=\"700\"><text x=\"22\" y=\"76\">C5</text><text x=\"22\" y=\"156\">C6</text><text x=\"22\" y=\"246\">C7</text><text x=\"22\" y=\"336\">C8</text><text x=\"25\" y=\"416\">T1</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"70\" y=\"470\">Roots</text><text x=\"250\" y=\"470\">Trunks</text><text x=\"370\" y=\"470\">Divisions</text><text x=\"500\" y=\"470\">Cords</text><text x=\"640\" y=\"470\">Branches</text><text x=\"300\" y=\"492\" fill=\"#6b4a14\" font-size=\"13\">dashed lines = posterior divisions</text></g>",
+   "labels": [
+    {
+     "name": "Upper trunk",
+     "accept": [
+      "superior trunk"
+     ],
+     "function": "Formed by C5-C6; injury causes Erb-Duchenne palsy",
+     "x": 280,
+     "y": 120
+    },
+    {
+     "name": "Middle trunk",
+     "accept": [],
+     "function": "Continuation of the C7 root by itself",
+     "x": 280,
+     "y": 240
+    },
+    {
+     "name": "Lower trunk",
+     "accept": [
+      "inferior trunk"
+     ],
+     "function": "Formed by the C8 and T1 roots",
+     "x": 280,
+     "y": 360
+    },
+    {
+     "name": "Lateral cord",
+     "accept": [],
+     "function": "Formed by anterior divisions of the C5-C7 trunks",
+     "x": 520,
+     "y": 140
+    },
+    {
+     "name": "Posterior cord",
+     "accept": [],
+     "function": "Union of all three posterior divisions",
+     "x": 520,
+     "y": 250
+    },
+    {
+     "name": "Medial cord",
+     "accept": [],
+     "function": "Formed by the anterior division of the C8-T1 trunk",
+     "x": 520,
+     "y": 360
+    },
+    {
+     "name": "Musculocutaneous nerve",
+     "accept": [
+      "musculocutaneous"
+     ],
+     "function": "Anterior arm compartment (elbow flexors); lateral forearm skin",
+     "x": 690,
+     "y": 98
+    },
+    {
+     "name": "Axillary nerve",
+     "accept": [
+      "axillary"
+     ],
+     "function": "Deltoid and teres minor; at risk in surgical neck fracture",
+     "x": 690,
+     "y": 204
+    },
+    {
+     "name": "Radial nerve",
+     "accept": [
+      "radial"
+     ],
+     "function": "Posterior arm and forearm; midshaft fracture causes wrist drop",
+     "x": 690,
+     "y": 267
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Most anterior forearm muscles and selected hand muscles",
+     "x": 690,
+     "y": 343
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Selected forearm muscles and many intrinsic hand muscles",
+     "x": 690,
+     "y": 426
+    }
+   ]
+  },
+  {
+   "title": "Right shoulder, posterior view: rotator cuff and spaces (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M30 0 L30 500\" stroke=\"#f1d3b3\" stroke-width=\"0\"/>\n<polygon points=\"200,95 395,112 440,168 452,215 432,240 268,448 205,300\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M500 230 L540 230 L560 495 L515 495 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<circle cx=\"515\" cy=\"200\" r=\"44\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M250 420 Q300 372 495 305 L505 335 Q330 400 280 446 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M212 104 L390 120 L470 150 L548 168 L552 186 L470 178 L380 160 L212 158 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M214 192 L440 178 L555 205 L556 226 L440 222 L300 318 L222 290 Z\" fill=\"#f08a6c\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M310 325 L438 236 L555 238 L552 260 L440 262 L330 345 Z\" fill=\"#d9603f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M432 246 L456 246 L478 495 L440 495 Z\" fill=\"#e8907a\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M205 172 L470 140 L475 154 L210 186 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M462 128 Q520 104 575 128 L572 150 Q520 138 470 158 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M470 285 Q490 280 520 268 Q548 258 566 270\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<path d=\"M470 360 Q498 372 512 400 Q530 432 556 455\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"40\" y=\"40\" font-weight=\"700\">Right shoulder, posterior view</text><text x=\"60\" y=\"250\">Medial</text><text x=\"660\" y=\"250\">Lateral</text></g>",
+   "labels": [
+    {
+     "name": "Supraspinatus",
+     "accept": [
+      "supraspinatus muscle"
+     ],
+     "function": "Initiates abduction (first ~15 degrees); tendon most often torn",
+     "x": 300,
+     "y": 138,
+     "lx": 300,
+     "ly": 70
+    },
+    {
+     "name": "Infraspinatus",
+     "accept": [
+      "infraspinatus muscle"
+     ],
+     "function": "Lateral rotation; nerve passes through the scapular notch",
+     "x": 300,
+     "y": 240
+    },
+    {
+     "name": "Teres minor",
+     "accept": [
+      "teres minor muscle"
+     ],
+     "function": "Lateral rotation; shares its nerve with the deltoid",
+     "x": 420,
+     "y": 262,
+     "lx": 380,
+     "ly": 300
+    },
+    {
+     "name": "Teres major",
+     "accept": [
+      "teres major muscle"
+     ],
+     "function": "Extends, adducts, medially rotates; lower subscapular nerve",
+     "x": 340,
+     "y": 388,
+     "lx": 300,
+     "ly": 440
+    },
+    {
+     "name": "Long head of triceps brachii",
+     "accept": [
+      "long head of triceps",
+      "triceps long head",
+      "long head"
+     ],
+     "function": "Arises from infraglenoid tubercle; extends and adducts the arm",
+     "x": 458,
+     "y": 420,
+     "lx": 400,
+     "ly": 470
+    },
+    {
+     "name": "Spine of scapula",
+     "accept": [
+      "scapular spine",
+      "spine"
+     ],
+     "function": "Bony ridge dividing the upper and lower posterior fossae",
+     "x": 340,
+     "y": 162,
+     "lx": 230,
+     "ly": 72
+    },
+    {
+     "name": "Acromion",
+     "accept": [
+      "acromion process"
+     ],
+     "function": "Articulates with the clavicle; roof over the cuff tendon",
+     "x": 525,
+     "y": 124,
+     "lx": 560,
+     "ly": 70
+    },
+    {
+     "name": "Axillary nerve",
+     "accept": [
+      "axillary"
+     ],
+     "function": "Passes the quadrangular space; at risk in surgical neck fracture",
+     "x": 525,
+     "y": 266,
+     "lx": 640,
+     "ly": 300
+    },
+    {
+     "name": "Radial nerve",
+     "accept": [
+      "radial"
+     ],
+     "function": "Exits the triangular interval; at risk in midshaft fracture",
+     "x": 518,
+     "y": 410,
+     "lx": 640,
+     "ly": 410
+    }
+   ]
+  },
+  {
+   "title": "Right arm cross-section: anterior and posterior compartments (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"255\" rx=\"265\" ry=\"205\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/>\n<path d=\"M170 300 Q200 440 400 452 Q600 440 640 300 L470 282 Q420 330 365 282 Z\" fill=\"#d9603f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M330 225 Q340 175 415 170 Q510 175 520 230 Q470 205 418 222 Q370 205 330 225 Z\" fill=\"#c95a3c\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<ellipse cx=\"405\" cy=\"112\" rx=\"130\" ry=\"52\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<line x1=\"405\" y1=\"62\" x2=\"405\" y2=\"162\" stroke=\"#9a3412\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/>\n<path d=\"M375 262 L150 270 M455 258 L660 250\" stroke=\"#a8a29e\" stroke-width=\"4\"/>\n<circle cx=\"418\" cy=\"262\" r=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"4\"/><circle cx=\"418\" cy=\"262\" r=\"17\" fill=\"#f5e7c8\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/>\n<circle cx=\"232\" cy=\"218\" r=\"13\" fill=\"#dc2626\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"212\" cy=\"188\" r=\"10\" fill=\"#eab308\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"230\" cy=\"296\" r=\"10\" fill=\"#eab308\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"320\" cy=\"168\" r=\"9\" fill=\"#eab308\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"472\" cy=\"298\" r=\"10\" fill=\"#eab308\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"496\" cy=\"292\" r=\"8\" fill=\"#dc2626\" stroke=\"#fff\" stroke-width=\"2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"700\"><text x=\"365\" y=\"35\">Anterior</text><text x=\"360\" y=\"487\">Posterior</text><text x=\"18\" y=\"260\">Medial</text><text x=\"712\" y=\"260\">Lateral</text></g><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\"><text x=\"560\" y=\"40\">Right arm, mid-shaft</text><text x=\"560\" y=\"56\">cross-section, from above</text></g>",
+   "labels": [
+    {
+     "name": "Biceps brachii",
+     "accept": [
+      "biceps",
+      "biceps brachii muscle"
+     ],
+     "function": "Flexes elbow and is a powerful supinator of the forearm",
+     "x": 460,
+     "y": 105
+    },
+    {
+     "name": "Brachialis",
+     "accept": [
+      "brachialis muscle"
+     ],
+     "function": "Pure, primary elbow flexor acting on the ulna",
+     "x": 470,
+     "y": 198,
+     "lx": 560,
+     "ly": 170
+    },
+    {
+     "name": "Triceps brachii",
+     "accept": [
+      "triceps",
+      "triceps brachii muscle"
+     ],
+     "function": "Primary elbow extensor; inserts on the olecranon",
+     "x": 400,
+     "y": 400
+    },
+    {
+     "name": "Humerus",
+     "accept": [
+      "humeral shaft",
+      "shaft of humerus"
+     ],
+     "function": "Single long bone of the arm",
+     "x": 418,
+     "y": 262,
+     "lx": 340,
+     "ly": 330
+    },
+    {
+     "name": "Musculocutaneous nerve",
+     "accept": [
+      "musculocutaneous"
+     ],
+     "function": "Supplies every anterior compartment muscle of the arm",
+     "x": 320,
+     "y": 168,
+     "lx": 290,
+     "ly": 120
+    },
+    {
+     "name": "Median nerve",
+     "accept": [
+      "median"
+     ],
+     "function": "Most anterior forearm muscles and selected hand muscles",
+     "x": 212,
+     "y": 188,
+     "lx": 150,
+     "ly": 140
+    },
+    {
+     "name": "Brachial artery",
+     "accept": [
+      "brachial"
+     ],
+     "function": "Primary arterial supply of the arm; palpable pulse point",
+     "x": 232,
+     "y": 218,
+     "lx": 120,
+     "ly": 215
+    },
+    {
+     "name": "Ulnar nerve",
+     "accept": [
+      "ulnar"
+     ],
+     "function": "Selected forearm muscles and many intrinsic hand muscles",
+     "x": 230,
+     "y": 296,
+     "lx": 140,
+     "ly": 340
+    },
+    {
+     "name": "Radial nerve",
+     "accept": [
+      "radial"
+     ],
+     "function": "Supplies the posterior compartment; injury causes wrist drop",
+     "x": 472,
+     "y": 298,
+     "lx": 530,
+     "ly": 350
+    },
+    {
+     "name": "Deep brachial artery",
+     "accept": [
+      "profunda brachii",
+      "profunda brachii artery",
+      "deep brachial"
+     ],
+     "function": "Largest branch of the arm's main artery; posterior compartment",
+     "x": 496,
+     "y": 292,
+     "lx": 600,
+     "ly": 300
+    }
+   ]
+  }
+ ]
+}

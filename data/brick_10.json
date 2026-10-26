@@ -1,0 +1,298 @@
+{
+ "brick": 10,
+ "title": "Neuromuscular Junction Disorders",
+ "diagrams": [
+  {
+   "title": "Neuromuscular junction: sites of disease and drug action (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"380\" y=\"6\" width=\"40\" height=\"44\" rx=\"12\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<rect x=\"380\" y=\"58\" width=\"40\" height=\"44\" rx=\"12\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<line x1=\"400\" y1=\"0\" x2=\"400\" y2=\"112\" stroke=\"#eab308\" stroke-width=\"7\"/>\n<ellipse cx=\"400\" cy=\"185\" rx=\"190\" ry=\"80\" fill=\"#fef3c7\" stroke=\"#ca8a04\" stroke-width=\"3\"/>\n<line x1=\"400\" y1=\"100\" x2=\"400\" y2=\"112\" stroke=\"#eab308\" stroke-width=\"7\"/>\n<circle cx=\"300\" cy=\"175\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"295\" cy=\"171\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"304\" cy=\"170\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"300\" cy=\"179\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"306\" cy=\"179\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"295\" cy=\"180\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"345\" cy=\"145\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"340\" cy=\"141\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"349\" cy=\"140\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"345\" cy=\"149\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"351\" cy=\"149\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"340\" cy=\"150\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"455\" cy=\"145\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"450\" cy=\"141\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"459\" cy=\"140\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"455\" cy=\"149\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"461\" cy=\"149\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"450\" cy=\"150\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"505\" cy=\"180\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"500\" cy=\"176\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"509\" cy=\"175\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"505\" cy=\"184\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"511\" cy=\"184\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"500\" cy=\"185\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"400\" cy=\"170\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"395\" cy=\"166\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"404\" cy=\"165\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"400\" cy=\"174\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"406\" cy=\"174\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"395\" cy=\"175\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"345\" cy=\"210\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"340\" cy=\"206\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"349\" cy=\"205\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"345\" cy=\"214\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"351\" cy=\"214\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"340\" cy=\"215\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"455\" cy=\"210\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"450\" cy=\"206\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"459\" cy=\"205\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"455\" cy=\"214\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"461\" cy=\"214\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"450\" cy=\"215\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"400\" cy=\"244\" r=\"15\" fill=\"#ffffff\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<circle cx=\"395\" cy=\"240\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"404\" cy=\"239\" r=\"1.8\" fill=\"#9a3412\"/>\n<circle cx=\"400\" cy=\"248\" r=\"1.8\" fill=\"#9a3412\"/>\n<path d=\"M389 252 L394 266 M396 257 L401 266 M404 257 L399 266 M411 252 L406 266\" stroke=\"#db2777\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<circle cx=\"380\" cy=\"284\" r=\"2\" fill=\"#9a3412\"/>\n<circle cx=\"425\" cy=\"288\" r=\"2\" fill=\"#9a3412\"/>\n<circle cx=\"360\" cy=\"296\" r=\"2\" fill=\"#9a3412\"/>\n<circle cx=\"440\" cy=\"300\" r=\"2\" fill=\"#9a3412\"/>\n<rect x=\"253\" y=\"227.9888933635857\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#16a34a\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"264\" y=\"227.9888933635857\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#16a34a\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"223\" y=\"210.3670867070885\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#16a34a\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"234\" y=\"210.3670867070885\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#16a34a\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"529\" y=\"227.9888933635857\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#7c3aed\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"540\" y=\"227.9888933635857\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#7c3aed\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"559\" y=\"210.3670867070885\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#7c3aed\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<rect x=\"570\" y=\"210.3670867070885\" width=\"7\" height=\"24\" rx=\"2\" fill=\"#7c3aed\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<path d=\"M120 322 L205 322 L209 377 L221 377 L225 322 L285 322 L289 377 L301 377 L305 322 L365 322 L369 377 L381 377 L385 322 L445 322 L449 377 L461 377 L465 322 L525 322 L529 377 L541 377 L545 322 L605 322 L609 377 L621 377 L625 322 L680 322 L680 500 L120 500 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"3\" stroke-linejoin=\"round\"/>\n<line x1=\"140\" y1=\"420\" x2=\"660\" y2=\"420\" stroke=\"#9a3412\" stroke-width=\"2\" stroke-dasharray=\"14 8\" opacity=\"0.5\"/>\n<line x1=\"140\" y1=\"445\" x2=\"660\" y2=\"445\" stroke=\"#9a3412\" stroke-width=\"2\" stroke-dasharray=\"14 8\" opacity=\"0.5\"/>\n<line x1=\"140\" y1=\"470\" x2=\"660\" y2=\"470\" stroke=\"#9a3412\" stroke-width=\"2\" stroke-dasharray=\"14 8\" opacity=\"0.5\"/>\n<rect x=\"166\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"177\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"246\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"257\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"326\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"337\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"406\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"417\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"486\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"497\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"566\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"577\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"641\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"652\" y=\"308\" width=\"7\" height=\"16\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<polygon points=\"255,328 264,338 255,348 246,338\" fill=\"#06b6d4\" stroke=\"#0e7490\" stroke-width=\"2\"/>\n<polygon points=\"495,328 504,338 495,348 486,338\" fill=\"#06b6d4\" stroke=\"#0e7490\" stroke-width=\"2\"/>\n<path d=\"M215 300 L224 294 A11 11 0 1 0 224 306 Z\" fill=\"#f97316\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<path d=\"M535 300 L544 294 A11 11 0 1 0 544 306 Z\" fill=\"#f97316\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<path d=\"M615 300 L624 294 A11 11 0 1 0 624 306 Z\" fill=\"#f97316\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<text x=\"20\" y=\"40\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Motor neuron (top)</text>\n<text x=\"20\" y=\"490\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Skeletal muscle fiber (bottom)</text>",
+   "labels": [
+    {
+     "name": "Myelin sheath",
+     "accept": [
+      "myelin",
+      "schwann cell",
+      "schwann cells",
+      "peripheral myelin"
+     ],
+     "function": "Attacked in Guillain-Barre, causing ascending paralysis",
+     "x": 400,
+     "y": 28,
+     "lx": 470,
+     "ly": 30
+    },
+    {
+     "name": "Synaptic vesicle",
+     "accept": [
+      "vesicle",
+      "synaptic vesicles",
+      "ach vesicle",
+      "acetylcholine vesicle"
+     ],
+     "function": "Holds packets of transmitter released by exocytosis",
+     "x": 505,
+     "y": 180,
+     "lx": 640,
+     "ly": 120
+    },
+    {
+     "name": "SNARE proteins",
+     "accept": [
+      "snare",
+      "snare protein",
+      "snares"
+     ],
+     "function": "Mediate exocytotic fusion; cleaved by botulinum toxin",
+     "x": 400,
+     "y": 262,
+     "lx": 330,
+     "ly": 255
+    },
+    {
+     "name": "Voltage-gated calcium channel",
+     "accept": [
+      "vgcc",
+      "calcium channel",
+      "presynaptic calcium channel",
+      "voltage gated calcium channel",
+      "presynaptic voltage-gated calcium channel",
+      "p/q-type calcium channel"
+     ],
+     "function": "Autoantibody target in Lambert-Eaton syndrome",
+     "x": 262,
+     "y": 239.9888933635857,
+     "lx": 160,
+     "ly": 205
+    },
+    {
+     "name": "Voltage-gated potassium channel",
+     "accept": [
+      "potassium channel",
+      "presynaptic potassium channel",
+      "voltage gated potassium channel",
+      "k channel",
+      "k+ channel"
+     ],
+     "function": "Blocked by amifampridine to prolong depolarization",
+     "x": 538,
+     "y": 239.9888933635857,
+     "lx": 640,
+     "ly": 205
+    },
+    {
+     "name": "Synaptic cleft",
+     "accept": [
+      "cleft",
+      "synaptic gap"
+     ],
+     "function": "Gap the transmitter diffuses across to the muscle",
+     "x": 300,
+     "y": 292
+    },
+    {
+     "name": "Acetylcholinesterase",
+     "accept": [
+      "ache",
+      "acetylcholine esterase",
+      "cholinesterase"
+     ],
+     "function": "Hydrolyzes the transmitter; blocked by pyridostigmine",
+     "x": 612,
+     "y": 300,
+     "lx": 730,
+     "ly": 290
+    },
+    {
+     "name": "Nicotinic acetylcholine receptor",
+     "accept": [
+      "nicotinic receptor",
+      "nachr",
+      "achr",
+      "acetylcholine receptor",
+      "nicotinic ach receptor",
+      "nm receptor",
+      "nicotinic acetylcholine receptors"
+     ],
+     "function": "Autoantibody target in myasthenia gravis",
+     "x": 415,
+     "y": 314,
+     "lx": 470,
+     "ly": 395
+    },
+    {
+     "name": "Muscle-specific kinase",
+     "accept": [
+      "musk",
+      "muscle specific kinase",
+      "musk protein"
+     ],
+     "function": "Second antibody target tested in seronegative MG",
+     "x": 255,
+     "y": 338,
+     "lx": 190,
+     "ly": 395
+    },
+    {
+     "name": "Motor end plate",
+     "accept": [
+      "end plate",
+      "postsynaptic membrane",
+      "junctional folds",
+      "endplate",
+      "motor endplate",
+      "sarcolemma"
+     ],
+     "function": "Complement destroys it in MG, lowering the safety factor",
+     "x": 364,
+     "y": 335,
+     "lx": 330,
+     "ly": 445
+    }
+   ]
+  },
+  {
+   "title": "Body sites in NMJ disorders, anterior view (schematic)",
+   "viewBox": "0 0 800 680",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"680\" fill=\"#f8f5ee\"/>\n<rect x=\"318\" y=\"505\" width=\"74\" height=\"170\" rx=\"26\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<rect x=\"408\" y=\"505\" width=\"74\" height=\"170\" rx=\"26\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<rect x=\"240\" y=\"250\" width=\"44\" height=\"230\" rx=\"20\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<rect x=\"516\" y=\"250\" width=\"44\" height=\"230\" rx=\"20\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<rect x=\"282\" y=\"232\" width=\"236\" height=\"300\" rx=\"40\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<rect x=\"370\" y=\"180\" width=\"60\" height=\"62\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<ellipse cx=\"400\" cy=\"105\" rx=\"78\" ry=\"88\" fill=\"#f1d3b3\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<path d=\"M330 118 q-10 18 2 38 q14 10 22 -6 q6 -18 -6 -34 q-10 -8 -18 2 Z\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n<ellipse cx=\"368\" cy=\"98\" rx=\"20\" ry=\"12\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2\"/>\n<circle cx=\"368\" cy=\"99\" r=\"8\" fill=\"#60a5fa\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/>\n<circle cx=\"368\" cy=\"99\" r=\"3.5\" fill=\"#111827\"/>\n<ellipse cx=\"432\" cy=\"98\" rx=\"20\" ry=\"12\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2\"/>\n<circle cx=\"432\" cy=\"99\" r=\"8\" fill=\"#60a5fa\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/>\n<circle cx=\"432\" cy=\"99\" r=\"3.5\" fill=\"#111827\"/>\n<path d=\"M347 96 Q368 80 389 96 Q368 100 347 96 Z\" fill=\"#e8b98f\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M352 84 Q368 68 386 82\" fill=\"none\" stroke=\"#e07a5f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M352 84 Q368 68 386 82\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<rect x=\"452\" y=\"93\" width=\"26\" height=\"10\" rx=\"4\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<path d=\"M378 150 Q400 160 422 150\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n<rect x=\"388\" y=\"178\" width=\"24\" height=\"14\" rx=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<rect x=\"388\" y=\"196\" width=\"24\" height=\"14\" rx=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<rect x=\"388\" y=\"214\" width=\"24\" height=\"14\" rx=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<rect x=\"388\" y=\"232\" width=\"24\" height=\"14\" rx=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"342\" cy=\"330\" rx=\"46\" ry=\"78\" fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n<ellipse cx=\"458\" cy=\"330\" rx=\"46\" ry=\"78\" fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n<polygon points=\"470,290 476,300 488,298 480,308 488,318 476,316 470,328 464,316 452,318 460,308 452,298 464,300\" fill=\"#57534e\" stroke=\"#1c1917\" stroke-width=\"1.5\"/>\n<path d=\"M386 262 q-14 30 2 52 q12 6 12 -8 q0 14 12 8 q16 -22 2 -52 q-8 -6 -14 6 q-6 -12 -14 -6 Z\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2.5\"/>\n<path d=\"M290 430 Q345 382 400 412 Q455 382 510 430\" fill=\"none\" stroke=\"#e07a5f\" stroke-width=\"10\" stroke-linecap=\"round\"/>\n<path d=\"M290 430 Q345 382 400 412 Q455 382 510 430\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<path d=\"M335 455 q20 -14 40 0 t40 0 t40 0 M335 480 q20 -14 40 0 t40 0 t40 0 M335 505 q20 -14 40 0 t40 0 t40 0 M455 455 q16 12 0 25 M335 480 q-16 12 0 25\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"8\" stroke-linecap=\"round\"/>\n<ellipse cx=\"355\" cy=\"572\" rx=\"26\" ry=\"52\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<ellipse cx=\"445\" cy=\"572\" rx=\"26\" ry=\"52\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<text x=\"20\" y=\"30\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Anterior view</text>",
+   "labels": [
+    {
+     "name": "Levator palpebrae superioris",
+     "accept": [
+      "levator palpebrae",
+      "levator",
+      "levator palpebrae superioris muscle"
+     ],
+     "function": "Its weakness makes the upper eyelid droop (ptosis)",
+     "x": 368,
+     "y": 75,
+     "lx": 250,
+     "ly": 55
+    },
+    {
+     "name": "Extraocular muscles",
+     "accept": [
+      "extraocular muscle",
+      "eom",
+      "lateral rectus",
+      "eye muscles"
+     ],
+     "function": "Weakness misaligns the eyes, causing diplopia",
+     "x": 470,
+     "y": 98,
+     "lx": 560,
+     "ly": 70
+    },
+    {
+     "name": "Pupil",
+     "accept": [
+      "pupils",
+      "iris",
+      "pupillary sphincter"
+     ],
+     "function": "Spared in MG (muscarinic); dilated and sluggish in botulism",
+     "x": 432,
+     "y": 99,
+     "lx": 560,
+     "ly": 135
+    },
+    {
+     "name": "Salivary gland",
+     "accept": [
+      "parotid gland",
+      "parotid",
+      "salivary glands"
+     ],
+     "function": "Autonomic ACh failure here causes dry mouth",
+     "x": 340,
+     "y": 138,
+     "lx": 230,
+     "ly": 145
+    },
+    {
+     "name": "Pharyngeal muscles",
+     "accept": [
+      "pharynx",
+      "bulbar muscles",
+      "pharyngeal constrictors",
+      "bulbar"
+     ],
+     "function": "Weakness causes dysphagia",
+     "x": 400,
+     "y": 205,
+     "lx": 560,
+     "ly": 200
+    },
+    {
+     "name": "Thymus",
+     "accept": [
+      "thymus gland",
+      "thymoma"
+     ],
+     "function": "Image by chest CT in MG; a tumor here is resected",
+     "x": 400,
+     "y": 285,
+     "lx": 190,
+     "ly": 255
+    },
+    {
+     "name": "Small-cell lung carcinoma",
+     "accept": [
+      "small cell lung carcinoma",
+      "small cell lung cancer",
+      "sclc",
+      "lung cancer",
+      "lung tumor",
+      "small-cell carcinoma"
+     ],
+     "function": "Paraneoplastic source of anti-VGCC antibodies",
+     "x": 470,
+     "y": 309,
+     "lx": 620,
+     "ly": 300
+    },
+    {
+     "name": "Diaphragm",
+     "accept": [
+      "respiratory muscles",
+      "diaphragm muscle"
+     ],
+     "function": "Its failure defines a crisis needing ventilation",
+     "x": 345,
+     "y": 404,
+     "lx": 190,
+     "ly": 395
+    },
+    {
+     "name": "Intestine",
+     "accept": [
+      "gut",
+      "intestines",
+      "bowel",
+      "colon",
+      "small intestine"
+     ],
+     "function": "Infant: swallowed spores colonize here and make toxin",
+     "x": 455,
+     "y": 480,
+     "lx": 620,
+     "ly": 470
+    },
+    {
+     "name": "Proximal leg muscles",
+     "accept": [
+      "thigh muscles",
+      "quadriceps",
+      "hip flexors",
+      "proximal lower extremity muscles",
+      "proximal muscles"
+     ],
+     "function": "First LES weakness: trouble rising from a chair",
+     "x": 355,
+     "y": 572,
+     "lx": 220,
+     "ly": 590
+    }
+   ]
+  }
+ ]
+}

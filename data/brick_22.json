@@ -1,0 +1,357 @@
+{
+ "brick": 22,
+ "title": "Pharmacologic Treatment of Musculoskeletal Pain",
+ "diagrams": [
+  {
+   "title": "Pain signaling and analgesic targets (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"20\" y=\"60\" width=\"320\" height=\"420\" rx=\"16\" fill=\"#fdf2e9\" stroke=\"#d6c7b0\" stroke-width=\"2\"/>\n<rect x=\"360\" y=\"60\" width=\"420\" height=\"420\" rx=\"16\" fill=\"#f3efe6\" stroke=\"#d6c7b0\" stroke-width=\"2\"/>\n<rect x=\"40\" y=\"104\" width=\"280\" height=\"32\" fill=\"#f1d3b3\"/><g fill=\"#d9a066\" stroke=\"#9a6b3a\" stroke-width=\"1.5\"><circle cx=\"46\" cy=\"104\" r=\"6\"/><circle cx=\"46\" cy=\"136\" r=\"6\"/><circle cx=\"62\" cy=\"104\" r=\"6\"/><circle cx=\"62\" cy=\"136\" r=\"6\"/><circle cx=\"78\" cy=\"104\" r=\"6\"/><circle cx=\"78\" cy=\"136\" r=\"6\"/><circle cx=\"94\" cy=\"104\" r=\"6\"/><circle cx=\"94\" cy=\"136\" r=\"6\"/><circle cx=\"110\" cy=\"104\" r=\"6\"/><circle cx=\"110\" cy=\"136\" r=\"6\"/><circle cx=\"126\" cy=\"104\" r=\"6\"/><circle cx=\"126\" cy=\"136\" r=\"6\"/><circle cx=\"142\" cy=\"104\" r=\"6\"/><circle cx=\"142\" cy=\"136\" r=\"6\"/><circle cx=\"158\" cy=\"104\" r=\"6\"/><circle cx=\"158\" cy=\"136\" r=\"6\"/><circle cx=\"174\" cy=\"104\" r=\"6\"/><circle cx=\"174\" cy=\"136\" r=\"6\"/><circle cx=\"190\" cy=\"104\" r=\"6\"/><circle cx=\"190\" cy=\"136\" r=\"6\"/><circle cx=\"206\" cy=\"104\" r=\"6\"/><circle cx=\"206\" cy=\"136\" r=\"6\"/><circle cx=\"222\" cy=\"104\" r=\"6\"/><circle cx=\"222\" cy=\"136\" r=\"6\"/><circle cx=\"238\" cy=\"104\" r=\"6\"/><circle cx=\"238\" cy=\"136\" r=\"6\"/><circle cx=\"254\" cy=\"104\" r=\"6\"/><circle cx=\"254\" cy=\"136\" r=\"6\"/><circle cx=\"270\" cy=\"104\" r=\"6\"/><circle cx=\"270\" cy=\"136\" r=\"6\"/><circle cx=\"286\" cy=\"104\" r=\"6\"/><circle cx=\"286\" cy=\"136\" r=\"6\"/><circle cx=\"302\" cy=\"104\" r=\"6\"/><circle cx=\"302\" cy=\"136\" r=\"6\"/></g>\n<polyline points=\"70,190 86,172 102,190 118,172 134,190 150,172 166,190 182,172\" fill=\"none\" stroke=\"#b45309\" stroke-width=\"5\" stroke-linejoin=\"round\"/>\n<line x1=\"126\" y1=\"140\" x2=\"126\" y2=\"164\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"126,164 120.8,153.2 131.2,153.2\" fill=\"#57534e\"/>\n<line x1=\"200\" y1=\"186\" x2=\"236\" y2=\"214\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"236,214 224.3,211.5 230.7,203.2\" fill=\"#57534e\"/>\n<path d=\"M222 236 Q236 210 268 214 Q300 214 306 242 Q310 270 282 278 Q262 284 254 270 L246 262 Q226 268 222 236 Z\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"3\"/>\n<line x1=\"258\" y1=\"286\" x2=\"230\" y2=\"318\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"230,318 233.2,306.4 241.0,313.3\" fill=\"#57534e\"/>\n<g fill=\"#f472b6\" stroke=\"#9d174d\" stroke-width=\"2\"><polygon points=\"200,330 214,322 228,330 228,346 214,354 200,346\"/><polygon points=\"236,348 250,340 264,348 264,364 250,372 236,364\"/><polygon points=\"196,368 210,360 224,368 224,384 210,392 196,384\"/></g>\n<line x1=\"196\" y1=\"380\" x2=\"150\" y2=\"398\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"150,398 158.2,389.2 162.0,398.9\" fill=\"#57534e\"/>\n<path d=\"M70 420 Q90 400 120 404 M70 380 Q96 392 120 404 M120 404 C 260 470, 330 300, 420 200\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<circle cx=\"70\" cy=\"420\" r=\"8\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"380\" r=\"8\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2\"/>\n<ellipse cx=\"560\" cy=\"190\" rx=\"150\" ry=\"88\" fill=\"#fef3c7\" stroke=\"#ca8a04\" stroke-width=\"4\"/>\n<g fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"><circle cx=\"500\" cy=\"220\" r=\"11\"/><circle cx=\"530\" cy=\"240\" r=\"11\"/><circle cx=\"560\" cy=\"222\" r=\"11\"/><circle cx=\"590\" cy=\"244\" r=\"11\"/><circle cx=\"470\" cy=\"244\" r=\"11\"/></g>\n<rect x=\"545\" y=\"88\" width=\"30\" height=\"34\" rx=\"6\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"2.5\"/><path d=\"M548 88 L542 74 M572 88 L578 74\" stroke=\"#4c1d95\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n<g fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"2\"><circle cx=\"603\" cy=\"132\" r=\"11\"/><circle cx=\"622\" cy=\"142\" r=\"9\"/><circle cx=\"609\" cy=\"152\" r=\"8\"/></g>\n<rect x=\"668\" y=\"116\" width=\"26\" height=\"40\" rx=\"5\" fill=\"#94a3b8\" stroke=\"#334155\" stroke-width=\"2.5\" transform=\"rotate(42 681 136)\"/>\n<g fill=\"#0ea5e9\" stroke=\"#075985\" stroke-width=\"2\"><rect x=\"616\" y=\"252\" width=\"14\" height=\"34\" rx=\"3\"/><rect x=\"638\" y=\"250\" width=\"14\" height=\"34\" rx=\"3\"/></g>\n<g fill=\"#a16207\"><circle cx=\"520\" cy=\"296\" r=\"3\"/><circle cx=\"545\" cy=\"304\" r=\"3\"/><circle cx=\"500\" cy=\"308\" r=\"3\"/><circle cx=\"560\" cy=\"294\" r=\"3\"/></g>\n<path d=\"M400 330 Q560 314 740 330 L740 466 L400 466 Z\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"4\"/>\n<g fill=\"#16a34a\" stroke=\"#14532d\" stroke-width=\"2\"><rect x=\"666\" y=\"316\" width=\"13\" height=\"32\" rx=\"3\"/><rect x=\"685\" y=\"316\" width=\"13\" height=\"32\" rx=\"3\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"700\"><text x=\"36\" y=\"88\">Injured tissue (periphery)</text><text x=\"376\" y=\"88\">Spinal cord synapse</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"222\" y=\"162\">cell membrane</text><text x=\"420\" y=\"160\">presynaptic</text><text x=\"420\" y=\"440\">postsynaptic</text><text x=\"150\" y=\"460\">to spinal cord</text></g>",
+   "labels": [
+    {
+     "name": "Arachidonic acid",
+     "accept": [
+      "arachidonate",
+      "AA"
+     ],
+     "function": "Membrane fatty acid that is the substrate NSAIDs keep from conversion",
+     "x": 126,
+     "y": 181,
+     "lx": 186,
+     "ly": 160
+    },
+    {
+     "name": "Cyclooxygenase (COX-1/COX-2)",
+     "accept": [
+      "cyclooxygenase",
+      "COX",
+      "COX-1",
+      "COX-2",
+      "prostaglandin H synthase"
+     ],
+     "function": "Blocked by NSAIDs; celecoxib selectively blocks the type 2 isoform",
+     "x": 266,
+     "y": 246
+    },
+    {
+     "name": "Prostaglandins",
+     "accept": [
+      "prostaglandin",
+      "PGs",
+      "PGE2"
+     ],
+     "function": "Sensitize pain endings; their loss causes GI ulcers and kidney injury",
+     "x": 250,
+     "y": 356,
+     "lx": 296,
+     "ly": 330
+    },
+    {
+     "name": "Nociceptor",
+     "accept": [
+      "nociceptor terminal",
+      "peripheral nociceptor",
+      "pain receptor",
+      "nociceptive neuron"
+     ],
+     "function": "Peripheral pain-sensing ending activated by tissue injury",
+     "x": 70,
+     "y": 420,
+     "lx": 46,
+     "ly": 456
+    },
+    {
+     "name": "Mu opioid receptor",
+     "accept": [
+      "mu receptor",
+      "mu",
+      "MOR",
+      "opioid receptor",
+      "u receptor"
+     ],
+     "function": "Morphine's principal target; naloxone reverses its activation",
+     "x": 560,
+     "y": 100,
+     "lx": 500,
+     "ly": 110
+    },
+    {
+     "name": "Gi/o protein",
+     "accept": [
+      "Gi protein",
+      "Gi/o",
+      "Gi",
+      "inhibitory G protein",
+      "Gio"
+     ],
+     "function": "Inhibitory transducer coupling opioid binding to effectors",
+     "x": 610,
+     "y": 142,
+     "lx": 640,
+     "ly": 196
+    },
+    {
+     "name": "Adenylyl cyclase",
+     "accept": [
+      "adenylate cyclase",
+      "AC"
+     ],
+     "function": "Enzyme whose activity falls after opioid receptor activation",
+     "x": 681,
+     "y": 136,
+     "lx": 736,
+     "ly": 110
+    },
+    {
+     "name": "Voltage-gated calcium channel",
+     "accept": [
+      "presynaptic voltage-gated calcium channel",
+      "voltage-gated calcium channel",
+      "calcium channel",
+      "VGCC",
+      "Ca channel",
+      "N-type calcium channel"
+     ],
+     "function": "Closes with opioids, so less transmitter is released into the cleft",
+     "x": 634,
+     "y": 268,
+     "lx": 620,
+     "ly": 304
+    },
+    {
+     "name": "Potassium channel",
+     "accept": [
+      "postsynaptic potassium channel",
+      "potassium channel",
+      "K channel",
+      "K+ channel",
+      "GIRK"
+     ],
+     "function": "Opens with opioids, hyperpolarizing the second-order neuron",
+     "x": 682,
+     "y": 332,
+     "lx": 700,
+     "ly": 390
+    }
+   ]
+  },
+  {
+   "title": "Skeletal muscle relaxant sites of action (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M70 70 Q120 40 170 70 Q182 110 160 150 L150 190 L96 190 L86 150 Q60 110 70 70 Z\" fill=\"#e9d5ff\" stroke=\"#6b21a8\" stroke-width=\"3\"/>\n<rect x=\"40\" y=\"220\" width=\"350\" height=\"250\" rx=\"22\" fill=\"#ece7dc\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<path d=\"M124 186 L124 300 Q124 320 150 320 L176 320\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<ellipse cx=\"196\" cy=\"320\" rx=\"26\" ry=\"22\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<polygon points=\"186,292 198,286 206,296 194,304\" fill=\"#f97316\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<rect x=\"186\" y=\"336\" width=\"14\" height=\"14\" rx=\"3\" fill=\"#10b981\" stroke=\"#065f46\" stroke-width=\"2\"/>\n<path d=\"M222 320 L246 320 Q262 290 300 296 Q340 300 342 340 Q342 380 300 384 Q262 386 250 352 L222 336 Z\" fill=\"#fef3c7\" stroke=\"#ca8a04\" stroke-width=\"3\"/>\n<circle cx=\"300\" cy=\"340\" r=\"12\" fill=\"#ca8a04\"/>\n<rect x=\"232\" y=\"338\" width=\"14\" height=\"14\" rx=\"3\" fill=\"#10b981\" stroke=\"#065f46\" stroke-width=\"2\"/>\n<path d=\"M340 340 L452 330\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<rect x=\"452\" y=\"226\" width=\"326\" height=\"198\" rx=\"20\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"3\"/><line x1=\"470\" y1=\"236\" x2=\"470\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"488\" y1=\"236\" x2=\"488\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"506\" y1=\"236\" x2=\"506\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"524\" y1=\"236\" x2=\"524\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"542\" y1=\"236\" x2=\"542\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"560\" y1=\"236\" x2=\"560\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"578\" y1=\"236\" x2=\"578\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"596\" y1=\"236\" x2=\"596\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"614\" y1=\"236\" x2=\"614\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"632\" y1=\"236\" x2=\"632\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"650\" y1=\"236\" x2=\"650\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"668\" y1=\"236\" x2=\"668\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"686\" y1=\"236\" x2=\"686\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"704\" y1=\"236\" x2=\"704\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"722\" y1=\"236\" x2=\"722\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"740\" y1=\"236\" x2=\"740\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"758\" y1=\"236\" x2=\"758\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/><line x1=\"776\" y1=\"236\" x2=\"776\" y2=\"414\" stroke=\"#9a3412\" stroke-width=\"1.5\" opacity=\"0.45\"/>\n<ellipse cx=\"458\" cy=\"330\" rx=\"10\" ry=\"24\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2\"/>\n<line x1=\"640\" y1=\"226\" x2=\"640\" y2=\"424\" stroke=\"#7c2d12\" stroke-width=\"4\"/>\n<g fill=\"#bfdbfe\" stroke=\"#1d4ed8\" stroke-width=\"2.5\"><path d=\"M520 262 L624 262 L624 300 L520 300 Z\"/><path d=\"M656 262 L760 262 L760 300 L656 300 Z\"/><path d=\"M520 350 L624 350 L624 388 L520 388 Z\"/><path d=\"M656 350 L760 350 L760 388 L656 388 Z\"/></g>\n<g fill=\"#7f1d1d\" stroke=\"#fff\" stroke-width=\"1.5\"><rect x=\"618\" y=\"272\" width=\"10\" height=\"18\" rx=\"2\"/><rect x=\"652\" y=\"272\" width=\"10\" height=\"18\" rx=\"2\"/><rect x=\"618\" y=\"360\" width=\"10\" height=\"18\" rx=\"2\"/><rect x=\"652\" y=\"360\" width=\"10\" height=\"18\" rx=\"2\"/></g>\n<g fill=\"#fff\" opacity=\"0.9\"><circle cx=\"606\" cy=\"320\" r=\"3\"/><circle cx=\"676\" cy=\"318\" r=\"3\"/><circle cx=\"600\" cy=\"330\" r=\"3\"/><circle cx=\"684\" cy=\"330\" r=\"3\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"56\" y=\"462\">Spinal cord (ventral horn)</text><text x=\"560\" y=\"450\">Skeletal muscle fiber</text><text x=\"586\" y=\"216\" font-size=\"13\">T tubule</text><text x=\"134\" y=\"214\" font-size=\"14\">descending input</text></g>",
+   "labels": [
+    {
+     "name": "Brainstem",
+     "accept": [
+      "brain stem",
+      "brainstem motor centers"
+     ],
+     "function": "Site where cyclobenzaprine reduces tonic motor activity",
+     "x": 124,
+     "y": 110
+    },
+    {
+     "name": "Excitatory presynaptic terminal",
+     "accept": [
+      "presynaptic terminal",
+      "excitatory terminal",
+      "excitatory input"
+     ],
+     "function": "Drives motor neurons; its overactivity underlies spasticity",
+     "x": 196,
+     "y": 322,
+     "lx": 150,
+     "ly": 262
+    },
+    {
+     "name": "Alpha-2 adrenergic receptor",
+     "accept": [
+      "alpha-2 receptor",
+      "alpha 2",
+      "a2 receptor",
+      "alpha2",
+      "alpha-2"
+     ],
+     "function": "Tizanidine's target; ciprofloxacin (CYP1A2 block) raises drug levels",
+     "x": 196,
+     "y": 295,
+     "lx": 260,
+     "ly": 250
+    },
+    {
+     "name": "GABA-B receptor",
+     "accept": [
+      "GABA B",
+      "GABAB",
+      "GABA-B",
+      "GABA(B) receptor"
+     ],
+     "function": "Baclofen's target; renally cleared drug accumulates in CKD",
+     "x": 239,
+     "y": 345,
+     "lx": 236,
+     "ly": 410
+    },
+    {
+     "name": "Spinal motor neuron",
+     "accept": [
+      "alpha motor neuron",
+      "lower motor neuron",
+      "motor neuron",
+      "LMN"
+     ],
+     "function": "Final cell that sets muscle tone; quieted by central agents",
+     "x": 300,
+     "y": 340,
+     "lx": 330,
+     "ly": 290
+    },
+    {
+     "name": "Sarcoplasmic reticulum",
+     "accept": [
+      "SR"
+     ],
+     "function": "Intracellular calcium store for excitation-contraction coupling",
+     "x": 572,
+     "y": 281,
+     "lx": 520,
+     "ly": 200
+    },
+    {
+     "name": "Ryanodine receptor (RyR1)",
+     "accept": [
+      "RyR1",
+      "ryanodine receptor",
+      "RYR1",
+      "ryanodine receptor 1"
+     ],
+     "function": "Dantrolene blocks its calcium release; treats malignant hyperthermia",
+     "x": 657,
+     "y": 369,
+     "lx": 720,
+     "ly": 460
+    }
+   ]
+  },
+  {
+   "title": "Adverse-effect organ map for MSK pain drugs (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<g fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\" stroke-linejoin=\"round\"><path d=\"M372 112 L372 132 Q300 138 290 170 L250 330 L276 336 L306 210 L310 486 L490 486 L494 210 L524 336 L550 330 L510 170 Q500 138 428 132 L428 112 Z\"/><circle cx=\"400\" cy=\"68\" r=\"48\"/></g>\n<path d=\"M388 84 Q400 76 412 84 L410 116 L390 116 Z\" fill=\"#e9d5ff\" stroke=\"#6b21a8\" stroke-width=\"2.5\"/>\n<g><ellipse cx=\"382\" cy=\"58\" rx=\"9\" ry=\"6\" fill=\"#fff\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/><ellipse cx=\"418\" cy=\"58\" rx=\"9\" ry=\"6\" fill=\"#fff\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/><circle cx=\"382\" cy=\"58\" r=\"1.8\" fill=\"#111\"/><circle cx=\"418\" cy=\"58\" r=\"1.8\" fill=\"#111\"/></g>\n<g fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"2.5\"><path d=\"M392 156 Q340 150 330 200 Q326 240 360 246 Q388 246 390 214 Z\"/><path d=\"M408 156 Q460 150 470 200 Q474 240 440 246 Q412 246 410 214 Z\"/></g>\n<path d=\"M400 130 L400 168 M400 168 L374 196 M400 168 L426 196 M374 196 L360 214 M374 196 L380 220 M426 196 L440 214 M426 196 L420 220\" fill=\"none\" stroke=\"#9d174d\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<path d=\"M404 214 Q414 198 430 206 Q444 216 432 236 L410 256 L396 236 Q388 220 404 214 Z\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"2.5\"/>\n<path d=\"M318 264 Q330 252 400 256 L408 270 Q396 300 350 304 Q318 302 318 264 Z\" fill=\"#92400e\" stroke=\"#451a03\" stroke-width=\"2.5\"/>\n<path d=\"M418 262 Q454 252 474 270 Q482 300 456 312 Q430 318 424 300 Q440 296 440 284 Q430 278 418 280 Z\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/>\n<g fill=\"#b91c1c\" stroke=\"#450a0a\" stroke-width=\"2.5\"><path d=\"M330 322 Q316 340 330 362 Q344 370 348 356 Q340 342 348 330 Q344 314 330 322 Z\"/><path d=\"M470 322 Q484 340 470 362 Q456 370 452 356 Q460 342 452 330 Q456 314 470 322 Z\"/></g>\n<path d=\"M364 430 L364 340 Q364 330 374 330 L426 330 Q436 330 436 340 L436 430\" fill=\"none\" stroke=\"#a16207\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<ellipse cx=\"400\" cy=\"458\" rx=\"24\" ry=\"16\" fill=\"#fef08a\" stroke=\"#a16207\" stroke-width=\"2.5\"/>",
+   "labels": [
+    {
+     "name": "Brainstem respiratory center",
+     "accept": [
+      "brainstem",
+      "respiratory center",
+      "medulla",
+      "brain stem"
+     ],
+     "function": "Opioid toxicity here slows breathing; give naloxone",
+     "x": 400,
+     "y": 100,
+     "lx": 300,
+     "ly": 40
+    },
+    {
+     "name": "Pupil",
+     "accept": [
+      "pupils",
+      "eye"
+     ],
+     "function": "Pinpoint in opioid toxicity",
+     "x": 418,
+     "y": 58,
+     "lx": 500,
+     "ly": 40
+    },
+    {
+     "name": "Airways",
+     "accept": [
+      "bronchi",
+      "bronchus",
+      "airway",
+      "lungs"
+     ],
+     "function": "Bronchospasm in aspirin-sensitive patients given NSAIDs",
+     "x": 374,
+     "y": 196,
+     "lx": 220,
+     "ly": 170
+    },
+    {
+     "name": "Heart",
+     "accept": [
+      "myocardium",
+      "coronary"
+     ],
+     "function": "Nonaspirin NSAIDs raise MI risk; avoid cyclobenzaprine in arrhythmia",
+     "x": 418,
+     "y": 226,
+     "lx": 580,
+     "ly": 200
+    },
+    {
+     "name": "Liver",
+     "accept": [
+      "hepatic",
+      "hepatocytes"
+     ],
+     "function": "Acetaminophen excess injures it; N-acetylcysteine is the antidote",
+     "x": 350,
+     "y": 280,
+     "lx": 220,
+     "ly": 260
+    },
+    {
+     "name": "Stomach",
+     "accept": [
+      "gastric mucosa",
+      "GI tract",
+      "stomach lining"
+     ],
+     "function": "NSAID prostaglandin loss causes ulceration and bleeding",
+     "x": 454,
+     "y": 286,
+     "lx": 590,
+     "ly": 270
+    },
+    {
+     "name": "Kidney",
+     "accept": [
+      "kidneys",
+      "renal"
+     ],
+     "function": "NSAIDs reduce its perfusion; baclofen accumulates when it fails",
+     "x": 470,
+     "y": 342,
+     "lx": 590,
+     "ly": 350
+    },
+    {
+     "name": "Colon",
+     "accept": [
+      "large intestine",
+      "bowel",
+      "gut",
+      "intestine"
+     ],
+     "function": "Opioid constipation, the effect with little tolerance",
+     "x": 364,
+     "y": 390,
+     "lx": 220,
+     "ly": 400
+    },
+    {
+     "name": "Bladder",
+     "accept": [
+      "urinary bladder"
+     ],
+     "function": "Retention from anticholinergic relaxants or opioids",
+     "x": 400,
+     "y": 458,
+     "lx": 560,
+     "ly": 460
+    }
+   ]
+  }
+ ]
+}

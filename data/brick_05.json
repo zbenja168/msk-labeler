@@ -1,0 +1,274 @@
+{
+ "brick": 5,
+ "title": "Development of the Musculoskeletal System",
+ "diagrams": [
+  {
+   "title": "Somite differentiation, embryo cross-section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M60 400 C60 130 250 48 400 48 C550 48 740 130 740 400 Z\" fill=\"#fdf3e7\" stroke=\"none\"/>\n<path d=\"M120 400 C120 300 170 250 230 250 C260 250 280 290 280 330 C280 370 260 400 250 400 Z\" fill=\"#f8f5ee\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<path d=\"M680 400 C680 300 630 250 570 250 C540 250 520 290 520 330 C520 370 540 400 550 400 Z\" fill=\"#f8f5ee\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<path d=\"M92 400 C92 290 150 232 230 228 L232 246 C170 250 118 300 116 400 Z\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<path d=\"M708 400 C708 290 650 232 570 228 L568 246 C630 250 682 300 684 400 Z\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<path d=\"M252 400 C268 380 282 350 282 325 L300 325 C300 360 290 385 275 400 Z\" fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"1.5\"/>\n<path d=\"M548 400 C532 380 518 350 518 325 L500 325 C500 360 510 385 525 400 Z\" fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"1.5\"/>\n<ellipse cx=\"400\" cy=\"345\" rx=\"95\" ry=\"45\" fill=\"#dcfce7\" stroke=\"#16a34a\" stroke-width=\"2.5\"/>\n<ellipse cx=\"400\" cy=\"345\" rx=\"40\" ry=\"14\" fill=\"#f8f5ee\" stroke=\"#16a34a\" stroke-width=\"1.5\"/>\n<path d=\"M60 400 C60 130 250 48 400 48 C550 48 740 130 740 400\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"9\"/>\n<ellipse cx=\"400\" cy=\"140\" rx=\"44\" ry=\"58\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<ellipse cx=\"400\" cy=\"140\" rx=\"7\" ry=\"36\" fill=\"#f8f5ee\" stroke=\"#a16207\" stroke-width=\"1.5\"/>\n<circle cx=\"348\" cy=\"82\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"358\" cy=\"89\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"340\" cy=\"91\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"351\" cy=\"98\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"452\" cy=\"82\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"462\" cy=\"89\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"444\" cy=\"91\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"455\" cy=\"98\" r=\"6\" fill=\"#22d3ee\" stroke=\"#0e7490\" stroke-width=\"1.5\"/>\n<circle cx=\"400\" cy=\"232\" r=\"17\" fill=\"#c7d2fe\" stroke=\"#4f46e5\" stroke-width=\"2.5\"/>\n<g><path d=\"M190 112 Q262 76 334 106 L330 124 Q262 98 196 130 Z\" fill=\"#f1d3b3\" stroke=\"#92400e\" stroke-width=\"2\"/><path d=\"M198 136 Q262 106 330 130 L326 172 Q262 152 208 182 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M262 186 Q300 168 336 186 Q362 200 372 226 Q350 252 312 246 Q272 238 262 214 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"378\" cy=\"250\" r=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"372\" cy=\"206\" r=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/></g>\n<g transform=\"translate(800,0) scale(-1,1)\"><path d=\"M190 112 Q262 76 334 106 L330 124 Q262 98 196 130 Z\" fill=\"#f1d3b3\" stroke=\"#92400e\" stroke-width=\"2\"/><path d=\"M198 136 Q262 106 330 130 L326 172 Q262 152 208 182 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M262 186 Q300 168 336 186 Q362 200 372 226 Q350 252 312 246 Q272 238 262 214 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"378\" cy=\"250\" r=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/><circle cx=\"372\" cy=\"206\" r=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/></g>\n<text x=\"400\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Dorsal</text>\n<text x=\"400\" y=\"420\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Ventral</text>\n<text x=\"20\" y=\"480\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">Embryo cross-section, week 4 (only the left side's paired structures are pinned)</text>",
+   "labels": [
+    {
+     "name": "Neural tube",
+     "accept": [
+      "neural canal"
+     ],
+     "function": "Sclerotome cells encircling it form the vertebral arch",
+     "x": 425,
+     "y": 160
+    },
+    {
+     "name": "Neural crest cells",
+     "accept": [
+      "neural crest"
+     ],
+     "function": "Forms most of the facial skeleton and the frontal bone",
+     "x": 348,
+     "y": 82,
+     "lx": 300,
+     "ly": 40
+    },
+    {
+     "name": "Notochord",
+     "accept": [],
+     "function": "Becomes the gelatinous center of each disc",
+     "x": 400,
+     "y": 232
+    },
+    {
+     "name": "Dermatome",
+     "accept": [
+      "dermomyotome"
+     ],
+     "function": "Gives rise to the connective-tissue layer of the skin",
+     "x": 262,
+     "y": 98,
+     "lx": 170,
+     "ly": 70
+    },
+    {
+     "name": "Myotome",
+     "accept": [],
+     "function": "Source of all skeletal muscle of its body segment",
+     "x": 262,
+     "y": 145
+    },
+    {
+     "name": "Sclerotome",
+     "accept": [],
+     "function": "Forms vertebrae, ribs and the outer ring of the disc",
+     "x": 310,
+     "y": 215
+    },
+    {
+     "name": "Somatic lateral plate mesoderm",
+     "accept": [
+      "somatic mesoderm",
+      "somatic layer",
+      "lateral plate mesoderm",
+      "somatopleure"
+     ],
+     "function": "Core of the limb bud; forms limb bones and connective tissue",
+     "x": 104,
+     "y": 330,
+     "lx": 40,
+     "ly": 290
+    },
+    {
+     "name": "Surface ectoderm",
+     "accept": [
+      "ectoderm"
+     ],
+     "function": "Covers the limb bud; thickens at its tip into a signaling ridge",
+     "x": 712,
+     "y": 220,
+     "lx": 760,
+     "ly": 160
+    }
+   ]
+  },
+  {
+   "title": "Limb bud signaling and digit formation (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"18\" y=\"60\" width=\"54\" height=\"380\" fill=\"#f1d3b3\" stroke=\"#92400e\" stroke-width=\"2\"/>\n<rect x=\"28\" y=\"120\" width=\"34\" height=\"44\" rx=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<rect x=\"28\" y=\"175\" width=\"34\" height=\"44\" rx=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<rect x=\"28\" y=\"230\" width=\"34\" height=\"44\" rx=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<rect x=\"28\" y=\"285\" width=\"34\" height=\"44\" rx=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<rect x=\"28\" y=\"340\" width=\"34\" height=\"44\" rx=\"6\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M72 110 C200 110 330 160 340 250 C330 340 200 390 72 390 Z\" fill=\"#fdf3e7\" stroke=\"#7c3aed\" stroke-width=\"4\"/>\n<path d=\"M262 160 C312 190 330 225 330 250 C330 275 312 310 262 340 C290 300 300 275 300 250 C300 225 290 200 262 160 Z\" fill=\"#fecaca\" stroke=\"#dc2626\" stroke-width=\"1.5\"/>\n<path d=\"M270 160 C315 190 338 222 340 250 C338 278 315 310 270 340\" fill=\"none\" stroke=\"#4c1d95\" stroke-width=\"11\" stroke-linecap=\"round\"/>\n<ellipse cx=\"230\" cy=\"350\" rx=\"34\" ry=\"16\" fill=\"#34d399\" stroke=\"#047857\" stroke-width=\"2\"/>\n<ellipse cx=\"92\" cy=\"200\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<ellipse cx=\"118\" cy=\"222\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<ellipse cx=\"100\" cy=\"262\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<ellipse cx=\"134\" cy=\"280\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<ellipse cx=\"112\" cy=\"305\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<ellipse cx=\"150\" cy=\"245\" rx=\"9\" ry=\"5\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"1.5\"/>\n<text x=\"200\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\">Limb bud, weeks 4-5</text>\n<text x=\"200\" y=\"98\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"middle\">Anterior</text>\n<text x=\"200\" y=\"420\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"middle\">Posterior</text>\n<text x=\"78\" y=\"455\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">Proximal</text>\n<text x=\"300\" y=\"455\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">Distal</text>\n<line x1=\"430\" y1=\"30\" x2=\"430\" y2=\"470\" stroke=\"#d6cfc0\" stroke-width=\"2\"/>\n<text x=\"620\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"700\" text-anchor=\"middle\">Hand plate, weeks 6-7</text>\n<path d=\"M585 470 L585 380 C520 360 500 300 505 240 C510 170 560 105 620 100 C690 100 740 160 742 235 C745 300 715 360 655 380 L655 470 Z\" fill=\"#fdf3e7\" stroke=\"#7c3aed\" stroke-width=\"4\"/>\n<circle cx=\"545\" cy=\"175\" r=\"9\" fill=\"#e7e5e4\" stroke=\"#78716c\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n<circle cx=\"588\" cy=\"120\" r=\"9\" fill=\"#e7e5e4\" stroke=\"#78716c\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n<circle cx=\"650\" cy=\"118\" r=\"9\" fill=\"#e7e5e4\" stroke=\"#78716c\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n<circle cx=\"706\" cy=\"165\" r=\"9\" fill=\"#e7e5e4\" stroke=\"#78716c\" stroke-width=\"1.5\" stroke-dasharray=\"3 2\"/>\n<line x1=\"620\" y1=\"320\" x2=\"518\" y2=\"245\" stroke=\"#3b82f6\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"518\" y2=\"245\" stroke=\"#bfdbfe\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"555\" y2=\"140\" stroke=\"#3b82f6\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"555\" y2=\"140\" stroke=\"#bfdbfe\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"620\" y2=\"112\" stroke=\"#3b82f6\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"620\" y2=\"112\" stroke=\"#bfdbfe\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"685\" y2=\"135\" stroke=\"#3b82f6\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"685\" y2=\"135\" stroke=\"#bfdbfe\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"728\" y2=\"225\" stroke=\"#3b82f6\" stroke-width=\"20\" stroke-linecap=\"round\"/>\n<line x1=\"620\" y1=\"320\" x2=\"728\" y2=\"225\" stroke=\"#bfdbfe\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<circle cx=\"620\" cy=\"325\" r=\"26\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>",
+   "labels": [
+    {
+     "name": "Apical ectodermal ridge",
+     "accept": [
+      "AER",
+      "apical ridge"
+     ],
+     "function": "Distal rim secreting FGFs; drives proximal-to-distal growth",
+     "x": 336,
+     "y": 225,
+     "lx": 380,
+     "ly": 180
+    },
+    {
+     "name": "Zone of polarizing activity",
+     "accept": [
+      "ZPA",
+      "polarizing zone"
+     ],
+     "function": "Posterior mesoderm secreting SHH; sets the thumb-to-pinky axis",
+     "x": 230,
+     "y": 350,
+     "lx": 260,
+     "ly": 400
+    },
+    {
+     "name": "Progress zone",
+     "accept": [
+      "proliferative zone"
+     ],
+     "function": "Dividing mesoderm under the ridge; retinoic acid halts it",
+     "x": 300,
+     "y": 285,
+     "lx": 380,
+     "ly": 320
+    },
+    {
+     "name": "Somatic lateral plate mesoderm",
+     "accept": [
+      "somatic mesoderm",
+      "lateral plate mesoderm",
+      "limb mesenchyme",
+      "mesenchymal core"
+     ],
+     "function": "Bud core forming limb bones, cartilage and connective tissue",
+     "x": 200,
+     "y": 175
+    },
+    {
+     "name": "Myogenic precursor cells",
+     "accept": [
+      "myoblasts",
+      "muscle precursor cells",
+      "migrating myotome cells",
+      "myotome cells"
+     ],
+     "function": "Migrate in from somites to form the limb's muscles",
+     "x": 118,
+     "y": 222,
+     "lx": 150,
+     "ly": 140
+    },
+    {
+     "name": "Digital ray",
+     "accept": [
+      "digital rays",
+      "chondrification center",
+      "digit ray",
+      "cartilage model"
+     ],
+     "function": "Hyaline cartilage model of a future finger",
+     "x": 620,
+     "y": 215,
+     "lx": 560,
+     "ly": 270
+    },
+    {
+     "name": "Interdigital tissue",
+     "accept": [
+      "interdigital mesenchyme",
+      "web",
+      "interdigital web"
+     ],
+     "function": "Removed by apoptosis in weeks 7-8; failure fuses digits",
+     "x": 650,
+     "y": 118,
+     "lx": 700,
+     "ly": 70
+    }
+   ]
+  },
+  {
+   "title": "Newborn skull, superior view (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"255\" rx=\"168\" ry=\"218\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3.5\"/>\n<path d=\"M240 200 Q400 140 560 200\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 205 L400 372\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M280 406 L400 378 L520 406\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 128 L434 170 L400 214 L366 170 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/>\n<path d=\"M382 368 L418 368 L400 394 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/>\n<text x=\"400\" y=\"26\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Anterior (face)</text>\n<text x=\"400\" y=\"494\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Posterior</text>\n<text x=\"20\" y=\"480\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">Newborn calvaria, viewed from above</text>",
+   "labels": [
+    {
+     "name": "Frontal bone",
+     "accept": [
+      "frontal"
+     ],
+     "function": "Vault bone formed mainly from neural crest",
+     "x": 400,
+     "y": 85
+    },
+    {
+     "name": "Parietal bone",
+     "accept": [
+      "parietal",
+      "parietal bones"
+     ],
+     "function": "Paired side-vault bones from paraxial mesoderm",
+     "x": 300,
+     "y": 285
+    },
+    {
+     "name": "Occipital bone",
+     "accept": [
+      "occipital"
+     ],
+     "function": "Rear vault bone; paraxial mesoderm contributes",
+     "x": 400,
+     "y": 440
+    },
+    {
+     "name": "Sagittal suture",
+     "accept": [
+      "sagittal"
+     ],
+     "function": "Its early fusion gives a long narrow head (scaphocephaly)",
+     "x": 400,
+     "y": 300
+    },
+    {
+     "name": "Coronal suture",
+     "accept": [
+      "coronal"
+     ],
+     "function": "Fibrous joint between the front and side vault bones",
+     "x": 300,
+     "y": 182,
+     "lx": 250,
+     "ly": 140
+    },
+    {
+     "name": "Lambdoid suture",
+     "accept": [
+      "lambdoid"
+     ],
+     "function": "Fibrous joint between the side vault bones and the rear one",
+     "x": 460,
+     "y": 392,
+     "lx": 560,
+     "ly": 420
+    },
+    {
+     "name": "Anterior fontanelle",
+     "accept": [
+      "anterior fontanel",
+      "bregma fontanelle"
+     ],
+     "function": "Largest soft spot, where four vault bones meet",
+     "x": 400,
+     "y": 172,
+     "lx": 520,
+     "ly": 120
+    },
+    {
+     "name": "Posterior fontanelle",
+     "accept": [
+      "posterior fontanel"
+     ],
+     "function": "Small triangular soft spot at the rear midline",
+     "x": 400,
+     "y": 376,
+     "lx": 330,
+     "ly": 420
+    }
+   ]
+  }
+ ]
+}

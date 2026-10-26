@@ -1,0 +1,341 @@
+{
+ "brick": 4,
+ "title": "Spine Disorders",
+ "diagrams": [
+  {
+   "title": "Spinal segment with ligaments, midsagittal section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"184\" y=\"28\" width=\"14\" height=\"420\" rx=\"5\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"40\" width=\"140\" height=\"100\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"200\" y=\"143\" width=\"140\" height=\"39\" rx=\"8\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<ellipse cx=\"282\" cy=\"162\" rx=\"34\" ry=\"13\" fill=\"#c7d2fe\" stroke=\"#4f46e5\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"185\" width=\"140\" height=\"100\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"200\" y=\"288\" width=\"140\" height=\"39\" rx=\"8\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<ellipse cx=\"282\" cy=\"307\" rx=\"34\" ry=\"13\" fill=\"#c7d2fe\" stroke=\"#4f46e5\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"330\" width=\"140\" height=\"100\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"341\" y=\"28\" width=\"12\" height=\"420\" rx=\"5\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<rect x=\"354\" y=\"20\" width=\"84\" height=\"440\" fill=\"#efe6d6\" stroke=\"none\"/>\n<rect x=\"374\" y=\"20\" width=\"44\" height=\"440\" rx=\"20\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<path d=\"M440 45 L470 45 L630 85 L640 100 L630 120 L470 120 L440 130 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"440\" y=\"132\" width=\"22\" height=\"56\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M466 124 L628 124 L628 227 L466 188 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M440 190 L470 190 L630 230 L640 245 L630 265 L470 265 L440 275 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"440\" y=\"277\" width=\"22\" height=\"56\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M466 269 L628 269 L628 372 L466 333 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M440 335 L470 335 L630 375 L640 390 L630 410 L470 410 L440 420 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M642 50 L655 50 L655 450 L642 450 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<text x=\"60\" y=\"250\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\" text-anchor=\"start\">Anterior</text>\n<text x=\"690\" y=\"250\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"600\" text-anchor=\"start\">Posterior</text>\n<text x=\"400\" y=\"490\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"middle\">Midsagittal section, lower thoracic / upper lumbar</text>",
+   "labels": [
+    {
+     "name": "Vertebral body",
+     "accept": [
+      "body",
+      "centrum"
+     ],
+     "function": "Weight-bearing block; anterior wedge collapse in osteoporosis",
+     "x": 260,
+     "y": 90
+    },
+    {
+     "name": "Annulus fibrosus",
+     "accept": [
+      "anulus fibrosus",
+      "annulus"
+     ],
+     "function": "Outer ring of the disc; thin posterolaterally",
+     "x": 218,
+     "y": 162
+    },
+    {
+     "name": "Nucleus pulposus",
+     "accept": [
+      "nucleus"
+     ],
+     "function": "Gelatinous core; dehydrates with age and can herniate",
+     "x": 282,
+     "y": 307
+    },
+    {
+     "name": "Anterior longitudinal ligament",
+     "accept": [
+      "ALL",
+      "anterior longitudinal"
+     ],
+     "function": "Runs on the front of the bodies; limits hyperextension",
+     "x": 191,
+     "y": 380,
+     "lx": 120,
+     "ly": 400
+    },
+    {
+     "name": "Posterior longitudinal ligament",
+     "accept": [
+      "PLL",
+      "posterior longitudinal"
+     ],
+     "function": "Lines the back of the bodies in the canal; limits hyperflexion",
+     "x": 347,
+     "y": 120,
+     "lx": 345,
+     "ly": 30
+    },
+    {
+     "name": "Spinal cord",
+     "accept": [
+      "cord"
+     ],
+     "function": "Compression causes myelopathy: UMN signs below the lesion",
+     "x": 396,
+     "y": 260
+    },
+    {
+     "name": "Ligamentum flavum",
+     "accept": [
+      "ligamenta flava",
+      "yellow ligament",
+      "flavum"
+     ],
+     "function": "Connects adjacent laminae; thickening narrows the canal",
+     "x": 451,
+     "y": 165,
+     "lx": 470,
+     "ly": 150
+    },
+    {
+     "name": "Spinous process",
+     "accept": [
+      "spine"
+     ],
+     "function": "Palpable midline projection at the back of the arch",
+     "x": 560,
+     "y": 60
+    },
+    {
+     "name": "Interspinous ligament",
+     "accept": [
+      "interspinous"
+     ],
+     "function": "Fills the gap between neighboring posterior processes",
+     "x": 560,
+     "y": 300
+    },
+    {
+     "name": "Supraspinous ligament",
+     "accept": [
+      "supraspinous"
+     ],
+     "function": "Continuous band over the tips of the posterior processes",
+     "x": 648,
+     "y": 395,
+     "lx": 720,
+     "ly": 395
+    }
+   ]
+  },
+  {
+   "title": "Lumbar disc herniation, superior (axial) view (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M250 140 C250 60 330 45 400 45 C470 45 550 60 550 140 C550 200 520 225 480 222 C450 220 430 205 400 205 C370 205 350 220 320 222 C280 225 250 200 250 140 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<ellipse cx=\"400\" cy=\"130\" rx=\"70\" ry=\"42\" fill=\"#c7d2fe\" stroke=\"#4f46e5\" stroke-width=\"2\"/>\n<path d=\"M440 150 C465 170 470 200 470 225 C470 248 452 258 440 248 C430 236 432 215 425 195 Z\" fill=\"#c7d2fe\" stroke=\"#4f46e5\" stroke-width=\"2\"/>\n<path d=\"M330 225 C360 215 440 215 470 225 L500 300 L400 345 L300 300 Z\" fill=\"#efe6d6\" stroke=\"none\"/>\n<ellipse cx=\"400\" cy=\"282\" rx=\"52\" ry=\"42\" fill=\"#fef3c7\" stroke=\"#a16207\" stroke-width=\"2.5\"/>\n<circle cx=\"380\" cy=\"300\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"400\" cy=\"305\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"420\" cy=\"300\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"390\" cy=\"285\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"410\" cy=\"285\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<circle cx=\"400\" cy=\"268\" r=\"5\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"1\"/>\n<ellipse cx=\"463\" cy=\"262\" rx=\"12\" ry=\"8\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M290 245 L325 238 L338 300 L330 345 L285 365 L248 330 L255 280 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M510 245 L475 238 L462 300 L470 345 L515 365 L552 330 L545 280 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M300 250 L272 300 L278 350\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M500 250 L528 300 L522 350\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M330 335 L400 360 L470 335 L478 362 L418 395 L418 480 L382 480 L382 395 L322 362 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M240 208 L300 236 L292 250 L250 266 L205 252 Z\" fill=\"#cfc6b3\" stroke=\"none\"/>\n<path d=\"M560 208 L500 236 L508 250 L550 266 L595 252 Z\" fill=\"#cfc6b3\" stroke=\"none\"/>\n<path d=\"M226 230 L110 200\" stroke=\"#eab308\" stroke-width=\"7\" stroke-linecap=\"round\" fill=\"none\"/>\n<path d=\"M574 230 L690 200\" stroke=\"#eab308\" stroke-width=\"7\" stroke-linecap=\"round\" fill=\"none\"/>\n<circle cx=\"226\" cy=\"230\" r=\"11\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<circle cx=\"574\" cy=\"230\" r=\"11\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<text x=\"400\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Anterior</text>\n<text x=\"400\" y=\"497\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Posterior</text>\n<text x=\"20\" y=\"480\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">L4-L5 disc level, viewed from above</text>",
+   "labels": [
+    {
+     "name": "Annulus fibrosus",
+     "accept": [
+      "anulus fibrosus",
+      "annulus"
+     ],
+     "function": "Fibrocartilage ring; weakest at its back corners",
+     "x": 290,
+     "y": 110
+    },
+    {
+     "name": "Herniated nucleus pulposus",
+     "accept": [
+      "herniated disc",
+      "disc herniation",
+      "herniation",
+      "HNP",
+      "nucleus pulposus"
+     ],
+     "function": "Gel extruded posterolaterally; causes radicular pain",
+     "x": 452,
+     "y": 205,
+     "lx": 610,
+     "ly": 150
+    },
+    {
+     "name": "Descending (lower) nerve root",
+     "accept": [
+      "traversing nerve root",
+      "traversing root",
+      "lower nerve root",
+      "L5 nerve root",
+      "L5 root",
+      "descending root"
+     ],
+     "function": "Root hit by this herniation: L4-L5 disc compresses L5",
+     "x": 463,
+     "y": 262,
+     "lx": 560,
+     "ly": 300
+    },
+    {
+     "name": "Exiting (upper) nerve root",
+     "accept": [
+      "exiting root",
+      "upper nerve root",
+      "L4 nerve root",
+      "L4 root"
+     ],
+     "function": "Already left above the disc, so usually spared",
+     "x": 640,
+     "y": 218
+    },
+    {
+     "name": "Intervertebral foramen",
+     "accept": [
+      "neural foramen",
+      "foramen",
+      "IVF"
+     ],
+     "function": "Exit window for the spinal nerve; narrowed in stenosis",
+     "x": 268,
+     "y": 252,
+     "lx": 170,
+     "ly": 300
+    },
+    {
+     "name": "Lateral recess",
+     "accept": [
+      "lateral recess of the canal",
+      "subarticular recess"
+     ],
+     "function": "Gutter where the lower root descends past the disc",
+     "x": 345,
+     "y": 252,
+     "lx": 340,
+     "ly": 185
+    },
+    {
+     "name": "Vertebral canal",
+     "accept": [
+      "central canal",
+      "spinal canal",
+      "thecal sac",
+      "cauda equina"
+     ],
+     "function": "Central narrowing here gives neurogenic claudication",
+     "x": 400,
+     "y": 296
+    },
+    {
+     "name": "Facet joint",
+     "accept": [
+      "zygapophyseal joint",
+      "facet",
+      "zygapophysial joint"
+     ],
+     "function": "Synovial joint of articular processes; wears in spondylosis",
+     "x": 275,
+     "y": 325,
+     "lx": 200,
+     "ly": 380
+    },
+    {
+     "name": "Spinous process",
+     "accept": [
+      "spine"
+     ],
+     "function": "Midline posterior projection of the arch",
+     "x": 400,
+     "y": 450
+    }
+   ]
+  },
+  {
+   "title": "Lumbosacral spine, lateral view with lesions (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"290\" y=\"66\" width=\"48\" height=\"80\" rx=\"18\" fill=\"#cfc6b3\" stroke=\"none\"/>\n<rect x=\"290\" y=\"176\" width=\"48\" height=\"80\" rx=\"18\" fill=\"#cfc6b3\" stroke=\"none\"/>\n<rect x=\"255\" y=\"286\" width=\"80\" height=\"74\" rx=\"18\" fill=\"#cfc6b3\" stroke=\"none\"/>\n<rect x=\"152\" y=\"112\" width=\"136\" height=\"26\" rx=\"6\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M152 222 L288 222 L254 250 L118 250 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M118 332 L254 332 L292 358 L152 358 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<rect x=\"150\" y=\"30\" width=\"140\" height=\"80\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"286\" y=\"36\" width=\"56\" height=\"30\" rx=\"4\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M336 68 L336 32 L352 12 L366 20 L364 70 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M362 38 L400 44 L500 70 L506 92 L400 98 L394 134 L376 140 L368 100 L362 70 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"150\" y=\"140\" width=\"140\" height=\"80\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"286\" y=\"146\" width=\"56\" height=\"30\" rx=\"4\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M336 178 L336 142 L352 122 L366 130 L364 180 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M362 148 L400 154 L500 180 L506 202 L400 208 L394 244 L376 250 L368 210 L362 180 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"115\" y=\"252\" width=\"140\" height=\"80\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"251\" y=\"258\" width=\"56\" height=\"30\" rx=\"4\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M301 290 L301 254 L317 234 L331 242 L329 292 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M374 258 L412 264 L512 290 L518 312 L412 318 L406 354 L388 360 L380 320 L374 290 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M368 262 L360 272 L370 282 L362 292\" fill=\"none\" stroke=\"#7c2d12\" stroke-width=\"3\"/>\n<path d=\"M150 360 L294 360 L338 340 L356 332 L372 338 L430 392 L392 470 L300 495 L210 480 L160 420 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M152 112 L128 124 L152 120 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M152 142 L126 130 L152 150 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<line x1=\"367\" y1=\"116\" x2=\"367\" y2=\"138\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"314\" cy=\"76\" r=\"11\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<circle cx=\"314\" cy=\"186\" r=\"11\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<circle cx=\"300\" cy=\"306\" r=\"11\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<text x=\"60\" y=\"78\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\">L3</text>\n<text x=\"60\" y=\"188\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\">L4</text>\n<text x=\"60\" y=\"300\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\">L5</text>\n<text x=\"60\" y=\"430\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\">S1</text>\n<text x=\"560\" y=\"470\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"400\" text-anchor=\"start\">Anterior is to the left</text>",
+   "labels": [
+    {
+     "name": "Osteophyte",
+     "accept": [
+      "bone spur",
+      "osteophytes",
+      "spur"
+     ],
+     "function": "Spur of age-related degeneration; can crowd neural spaces",
+     "x": 136,
+     "y": 132,
+     "lx": 80,
+     "ly": 130
+    },
+    {
+     "name": "Intervertebral disc",
+     "accept": [
+      "IV disc",
+      "disc"
+     ],
+     "function": "Shock absorber; loses height and turgor with age",
+     "x": 220,
+     "y": 125,
+     "lx": 220,
+     "ly": 95
+    },
+    {
+     "name": "Pedicle",
+     "accept": [
+      "pedicles"
+     ],
+     "function": "Its notches above and below bound the nerve exit window",
+     "x": 312,
+     "y": 52,
+     "lx": 330,
+     "ly": 18
+    },
+    {
+     "name": "Intervertebral foramen",
+     "accept": [
+      "neural foramen",
+      "foramen",
+      "IVF"
+     ],
+     "function": "Bony window shared by two levels for a nerve to exit",
+     "x": 316,
+     "y": 130
+    },
+    {
+     "name": "Spinal nerve",
+     "accept": [
+      "nerve root",
+      "spinal nerve root",
+      "exiting nerve"
+     ],
+     "function": "Compression gives dermatomal pain and myotomal weakness",
+     "x": 314,
+     "y": 186,
+     "lx": 250,
+     "ly": 200
+    },
+    {
+     "name": "Facet joint",
+     "accept": [
+      "zygapophyseal joint",
+      "facet",
+      "zygapophysial joint"
+     ],
+     "function": "Paired joint of articular processes; worn in degenerative slip",
+     "x": 367,
+     "y": 127,
+     "lx": 470,
+     "ly": 110
+    },
+    {
+     "name": "Pars interarticularis defect",
+     "accept": [
+      "spondylolysis",
+      "pars defect",
+      "pars fracture",
+      "pars interarticularis"
+     ],
+     "function": "Stress fracture from repeated extension; Scotty dog collar",
+     "x": 365,
+     "y": 277,
+     "lx": 450,
+     "ly": 300
+    },
+    {
+     "name": "Spondylolisthesis",
+     "accept": [
+      "isthmic spondylolisthesis",
+      "anterolisthesis",
+      "vertebral slip"
+     ],
+     "function": "Forward displacement of a vertebra over the one below",
+     "x": 180,
+     "y": 290
+    }
+   ]
+  }
+ ]
+}

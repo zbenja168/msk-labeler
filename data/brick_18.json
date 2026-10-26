@@ -1,0 +1,308 @@
+{
+ "brick": 18,
+ "title": "Common Tendon, Bursa, and Joint Capsule Disorders",
+ "diagrams": [
+  {
+   "title": "Shoulder, coronal section: subacromial space (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M70 175 L250 172 L300 225 L292 345 L215 480 L150 480 L120 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M300 222 Q285 285 296 346\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M120 120 L520 118 Q552 124 546 152 L530 166 L250 170 L120 160 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M462 166 L505 165 L486 192 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M340 330 L420 332 L428 500 L362 500 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"282\" r=\"74\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M330 228 A74 74 0 0 0 330 336\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"7\"/><path d=\"M302 352 Q300 395 335 392 Q362 388 370 356\" fill=\"none\" stroke=\"#78716c\" stroke-width=\"4\"/><path d=\"M80 188 L250 184 Q285 190 292 200 Q285 214 250 220 L80 226 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M285 202 Q330 196 380 196 Q430 198 452 236\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"17\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M285 202 Q330 196 380 196 Q430 198 452 236\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"13\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"395\" cy=\"180\" rx=\"72\" ry=\"8\" fill=\"#ddd6fe\" stroke=\"#7c3aed\" stroke-width=\"2.5\"/><path d=\"M520 124 C640 150 640 340 452 448 L432 418 C530 352 528 240 538 166 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M150 440 Q260 430 345 405 Q400 392 432 410 Q450 418 470 410\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"30\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"start\">Superior \u2191</text><text x=\"690\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"start\">Lateral \u2192</text>",
+   "labels": [
+    {
+     "name": "Acromion",
+     "accept": [
+      "acromion process",
+      "acromial arch"
+     ],
+     "function": "Bony roof of the space; can press down on the cuff tendon",
+     "x": 320,
+     "y": 143
+    },
+    {
+     "name": "Inferior acromial bone spur",
+     "accept": [
+      "acromial spur",
+      "bone spur",
+      "spur",
+      "osteophyte"
+     ],
+     "function": "Degenerative projection that narrows the space, worsening impingement",
+     "x": 486,
+     "y": 178,
+     "lx": 600,
+     "ly": 85
+    },
+    {
+     "name": "Subacromial bursa",
+     "accept": [
+      "subacromial-subdeltoid bursa",
+      "bursa"
+     ],
+     "function": "Cushion under the arch; inflames and thickens with impingement",
+     "x": 395,
+     "y": 180,
+     "lx": 395,
+     "ly": 80
+    },
+    {
+     "name": "Supraspinatus tendon",
+     "accept": [
+      "supraspinatus",
+      "supraspinatus muscle"
+     ],
+     "function": "Initiates abduction; the most commonly torn cuff tendon",
+     "x": 438,
+     "y": 220
+    },
+    {
+     "name": "Deltoid",
+     "accept": [
+      "deltoid muscle"
+     ],
+     "function": "Not a cuff muscle; abducts beyond 15 degrees, rarely injured itself",
+     "x": 590,
+     "y": 300
+    },
+    {
+     "name": "Glenohumeral joint capsule",
+     "accept": [
+      "joint capsule",
+      "capsule",
+      "shoulder capsule"
+     ],
+     "function": "Fibroses and contracts in frozen shoulder (lost active+passive ROM)",
+     "x": 322,
+     "y": 388,
+     "lx": 300,
+     "ly": 470
+    },
+    {
+     "name": "Axillary nerve",
+     "accept": [
+      "axillary"
+     ],
+     "function": "Its injury is the usual cause of weakness of the lateral shoulder muscle",
+     "x": 225,
+     "y": 431,
+     "lx": 120,
+     "ly": 400
+    }
+   ]
+  },
+  {
+   "title": "Elbow, wrist and finger: tendon and cyst disorders (schematic)",
+   "viewBox": "0 0 900 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"520\" fill=\"#f8f5ee\"/><path d=\"M118 70 L178 70 L184 210 L250 250 L244 276 L206 282 L200 300 L104 300 L98 274 L62 258 L70 236 L114 210 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"128\" y1=\"312\" x2=\"128\" y2=\"480\" stroke=\"#7c6a4f\" stroke-width=\"31\" stroke-linecap=\"round\"/><line x1=\"128\" y1=\"312\" x2=\"128\" y2=\"480\" stroke=\"#e8dcc4\" stroke-width=\"26\" stroke-linecap=\"round\"/><line x1=\"178\" y1=\"312\" x2=\"178\" y2=\"480\" stroke=\"#7c6a4f\" stroke-width=\"35\" stroke-linecap=\"round\"/><line x1=\"178\" y1=\"312\" x2=\"178\" y2=\"480\" stroke=\"#e8dcc4\" stroke-width=\"30\" stroke-linecap=\"round\"/><path d=\"M70 262 L62 330\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M70 262 L62 330\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M48 330 L80 330 L98 480 L44 480 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M244 268 L250 336\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M244 268 L250 336\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M232 336 L268 336 L262 480 L208 480 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><text x=\"150\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Elbow, anterior (right)</text><text x=\"30\" y=\"505\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Lateral</text><text x=\"215\" y=\"505\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Medial</text><line x1=\"300\" y1=\"20\" x2=\"300\" y2=\"500\" stroke=\"#d6cbb5\" stroke-width=\"2\"/><path d=\"M420 500 L420 380 Q400 330 360 300 Q338 280 352 266 Q370 256 392 280 L430 318 L436 200 Q436 182 452 182 Q466 182 468 200 L470 150 Q472 132 488 132 Q504 132 506 150 L508 158 Q512 140 528 142 Q542 146 542 164 L544 196 Q550 182 562 186 Q574 190 572 208 L566 330 Q560 380 552 400 L552 500 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><path d=\"M470 470 L452 200\" stroke=\"#d6cfc0\" stroke-width=\"5\" fill=\"none\"/><path d=\"M488 470 L488 160\" stroke=\"#d6cfc0\" stroke-width=\"5\" fill=\"none\"/><path d=\"M506 470 L526 170\" stroke=\"#d6cfc0\" stroke-width=\"5\" fill=\"none\"/><path d=\"M526 470 L560 214\" stroke=\"#d6cfc0\" stroke-width=\"5\" fill=\"none\"/><path d=\"M424 480 L420 400 Q414 352 394 326\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M424 480 L420 400 Q414 352 394 326\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M452 480 L450 400 Q446 345 412 316 L372 278\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M452 480 L450 400 Q446 345 412 316 L372 278\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"502\" cy=\"405\" rx=\"26\" ry=\"20\" fill=\"#e0f2fe\" stroke=\"#0369a1\" stroke-width=\"3\"/><text x=\"450\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Wrist, dorsal (right)</text><text x=\"318\" y=\"505\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\" text-anchor=\"start\">Radial</text><line x1=\"600\" y1=\"20\" x2=\"600\" y2=\"500\" stroke=\"#d6cbb5\" stroke-width=\"2\"/><path d=\"M615 210 L840 222 Q880 230 880 262 Q878 292 840 296 L615 312 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><line x1=\"625\" y1=\"262\" x2=\"690\" y2=\"262\" stroke=\"#7c6a4f\" stroke-width=\"39\" stroke-linecap=\"round\"/><line x1=\"625\" y1=\"262\" x2=\"690\" y2=\"262\" stroke=\"#e8dcc4\" stroke-width=\"34\" stroke-linecap=\"round\"/><line x1=\"712\" y1=\"262\" x2=\"770\" y2=\"262\" stroke=\"#7c6a4f\" stroke-width=\"29\" stroke-linecap=\"round\"/><line x1=\"712\" y1=\"262\" x2=\"770\" y2=\"262\" stroke=\"#e8dcc4\" stroke-width=\"24\" stroke-linecap=\"round\"/><line x1=\"788\" y1=\"263\" x2=\"825\" y2=\"263\" stroke=\"#7c6a4f\" stroke-width=\"25\" stroke-linecap=\"round\"/><line x1=\"788\" y1=\"263\" x2=\"825\" y2=\"263\" stroke=\"#e8dcc4\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"842\" y1=\"264\" x2=\"862\" y2=\"264\" stroke=\"#7c6a4f\" stroke-width=\"21\" stroke-linecap=\"round\"/><line x1=\"842\" y1=\"264\" x2=\"862\" y2=\"264\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M615 234 L860 246\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M615 234 L860 246\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M615 293 L855 285\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M615 293 L855 285\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"672\" cy=\"293\" rx=\"13\" ry=\"8\" fill=\"#f5f0e1\" stroke=\"#78716c\" stroke-width=\"3\"/><rect x=\"694\" y=\"281\" width=\"26\" height=\"22\" rx=\"4\" fill=\"#cbd5e1\" stroke=\"#475569\" stroke-width=\"3\"/><text x=\"750\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\">Finger, side view</text><text x=\"615\" y=\"200\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Dorsal</text><text x=\"615\" y=\"340\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Palmar</text><text x=\"840\" y=\"200\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" font-weight=\"500\" text-anchor=\"start\">Distal \u2192</text>",
+   "labels": [
+    {
+     "name": "Lateral epicondyle",
+     "accept": [
+      "lateral epicondyle of humerus"
+     ],
+     "function": "Point tenderness here in tennis elbow",
+     "x": 66,
+     "y": 248,
+     "lx": 50,
+     "ly": 180
+    },
+    {
+     "name": "Common extensor tendon origin",
+     "accept": [
+      "common extensor origin",
+      "common extensor tendon"
+     ],
+     "function": "Overuse lesion pained by resisted wrist dorsiflexion and gripping",
+     "x": 64,
+     "y": 310,
+     "lx": 30,
+     "ly": 380
+    },
+    {
+     "name": "Medial epicondyle",
+     "accept": [
+      "medial epicondyle of humerus"
+     ],
+     "function": "Point tenderness here in golfer's elbow",
+     "x": 246,
+     "y": 262,
+     "lx": 270,
+     "ly": 180
+    },
+    {
+     "name": "Common flexor tendon origin",
+     "accept": [
+      "common flexor origin",
+      "common flexor tendon"
+     ],
+     "function": "Overuse lesion pained by resisted wrist palmar bending and pronation",
+     "x": 249,
+     "y": 318,
+     "lx": 280,
+     "ly": 390
+    },
+    {
+     "name": "Abductor pollicis longus tendon",
+     "accept": [
+      "abductor pollicis longus",
+      "APL"
+     ],
+     "function": "Moves the thumb away from the palm; sheath swells in De Quervain",
+     "x": 420,
+     "y": 390,
+     "lx": 360,
+     "ly": 410
+    },
+    {
+     "name": "Extensor pollicis brevis tendon",
+     "accept": [
+      "extensor pollicis brevis",
+      "EPB"
+     ],
+     "function": "Straightens the thumb's proximal phalanx; De Quervain partner",
+     "x": 386,
+     "y": 296,
+     "lx": 330,
+     "ly": 230
+    },
+    {
+     "name": "Ganglion cyst",
+     "accept": [
+      "dorsal wrist ganglion",
+      "ganglion"
+     ],
+     "function": "Mucin-rich swelling from a capsule or sheath; half resolve",
+     "x": 502,
+     "y": 405,
+     "lx": 520,
+     "ly": 460
+    },
+    {
+     "name": "A1 pulley",
+     "accept": [
+      "annular pulley",
+      "A1 annular pulley",
+      "pulley"
+     ],
+     "function": "Fibrous sheath band that stops bowstringing; thickens and catches",
+     "x": 707,
+     "y": 292,
+     "lx": 707,
+     "ly": 400
+    },
+    {
+     "name": "Flexor tendon nodule",
+     "accept": [
+      "tendon nodule",
+      "nodule"
+     ],
+     "function": "Swelling forced through the narrow band, then sticks (triggering)",
+     "x": 672,
+     "y": 293,
+     "lx": 650,
+     "ly": 430
+    },
+    {
+     "name": "Extensor tendon",
+     "accept": [
+      "extensor digitorum tendon"
+     ],
+     "function": "Weaker pull must build force to snap the bent digit straight",
+     "x": 800,
+     "y": 241,
+     "lx": 800,
+     "ly": 150
+    }
+   ]
+  },
+  {
+   "title": "Knee, sagittal view from the medial side: bursae and cyst (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M230 0 L560 0 Q585 200 600 300 Q610 360 590 500 L280 500 Q290 400 270 330 Q235 260 240 180 Q245 80 230 0 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><path d=\"M330 0 L430 0 L438 170 Q480 200 478 250 Q474 300 410 310 Q340 312 325 260 Q318 215 336 180 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M320 330 L480 330 Q484 352 462 362 L440 380 L436 500 L352 500 L346 400 L320 375 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M316 308 L362 308 L324 334 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M484 308 L438 308 L478 334 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M335 318 Q400 326 465 318\" fill=\"none\" stroke=\"#60a5fa\" stroke-width=\"6\"/><path d=\"M330 170 Q300 250 318 340 M455 175 Q505 250 478 345\" fill=\"none\" stroke=\"#78716c\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><path d=\"M318 30 L300 160\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M318 30 L300 160\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"292\" cy=\"212\" rx=\"20\" ry=\"46\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M290 262 L320 410\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M290 262 L320 410\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><ellipse cx=\"264\" cy=\"212\" rx=\"8\" ry=\"40\" fill=\"#ddd6fe\" stroke=\"#7c3aed\" stroke-width=\"2.5\"/><path d=\"M470 0 L548 0 Q556 80 520 150 L500 150 Q470 70 470 0 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M510 150 Q512 270 486 356\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"15\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M510 150 Q512 270 486 356\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M452 196 Q500 192 540 250 Q596 330 586 430 Q570 500 520 500 Q536 420 500 330 Q470 260 446 214 Z\" fill=\"#c2553b\" stroke=\"#7c2d12\" stroke-width=\"2.5\"/><ellipse cx=\"528\" cy=\"236\" rx=\"30\" ry=\"42\" fill=\"#ddd6fe\" stroke=\"#7c3aed\" stroke-width=\"2.5\"/><path d=\"M478 322 Q498 300 512 268\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"round\" stroke-dasharray=\"4 3\"/><text x=\"20\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"start\">\u2190 Anterior</text><text x=\"660\" y=\"40\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\" text-anchor=\"start\">Posterior \u2192</text>",
+   "labels": [
+    {
+     "name": "Prepatellar bursa",
+     "accept": [
+      "prepatellar"
+     ],
+     "function": "Inflamed by kneeling pressure (housemaid's knee)",
+     "x": 262,
+     "y": 200,
+     "lx": 170,
+     "ly": 200
+    },
+    {
+     "name": "Patellar tendon",
+     "accept": [
+      "patellar ligament"
+     ],
+     "function": "Common overuse tendonitis site below the kneecap (jumper's knee)",
+     "x": 308,
+     "y": 350,
+     "lx": 220,
+     "ly": 380
+    },
+    {
+     "name": "Meniscus",
+     "accept": [
+      "medial meniscus",
+      "menisci"
+     ],
+     "function": "Its tears cause recurrent effusions in adult knees",
+     "x": 462,
+     "y": 316,
+     "lx": 410,
+     "ly": 445
+    },
+    {
+     "name": "Knee joint cavity",
+     "accept": [
+      "knee joint",
+      "joint cavity",
+      "synovial cavity",
+      "joint space"
+     ],
+     "function": "Raised pressure pushes synovial fluid out through a one-way valve",
+     "x": 400,
+     "y": 323,
+     "lx": 400,
+     "ly": 395
+    },
+    {
+     "name": "Baker cyst",
+     "accept": [
+      "popliteal cyst",
+      "baker's cyst",
+      "gastrocnemius-semimembranosus bursa"
+     ],
+     "function": "Soft posterior knee mass of distended bursa filled with synovial fluid",
+     "x": 532,
+     "y": 232,
+     "lx": 680,
+     "ly": 200
+    },
+    {
+     "name": "Semimembranosus tendon",
+     "accept": [
+      "semimembranosus"
+     ],
+     "function": "Hamstring tendon bordering the swelling on its medial side",
+     "x": 502,
+     "y": 175,
+     "lx": 640,
+     "ly": 120
+    },
+    {
+     "name": "Medial head of gastrocnemius",
+     "accept": [
+      "gastrocnemius",
+      "medial gastrocnemius"
+     ],
+     "function": "Calf muscle head bordering the swelling laterally",
+     "x": 560,
+     "y": 360,
+     "lx": 680,
+     "ly": 380
+    }
+   ]
+  }
+ ]
+}

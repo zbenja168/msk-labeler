@@ -1,0 +1,284 @@
+{
+ "brick": 11,
+ "title": "Muscle Metabolism",
+ "diagrams": [
+  {
+   "title": "Energy systems in a skeletal muscle fiber (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/>\n<rect x=\"14\" y=\"20\" width=\"56\" height=\"480\" rx=\"24\" fill=\"#fecaca\" stroke=\"#dc2626\" stroke-width=\"3\"/>\n<ellipse cx=\"42\" cy=\"70\" rx=\"16\" ry=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<ellipse cx=\"42\" cy=\"170\" rx=\"16\" ry=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<ellipse cx=\"42\" cy=\"270\" rx=\"16\" ry=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<ellipse cx=\"42\" cy=\"370\" rx=\"16\" ry=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<ellipse cx=\"42\" cy=\"450\" rx=\"16\" ry=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<text x=\"42\" y=\"512\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">blood</text>\n<rect x=\"100\" y=\"20\" width=\"686\" height=\"485\" rx=\"30\" fill=\"#fde7dc\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<ellipse cx=\"555\" cy=\"165\" rx=\"215\" ry=\"120\" fill=\"#fed7aa\" stroke=\"#c2410c\" stroke-width=\"3\"/>\n<path d=\"M370 165 q20 -60 45 0 t45 0 t45 0 t45 0 t45 0 t45 0 t45 0\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"2\" opacity=\"0.45\"/>\n<circle cx=\"500\" cy=\"150\" r=\"52\" fill=\"#fff7ed\" stroke=\"#b45309\" stroke-width=\"5\"/>\n<polygon points=\"545,179 542,165 555,170\" fill=\"#b45309\"/>\n<polygon points=\"452,174 466,179 455,188\" fill=\"#b45309\"/>\n<polygon points=\"503,97 492,106 490,92\" fill=\"#b45309\"/>\n<text x=\"500\" y=\"122\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">NADH</text>\n<text x=\"500\" y=\"184\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">FADH\u2082</text>\n<line x1=\"640\" y1=\"85\" x2=\"640\" y2=\"245\" stroke=\"#7c2d12\" stroke-width=\"4\"/>\n<rect x=\"628\" y=\"95\" width=\"24\" height=\"28\" rx=\"5\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<rect x=\"628\" y=\"130\" width=\"24\" height=\"28\" rx=\"5\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<rect x=\"628\" y=\"165\" width=\"24\" height=\"28\" rx=\"5\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<rect x=\"628\" y=\"200\" width=\"24\" height=\"28\" rx=\"5\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<ellipse cx=\"640\" cy=\"242\" rx=\"16\" ry=\"12\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<line x1=\"552\" y1=\"150\" x2=\"620\" y2=\"150\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"620,150 611,154 611,146\" fill=\"#3b1d0a\"/>\n<text x=\"575\" y=\"262\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">O\u2082 \u2192 H\u2082O</text>\n<text x=\"712\" y=\"240\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"700\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">~32 ATP</text>\n<line x1=\"72\" y1=\"92\" x2=\"140\" y2=\"92\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><polygon points=\"140,92 131,96 131,88\" fill=\"#dc2626\"/>\n<text x=\"105\" y=\"82\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">O\u2082</text>\n<circle cx=\"165\" cy=\"92\" r=\"9\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<circle cx=\"179\" cy=\"100\" r=\"9\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<circle cx=\"171\" cy=\"110\" r=\"9\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<circle cx=\"157\" cy=\"104\" r=\"9\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"1.5\"/>\n<path d=\"M190 100 Q270 60 350 115\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\" stroke-dasharray=\"6 5\"/>\n<line x1=\"340\" y1=\"109\" x2=\"352\" y2=\"117\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><polygon points=\"352,117 342,116 347,108\" fill=\"#dc2626\"/>\n<rect x=\"137.0\" y=\"218.0\" width=\"46\" height=\"24\" rx=\"12.0\" fill=\"#bbf7d0\" stroke=\"#15803d\" stroke-width=\"2.5\"/>\n<rect x=\"277.0\" y=\"218.0\" width=\"46\" height=\"24\" rx=\"12.0\" fill=\"#e7e5e4\" stroke=\"#78716c\" stroke-width=\"2.5\"/>\n<line x1=\"184\" y1=\"230\" x2=\"274\" y2=\"230\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"274,230 265,234 265,226\" fill=\"#3b1d0a\"/>\n<path d=\"M213 205 q0 -14 16 -14 q16 0 16 14 q0 14 -16 14 q-6 0 -8 -6 l6 -8 l-8 -2 l-8 6 Z\" fill=\"#fbbf24\" stroke=\"#92400e\" stroke-width=\"2.5\"/>\n<path d=\"M200 260 Q229 285 258 260\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"2\"/>\n<line x1=\"252\" y1=\"266\" x2=\"258\" y2=\"260\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"258,260 255,269 249,263\" fill=\"#3b1d0a\"/>\n<text x=\"190\" y=\"282\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">ADP</text>\n<text x=\"272\" y=\"282\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">ATP</text>\n<line x1=\"72\" y1=\"400\" x2=\"96\" y2=\"400\" stroke=\"#2563eb\" stroke-width=\"2.5\"/><polygon points=\"96,400 87,404 87,396\" fill=\"#2563eb\"/>\n<text x=\"84\" y=\"372\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">glucose</text>\n<rect x=\"92\" y=\"384\" width=\"8\" height=\"32\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<rect x=\"104\" y=\"384\" width=\"8\" height=\"32\" rx=\"2\" fill=\"#2563eb\" stroke=\"#fff\" stroke-width=\"1\"/>\n<circle cx=\"210\" cy=\"340\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"222\" cy=\"346\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"198\" cy=\"346\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"216\" cy=\"329\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"204\" cy=\"329\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"210\" cy=\"353\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"228\" cy=\"336\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<circle cx=\"192\" cy=\"336\" r=\"5.5\" fill=\"#94a3b8\" stroke=\"#475569\" stroke-width=\"1.2\"/>\n<line x1=\"215\" y1=\"358\" x2=\"215\" y2=\"392\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"215,392 211,383 219,383\" fill=\"#3b1d0a\"/>\n<line x1=\"118\" y1=\"400\" x2=\"370\" y2=\"400\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"370,400 361,404 361,396\" fill=\"#3b1d0a\"/>\n<text x=\"310\" y=\"392\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">glycolysis: 2 ATP</text>\n<rect x=\"377.0\" y=\"388.0\" width=\"46\" height=\"24\" rx=\"12.0\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2.5\"/>\n<line x1=\"424\" y1=\"410\" x2=\"528\" y2=\"445\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"528,445 518,446 521,438\" fill=\"#3b1d0a\"/>\n<text x=\"480\" y=\"450\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">low O\u2082</text>\n<rect x=\"537.0\" y=\"438.0\" width=\"46\" height=\"24\" rx=\"12.0\" fill=\"#fecdd3\" stroke=\"#be123c\" stroke-width=\"2.5\"/>\n<text x=\"615\" y=\"455\" font-size=\"13\" text-anchor=\"start\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">+ H\u207a (acidosis, fatigue)</text>\n<line x1=\"402\" y1=\"387\" x2=\"405\" y2=\"300\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"405,300 409,309 400,309\" fill=\"#3b1d0a\"/>\n<path d=\"M389 330 q0 -14 16 -14 q16 0 16 14 q0 14 -16 14 q-6 0 -8 -6 l6 -8 l-8 -2 l-8 6 Z\" fill=\"#fbbf24\" stroke=\"#92400e\" stroke-width=\"2.5\"/>\n<rect x=\"407.0\" y=\"228.0\" width=\"46\" height=\"24\" rx=\"12.0\" fill=\"#ddd6fe\" stroke=\"#6d28d9\" stroke-width=\"2.5\"/>\n<line x1=\"446\" y1=\"228\" x2=\"466\" y2=\"196\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/><polygon points=\"466,196 465,206 458,201\" fill=\"#3b1d0a\"/>\n<text x=\"120\" y=\"495\" font-size=\"14\" text-anchor=\"start\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Cytosol</text>\n<text x=\"740\" y=\"60\" font-size=\"14\" text-anchor=\"end\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Mitochondrion</text>",
+   "labels": [
+    {
+     "name": "Myoglobin",
+     "accept": [
+      "mb"
+     ],
+     "function": "Binds and stores O2, shuttling it toward mitochondria",
+     "x": 165,
+     "y": 100,
+     "lx": 165,
+     "ly": 150
+    },
+    {
+     "name": "Phosphocreatine",
+     "accept": [
+      "pcr",
+      "creatine phosphate",
+      "phosphocreatine (pcr)"
+     ],
+     "function": "High-energy phosphate donor; depleted in about 10 seconds",
+     "x": 160,
+     "y": 230,
+     "lx": 120,
+     "ly": 190
+    },
+    {
+     "name": "Creatine kinase",
+     "accept": [
+      "ck",
+      "cpk",
+      "creatine phosphokinase"
+     ],
+     "function": "Single-step anaerobic ATP regeneration; serum injury marker",
+     "x": 229,
+     "y": 205,
+     "lx": 260,
+     "ly": 160
+    },
+    {
+     "name": "Glycogen",
+     "accept": [
+      "glycogen granules",
+      "muscle glycogen",
+      "glycogen stores"
+     ],
+     "function": "Stored fuel mobilized by Ca-calmodulin and epinephrine",
+     "x": 222,
+     "y": 334,
+     "lx": 300,
+     "ly": 330
+    },
+    {
+     "name": "GLUT4",
+     "accept": [
+      "glut-4",
+      "glut 4",
+      "glucose transporter 4",
+      "glucose transporter type 4"
+     ],
+     "function": "Imports blood sugar across the sarcolemma",
+     "x": 102,
+     "y": 410,
+     "lx": 140,
+     "ly": 455
+    },
+    {
+     "name": "Pyruvate",
+     "accept": [
+      "pyruvic acid"
+     ],
+     "function": "End product of glycolysis; its fate depends on O2",
+     "x": 400,
+     "y": 400,
+     "lx": 345,
+     "ly": 440
+    },
+    {
+     "name": "Lactate",
+     "accept": [
+      "lactic acid"
+     ],
+     "function": "Made when O2 is limited; accompanies, not causes, fatigue",
+     "x": 560,
+     "y": 450,
+     "lx": 560,
+     "ly": 490
+    },
+    {
+     "name": "Pyruvate dehydrogenase",
+     "accept": [
+      "pdh",
+      "pyruvate dehydrogenase complex",
+      "pdc"
+     ],
+     "function": "Converts the glycolytic end product for mitochondrial entry",
+     "x": 405,
+     "y": 330,
+     "lx": 340,
+     "ly": 290
+    },
+    {
+     "name": "Acetyl CoA",
+     "accept": [
+      "acetyl-coa",
+      "acetyl coenzyme a"
+     ],
+     "function": "Two-carbon unit that feeds the mitochondrial cycle",
+     "x": 430,
+     "y": 240,
+     "lx": 470,
+     "ly": 280
+    },
+    {
+     "name": "TCA cycle",
+     "accept": [
+      "krebs cycle",
+      "citric acid cycle",
+      "tricarboxylic acid cycle",
+      "tca"
+     ],
+     "function": "Generates NADH and FADH2 from two-carbon units",
+     "x": 500,
+     "y": 150
+    },
+    {
+     "name": "Electron transport chain",
+     "accept": [
+      "etc",
+      "respiratory chain",
+      "oxidative phosphorylation",
+      "oxphos"
+     ],
+     "function": "O2-dependent ATP production: ~32 ATP per glucose",
+     "x": 640,
+     "y": 165,
+     "lx": 720,
+     "ly": 175
+    }
+   ]
+  },
+  {
+   "title": "Motor units and muscle fiber types, cross-section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<circle cx=\"320\" cy=\"250\" r=\"62\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"3\"/>\n<circle cx=\"495\" cy=\"250\" r=\"82\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<circle cx=\"680\" cy=\"250\" r=\"98\" fill=\"#fbe9e1\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<circle cx=\"320\" cy=\"172\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"250\" cy=\"220\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"250\" cy=\"290\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"320\" cy=\"328\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"390\" cy=\"205\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"400\" cy=\"300\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"495\" cy=\"155\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"585\" cy=\"165\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<circle cx=\"680\" cy=\"140\" r=\"9\" fill=\"#dc2626\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"295\" cy=\"215\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"340\" cy=\"220\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"290\" cy=\"265\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"350\" cy=\"285\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"318\" cy=\"300\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"305\" cy=\"240\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"345\" cy=\"250\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"460\" cy=\"210\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"530\" cy=\"220\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"470\" cy=\"290\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"525\" cy=\"285\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<ellipse cx=\"650\" cy=\"205\" rx=\"9\" ry=\"5\" fill=\"#fdba74\" stroke=\"#7c2d12\" stroke-width=\"1.5\"/>\n<circle cx=\"330\" cy=\"200\" r=\"6\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1.5\"/>\n<circle cx=\"322\" cy=\"270\" r=\"6\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1.5\"/>\n<circle cx=\"280\" cy=\"245\" r=\"6\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1.5\"/>\n<circle cx=\"500\" cy=\"300\" r=\"5\" fill=\"#fde047\" stroke=\"#a16207\" stroke-width=\"1.5\"/>\n<circle cx=\"683\" cy=\"281\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"652\" cy=\"272\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"728\" cy=\"271\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"743\" cy=\"214\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"684\" cy=\"209\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"636\" cy=\"240\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"695\" cy=\"277\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"697\" cy=\"325\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"714\" cy=\"186\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"692\" cy=\"213\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"656\" cy=\"310\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"672\" cy=\"176\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"701\" cy=\"230\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"628\" cy=\"209\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"643\" cy=\"249\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"651\" cy=\"255\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"748\" cy=\"220\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"636\" cy=\"236\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"732\" cy=\"217\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"735\" cy=\"200\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"627\" cy=\"247\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"636\" cy=\"218\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"705\" cy=\"290\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"689\" cy=\"228\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"742\" cy=\"268\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"669\" cy=\"309\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"632\" cy=\"259\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"719\" cy=\"249\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"646\" cy=\"271\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"637\" cy=\"305\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"654\" cy=\"305\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"705\" cy=\"233\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"718\" cy=\"266\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"686\" cy=\"187\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"684\" cy=\"298\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"705\" cy=\"300\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"745\" cy=\"268\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"742\" cy=\"202\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"673\" cy=\"172\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"725\" cy=\"255\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"749\" cy=\"235\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"614\" cy=\"292\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"627\" cy=\"200\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"670\" cy=\"287\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"648\" cy=\"262\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"622\" cy=\"303\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"671\" cy=\"267\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"715\" cy=\"260\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"691\" cy=\"201\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"672\" cy=\"279\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"733\" cy=\"244\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"687\" cy=\"275\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"714\" cy=\"262\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"664\" cy=\"219\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"736\" cy=\"265\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"680\" cy=\"330\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"723\" cy=\"291\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"688\" cy=\"198\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"737\" cy=\"246\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"495\" cy=\"250\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"480\" cy=\"240\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"512\" cy=\"262\" r=\"3\" fill=\"#64748b\"/>\n<circle cx=\"80\" cy=\"110\" r=\"14\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2.5\"/>\n<path d=\"M94 110 Q200 110 262 205\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"4\"/>\n<circle cx=\"80\" cy=\"410\" r=\"30\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2.5\"/>\n<path d=\"M110 410 Q420 470 631 335\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"8\"/>\n<text x=\"40\" y=\"40\" font-size=\"16\" text-anchor=\"start\" font-weight=\"700\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Size principle</text>\n<text x=\"560\" y=\"485\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Fiber cross-sections (enlarged)</text>\n<text x=\"40\" y=\"175\" font-size=\"13\" text-anchor=\"start\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">recruited 1st</text>\n<text x=\"40\" y=\"470\" font-size=\"13\" text-anchor=\"start\" font-weight=\"400\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">recruited last</text>",
+   "labels": [
+    {
+     "name": "Small motor neuron",
+     "accept": [
+      "small alpha motor neuron",
+      "small motor neurons",
+      "small-diameter motor neuron"
+     ],
+     "function": "Lowest threshold; drives a unit of ~100-500 fibers",
+     "x": 80,
+     "y": 110,
+     "lx": 150,
+     "ly": 70
+    },
+    {
+     "name": "Large motor neuron",
+     "accept": [
+      "large alpha motor neuron",
+      "large motor neurons",
+      "large-diameter motor neuron"
+     ],
+     "function": "Highest threshold; drives a unit of ~1000-2000 fibers",
+     "x": 80,
+     "y": 410,
+     "lx": 160,
+     "ly": 370
+    },
+    {
+     "name": "Type I fiber",
+     "accept": [
+      "type 1 fiber",
+      "type i",
+      "slow twitch fiber",
+      "slow-twitch",
+      "slow oxidative fiber",
+      "type i muscle fiber",
+      "slow twitch"
+     ],
+     "function": "Slow, fatigue-resistant; dominates soleus and paraspinals",
+     "x": 305,
+     "y": 285,
+     "lx": 230,
+     "ly": 400
+    },
+    {
+     "name": "Type IIA fiber",
+     "accept": [
+      "type 2a fiber",
+      "type iia",
+      "type iia muscle fiber",
+      "fast oxidative-glycolytic fiber",
+      "fast oxidative glycolytic",
+      "intermediate fiber"
+     ],
+     "function": "Fast but oxidative-glycolytic; supports sustained power",
+     "x": 545,
+     "y": 245,
+     "lx": 495,
+     "ly": 50
+    },
+    {
+     "name": "Type IIX fiber",
+     "accept": [
+      "type 2x fiber",
+      "type iix",
+      "type iix muscle fiber",
+      "fast glycolytic fiber",
+      "fast twitch glycolytic",
+      "white fiber"
+     ],
+     "function": "Fast, high-force, rapidly fatigable sprint fiber",
+     "x": 735,
+     "y": 300,
+     "lx": 760,
+     "ly": 400
+    },
+    {
+     "name": "Capillary",
+     "accept": [
+      "capillaries",
+      "blood capillary"
+     ],
+     "function": "Delivers O2 by diffusion; densest around slow fibers",
+     "x": 250,
+     "y": 290,
+     "lx": 190,
+     "ly": 300
+    },
+    {
+     "name": "Mitochondrion",
+     "accept": [
+      "mitochondria",
+      "mitochondrial"
+     ],
+     "function": "Site of oxidative phosphorylation (~30-32 ATP/glucose)",
+     "x": 340,
+     "y": 220,
+     "lx": 380,
+     "ly": 120
+    },
+    {
+     "name": "Lipid droplet",
+     "accept": [
+      "lipid",
+      "lipid droplets",
+      "fat droplet",
+      "intramuscular lipid",
+      "triglyceride droplet"
+     ],
+     "function": "Ready fat fuel store, high in oxidative fibers",
+     "x": 280,
+     "y": 245,
+     "lx": 200,
+     "ly": 225
+    },
+    {
+     "name": "Glycogen granules",
+     "accept": [
+      "glycogen",
+      "glycogen granule",
+      "glycogen stores"
+     ],
+     "function": "Supplies rapid anaerobic ATP; depletes quickly",
+     "x": 700,
+     "y": 230,
+     "lx": 690,
+     "ly": 60
+    }
+   ]
+  }
+ ]
+}

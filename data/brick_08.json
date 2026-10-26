@@ -1,0 +1,314 @@
+{
+ "brick": 8,
+ "title": "Acquired Bone Disorders",
+ "diagrams": [
+  {
+   "title": "Acquired bone disorders: key skeletal sites (schematic, anterior view)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M400 112 Q342 106 338 134\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 112 Q342 106 338 134\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 112 Q458 106 462 134\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 112 Q458 106 462 134\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 130 Q342 124 338 152\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 130 Q342 124 338 152\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 130 Q458 124 462 152\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 130 Q458 124 462 152\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 148 Q342 142 338 170\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 148 Q342 142 338 170\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 148 Q458 142 462 170\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 148 Q458 142 462 170\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 166 Q342 160 338 188\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 166 Q342 160 338 188\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 166 Q458 160 462 188\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 166 Q458 160 462 188\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 184 Q342 178 338 206\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 184 Q342 178 338 206\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 184 Q458 178 462 206\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 184 Q458 178 462 206\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 202 Q342 196 338 224\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 202 Q342 196 338 224\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<path d=\"M400 202 Q458 196 462 224\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M400 202 Q458 196 462 224\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\"/>\n<line x1=\"353\" y1=\"150\" x2=\"361\" y2=\"140\" stroke=\"#f8f5ee\" stroke-width=\"4\"/>\n<line x1=\"350\" y1=\"148\" x2=\"358\" y2=\"138\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/><line x1=\"356\" y1=\"152\" x2=\"364\" y2=\"142\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<path d=\"M398 98 L335 92\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M398 98 L335 92\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M402 98 L465 92\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M402 98 L465 92\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M338 104 L318 205\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M338 104 L318 205\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M462 104 L482 205\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M462 104 L482 205\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M318 210 L306 296\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M318 210 L306 296\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M324 210 L318 296\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M324 210 L318 296\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M482 210 L482 296\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M482 210 L482 296\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M476 210 L494 296\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M476 210 L494 296\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"338\" cy=\"104\" r=\"11\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><circle cx=\"462\" cy=\"104\" r=\"11\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"300\" y1=\"282\" x2=\"314\" y2=\"288\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n<rect x=\"298\" y=\"300\" width=\"28\" height=\"16\" rx=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M301 322 L298.8 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M301 322 L298.8 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M298.8 343 L298.25 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M298.8 343 L298.25 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M298.25 359 L297.7 365\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M298.25 359 L297.7 365\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M308 322 L307.2 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M308 322 L307.2 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M307.2 343 L307.0 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M307.2 343 L307.0 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M307.0 359 L306.8 365\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M307.0 359 L306.8 365\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M315 322 L315.6 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M315 322 L315.6 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M315.6 343 L315.75 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M315.6 343 L315.75 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M315.75 359 L315.9 365\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M315.75 359 L315.9 365\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M322 322 L324.0 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M322 322 L324.0 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M324.0 343 L324.5 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M324.0 343 L324.5 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M324.5 359 L325.0 365\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M324.5 359 L325.0 365\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<rect x=\"474\" y=\"300\" width=\"28\" height=\"16\" rx=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M477 322 L474.8 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M477 322 L474.8 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M474.8 343 L474.25 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M474.8 343 L474.25 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"473.7\" cy=\"364\" rx=\"4.8\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M484 322 L483.2 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M484 322 L483.2 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M483.2 343 L483.0 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M483.2 343 L483.0 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"482.8\" cy=\"364\" rx=\"4.8\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M491 322 L491.6 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M491 322 L491.6 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M491.6 343 L491.75 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M491.6 343 L491.75 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"491.9\" cy=\"364\" rx=\"4.8\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M498 322 L500.0 338\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M498 322 L500.0 338\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M500.0 343 L500.5 354\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M500.0 343 L500.5 354\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<ellipse cx=\"501.0\" cy=\"364\" rx=\"4.8\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"86\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"98.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"111.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"123.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"136.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"148.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"161.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"173.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"186.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"198.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"211.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M391 225.5 L409 223.5 L409 233.5 L391 231.5 Z\" fill=\"#d6c4a3\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"236.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"248.5\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"391\" y=\"261.0\" width=\"18\" height=\"10\" rx=\"2\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<ellipse cx=\"400\" cy=\"44\" rx=\"32\" ry=\"34\" fill=\"#d9c6a0\" stroke=\"#7c6a4f\" stroke-width=\"7\"/>\n<ellipse cx=\"400\" cy=\"44\" rx=\"25\" ry=\"27\" fill=\"#e8dcc4\" stroke=\"none\"/>\n<path d=\"M382 66 Q400 88 418 66\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<circle cx=\"389\" cy=\"44\" r=\"6\" fill=\"#7c6a4f\"/><circle cx=\"411\" cy=\"44\" r=\"6\" fill=\"#7c6a4f\"/>\n<path d=\"M352 262 Q356 250 380 258 L400 275 L420 258 Q444 250 448 262 Q452 292 430 306 L400 312 L370 306 Q348 292 352 262 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<circle cx=\"383\" cy=\"292\" r=\"7\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/><circle cx=\"417\" cy=\"292\" r=\"7\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M366 300 L358 318 L360 400\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M366 300 L358 318 L360 400\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M434 300 L444 318 L446 360 L440 400\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"23\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M434 300 L444 318 L446 360 L440 400\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"368\" cy=\"296\" r=\"11\" fill=\"#b8a07a\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M360 292 Q368 300 377 291\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"432\" cy=\"296\" r=\"11\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"436\" y1=\"304\" x2=\"446\" y2=\"312\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n<path d=\"M360 410 L358 476\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M360 410 L358 476\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M440 410 L442 476\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M440 410 L442 476\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M350 418 Q346 445 350 470 M370 418 Q374 445 370 470\" fill=\"none\" stroke=\"#f97316\" stroke-width=\"3\" stroke-dasharray=\"3 3\"/>\n<ellipse cx=\"352\" cy=\"486\" rx=\"16\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/><ellipse cx=\"448\" cy=\"486\" rx=\"16\" ry=\"6\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<text x=\"40\" y=\"480\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"start\">Patient's right</text>\n<text x=\"760\" y=\"480\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"end\">Patient's left</text>",
+   "labels": [
+    {
+     "name": "Skull",
+     "accept": [
+      "calvaria",
+      "cranium",
+      "skull bones"
+     ],
+     "function": "Thickens in Paget: bigger hat size, CN VIII hearing loss",
+     "x": 400,
+     "y": 14,
+     "lx": 250,
+     "ly": 30
+    },
+    {
+     "name": "Ribs",
+     "accept": [
+      "rib"
+     ],
+     "function": "Pseudofractures (Looser zones) in vitamin D-deficient soft bone",
+     "x": 357,
+     "y": 145,
+     "lx": 250,
+     "ly": 140
+    },
+    {
+     "name": "Vertebral body",
+     "accept": [
+      "vertebra",
+      "vertebrae",
+      "vertebral bodies"
+     ],
+     "function": "Wedge compression: back pain, height loss, kyphosis",
+     "x": 400,
+     "y": 228,
+     "lx": 560,
+     "ly": 215
+    },
+    {
+     "name": "Distal radius",
+     "accept": [
+      "radius",
+      "wrist"
+     ],
+     "function": "Colles fragility fracture after a fall",
+     "x": 307,
+     "y": 285,
+     "lx": 210,
+     "ly": 260
+    },
+    {
+     "name": "Distal phalanx",
+     "accept": [
+      "distal phalanges",
+      "fingertips",
+      "fingertip"
+     ],
+     "function": "Clubbing: bulbous swelling with raised nails",
+     "x": 492,
+     "y": 364,
+     "lx": 590,
+     "ly": 350
+    },
+    {
+     "name": "Femoral head",
+     "accept": [
+      "head of femur",
+      "head of the femur"
+     ],
+     "function": "Avascular necrosis with chronic glucocorticoids",
+     "x": 368,
+     "y": 296,
+     "lx": 250,
+     "ly": 310
+    },
+    {
+     "name": "Femoral neck",
+     "accept": [
+      "neck of femur",
+      "hip",
+      "neck of the femur"
+     ],
+     "function": "Common site of osteoporotic hip fragility fracture",
+     "x": 440,
+     "y": 308,
+     "lx": 590,
+     "ly": 295
+    },
+    {
+     "name": "Femoral shaft",
+     "accept": [
+      "shaft of femur",
+      "femoral diaphysis"
+     ],
+     "function": "Thick, bowed bone with chalk-stick fractures in Paget",
+     "x": 446,
+     "y": 360,
+     "lx": 590,
+     "ly": 400
+    },
+    {
+     "name": "Periosteum",
+     "accept": [
+      "tibial periosteum",
+      "periosteal layer"
+     ],
+     "function": "Inflamed in hypertrophic osteoarthropathy: pain, swelling",
+     "x": 349,
+     "y": 445,
+     "lx": 250,
+     "ly": 445
+    }
+   ]
+  },
+  {
+   "title": "Bone remodeling and osteoporosis drug targets (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M0 360 L120 360 Q150 360 160 380 Q230 410 300 380 Q310 360 340 360 L800 360 L800 500 L0 500 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M0 410 Q200 402 400 410 T800 410\" fill=\"none\" stroke=\"#cdbb98\" stroke-width=\"2\"/>\n<path d=\"M0 440 Q200 432 400 440 T800 440\" fill=\"none\" stroke=\"#cdbb98\" stroke-width=\"2\"/>\n<path d=\"M0 470 Q200 462 400 470 T800 470\" fill=\"none\" stroke=\"#cdbb98\" stroke-width=\"2\"/>\n<rect x=\"470\" y=\"342\" width=\"330\" height=\"18\" fill=\"#fdf6e3\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<line x1=\"480\" y1=\"346\" x2=\"488\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"494\" y1=\"346\" x2=\"502\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"508\" y1=\"346\" x2=\"516\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"522\" y1=\"346\" x2=\"530\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"536\" y1=\"346\" x2=\"544\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"550\" y1=\"346\" x2=\"558\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"564\" y1=\"346\" x2=\"572\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"578\" y1=\"346\" x2=\"586\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"592\" y1=\"346\" x2=\"600\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"606\" y1=\"346\" x2=\"614\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"620\" y1=\"346\" x2=\"628\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"634\" y1=\"346\" x2=\"642\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"648\" y1=\"346\" x2=\"656\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"662\" y1=\"346\" x2=\"670\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"676\" y1=\"346\" x2=\"684\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"690\" y1=\"346\" x2=\"698\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"704\" y1=\"346\" x2=\"712\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"718\" y1=\"346\" x2=\"726\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"732\" y1=\"346\" x2=\"740\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"746\" y1=\"346\" x2=\"754\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"760\" y1=\"346\" x2=\"768\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"774\" y1=\"346\" x2=\"782\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<line x1=\"788\" y1=\"346\" x2=\"796\" y2=\"356\" stroke=\"#d6cfc0\" stroke-width=\"1.5\"/>\n<path d=\"M150 372 Q140 300 230 285 Q320 300 310 372 Q230 400 150 372 Z\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"3\"/>\n<ellipse cx=\"195\" cy=\"330\" rx=\"10\" ry=\"8\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1.5\"/>\n<ellipse cx=\"225\" cy=\"318\" rx=\"10\" ry=\"8\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1.5\"/>\n<ellipse cx=\"255\" cy=\"330\" rx=\"10\" ry=\"8\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1.5\"/>\n<ellipse cx=\"235\" cy=\"350\" rx=\"10\" ry=\"8\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1.5\"/>\n<polyline points=\"165.0,378.0 169.0,379.8 173.0,375.1 177.0,380.9 181.0,376.2 185.0,378.0 189.0,379.8 193.0,375.1 197.0,380.9 201.0,376.2 205.0,378.0 209.0,379.8 213.0,375.1 217.0,380.9 221.0,376.2 225.0,378.0 229.0,379.8 233.0,375.1 237.0,380.9 241.0,376.2 245.0,378.0 249.0,379.8 253.0,375.1 257.0,380.9 261.0,376.2 265.0,378.0 269.0,379.8 273.0,375.1 277.0,380.9 281.0,376.2 285.0,378.0 289.0,379.8 293.0,375.1\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"2\"/>\n<polygon points=\"174,383 177,378 183,378 186,383 183,388 177,388\" fill=\"#0d9488\" stroke=\"#134e4a\" stroke-width=\"1.5\"/>\n<polygon points=\"209,391 212,386 218,386 221,391 218,396 212,396\" fill=\"#0d9488\" stroke=\"#134e4a\" stroke-width=\"1.5\"/>\n<polygon points=\"244,391 247,386 253,386 256,391 253,396 247,396\" fill=\"#0d9488\" stroke=\"#134e4a\" stroke-width=\"1.5\"/>\n<polygon points=\"274,383 277,378 283,378 286,383 283,388 277,388\" fill=\"#0d9488\" stroke=\"#134e4a\" stroke-width=\"1.5\"/>\n<rect x=\"221\" y=\"278\" width=\"18\" height=\"8\" fill=\"#5b21b6\"/>\n<polygon points=\"230,256 240,266 230,276 220,266\" fill=\"#f59e0b\" stroke=\"#92400e\" stroke-width=\"2\"/>\n<line x1=\"300\" y1=\"320\" x2=\"330\" y2=\"320\" stroke=\"#5b21b6\" stroke-width=\"5\"/>\n<rect x=\"480\" y=\"282\" width=\"56\" height=\"58\" rx=\"10\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"3\"/>\n<ellipse cx=\"508\" cy=\"316\" rx=\"11\" ry=\"9\" fill=\"#e11d48\" stroke=\"#881337\" stroke-width=\"1.5\"/>\n<rect x=\"545\" y=\"282\" width=\"56\" height=\"58\" rx=\"10\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"3\"/>\n<ellipse cx=\"573\" cy=\"316\" rx=\"11\" ry=\"9\" fill=\"#e11d48\" stroke=\"#881337\" stroke-width=\"1.5\"/>\n<rect x=\"610\" y=\"282\" width=\"56\" height=\"58\" rx=\"10\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"3\"/>\n<ellipse cx=\"638\" cy=\"316\" rx=\"11\" ry=\"9\" fill=\"#e11d48\" stroke=\"#881337\" stroke-width=\"1.5\"/>\n<rect x=\"675\" y=\"282\" width=\"56\" height=\"58\" rx=\"10\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"3\"/>\n<ellipse cx=\"703\" cy=\"316\" rx=\"11\" ry=\"9\" fill=\"#e11d48\" stroke=\"#881337\" stroke-width=\"1.5\"/>\n<rect x=\"740\" y=\"282\" width=\"56\" height=\"58\" rx=\"10\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"3\"/>\n<ellipse cx=\"768\" cy=\"316\" rx=\"11\" ry=\"9\" fill=\"#e11d48\" stroke=\"#881337\" stroke-width=\"1.5\"/>\n<line x1=\"480\" y1=\"320\" x2=\"420\" y2=\"320\" stroke=\"#9f1239\" stroke-width=\"5\"/>\n<path d=\"M390 320 L405 320 M405 320 L420 308 M405 320 L420 332\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<circle cx=\"620\" cy=\"400\" r=\"6\" fill=\"#15803d\" stroke=\"#14532d\" stroke-width=\"1.5\"/>\n<circle cx=\"700\" cy=\"395\" r=\"6\" fill=\"#15803d\" stroke=\"#14532d\" stroke-width=\"1.5\"/>\n<circle cx=\"655\" cy=\"420\" r=\"6\" fill=\"#15803d\" stroke=\"#14532d\" stroke-width=\"1.5\"/>\n<path d=\"M700 389 L700 375 M700 375 L688 362 M700 375 L712 362\" fill=\"none\" stroke=\"#0891b2\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<path d=\"M640 400 L630 395 M650 420 L640 415\" stroke=\"none\"/>\n<rect x=\"567\" y=\"276\" width=\"14\" height=\"7\" fill=\"#9f1239\"/>\n<polyline points=\"556.0,258.0 560.0,261.5 564.0,254.5 568.0,258.0 572.0,261.5 576.0,254.5 580.0,258.0 584.0,261.5 588.0,254.5 592.0,258.0\" fill=\"none\" stroke=\"#ea580c\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n<text x=\"400\" y=\"30\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Bone surface during remodeling (not to scale)</text>\n<text x=\"400\" y=\"490\" font-family=\"Segoe UI, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\">Bone</text>",
+   "labels": [
+    {
+     "name": "Osteoclast",
+     "accept": [
+      "osteoclasts"
+     ],
+     "function": "Resorbs bone; outpaces formation in osteoporosis",
+     "x": 230,
+     "y": 300,
+     "lx": 120,
+     "ly": 230
+    },
+    {
+     "name": "Osteoblast",
+     "accept": [
+      "osteoblasts"
+     ],
+     "function": "Forms bone; suppressed by glucocorticoids",
+     "x": 662,
+     "y": 300,
+     "lx": 700,
+     "ly": 200
+    },
+    {
+     "name": "Osteoid",
+     "accept": [
+      "unmineralized matrix",
+      "bone matrix (unmineralized)"
+     ],
+     "function": "Unmineralized matrix; stays soft with low vitamin D",
+     "x": 760,
+     "y": 351,
+     "lx": 760,
+     "ly": 260
+    },
+    {
+     "name": "Mineralized bone matrix",
+     "accept": [
+      "mineralized bone",
+      "calcified bone",
+      "bone matrix"
+     ],
+     "function": "Calcium/phosphate-to-collagen ratio is normal in osteoporosis",
+     "x": 560,
+     "y": 440
+    },
+    {
+     "name": "Bisphosphonate",
+     "accept": [
+      "bisphosphonates",
+      "alendronate",
+      "zoledronic acid",
+      "risedronate"
+     ],
+     "function": "First line; take upright with water; jaw osteonecrosis risk",
+     "x": 250,
+     "y": 391,
+     "lx": 230,
+     "ly": 460
+    },
+    {
+     "name": "Denosumab",
+     "accept": [],
+     "function": "Anti-RANKL antibody; rebound fractures if stopped abruptly",
+     "x": 408,
+     "y": 320,
+     "lx": 405,
+     "ly": 255
+    },
+    {
+     "name": "Teriparatide",
+     "accept": [
+      "PTH analog"
+     ],
+     "function": "Intermittent PTH analog that stimulates bone formation",
+     "x": 574,
+     "y": 258,
+     "lx": 560,
+     "ly": 190
+    },
+    {
+     "name": "Romosozumab",
+     "accept": [],
+     "function": "Anti-sclerostin antibody; at most 12 monthly doses",
+     "x": 700,
+     "y": 372,
+     "lx": 770,
+     "ly": 420
+    },
+    {
+     "name": "Raloxifene",
+     "accept": [
+      "SERM"
+     ],
+     "function": "SERM that lowers vertebral fractures; raises VTE risk",
+     "x": 230,
+     "y": 266,
+     "lx": 330,
+     "ly": 200
+    }
+   ]
+  },
+  {
+   "title": "Paget disease: four stages of remodeling (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"15\" y=\"60\" width=\"185\" height=\"360\" rx=\"10\" fill=\"#fbf8f1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<text x=\"107\" y=\"50\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Stage 1</text>\n<rect x=\"210\" y=\"60\" width=\"185\" height=\"360\" rx=\"10\" fill=\"#fbf8f1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<text x=\"302\" y=\"50\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Stage 2</text>\n<rect x=\"405\" y=\"60\" width=\"185\" height=\"360\" rx=\"10\" fill=\"#fbf8f1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<text x=\"497\" y=\"50\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Stage 3</text>\n<rect x=\"600\" y=\"60\" width=\"185\" height=\"360\" rx=\"10\" fill=\"#fbf8f1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<text x=\"692\" y=\"50\" font-family=\"Segoe UI, sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#3b1d0a\" text-anchor=\"middle\">Stage 4</text>\n<path d=\"M25 300 L45 300 Q65 330 85 300 L105 300 Q125 330 145 300 L190 300 L190 400 L25 400 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"65\" cy=\"290\" rx=\"30\" ry=\"18\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2.5\"/><circle cx=\"51\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"65\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"79\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/>\n<ellipse cx=\"125\" cy=\"290\" rx=\"30\" ry=\"18\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2.5\"/><circle cx=\"111\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"125\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"139\" cy=\"288\" r=\"5\" fill=\"#7c3aed\"/>\n<ellipse cx=\"165\" cy=\"250\" rx=\"30\" ry=\"18\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2.5\"/><circle cx=\"151\" cy=\"248\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"165\" cy=\"248\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"179\" cy=\"248\" r=\"5\" fill=\"#7c3aed\"/>\n<path d=\"M220 290 L250 290 Q270 318 290 290 L385 290 L385 400 L220 400 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"270\" cy=\"280\" rx=\"30\" ry=\"18\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2.5\"/><circle cx=\"256\" cy=\"278\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"270\" cy=\"278\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"284\" cy=\"278\" r=\"5\" fill=\"#7c3aed\"/>\n<rect x=\"312\" y=\"263\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"325\" cy=\"276\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"342\" y=\"263\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"355\" cy=\"276\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"312\" y=\"286\" width=\"60\" height=\"8\" fill=\"#fdf6e3\" stroke=\"#a8a29e\" stroke-width=\"1.5\"/>\n<path d=\"M415 200 L590 200 L590 400 L415 400 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"417\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"430\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"447\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"460\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"477\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"490\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"507\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"520\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"537\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"550\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<rect x=\"565\" y=\"173\" width=\"26\" height=\"26\" rx=\"5\" fill=\"#fda4af\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><circle cx=\"578\" cy=\"186\" r=\"6\" fill=\"#e11d48\"/>\n<path d=\"M610 190 L785 190 L785 400 L610 400 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M620 230 Q650 215 680 240 Q700 260 740 235 Q760 225 780 240\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M615 280 Q640 300 670 270 L700 300 Q730 320 760 285 L785 300\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M640 190 L655 240 L640 290 L660 340 L645 400\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M720 190 L705 245 L730 300 L710 350 L725 400\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M615 350 Q650 330 690 360 Q730 380 785 345\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<text x=\"400\" y=\"460\" font-family=\"Segoe UI, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#3b1d0a\" text-anchor=\"middle\">Same bone over time (schematic)</text>\n<path d=\"M150 470 L650 470\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><polygon points=\"650,464 662,470 650,476\" fill=\"#3b1d0a\"/>",
+   "labels": [
+    {
+     "name": "Lytic stage",
+     "accept": [
+      "lytic",
+      "lytic phase"
+     ],
+     "function": "Highly active resorption dominates",
+     "x": 100,
+     "y": 360
+    },
+    {
+     "name": "Mixed stage",
+     "accept": [
+      "mixed",
+      "mixed phase"
+     ],
+     "function": "Bone is broken down and built at the same time",
+     "x": 300,
+     "y": 360
+    },
+    {
+     "name": "Sclerotic stage",
+     "accept": [
+      "sclerotic",
+      "sclerotic phase",
+      "osteoblastic stage"
+     ],
+     "function": "Formation predominates to make up for lost bone",
+     "x": 500,
+     "y": 330
+    },
+    {
+     "name": "Quiescent stage",
+     "accept": [
+      "quiescent",
+      "quiescent phase",
+      "burnt-out stage"
+     ],
+     "function": "Final phase: minimal cellular activity remains",
+     "x": 760,
+     "y": 380,
+     "lx": 760,
+     "ly": 440
+    },
+    {
+     "name": "Mosaic pattern",
+     "accept": [
+      "mosaic bone",
+      "mosaic pattern of woven and lamellar bone",
+      "woven and lamellar bone"
+     ],
+     "function": "Biopsy finding from chaotic remodeling",
+     "x": 690,
+     "y": 252
+    },
+    {
+     "name": "Osteoclast",
+     "accept": [
+      "osteoclasts"
+     ],
+     "function": "Multinucleated resorbing cell; bisphosphonates inhibit it",
+     "x": 270,
+     "y": 280,
+     "lx": 270,
+     "ly": 110
+    },
+    {
+     "name": "Osteoblast",
+     "accept": [
+      "osteoblasts"
+     ],
+     "function": "Bone-forming cell; high turnover raises bone ALP",
+     "x": 355,
+     "y": 276,
+     "lx": 355,
+     "ly": 160
+    }
+   ]
+  }
+ ]
+}
