@@ -33,7 +33,13 @@
       <button class="mode" data-mode="bank" role="tab">Name: word bank</button>
       <button class="mode" data-mode="func" role="tab">Function: bank</button>
     </div>
-    <div class="score"><span id="score">0</span> / <span id="total">0</span> correct</div>
+    <div class="barright">
+      <label class="toggle" title="Show right/wrong as soon as you place or enter each answer">
+        <input type="checkbox" id="instant"><span class="track"><span class="thumb"></span></span>
+        <span>Instant feedback</span>
+      </label>
+      <div class="score"><span id="score">0</span> / <span id="total">0</span> correct</div>
+    </div>
   </div>
   <div class="dtabs" id="dtabs"></div>
 

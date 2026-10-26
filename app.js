@@ -14,6 +14,10 @@
   var mode = 'type', dIdx = 0, data = null, manifest = [];
   var state = {};      // key `${dIdx}|${mode}` -> {i: value}
   var checked = false, revealed = false, selChip = null, selSlot = null;
+  // Instant feedback: judge each answer as soon as it is placed (bank modes)
+  // or committed with Enter / leaving the box (type mode). Remembered per device.
+  var instant = false, judged = {};   // judged: type-mode indices committed this round
+  try { instant = localStorage.getItem('mskl_instant') === '1'; } catch (e) {}
 
   var GENERIC = ['muscle', 'muscles', 'm', 'nerve', 'n', 'artery', 'a', 'vein', 'v', 'the',
                  'bone', 'of', 'and', 'joint', 'ligament', 'tendon'];
@@ -124,10 +128,11 @@
         var inp = document.createElement('input');
         inp.type = 'text'; inp.autocomplete = 'off'; inp.spellcheck = false;
         inp.placeholder = 'Structure ' + (i + 1); inp.value = A[i] || '';
-        inp.addEventListener('input', function () { A[i] = inp.value; if (checked) mark(); });
+        inp.addEventListener('input', function () { A[i] = inp.value; delete judged[i]; if (checked || instant) mark(); });
+        inp.addEventListener('blur', function () { if (instant && inp.value.trim()) { judged[i] = 1; mark(); } });
         inp.addEventListener('focus', function () { highlight(i); });
         inp.addEventListener('keydown', function (e) {
-          if (e.key === 'Enter') { e.preventDefault(); var nx = ol.querySelectorAll('input')[i + 1]; if (nx) nx.focus(); else check(); }
+          if (e.key === 'Enter') { e.preventDefault(); if (instant && inp.value.trim()) { judged[i] = 1; mark(); } var nx = ol.querySelectorAll('input')[i + 1]; if (nx) nx.focus(); else check(); }
         });
         li.appendChild(inp);
       } else {
@@ -200,11 +205,11 @@
       [li, pin].forEach(function (el) {
         if (!el) return;
         el.classList.remove('ok', 'bad');
-        if (checked && has) el.classList.add(right ? 'ok' : 'bad');
+        if (has && (checked || (instant && (mode !== 'type' || judged[i])))) el.classList.add(right ? 'ok' : 'bad');
       });
-      if (pin) pin.classList.toggle('target', !checked && has);
+      if (pin) pin.classList.toggle('target', !checked && !instant && has);
     });
-    $('score').textContent = checked ? ok : 0;
+    $('score').textContent = (checked || instant) ? ok : 0;
     $('total').textContent = d.labels.length;
     return ok;
   }
@@ -225,7 +230,7 @@
     data.diagrams.forEach(function (d, i) {
       var b = document.createElement('button');
       b.className = 'dtab' + (i === dIdx ? ' on' : ''); b.textContent = (i + 1) + '. ' + d.title;
-      b.addEventListener('click', function () { dIdx = i; checked = revealed = false; selChip = selSlot = null; renderAll(); });
+      b.addEventListener('click', function () { dIdx = i; checked = revealed = false; selChip = selSlot = null; judged = {}; renderAll(); });
       t.appendChild(b);
     });
   }
@@ -234,14 +239,21 @@
 
   document.querySelectorAll('.mode').forEach(function (b) {
     b.addEventListener('click', function () {
-      mode = b.dataset.mode; checked = revealed = false; selChip = selSlot = null;
+      mode = b.dataset.mode; checked = revealed = false; selChip = selSlot = null; judged = {};
       document.querySelectorAll('.mode').forEach(function (x) { x.classList.toggle('on', x === b); });
       refresh();
     });
   });
+  $('instant').checked = instant;
+  $('instant').addEventListener('change', function () {
+    instant = $('instant').checked;
+    try { localStorage.setItem('mskl_instant', instant ? '1' : '0'); } catch (e) {}
+    if (instant && mode === 'type') document.querySelectorAll('#answers input').forEach(function (x, i) { if (x.value.trim()) judged[i] = 1; });
+    mark();
+  });
   $('check').addEventListener('click', check);
   $('reveal').addEventListener('click', function () { revealed = !revealed; $('reveal').textContent = revealed ? 'Hide answers' : 'Reveal answers'; refresh(); });
-  $('reset').addEventListener('click', function () { state[key()] = {}; checked = revealed = false; $('reveal').textContent = 'Reveal answers'; selChip = selSlot = null; refresh(); });
+  $('reset').addEventListener('click', function () { state[key()] = {}; judged = {}; checked = revealed = false; $('reveal').textContent = 'Reveal answers'; selChip = selSlot = null; refresh(); });
 
   function pad(n) { return (n < 10 ? '0' : '') + n; }
   Promise.all([
