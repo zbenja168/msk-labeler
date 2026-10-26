@@ -111,3 +111,21 @@ input.tgt::placeholder { color: #94a3b8; }
 .pin.anchor.ok circle { fill: var(--ok); } .pin.anchor.bad circle { fill: var(--bad); }
 .mode:disabled { opacity: .4; cursor: not-allowed; }
 @media (max-width: 700px) { .tgt { height: 22px; line-height: 20px; font-size: 10.5px; padding: 0 5px; } input.tgt { width: 84px; } input.tgt:focus { width: 150px; } div.tgt { min-width: 44px; max-width: 130px; } }
+/* ---- Name + function stacked at each pin (2026-10-25) ---- */
+.tgtwrap { position: absolute; pointer-events: none; display: flex; flex-direction: column; gap: 3px; z-index: 2; }
+.tgtwrap.grow-r { transform: translate(7px, -13px); align-items: flex-start; }
+.tgtwrap.grow-l { transform: translate(calc(-100% - 7px), -13px); align-items: flex-end; }
+.tgtwrap .tgt { position: static; transform: none; pointer-events: auto; }
+.tgtwrap:hover, .tgtwrap:focus-within { z-index: 6; }
+.tgt.func { height: 22px; line-height: 20px; font-size: 11px; min-width: 64px; max-width: 210px;
+            background: #fff7ed; border: 1.5px dashed #c2410c; color: #9a3412; cursor: pointer; }
+.tgt.func.filled { border-style: solid; color: #431407; }
+.tgt.func:hover { max-width: 360px; }
+.tgtwrap .tgt-reveal { position: static; margin: 0; transform: none; max-width: 320px; overflow: hidden; text-overflow: ellipsis; }
+input.tgt.hint { border-color: var(--accent2); }
+.bank { flex-direction: column; gap: 10px; }
+.bankgroup { display: flex; flex-direction: column; gap: 6px; }
+.bankhead { font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.bankrow { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip.func { border-color: rgba(249,115,22,.45); background: #2a1d17; font-size: .78rem; }
+@media (max-width: 700px) { .tgt.func { height: 20px; line-height: 18px; font-size: 10px; max-width: 140px; } }

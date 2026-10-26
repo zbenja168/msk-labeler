@@ -1,10 +1,11 @@
-/* MSK Diagram Labeler (2026-10-25; on-picture answers 2026-10-25).
+/* MSK Diagram Labeler (2026-10-25; on-picture answers + function layer).
  * One page per brick: data/brick_NN.json holds 1-3 hand-drawn schematic
- * diagrams. Modes:
- *   Type it    - type each structure's name in a box ON the diagram
- *   Word bank  - drag (or tap) names from a bank onto the boxes on the diagram
- *   Functions  - a switch that instead shows numbered pins and asks for each
- *                structure's function from a function bank (numbered list)
+ * diagrams. Every answer goes ON the picture, next to its structure:
+ *   Type it    - type each structure's name in its box
+ *   Word bank  - drag (or tap) each name from the bank onto its box
+ *   Functions  - a switch that ADDS a second box under each name box for the
+ *                structure's function; the functions join the bank (in Type
+ *                it mode the bank holds just the functions)
  * "Instant feedback" judges each answer as soon as it is placed/entered.
  * No native dialogs anywhere (they freeze automation and annoy students).
  */
@@ -14,9 +15,11 @@
   var params = new URLSearchParams(location.search);
   var num = parseInt(params.get('b') || '1', 10);
   var mode = 'type', funcs = false, dIdx = 0, data = null, manifest = [];
-  var state = {};      // key `${dIdx}|${kind}` -> {i: value}
-  var checked = false, revealed = false, selChip = null, selSlot = null;
-  var instant = false, judged = {};   // judged: typed answers committed this round
+  var state = {};      // key `${dIdx}|type`, `${dIdx}|bank`, `${dIdx}|func` -> {i: value}
+  var checked = false, revealed = false;
+  var selChip = null;  // {kind: 'name'|'func', v: text}
+  var selSlot = null;  // {kind, i}
+  var instant = false, judged = {};   // judged: typed names committed this round
   try { instant = localStorage.getItem('mskl_instant') === '1'; } catch (e) {}
   try { funcs = localStorage.getItem('mskl_funcs') === '1'; } catch (e) {}
 
@@ -69,22 +72,21 @@
     return a;
   }
 
-  function kind() { return funcs ? 'func' : mode; }
-  function key() { return dIdx + '|' + kind(); }
-  function answers() { return state[key()] || (state[key()] = {}); }
+  // ---------- state ----------
   function diagram() { return data.diagrams[dIdx]; }
-  function truth(lbl) { return kind() === 'func' ? lbl.function : lbl.name; }
-  function hasAns(i) { var v = answers()[i]; return v != null && v !== ''; }
+  function store(k) { var kk = dIdx + '|' + k; return state[kk] || (state[kk] = {}); }
+  function names() { return store(mode); }       // typed or banked names
+  function fns() { return store('func'); }       // placed functions
+  function filled(v) { return v != null && v !== ''; }
 
-  function isRight(i) {
-    var lbl = diagram().labels[i], v = answers()[i];
-    if (v == null || v === '') return false;
-    if (kind() === 'type') return typedMatches(v, lbl, diagram().labels);
-    return v === truth(lbl);
+  function nameRight(i) {
+    var lbl = diagram().labels[i], v = names()[i];
+    if (!filled(v)) return false;
+    return mode === 'type' ? typedMatches(v, lbl, diagram().labels) : v === lbl.name;
   }
-  function shown(i) {   // should this answer's right/wrong colour be visible?
-    return hasAns(i) && (checked || (instant && (kind() !== 'type' || judged[i])));
-  }
+  function funcRight(i) { return fns()[i] === diagram().labels[i].function; }
+  function nameShown(i) { return filled(names()[i]) && (checked || (instant && (mode !== 'type' || judged[i]))); }
+  function funcShown(i) { return filled(fns()[i]) && (checked || instant); }
 
   // ---------- rendering ----------
   var NS = 'http://www.w3.org/2000/svg';
@@ -94,85 +96,99 @@
     return e;
   }
 
+  function dropZone(node, kindOf, i) {
+    node.addEventListener('dragover', function (e) { e.preventDefault(); node.classList.add('over'); });
+    node.addEventListener('dragleave', function () { node.classList.remove('over'); });
+    node.addEventListener('drop', function (e) {
+      e.preventDefault(); node.classList.remove('over');
+      var raw = e.dataTransfer.getData('text/plain');
+      try { var c = JSON.parse(raw); place(i, c.kind, c.v); } catch (err) { /* foreign drag */ }
+    });
+  }
+
   function renderFigure() {
     var d = diagram(), vb = d.viewBox.split(/\s+/).map(Number);
     var box = $('svgbox');
     box.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="' + d.viewBox + '">' + d.svg + '<g id="pins"></g></svg><div class="overlay" id="overlay"></div>';
     var g = box.querySelector('#pins'), ov = $('overlay');
-    var onPicture = kind() !== 'func';
     d.labels.forEach(function (lbl, i) {
       var px = lbl.lx != null ? lbl.lx : lbl.x, py = lbl.ly != null ? lbl.ly : lbl.y;
       if (lbl.lx != null) {
         g.appendChild(el('line', { x1: lbl.x, y1: lbl.y, x2: px, y2: py, 'class': 'lead' }));
-        var dg = el('g', { 'class': 'pin', 'data-dot': i });
+        var dg = el('g', { 'class': 'pin' });
         dg.appendChild(el('circle', { cx: lbl.x, cy: lbl.y, r: 3.5, 'class': 'dot' }));
         g.appendChild(dg);
       }
-      if (onPicture) {
-        // A small anchor dot where the answer box sits; the box itself is HTML.
-        var ad = el('g', { 'class': 'pin anchor', 'data-i': i });
-        ad.appendChild(el('circle', { cx: px, cy: py, r: 4.5 }));
-        g.appendChild(ad);
-        var fx = (px - vb[0]) / vb[2], fy = (py - vb[1]) / vb[3];
-        // Grow the box away from the drawing's centre, but inward near an edge.
-        var right = fx >= 0.5 ? (fx < 0.86) : (fx < 0.14);
-        var t = document.createElement(kind() === 'type' ? 'input' : 'div');
-        t.className = 'tgt ' + (right ? 'grow-r' : 'grow-l');
-        t.dataset.i = i;
-        t.style.left = (fx * 100) + '%'; t.style.top = (fy * 100) + '%';
-        if (kind() === 'type') {
-          t.type = 'text'; t.autocomplete = 'off'; t.spellcheck = false; t.placeholder = '?';
-          t.setAttribute('aria-label', 'Structure ' + (i + 1));
-          t.value = answers()[i] || '';
-          t.addEventListener('input', function () { answers()[i] = t.value; delete judged[i]; if (checked || instant) mark(); });
-          t.addEventListener('blur', function () { if (instant && t.value.trim()) { judged[i] = 1; mark(); } });
-          t.addEventListener('keydown', function (e) {
-            if (e.key !== 'Enter') return;
-            e.preventDefault();
-            if (instant && t.value.trim()) { judged[i] = 1; mark(); }
-            var all = ov.querySelectorAll('input.tgt'), nx = all[i + 1];
-            if (nx) nx.focus(); else check();
-          });
-        } else {
-          t.textContent = answers()[i] || 'drop here';
-          if (answers()[i]) t.classList.add('filled');
-          t.title = answers()[i] || '';
-          t.addEventListener('click', function () {
-            if (answers()[i] && !selChip) { delete answers()[i]; refresh(); return; }
-            pickSlot(i);
-          });
-          t.addEventListener('dragover', function (e) { e.preventDefault(); t.classList.add('over'); });
-          t.addEventListener('dragleave', function () { t.classList.remove('over'); });
-          t.addEventListener('drop', function (e) { e.preventDefault(); t.classList.remove('over'); place(i, e.dataTransfer.getData('text/plain')); });
-        }
-        if (revealed) {
-          var r = document.createElement('div');
-          r.className = 'tgt-reveal ' + (right ? 'grow-r' : 'grow-l');
-          r.style.left = t.style.left; r.style.top = t.style.top;
-          r.textContent = lbl.name;
-          ov.appendChild(r);
-        }
-        ov.appendChild(t);
+      var ad = el('g', { 'class': 'pin anchor', 'data-i': i });
+      ad.appendChild(el('circle', { cx: px, cy: py, r: 4.5 }));
+      g.appendChild(ad);
+
+      var fx = (px - vb[0]) / vb[2], fy = (py - vb[1]) / vb[3];
+      // Grow away from the drawing's centre, but inward near an edge.
+      var right = fx >= 0.5 ? (fx < 0.86) : (fx < 0.14);
+      var wrap = document.createElement('div');
+      wrap.className = 'tgtwrap ' + (right ? 'grow-r' : 'grow-l') + (funcs ? ' two' : '');
+      wrap.dataset.i = i;
+      wrap.style.left = (fx * 100) + '%'; wrap.style.top = (fy * 100) + '%';
+
+      // name box
+      var A = names(), t;
+      if (mode === 'type') {
+        t = document.createElement('input');
+        t.className = 'tgt name'; t.type = 'text'; t.autocomplete = 'off'; t.spellcheck = false; t.placeholder = '?';
+        t.setAttribute('aria-label', 'Name of structure ' + (i + 1));
+        t.value = A[i] || '';
+        t.addEventListener('input', function () { A[i] = t.value; delete judged[i]; if (checked || instant) mark(); });
+        t.addEventListener('blur', function () { if (instant && t.value.trim()) { judged[i] = 1; mark(); } });
+        t.addEventListener('keydown', function (e) {
+          if (e.key !== 'Enter') return;
+          e.preventDefault();
+          if (instant && t.value.trim()) { judged[i] = 1; mark(); }
+          var all = ov.querySelectorAll('input.tgt'), nx = all[Array.prototype.indexOf.call(all, t) + 1];
+          if (nx) nx.focus(); else check();
+        });
+        if (selChip && selChip.kind === 'name') t.classList.add('hint');
       } else {
-        var pin = el('g', { 'class': 'pin', 'data-i': i });
-        pin.appendChild(el('circle', { cx: px, cy: py, r: 13 }));
-        var tx = el('text', { x: px, y: py }); tx.textContent = i + 1;
-        pin.appendChild(tx); g.appendChild(pin);
-        pin.addEventListener('click', function () { pickSlot(i); });
-        pin.addEventListener('dragover', function (e) { e.preventDefault(); });
-        pin.addEventListener('drop', function (e) { e.preventDefault(); place(i, e.dataTransfer.getData('text/plain')); });
+        t = document.createElement('div');
+        t.className = 'tgt name' + (A[i] ? ' filled' : '');
+        t.textContent = A[i] || 'name'; t.title = A[i] || '';
+        t.addEventListener('click', function () { tapSlot('name', i); });
       }
+      t.dataset.i = i; t.dataset.kind = 'name';
+      dropZone(t, 'name', i);
+      wrap.appendChild(t);
+
+      // function box (Functions switch)
+      if (funcs) {
+        var F = fns();
+        var f = document.createElement('div');
+        f.className = 'tgt func' + (F[i] ? ' filled' : '');
+        f.textContent = F[i] || 'function'; f.title = F[i] || '';
+        f.dataset.i = i; f.dataset.kind = 'func';
+        f.addEventListener('click', function () { tapSlot('func', i); });
+        dropZone(f, 'func', i);
+        wrap.appendChild(f);
+      }
+
+      if (revealed) {
+        var r = document.createElement('div');
+        r.className = 'tgt-reveal';
+        r.textContent = lbl.name + (funcs ? ' — ' + lbl.function : '');
+        r.title = r.textContent;
+        wrap.appendChild(r);
+      }
+      ov.appendChild(wrap);
     });
     $('figcap').textContent = d.title || '';
-    if (onPicture) deoverlap();
+    deoverlap();
   }
 
-  // Keep answer boxes from covering each other: flip a colliding box to grow
-  // the other way, then nudge it vertically until it is clear. The anchor dot
-  // (and leader line) stay put, so the box still reads as belonging to it.
+  // Keep answer groups from covering each other: flip a colliding group to
+  // grow the other way, then nudge it vertically until it is clear. The anchor
+  // dot (and leader line) stay put, so the boxes still read as belonging to it.
   function deoverlap() {
     var ov = $('overlay'); if (!ov) return;
-    var boxes = Array.prototype.slice.call(ov.querySelectorAll('.tgt'));
+    var boxes = Array.prototype.slice.call(ov.querySelectorAll('.tgtwrap'));
     var placed = [];
     function hit(r) {
       return placed.some(function (q) { return r.left < q.right + 3 && r.right > q.left - 3 && r.top < q.bottom + 2 && r.bottom > q.top - 2; });
@@ -181,12 +197,13 @@
       b.style.marginTop = '0px';
       var r = b.getBoundingClientRect();
       if (hit(r)) {
-        var flip = b.classList.contains('grow-r') ? 'grow-l' : 'grow-r';
-        b.classList.remove('grow-r', 'grow-l'); b.classList.add(flip);
+        var orig = b.classList.contains('grow-r') ? 'grow-r' : 'grow-l', flip = orig === 'grow-r' ? 'grow-l' : 'grow-r';
+        b.classList.remove(orig); b.classList.add(flip);
         r = b.getBoundingClientRect();
         if (hit(r)) {
-          b.classList.remove('grow-r', 'grow-l'); b.classList.add(flip === 'grow-r' ? 'grow-l' : 'grow-r');
-          var h = r.height + 3, tries = [h, -h, 2 * h, -2 * h, 3 * h, -3 * h, 4 * h, -4 * h, 5 * h, -5 * h];
+          b.classList.remove(flip); b.classList.add(orig);
+          var h = Math.min(r.height, 30) + 3, tries = [];
+          for (var k = 1; k <= 8; k++) tries.push(k * h, -k * h);
           for (var t = 0; t < tries.length; t++) {
             b.style.marginTop = tries[t] + 'px';
             r = b.getBoundingClientRect();
@@ -197,113 +214,110 @@
       placed.push(b.getBoundingClientRect());
     });
   }
-  window.addEventListener('resize', function () { if (data && kind() !== 'func') deoverlap(); });
+  window.addEventListener('resize', function () { if (data) deoverlap(); });
 
   function renderPanel() {
-    var d = diagram(), A = answers(), ol = $('answers');
-    ol.innerHTML = '';
-    var k = kind();
-    $('stage').classList.toggle('wide', k !== 'func');
-    $('hint').textContent = k === 'type'
-      ? 'Type each structure’s name in its box on the diagram. Small typos are fine. Press Enter to move to the next box.'
-      : k === 'bank' ? 'Drag a name onto its box on the diagram, or tap a name and then a box. Tap a filled box to clear it.'
-      : 'Match each numbered structure to its function. Drag, or tap a function and then a slot.';
-    if (k === 'func') {
-      d.labels.forEach(function (lbl, i) {
-        var li = document.createElement('li'); li.dataset.i = i;
-        var n = document.createElement('div'); n.className = 'num'; n.textContent = i + 1;
-        n.addEventListener('click', function () { pickSlot(i); });
-        li.appendChild(n);
-        var slot = document.createElement('div');
-        slot.className = 'slot' + (A[i] ? ' filled' : ''); slot.textContent = A[i] || 'Drop here';
-        slot.addEventListener('click', function () {
-          if (A[i] && !selChip) { delete A[i]; refresh(); return; }
-          pickSlot(i);
-        });
-        slot.addEventListener('dragover', function (e) { e.preventDefault(); slot.classList.add('over'); });
-        slot.addEventListener('dragleave', function () { slot.classList.remove('over'); });
-        slot.addEventListener('drop', function (e) { e.preventDefault(); slot.classList.remove('over'); place(i, e.dataTransfer.getData('text/plain')); });
-        li.appendChild(slot);
-        if (revealed) {
-          var r = document.createElement('div'); r.className = 'reveal'; r.textContent = lbl.function;
-          li.appendChild(r);
-        }
-        ol.appendChild(li);
-      });
-    }
+    $('stage').classList.add('wide');
+    $('answers').innerHTML = '';
+    $('hint').textContent =
+      (mode === 'type' ? 'Type each structure’s name in its box on the diagram. Small typos are fine; press Enter for the next box.'
+                       : 'Drag each name onto its box on the diagram, or tap a name and then a box. Tap a filled box to clear it.') +
+      (funcs ? ' Then drop each function into the smaller box under the name.' : '');
     renderBank();
     mark();
   }
 
+  function chipGroup(title, kindOf, values, used, seed) {
+    var wrap = document.createElement('div'); wrap.className = 'bankgroup';
+    var h = document.createElement('div'); h.className = 'bankhead'; h.textContent = title;
+    wrap.appendChild(h);
+    var row = document.createElement('div'); row.className = 'bankrow';
+    shuffle(values, seed).forEach(function (v) {
+      var chip = document.createElement('div');
+      chip.className = 'chip ' + kindOf; chip.textContent = v; chip.draggable = true;
+      if (used[v]) { chip.classList.add('used'); used[v]--; }
+      if (selChip && selChip.kind === kindOf && selChip.v === v) chip.classList.add('sel');
+      chip.addEventListener('dragstart', function (e) { e.dataTransfer.setData('text/plain', JSON.stringify({ kind: kindOf, v: v })); });
+      chip.addEventListener('click', function () {
+        selChip = (selChip && selChip.kind === kindOf && selChip.v === v) ? null : { kind: kindOf, v: v };
+        if (selChip && selSlot) { place(selSlot.i, selChip.kind, selChip.v); return; }
+        renderBank(); highlight();
+      });
+      row.appendChild(chip);
+    });
+    wrap.appendChild(row);
+    return wrap;
+  }
+
+  function countUsed(obj) { var u = {}; Object.keys(obj).forEach(function (k) { u[obj[k]] = (u[obj[k]] || 0) + 1; }); return u; }
+
   function renderBank() {
     var bank = $('bank'); bank.innerHTML = '';
-    if (kind() === 'type') return;
-    var d = diagram(), A = answers();
-    var used = {}; Object.keys(A).forEach(function (k) { used[A[k]] = (used[A[k]] || 0) + 1; });
-    shuffle(d.labels.map(truth), num * 31 + dIdx * 7 + (kind() === 'func' ? 3 : 1)).forEach(function (v) {
-      var chip = document.createElement('div');
-      chip.className = 'chip'; chip.textContent = v; chip.draggable = true;
-      if (used[v]) { chip.classList.add('used'); used[v]--; }
-      if (selChip === v) chip.classList.add('sel');
-      chip.addEventListener('dragstart', function (e) { e.dataTransfer.setData('text/plain', v); });
-      chip.addEventListener('click', function () {
-        selChip = selChip === v ? null : v;
-        if (selChip && selSlot != null) { place(selSlot, selChip); return; }
-        renderBank();
-      });
-      bank.appendChild(chip);
-    });
+    var labs = diagram().labels;
+    if (mode === 'bank') bank.appendChild(chipGroup('Names', 'name', labs.map(function (l) { return l.name; }), countUsed(names()), num * 31 + dIdx * 7 + 1));
+    if (funcs) bank.appendChild(chipGroup('Functions', 'func', labs.map(function (l) { return l.function; }), countUsed(fns()), num * 31 + dIdx * 7 + 3));
   }
 
-  function place(i, v) {
-    if (!v) return;
-    var A = answers();
+  // Place a chip on structure i. A name dropped on a function box (or the
+  // reverse) goes to the matching box of the same structure.
+  function place(i, kindOf, v) {
+    if (!filled(v)) return;
+    if (kindOf === 'name' && mode === 'type') {   // typing mode has no name chips
+      return;
+    }
+    var A = kindOf === 'func' ? fns() : names();
     Object.keys(A).forEach(function (k) { if (A[k] === v && +k !== i) delete A[k]; });
-    A[i] = v; selChip = null; selSlot = null; refresh();
+    A[i] = v; selChip = null; selSlot = null;
+    refresh();
   }
 
-  function pickSlot(i) {
-    if (kind() === 'type') { var inp = $('overlay').querySelectorAll('input.tgt')[i]; if (inp) inp.focus(); return; }
-    if (selChip) { place(i, selChip); return; }
-    selSlot = selSlot === i ? null : i; highlight(selSlot);
+  function tapSlot(kindOf, i) {
+    var A = kindOf === 'func' ? fns() : names();
+    if (selChip) { place(i, selChip.kind, selChip.v); return; }
+    if (A[i]) { delete A[i]; refresh(); return; }
+    selSlot = (selSlot && selSlot.i === i && selSlot.kind === kindOf) ? null : { kind: kindOf, i: i };
+    highlight();
   }
 
-  function highlight(i) {
-    document.querySelectorAll('#answers li').forEach(function (li) { li.classList.toggle('sel', +li.dataset.i === i); });
-    document.querySelectorAll('#pins .pin[data-i]').forEach(function (p) { p.classList.toggle('sel', +p.dataset.i === i); });
-    document.querySelectorAll('#overlay .tgt').forEach(function (t) { t.classList.toggle('sel', +t.dataset.i === i); });
+  function highlight() {
+    document.querySelectorAll('#overlay .tgt').forEach(function (t) {
+      var on = selSlot && +t.dataset.i === selSlot.i && t.dataset.kind === selSlot.kind;
+      t.classList.toggle('sel', !!on);
+    });
   }
 
   function mark() {
     var d = diagram(), ok = 0;
     d.labels.forEach(function (_, i) {
-      var right = isRight(i);
-      if (right) ok++;
-      var targets = [document.querySelector('#answers li[data-i="' + i + '"]'),
-                     document.querySelector('#pins .pin[data-i="' + i + '"]'),
-                     document.querySelector('#overlay .tgt[data-i="' + i + '"]')];
-      targets.forEach(function (e) {
-        if (!e) return;
-        e.classList.remove('ok', 'bad');
-        if (shown(i)) e.classList.add(right ? 'ok' : 'bad');
-      });
-      var pin = document.querySelector('#pins .pin[data-i="' + i + '"]');
-      if (pin) pin.classList.toggle('target', !checked && !instant && hasAns(i));
+      var nr = nameRight(i), fr = funcs && funcRight(i);
+      if (nr) ok++;
+      if (fr) ok++;
+      var nb = document.querySelector('#overlay .tgt.name[data-i="' + i + '"]');
+      var fb = document.querySelector('#overlay .tgt.func[data-i="' + i + '"]');
+      var dot = document.querySelector('#pins .pin.anchor[data-i="' + i + '"]');
+      [nb, fb, dot].forEach(function (e) { if (e) e.classList.remove('ok', 'bad'); });
+      if (nb && nameShown(i)) nb.classList.add(nr ? 'ok' : 'bad');
+      if (fb && funcShown(i)) fb.classList.add(fr ? 'ok' : 'bad');
+      var states = [];
+      if (nameShown(i)) states.push(nr);
+      if (funcs && funcShown(i)) states.push(fr);
+      if (dot && states.length) dot.classList.add(states.every(Boolean) ? 'ok' : 'bad');
     });
     $('score').textContent = (checked || instant) ? ok : 0;
-    $('total').textContent = d.labels.length;
+    $('total').textContent = d.labels.length * (funcs ? 2 : 1);
     return ok;
   }
 
   function check() {
     checked = true;
     var ok = mark();
-    if (ok === diagram().labels.length && window.atTrack) {
-      try { window.atTrack('game_complete', { score: ok, total: ok, topic: data.title + ' / ' + kind() }); } catch (e) {}
+    if (ok === d_total() && window.atTrack) {
+      try { window.atTrack('game_complete', { score: ok, total: ok, topic: data.title + ' / ' + mode + (funcs ? '+functions' : '') }); } catch (e) {}
     }
   }
+  function d_total() { return diagram().labels.length * (funcs ? 2 : 1); }
 
-  function refresh() { renderFigure(); renderPanel(); highlight(selSlot); }
+  function refresh() { renderFigure(); renderPanel(); highlight(); }
   function resetRound() { checked = revealed = false; selChip = selSlot = null; judged = {}; $('reveal').textContent = 'Reveal answers'; }
 
   function renderTabs() {
@@ -318,11 +332,7 @@
   }
 
   function syncModeButtons() {
-    document.querySelectorAll('.mode').forEach(function (x) {
-      x.classList.toggle('on', x.dataset.mode === mode);
-      x.disabled = funcs;
-      x.title = funcs ? 'Turn off Functions to name the structures' : '';
-    });
+    document.querySelectorAll('.mode').forEach(function (x) { x.classList.toggle('on', x.dataset.mode === mode); });
   }
 
   document.querySelectorAll('.mode').forEach(function (b) {
@@ -332,18 +342,18 @@
   $('funcs').addEventListener('change', function () {
     funcs = $('funcs').checked;
     try { localStorage.setItem('mskl_funcs', funcs ? '1' : '0'); } catch (e) {}
-    resetRound(); syncModeButtons(); refresh();
+    selChip = selSlot = null; refresh();
   });
   $('instant').checked = instant;
   $('instant').addEventListener('change', function () {
     instant = $('instant').checked;
     try { localStorage.setItem('mskl_instant', instant ? '1' : '0'); } catch (e) {}
-    if (instant && kind() === 'type') document.querySelectorAll('#overlay input.tgt').forEach(function (x) { if (x.value.trim()) judged[+x.dataset.i] = 1; });
+    if (instant && mode === 'type') document.querySelectorAll('#overlay input.tgt').forEach(function (x) { if (x.value.trim()) judged[+x.dataset.i] = 1; });
     mark();
   });
   $('check').addEventListener('click', check);
   $('reveal').addEventListener('click', function () { revealed = !revealed; $('reveal').textContent = revealed ? 'Hide answers' : 'Reveal answers'; refresh(); });
-  $('reset').addEventListener('click', function () { state[key()] = {}; resetRound(); refresh(); });
+  $('reset').addEventListener('click', function () { state[dIdx + '|' + mode] = {}; state[dIdx + '|func'] = {}; resetRound(); refresh(); });
 
   function pad(n) { return (n < 10 ? '0' : '') + n; }
   Promise.all([

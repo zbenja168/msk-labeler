@@ -70,7 +70,7 @@ def main():
 <header class="hero">
   <div class="eyebrow">Skin, Musculoskeletal &amp; Connective Tissue</div>
   <h1>MSK Diagram Labeler</h1>
-  <p>Label simple diagrams for every brick: type each structure's name right on the picture, or drag it there from a word bank. Flip on Functions to match each structure to what it does instead. {len(manifest)} bricks, {total} structures.</p>
+  <p>Label simple diagrams for every brick: type each structure's name right on the picture, or drag it there from a word bank. Flip on Functions to also drop each structure's function under its name. {len(manifest)} bricks, {total} structures.</p>
 </header>
 <main>
 {body}</main>
