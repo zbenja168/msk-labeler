@@ -1,9 +1,9 @@
 # MSK Diagram Labeler: draw the diagrams for one brick (spec)
 
 The "MSK Diagram Labeler" is a study game. For each brick it shows simple, hand-drawn
-schematic diagrams with numbered pins. Students play it in three modes: type each
-structure's name, drag names from a word bank, or match each structure to its function
-from a function bank. You write the data file for the brick(s) in your task.
+schematic diagrams. In the name modes an answer box sits ON the diagram at each pin
+(typed, or dragged from a word bank); a Functions switch shows numbered pins and a
+function bank instead. Keep pins (and `lx,ly`) where a ~120px answer box fits beside them. You write the data file for the brick(s) in your task.
 
 ## Inputs
 - Lecture text: `C:\study-tools\msk_build\text\brick_NN.txt`. Read all of it. Draw only what

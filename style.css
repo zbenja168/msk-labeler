@@ -81,3 +81,33 @@ figcaption { font-size:.8rem; color:var(--muted); margin:2px 4px 8px; }
 .toggle input:checked + .track .thumb { left:20px; background:#0b1220; }
 .toggle input:focus-visible + .track { outline:2px solid var(--accent); outline-offset:2px; }
 .toggle input:checked ~ span:last-child { color:var(--text); }
+/* ---- On-picture answers (Type it / Word bank) ---- */
+.stage.wide { grid-template-columns: 1fr; }
+.stage.wide .fig { position: static; max-width: 1150px; width: 100%; margin: 0 auto; padding: 14px 18px; }
+.stage.wide .panel { max-width: 1150px; width: 100%; margin: 0 auto; }
+.stage.wide .answers { display: none; }
+.svgbox { position: relative; }
+.overlay { position: absolute; inset: 0; pointer-events: none; }
+.tgt { position: absolute; pointer-events: auto; box-sizing: border-box; height: 26px; line-height: 24px;
+       padding: 0 8px; border-radius: 7px; font: 600 12px 'Segoe UI', system-ui, sans-serif;
+       background: #fff; color: #0b1220; border: 1.5px solid #0b1220; box-shadow: 0 2px 6px rgba(0,0,0,.25);
+       white-space: nowrap; overflow: hidden; text-overflow: ellipsis; z-index: 2; }
+.tgt.grow-r { transform: translate(7px, -50%); }
+.tgt.grow-l { transform: translate(calc(-100% - 7px), -50%); }
+div.tgt { min-width: 64px; max-width: 190px; cursor: pointer; color: #64748b; font-weight: 600; border-style: dashed; }
+div.tgt.filled { color: #0b1220; border-style: solid; }
+div.tgt.over, .tgt.sel { border-color: var(--accent2); box-shadow: 0 0 0 3px rgba(132,204,22,.45); }
+div.tgt:hover { max-width: 320px; z-index: 5; }
+input.tgt { width: 118px; outline: none; transition: width .12s; }
+input.tgt:focus { width: 210px; z-index: 6; border-color: var(--accent2); box-shadow: 0 0 0 3px rgba(132,204,22,.45); }
+input.tgt::placeholder { color: #94a3b8; }
+.tgt.ok { background: #dcfce7; border-color: #16a34a !important; border-style: solid; color: #14532d; }
+.tgt.bad { background: #fee2e2; border-color: #dc2626 !important; border-style: solid; color: #7f1d1d; }
+.tgt-reveal { position: absolute; z-index: 1; margin-top: 17px; font: 700 11px 'Segoe UI', sans-serif; color: #166534;
+              background: rgba(220,252,231,.95); border-radius: 5px; padding: 1px 6px; white-space: nowrap; pointer-events: none; }
+.tgt-reveal.grow-r { transform: translate(7px, 0); }
+.tgt-reveal.grow-l { transform: translate(calc(-100% - 7px), 0); }
+.pin.anchor circle { fill: #0b1220; stroke: #fff; stroke-width: 2; }
+.pin.anchor.ok circle { fill: var(--ok); } .pin.anchor.bad circle { fill: var(--bad); }
+.mode:disabled { opacity: .4; cursor: not-allowed; }
+@media (max-width: 700px) { .tgt { height: 22px; line-height: 20px; font-size: 10.5px; padding: 0 5px; } input.tgt { width: 84px; } input.tgt:focus { width: 150px; } div.tgt { min-width: 44px; max-width: 130px; } }
