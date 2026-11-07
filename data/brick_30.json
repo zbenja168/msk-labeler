@@ -1,0 +1,260 @@
+{
+ "brick": 30,
+ "title": "Lower Extremity Injury- Part 1 of 2",
+ "diagrams": [
+  {
+   "title": "Right knee, anterior view with knee flexed: ligaments and menisci (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M345 0 L455 0 L460 120 L548 165 Q585 215 545 255 Q500 278 455 250 Q430 236 418 262 L382 262 Q370 236 345 250 Q300 278 255 255 Q215 215 252 165 L340 120 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M240 300 Q400 284 560 300 L560 330 Q520 338 500 345 L478 425 L470 500 L340 500 L330 425 L308 345 Q280 338 240 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"236\" cy=\"352\" rx=\"26\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M222 368 L250 368 L246 500 L226 500 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M268 296 Q320 280 382 292 L378 304 Q322 296 274 310 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/><path d=\"M532 296 Q480 280 418 292 L422 304 Q478 296 526 310 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/><path d=\"M425 232 L392 300\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\"/><path d=\"M425 232 L392 300\" fill=\"none\" stroke=\"#ddd3bb\" stroke-width=\"14\" stroke-linecap=\"round\"/><path d=\"M378 232 L414 298\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"18\" stroke-linecap=\"round\"/><path d=\"M378 232 L414 298\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\"/><path d=\"M540 168 L562 176 L548 412 L526 406 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><path d=\"M246 170 L264 174 L250 346 L232 342 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/>",
+   "labels": [
+    {
+     "name": "Anterior cruciate ligament",
+     "accept": [
+      "ACL",
+      "anterior cruciate"
+     ],
+     "function": "Resists forward tibial translation; Lachman is most sensitive",
+     "x": 383,
+     "y": 242,
+     "lx": 110,
+     "ly": 210
+    },
+    {
+     "name": "Posterior cruciate ligament",
+     "accept": [
+      "PCL",
+      "posterior cruciate"
+     ],
+     "function": "Resists backward tibial translation; dashboard injury",
+     "x": 420,
+     "y": 242,
+     "lx": 690,
+     "ly": 150
+    },
+    {
+     "name": "Medial collateral ligament",
+     "accept": [
+      "MCL",
+      "medial collateral",
+      "tibial collateral ligament"
+     ],
+     "function": "Resists valgus stress; hurt by a blow to the outer knee",
+     "x": 545,
+     "y": 300,
+     "lx": 690,
+     "ly": 400
+    },
+    {
+     "name": "Lateral collateral ligament",
+     "accept": [
+      "LCL",
+      "lateral collateral",
+      "fibular collateral ligament"
+     ],
+     "function": "Resists varus stress; hurt by force toward the inner knee",
+     "x": 248,
+     "y": 240,
+     "lx": 110,
+     "ly": 110
+    },
+    {
+     "name": "Medial meniscus",
+     "accept": [
+      "medial menisci"
+     ],
+     "function": "Torn cushion found by McMurray with external tibial rotation",
+     "x": 490,
+     "y": 293,
+     "lx": 690,
+     "ly": 285
+    },
+    {
+     "name": "Lateral meniscus",
+     "accept": [
+      "lateral menisci"
+     ],
+     "function": "Torn cushion found by McMurray with internal tibial rotation",
+     "x": 310,
+     "y": 294,
+     "lx": 110,
+     "ly": 320
+    }
+   ]
+  },
+  {
+   "title": "Right ankle, anterior view: ligaments of ankle sprains (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M420 0 L540 0 L536 300 L560 330 L566 410 L540 418 L526 368 L432 362 Q420 330 424 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M300 0 L336 0 L342 300 Q354 340 350 380 L338 450 L306 452 L298 380 L300 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M352 372 Q440 352 526 372 L534 400 Q520 440 470 452 L380 452 Q348 440 344 400 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><ellipse cx=\"440\" cy=\"482\" rx=\"120\" ry=\"30\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M346 300 L428 324\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M346 300 L428 324\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M344 420 L398 432\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M344 420 L398 432\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M534 404 L562 408 L580 488 L486 488 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/>",
+   "labels": [
+    {
+     "name": "Anterior talofibular ligament",
+     "accept": [
+      "ATFL",
+      "anterior talofibular"
+     ],
+     "function": "Weakest lateral ligament; torn first by excessive inversion",
+     "x": 372,
+     "y": 426,
+     "lx": 150,
+     "ly": 430
+    },
+    {
+     "name": "Deltoid ligament",
+     "accept": [
+      "deltoid",
+      "medial collateral ligament of the ankle"
+     ],
+     "function": "Strong medial fan resisting eversion; sprain often with fracture",
+     "x": 540,
+     "y": 460,
+     "lx": 680,
+     "ly": 455
+    },
+    {
+     "name": "Anterior inferior tibiofibular ligament",
+     "accept": [
+      "AITFL",
+      "anterior inferior tibiofibular"
+     ],
+     "function": "Most often torn part of the syndesmosis in a high ankle sprain",
+     "x": 388,
+     "y": 312,
+     "lx": 150,
+     "ly": 290
+    },
+    {
+     "name": "Lateral malleolus",
+     "accept": [
+      "distal fibula"
+     ],
+     "function": "Fibular end forming the outer wall of the ankle socket",
+     "x": 322,
+     "y": 420,
+     "lx": 150,
+     "ly": 370
+    },
+    {
+     "name": "Medial malleolus",
+     "accept": [
+      "distal tibia"
+     ],
+     "function": "Tibial projection that anchors the strong eversion-resisting fan",
+     "x": 548,
+     "y": 380,
+     "lx": 680,
+     "ly": 360
+    },
+    {
+     "name": "Talus",
+     "accept": [
+      "talus bone"
+     ],
+     "function": "Bone seated in the socket formed by the tibia and fibula",
+     "x": 440,
+     "y": 410,
+     "lx": 680,
+     "ly": 260
+    }
+   ]
+  },
+  {
+   "title": "Right mid-leg cross-section, viewed from below (anterior at top): compartments and nerves",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><ellipse cx=\"400\" cy=\"250\" rx=\"290\" ry=\"205\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"3\"/><path d=\"M250 120 Q300 70 380 82 L392 210 L292 236 Q246 190 250 120 Z\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"4\"/><path d=\"M180 150 Q232 110 250 120 Q246 190 292 236 L268 300 Q170 290 150 230 Q148 180 180 150 Z\" fill=\"#d9603f\" stroke=\"#ffffff\" stroke-width=\"4\"/><path d=\"M150 236 Q170 296 268 302 L292 236 L392 210 L520 230 Q600 270 590 330 Q560 420 420 430 Q260 432 180 360 Q140 300 150 236 Z\" fill=\"#e8907a\" stroke=\"#ffffff\" stroke-width=\"4\"/><path d=\"M420 70 L520 190 Q480 236 400 232 Q378 160 420 70 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"262\" cy=\"262\" r=\"24\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"284\" y1=\"254\" x2=\"396\" y2=\"216\" stroke=\"#a8a29e\" stroke-width=\"4\"/><circle cx=\"330\" cy=\"205\" r=\"10\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"205\" cy=\"252\" r=\"10\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"410\" cy=\"300\" r=\"10\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"640\" cy=\"230\" r=\"10\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/><circle cx=\"400\" cy=\"440\" r=\"10\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>",
+   "labels": [
+    {
+     "name": "Anterior compartment",
+     "accept": [
+      "anterior compartment of the leg"
+     ],
+     "function": "Dorsiflexors and toe extensors; denervation gives foot drop",
+     "x": 300,
+     "y": 130,
+     "lx": 150,
+     "ly": 60
+    },
+    {
+     "name": "Lateral compartment",
+     "accept": [
+      "lateral compartment of the leg"
+     ],
+     "function": "Evertors of the foot",
+     "x": 190,
+     "y": 200,
+     "lx": 60,
+     "ly": 170
+    },
+    {
+     "name": "Posterior compartment",
+     "accept": [
+      "posterior compartment of the leg"
+     ],
+     "function": "Plantarflexion, toe flexion and inversion",
+     "x": 500,
+     "y": 360,
+     "lx": 700,
+     "ly": 420
+    },
+    {
+     "name": "Deep fibular nerve",
+     "accept": [
+      "deep peroneal nerve",
+      "deep fibular",
+      "deep peroneal"
+     ],
+     "function": "Cut alone: foot drop, eversion kept, first web space numb",
+     "x": 330,
+     "y": 205,
+     "lx": 560,
+     "ly": 40
+    },
+    {
+     "name": "Superficial fibular nerve",
+     "accept": [
+      "superficial peroneal nerve",
+      "superficial fibular",
+      "superficial peroneal"
+     ],
+     "function": "Injury: weak eversion and a numb dorsum of the foot",
+     "x": 205,
+     "y": 252,
+     "lx": 60,
+     "ly": 300
+    },
+    {
+     "name": "Tibial nerve",
+     "accept": [
+      "tibial"
+     ],
+     "function": "Supplies the sole; compressed in the tarsal tunnel",
+     "x": 410,
+     "y": 300,
+     "lx": 740,
+     "ly": 300
+    },
+    {
+     "name": "Saphenous nerve",
+     "accept": [
+      "saphenous"
+     ],
+     "function": "Purely sensory to medial leg and foot; femoral nerve branch",
+     "x": 640,
+     "y": 230,
+     "lx": 740,
+     "ly": 130
+    },
+    {
+     "name": "Sural nerve",
+     "accept": [
+      "sural"
+     ],
+     "function": "Purely sensory to the lateral foot; harvested for grafts",
+     "x": 400,
+     "y": 440,
+     "lx": 250,
+     "ly": 475
+    }
+   ]
+  }
+ ]
+}

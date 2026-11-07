@@ -1,0 +1,217 @@
+{
+ "brick": 28,
+ "title": "MSK: Bone Tumors",
+ "diagrams": [
+  {
+   "title": "Bone tumors by site in a long bone, longitudinal section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M70 250 C70 175 100 155 160 158 C200 160 240 190 290 205 L510 205 C560 190 600 160 640 158 C700 155 730 175 730 250 C730 325 700 345 640 342 C600 340 560 310 510 295 L290 295 C240 310 200 340 160 342 C100 345 70 325 70 250 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M190 250 C215 218 255 226 300 226 L500 226 C545 226 585 218 610 250 C585 282 545 274 500 274 L300 274 C255 274 215 282 190 250 Z\" fill=\"#fbf6ea\" stroke=\"#c9b48f\" stroke-width=\"1.5\"/>\n<path d=\"M168 162 Q158 250 168 338\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"6\"/>\n<path d=\"M632 162 Q642 250 632 338\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/>\n<ellipse cx=\"128\" cy=\"232\" rx=\"34\" ry=\"30\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<path d=\"M104 222 L152 222 M100 236 L156 236 M106 250 L150 250 M114 208 L114 258 M128 204 L128 262 M142 208 L142 258\" stroke=\"#8b5cf6\" stroke-width=\"1.2\" fill=\"none\"/>\n<circle cx=\"668\" cy=\"262\" r=\"24\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<circle cx=\"700\" cy=\"252\" r=\"18\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<circle cx=\"698\" cy=\"292\" r=\"18\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<circle cx=\"662\" cy=\"298\" r=\"17\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<circle cx=\"630\" cy=\"280\" r=\"16\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<circle cx=\"612\" cy=\"300\" r=\"12\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<path d=\"M210 178 C226 150 248 126 268 108 L292 122 C280 146 268 172 262 198 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M232 182 C244 160 258 140 274 122\" stroke=\"#fbf6ea\" stroke-width=\"7\" fill=\"none\" stroke-linecap=\"round\"/>\n<path d=\"M262 104 Q282 84 302 116 L292 124 Q284 108 270 110 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<ellipse cx=\"590\" cy=\"178\" rx=\"44\" ry=\"30\" fill=\"#cdb8e6\" stroke=\"#6d28d9\" stroke-width=\"2\" opacity=\"0.95\"/>\n<line x1=\"590\" y1=\"190\" x2=\"548\" y2=\"128\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"590\" y1=\"190\" x2=\"564\" y2=\"116\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"590\" y1=\"190\" x2=\"582\" y2=\"110\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"590\" y1=\"190\" x2=\"600\" y2=\"110\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"590\" y1=\"190\" x2=\"618\" y2=\"116\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<line x1=\"590\" y1=\"190\" x2=\"634\" y2=\"128\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<polygon points=\"512,205 548,197 546,168\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M470 205 L512 205 L546 168\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"2\" />\n<ellipse cx=\"430\" cy=\"203\" rx=\"30\" ry=\"12\" fill=\"#d6c29b\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"430\" cy=\"205\" r=\"6\" fill=\"#fdfaf3\" stroke=\"#6d28d9\" stroke-width=\"2\"/><circle cx=\"430\" cy=\"205\" r=\"2\" fill=\"#7c6a4f\"/>\n<ellipse cx=\"350\" cy=\"252\" rx=\"52\" ry=\"17\" fill=\"#cdb8e6\" stroke=\"#6d28d9\" stroke-width=\"2\"/>\n<path d=\"M300 297 Q350 308 400 297\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M296 297 Q350 317 404 297\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M292 297 Q350 326 408 297\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M288 297 Q350 335 412 297\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M500 250 C500 234 516 234 524 238 C536 230 552 238 550 250 C556 262 538 270 526 264 C514 270 498 262 500 250 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<circle cx=\"518\" cy=\"248\" r=\"1.8\" fill=\"#475569\"/><circle cx=\"526\" cy=\"252\" r=\"1.8\" fill=\"#475569\"/><circle cx=\"532\" cy=\"246\" r=\"1.8\" fill=\"#475569\"/><circle cx=\"524\" cy=\"244\" r=\"1.8\" fill=\"#475569\"/><circle cx=\"530\" cy=\"256\" r=\"1.8\" fill=\"#475569\"/>\n<text x=\"78\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" >Epiphysis</text><text x=\"195\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" >Metaphysis</text><text x=\"370\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" >Diaphysis</text><text x=\"560\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" >Metaphysis</text><text x=\"672\" y=\"385\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" >Epiphysis</text>\n<text x=\"132\" y=\"150\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" fill=\"#1e40af\">open physis</text><text x=\"600\" y=\"362\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" fill=\"#57534e\">fused physis</text>\n<text x=\"20\" y=\"492\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" fill=\"#6b4a14\">Composite long bone: each lesion drawn at its classic site</text>",
+   "labels": [
+    {
+     "name": "Osteochondroma",
+     "accept": [
+      "exostosis",
+      "osteocartilaginous exostosis"
+     ],
+     "function": "Most common benign bone tumor; multiple in EXT1/EXT2 syndrome",
+     "x": 250,
+     "y": 150,
+     "lx": 150,
+     "ly": 55
+    },
+    {
+     "name": "Cartilage cap",
+     "accept": [
+      "cap",
+      "cartilaginous cap"
+     ],
+     "function": "Covers the exostosis tip; often invisible on x-ray, seen on MRI",
+     "x": 284,
+     "y": 100,
+     "lx": 290,
+     "ly": 55
+    },
+    {
+     "name": "Osteoid osteoma",
+     "accept": [],
+     "function": "Under 2 cm with lucent core; night pain relieved by NSAIDs",
+     "x": 430,
+     "y": 205,
+     "lx": 420,
+     "ly": 55
+    },
+    {
+     "name": "Codman triangle",
+     "accept": [
+      "Codman's triangle"
+     ],
+     "function": "Periosteum lifted at the tumor margin; classic sarcoma sign",
+     "x": 536,
+     "y": 190,
+     "lx": 540,
+     "ly": 65
+    },
+    {
+     "name": "Osteosarcoma",
+     "accept": [
+      "osteogenic sarcoma"
+     ],
+     "function": "Most common primary malignant bone tumor; sunburst pattern",
+     "x": 600,
+     "y": 180,
+     "lx": 690,
+     "ly": 70
+    },
+    {
+     "name": "Chondroblastoma",
+     "accept": [],
+     "function": "Teen epiphysis; chicken-wire calcification; curettage + graft",
+     "x": 128,
+     "y": 232,
+     "lx": 100,
+     "ly": 440
+    },
+    {
+     "name": "Ewing sarcoma",
+     "accept": [
+      "Ewing's sarcoma",
+      "Ewing"
+     ],
+     "function": "Boys under 15; onion-skin periosteal layers; t(11;22)",
+     "x": 350,
+     "y": 252,
+     "lx": 290,
+     "ly": 440
+    },
+    {
+     "name": "Enchondroma",
+     "accept": [],
+     "function": "Medullary hyaline cartilage nodule; IDH1/IDH2 mutations",
+     "x": 525,
+     "y": 252,
+     "lx": 500,
+     "ly": 440
+    },
+    {
+     "name": "Giant cell tumor of bone",
+     "accept": [
+      "giant cell tumor",
+      "GCT",
+      "giant cell tumour"
+     ],
+     "function": "Adult soap-bubble lysis driven by stromal RANKL",
+     "x": 668,
+     "y": 262,
+     "lx": 700,
+     "ly": 440
+    }
+   ]
+  },
+  {
+   "title": "Bone metastases: bone-destroying versus bone-forming mechanisms (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<line x1=\"400\" y1=\"150\" x2=\"400\" y2=\"470\" stroke=\"#d6cfc0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/>\n<text x=\"40\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"17\" font-weight=\"700\">Two radiologic patterns in bone</text>\n<text x=\"40\" y=\"168\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Lung, breast, thyroid, kidney, myeloma</text>\n<text x=\"440\" y=\"168\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Prostate, small cell lung, Hodgkin lymphoma</text>\n<path d=\"M330 60 L470 60\" stroke=\"#dc2626\" stroke-width=\"16\" stroke-linecap=\"round\"/>\n<circle cx=\"400\" cy=\"92\" r=\"20\" fill=\"#cdb8e6\" stroke=\"#6d28d9\" stroke-width=\"2.5\"/><circle cx=\"400\" cy=\"92\" r=\"7\" fill=\"#6d28d9\"/>\n<path d=\"M400 68 L400 72\" stroke=\"#6d28d9\" stroke-width=\"3\"/>\n<path d=\"M380 104 Q300 130 230 190\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"2\" marker-end=\"none\"/><polygon points=\"230,190 232,178 242,186\" fill=\"#3b1d0a\"/>\n<path d=\"M420 104 Q500 130 570 190\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><polygon points=\"570,190 558,186 568,178\" fill=\"#3b1d0a\"/>\n<circle cx=\"120\" cy=\"230\" r=\"18\" fill=\"#cdb8e6\" stroke=\"#6d28d9\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"230\" r=\"6\" fill=\"#6d28d9\"/>\n<circle cx=\"160\" cy=\"222\" r=\"9\" fill=\"#f59e0b\" stroke=\"#92400e\" stroke-width=\"2\"/><circle cx=\"178\" cy=\"240\" r=\"7\" fill=\"#f59e0b\" stroke=\"#92400e\" stroke-width=\"2\"/>\n<rect x=\"148\" y=\"252\" width=\"16\" height=\"12\" rx=\"3\" fill=\"#10b981\" stroke=\"#065f46\" stroke-width=\"2\"/><rect x=\"170\" y=\"262\" width=\"12\" height=\"10\" rx=\"3\" fill=\"#10b981\" stroke=\"#065f46\" stroke-width=\"2\"/>\n<path d=\"M190 250 L238 288\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><polygon points=\"238,288 226,286 233,277\" fill=\"#3b1d0a\"/>\n<path d=\"M240 300 C230 280 290 270 310 290 C330 285 340 305 320 315 L250 318 C236 316 236 306 240 300 Z\" fill=\"#f4a261\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<circle cx=\"262\" cy=\"300\" r=\"5\" fill=\"#7c2d12\"/><circle cx=\"282\" cy=\"300\" r=\"5\" fill=\"#7c2d12\"/><circle cx=\"302\" cy=\"300\" r=\"5\" fill=\"#7c2d12\"/>\n<rect x=\"40\" y=\"330\" width=\"330\" height=\"110\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<circle cx=\"110\" cy=\"365\" r=\"16\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"175\" cy=\"385\" r=\"20\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"250\" cy=\"360\" r=\"14\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"300\" cy=\"400\" r=\"18\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"130\" cy=\"415\" r=\"11\" fill=\"#f8f5ee\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M262 330 Q275 322 290 330\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<circle cx=\"520\" cy=\"230\" r=\"18\" fill=\"#cdb8e6\" stroke=\"#6d28d9\" stroke-width=\"2\"/><circle cx=\"520\" cy=\"230\" r=\"6\" fill=\"#6d28d9\"/>\n<polygon points=\"560,218 570,236 550,236\" fill=\"#ec4899\" stroke=\"#9d174d\" stroke-width=\"2\"/><polygon points=\"580,240 590,258 570,258\" fill=\"#ec4899\" stroke=\"#9d174d\" stroke-width=\"2\"/>\n<path d=\"M598 252 L640 284\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><polygon points=\"640,284 628,283 635,273\" fill=\"#3b1d0a\"/>\n<path d=\"M614 318 L618 300 Q630 288 642 300 L646 318 Z\" fill=\"#60a5fa\" stroke=\"#1e40af\" stroke-width=\"2\"/><circle cx=\"630\" cy=\"303\" r=\"5\" fill=\"#1e3a8a\"/>\n<path d=\"M652 318 L656 300 Q668 288 680 300 L684 318 Z\" fill=\"#60a5fa\" stroke=\"#1e40af\" stroke-width=\"2\"/><circle cx=\"668\" cy=\"303\" r=\"5\" fill=\"#1e3a8a\"/>\n<path d=\"M690 318 L694 300 Q706 288 718 300 L722 318 Z\" fill=\"#60a5fa\" stroke=\"#1e40af\" stroke-width=\"2\"/><circle cx=\"706\" cy=\"303\" r=\"5\" fill=\"#1e3a8a\"/>\n<rect x=\"430\" y=\"330\" width=\"330\" height=\"110\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M450 340 C520 330 600 352 740 338 L740 430 C640 420 560 436 450 428 Z\" fill=\"#b8a27a\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<path d=\"M470 350 L484 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M500 350 L514 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M530 350 L544 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M560 350 L574 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M590 350 L604 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M620 350 L634 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M650 350 L664 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M680 350 L694 420\" stroke=\"#8a7350\" stroke-width=\"2\"/><path d=\"M710 350 L724 420\" stroke=\"#8a7350\" stroke-width=\"2\"/>",
+   "labels": [
+    {
+     "name": "Metastatic tumor cell",
+     "accept": [
+      "tumor cell",
+      "cancer cell",
+      "metastatic cancer cell"
+     ],
+     "function": "Reaches bone by blood, lymph, direct extension or spinal seeding",
+     "x": 400,
+     "y": 92,
+     "lx": 300,
+     "ly": 105
+    },
+    {
+     "name": "PTHrP",
+     "accept": [
+      "parathyroid hormone related protein",
+      "parathyroid hormone-related protein"
+     ],
+     "function": "Hormone-like tumor product that upregulates bone resorption",
+     "x": 160,
+     "y": 222,
+     "lx": 90,
+     "ly": 190
+    },
+    {
+     "name": "TGF-beta",
+     "accept": [
+      "TGF-b",
+      "transforming growth factor beta",
+      "TGF beta"
+     ],
+     "function": "Growth factor that also drives resorption in the lytic pattern",
+     "x": 156,
+     "y": 258,
+     "lx": 70,
+     "ly": 290
+    },
+    {
+     "name": "Osteoclast",
+     "accept": [
+      "osteoclasts"
+     ],
+     "function": "Multinucleated bone-resorbing cell",
+     "x": 285,
+     "y": 300,
+     "lx": 330,
+     "ly": 250
+    },
+    {
+     "name": "Osteolytic lesion",
+     "accept": [
+      "osteolytic metastasis",
+      "lytic lesion",
+      "osteolytic"
+     ],
+     "function": "Small holes that weaken bone and invite pathologic fracture",
+     "x": 175,
+     "y": 385,
+     "lx": 200,
+     "ly": 470
+    },
+    {
+     "name": "Endothelin-1",
+     "accept": [
+      "endothelin",
+      "ET-1"
+     ],
+     "function": "Growth factor released by tumor cells in the sclerotic pattern",
+     "x": 560,
+     "y": 228,
+     "lx": 650,
+     "ly": 200
+    },
+    {
+     "name": "Osteoblast",
+     "accept": [
+      "osteoblasts"
+     ],
+     "function": "Bone-forming cell driven by tumor-derived growth factors",
+     "x": 668,
+     "y": 300,
+     "lx": 740,
+     "ly": 270
+    },
+    {
+     "name": "Osteoblastic lesion",
+     "accept": [
+      "osteoblastic metastasis",
+      "blastic lesion",
+      "sclerotic lesion",
+      "osteoblastic"
+     ],
+     "function": "Excess bony matrix; bone looks denser on imaging",
+     "x": 600,
+     "y": 385,
+     "lx": 600,
+     "ly": 470
+    }
+   ]
+  }
+ ]
+}

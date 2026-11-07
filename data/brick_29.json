@@ -1,0 +1,371 @@
+{
+ "brick": 29,
+ "title": "Functional Anatomy of the Leg, Ankle and Foot",
+ "diagrams": [
+  {
+   "title": "Right leg, transverse section at mid-calf: compartments (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"250\" rx=\"235\" ry=\"205\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"3\"/>\n<ellipse cx=\"400\" cy=\"250\" rx=\"220\" ry=\"190\" fill=\"#f6e6d4\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M535 215 L590 154 M545 268 L600 329\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<path d=\"M290 205 Q420 300 545 272\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<path d=\"M300 238 Q420 330 560 292 L578 322 Q420 384 288 284 Z\" fill=\"#cf6a50\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"345\" cy=\"392\" rx=\"72\" ry=\"40\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/><ellipse cx=\"470\" cy=\"392\" rx=\"72\" ry=\"40\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"415\" cy=\"118\" rx=\"42\" ry=\"40\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"495\" cy=\"162\" rx=\"36\" ry=\"30\" fill=\"#cf6a50\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"592\" cy=\"255\" rx=\"24\" ry=\"45\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"450\" cy=\"240\" rx=\"40\" ry=\"20\" fill=\"#cf6a50\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"350\" cy=\"226\" rx=\"28\" ry=\"17\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<ellipse cx=\"486\" cy=\"264\" rx=\"22\" ry=\"12\" fill=\"#e07a5f\" stroke=\"#ffffff\" stroke-width=\"2.5\"/>\n<polygon points=\"330,78 388,190 286,196\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\" stroke-linejoin=\"round\"/>\n<circle cx=\"334\" cy=\"165\" r=\"16\" fill=\"#fbf6ea\" stroke=\"#c9b48f\" stroke-width=\"1.5\"/>\n<polygon points=\"515,214 556,240 532,276 500,250\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\" stroke-linejoin=\"round\"/>\n<path d=\"M382 184 L507 232\" stroke=\"#8d7f6c\" stroke-width=\"4\"/>\n<circle cx=\"447\" cy=\"190\" r=\"7\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"1.5\"/><circle cx=\"462\" cy=\"195\" r=\"5\" fill=\"#dc2626\"/>\n<circle cx=\"571\" cy=\"196\" r=\"7\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"1.5\"/>\n<circle cx=\"398\" cy=\"264\" r=\"8\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"1.5\"/><circle cx=\"414\" cy=\"268\" r=\"5\" fill=\"#dc2626\"/><circle cx=\"384\" cy=\"270\" r=\"4\" fill=\"#2563eb\"/>\n<text x=\"372\" y=\"488\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" >Anterior at top</text><text x=\"14\" y=\"255\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\">Medial</text><text x=\"732\" y=\"378\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\" font-weight=\"600\">Lateral</text>\n<text x=\"20\" y=\"488\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" fill=\"#6b4a14\">Right leg, mid-calf, viewed from above</text>",
+   "labels": [
+    {
+     "name": "Tibia",
+     "accept": [
+      "tibial shaft"
+     ],
+     "function": "Primary weight-bearing bone; transmits force from knee to foot",
+     "x": 322,
+     "y": 150,
+     "lx": 90,
+     "ly": 110
+    },
+    {
+     "name": "Tibialis anterior",
+     "accept": [
+      "tibialis anterior muscle",
+      "anterior tibialis"
+     ],
+     "function": "Main dorsiflexor; also helps invert the foot",
+     "x": 415,
+     "y": 112,
+     "lx": 330,
+     "ly": 25
+    },
+    {
+     "name": "Deep fibular nerve",
+     "accept": [
+      "deep peroneal nerve",
+      "deep fibular"
+     ],
+     "function": "Supplies dorsiflexors; sensation to the first dorsal web space",
+     "x": 447,
+     "y": 190,
+     "lx": 455,
+     "ly": 25
+    },
+    {
+     "name": "Extensor digitorum longus",
+     "accept": [
+      "EDL",
+      "extensor digitorum longus muscle"
+     ],
+     "function": "Lifts digits 2-5 and dorsiflexes; aids toe clearance",
+     "x": 497,
+     "y": 158,
+     "lx": 590,
+     "ly": 30
+    },
+    {
+     "name": "Interosseous membrane",
+     "accept": [
+      "crural interosseous membrane",
+      "interosseous membrane of the leg"
+     ],
+     "function": "Sheet joining the leg bones; walls off front from back muscles",
+     "x": 488,
+     "y": 225,
+     "lx": 715,
+     "ly": 105
+    },
+    {
+     "name": "Superficial fibular nerve",
+     "accept": [
+      "superficial peroneal nerve",
+      "superficial fibular"
+     ],
+     "function": "Supplies evertors; sensation to most of the dorsum of the foot",
+     "x": 571,
+     "y": 196,
+     "lx": 715,
+     "ly": 170
+    },
+    {
+     "name": "Fibularis longus",
+     "accept": [
+      "peroneus longus",
+      "fibularis longus muscle"
+     ],
+     "function": "Everts; tendon crosses the sole to support the transverse arch",
+     "x": 594,
+     "y": 262,
+     "lx": 725,
+     "ly": 240
+    },
+    {
+     "name": "Fibula",
+     "accept": [
+      "fibular shaft"
+     ],
+     "function": "Bears little weight; muscle attachment and ankle stability",
+     "x": 528,
+     "y": 246,
+     "lx": 715,
+     "ly": 320
+    },
+    {
+     "name": "Gastrocnemius",
+     "accept": [
+      "gastrocnemius muscle",
+      "gastroc"
+     ],
+     "function": "Crosses knee and ankle; plantarflexes and flexes the knee",
+     "x": 480,
+     "y": 395,
+     "lx": 700,
+     "ly": 425
+    },
+    {
+     "name": "Soleus",
+     "accept": [
+      "soleus muscle"
+     ],
+     "function": "Acts only at the ankle; key for standing posture",
+     "x": 372,
+     "y": 312,
+     "lx": 90,
+     "ly": 345
+    },
+    {
+     "name": "Tibial nerve",
+     "accept": [
+      "tibial"
+     ],
+     "function": "Supplies plantarflexors and toe flexors; continues to the sole",
+     "x": 398,
+     "y": 264,
+     "lx": 90,
+     "ly": 280
+    },
+    {
+     "name": "Tibialis posterior",
+     "accept": [
+      "tibialis posterior muscle",
+      "posterior tibialis"
+     ],
+     "function": "Powerful inverter; dynamic support of the medial arch",
+     "x": 455,
+     "y": 242,
+     "lx": 90,
+     "ly": 215
+    }
+   ]
+  },
+  {
+   "title": "Right ankle, section behind the inner ankle bone: tarsal tunnel (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M40 150 Q400 40 760 170 L760 470 L40 470 Z\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"3\"/>\n<path d=\"M60 175 Q400 75 740 190 L740 455 L60 455 Z\" fill=\"#f6e6d4\" stroke=\"none\"/>\n<path d=\"M70 200 Q150 150 225 190 Q250 260 215 330 Q140 360 75 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M230 400 Q420 350 640 390 L660 455 L220 455 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"700\" cy=\"300\" rx=\"34\" ry=\"52\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<path d=\"M215 185 Q420 105 655 250\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"16\" stroke-linecap=\"round\"/>\n<path d=\"M215 185 Q420 105 655 250\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"10\" stroke-linecap=\"round\"/>\n<circle cx=\"270\" cy=\"215\" r=\"20\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-width=\"2.5\"/>\n<circle cx=\"335\" cy=\"200\" r=\"16\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-width=\"2.5\"/>\n<circle cx=\"398\" cy=\"196\" r=\"10\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"2\"/>\n<circle cx=\"430\" cy=\"190\" r=\"7\" fill=\"#2563eb\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/><circle cx=\"436\" cy=\"210\" r=\"7\" fill=\"#2563eb\" stroke=\"#1e3a8a\" stroke-width=\"1.5\"/>\n<circle cx=\"485\" cy=\"214\" r=\"13\" fill=\"#eab308\" stroke=\"#854d0e\" stroke-width=\"2\"/>\n<circle cx=\"560\" cy=\"245\" r=\"19\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\" stroke-width=\"2.5\"/>\n<text x=\"30\" y=\"140\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Anterior</text><text x=\"690\" y=\"140\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Posterior</text>\n<text x=\"300\" y=\"30\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" fill=\"#6b4a14\">Skin of the medial ankle at top</text>\n<text x=\"24\" y=\"492\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" fill=\"#6b4a14\">Right ankle, section just behind the inner ankle bone</text>",
+   "labels": [
+    {
+     "name": "Medial malleolus",
+     "accept": [
+      "malleolus",
+      "medial malleolus of the tibia"
+     ],
+     "function": "Bony inner wall of the ankle mortise; tunnel lies behind it",
+     "x": 145,
+     "y": 255,
+     "lx": 120,
+     "ly": 400
+    },
+    {
+     "name": "Tibialis posterior tendon",
+     "accept": [
+      "tibialis posterior",
+      "TP"
+     ],
+     "function": "Tom: front of the line; inverts and supports the medial arch",
+     "x": 270,
+     "y": 215,
+     "lx": 230,
+     "ly": 75
+    },
+    {
+     "name": "Flexor digitorum longus tendon",
+     "accept": [
+      "flexor digitorum longus",
+      "FDL"
+     ],
+     "function": "Dick: second in line; flexes digits 2-5",
+     "x": 335,
+     "y": 200,
+     "lx": 300,
+     "ly": 330
+    },
+    {
+     "name": "Posterior tibial artery",
+     "accept": [
+      "posterior tibial a",
+      "PT artery"
+     ],
+     "function": "And: third in line, the arterial vessel",
+     "x": 398,
+     "y": 196,
+     "lx": 385,
+     "ly": 75
+    },
+    {
+     "name": "Posterior tibial veins",
+     "accept": [
+      "posterior tibial vein",
+      "PT veins"
+     ],
+     "function": "Very: fourth in line, paired return vessels",
+     "x": 436,
+     "y": 211,
+     "lx": 455,
+     "ly": 330
+    },
+    {
+     "name": "Tibial nerve",
+     "accept": [
+      "tibial",
+      "posterior tibial nerve"
+     ],
+     "function": "Nervous: compressed in tarsal tunnel syndrome; sole numbness",
+     "x": 485,
+     "y": 214,
+     "lx": 540,
+     "ly": 75
+    },
+    {
+     "name": "Flexor hallucis longus tendon",
+     "accept": [
+      "flexor hallucis longus",
+      "FHL"
+     ],
+     "function": "Harry: last in line; propulsion through the great toe",
+     "x": 560,
+     "y": 245,
+     "lx": 600,
+     "ly": 345
+    },
+    {
+     "name": "Flexor retinaculum",
+     "accept": [
+      "laciniate ligament",
+      "retinaculum"
+     ],
+     "function": "Fibrous roof that closes the tunnel over these contents",
+     "x": 600,
+     "y": 205,
+     "lx": 690,
+     "ly": 75
+    },
+    {
+     "name": "Calcaneal tendon",
+     "accept": [
+      "Achilles tendon",
+      "tendo calcaneus",
+      "Achilles"
+     ],
+     "function": "Carries triceps surae force to the heel; Thompson test if torn",
+     "x": 700,
+     "y": 300,
+     "lx": 720,
+     "ly": 420
+    }
+   ]
+  },
+  {
+   "title": "Cutaneous nerve territories of the right lower limb (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M130 30 L320 30 L292 222 L280 255 L262 410 L294 470 L170 470 L198 410 L180 255 L168 222 Z\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"3\" stroke-linejoin=\"round\"/>\n<path d=\"M140 40 L310 40 L285 212 L176 212 Z\" fill=\"#fde68a\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M288 95 L312 92 L300 178 L276 178 Z\" fill=\"#86efac\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M250 256 L280 256 L262 410 L242 410 Z\" fill=\"#93c5fd\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M262 410 L294 470 L278 470 L248 412 Z\" fill=\"#93c5fd\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M198 410 L248 412 L278 470 L184 470 Z\" fill=\"#f9a8d4\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M198 410 L184 470 L170 470 Z\" fill=\"#fdba74\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M256 436 L278 470 L244 470 Z\" fill=\"#a78bfa\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<rect x=\"270\" y=\"470\" width=\"24\" height=\"20\" rx=\"7\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"2\"/>\n<rect x=\"246\" y=\"470\" width=\"17\" height=\"20\" rx=\"7\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"2\"/>\n<rect x=\"226\" y=\"470\" width=\"16\" height=\"20\" rx=\"7\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"2\"/>\n<rect x=\"207\" y=\"470\" width=\"15\" height=\"20\" rx=\"7\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"2\"/>\n<rect x=\"189\" y=\"470\" width=\"14\" height=\"20\" rx=\"7\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"2\"/>\n<ellipse cx=\"186\" cy=\"262\" rx=\"12\" ry=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\" stroke-width=\"2\"/>\n<path d=\"M150 214 Q160 250 180 276 Q196 290 206 300\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<path d=\"M206 300 L222 404 M206 300 L204 404\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/>\n<text x=\"30\" y=\"22\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Anterior view</text><text x=\"120\" y=\"495\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" >Lateral</text><text x=\"305\" y=\"495\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" >Medial</text>\n<text x=\"470\" y=\"22\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Posterior view</text>\n<path d=\"M480 40 L600 40 L585 300 L500 300 Z\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"3\"/>\n<path d=\"M560 150 L594 150 L585 300 L548 300 Z\" fill=\"#fdba74\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<text x=\"470\" y=\"318\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" >Medial</text><text x=\"570\" y=\"318\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"12\" >Lateral</text>\n<text x=\"470\" y=\"345\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" font-weight=\"600\">Sole</text>\n<path d=\"M560 350 Q580 335 610 340 Q660 345 700 360 Q770 390 760 440 Q740 490 680 486 Q620 482 580 470 Q540 450 548 400 Q550 365 560 350 Z\" fill=\"#f1d3b3\" stroke=\"#c08a5b\" stroke-width=\"3\"/>\n<path d=\"M574 360 Q610 350 690 368 Q748 395 744 438 Q730 474 680 474 Q620 470 586 456 Q562 440 562 400 Z\" fill=\"#5eead4\" stroke=\"#ffffff\" stroke-width=\"2\"/>\n<path d=\"M586 456 Q620 470 680 474 Q730 474 744 438 L754 446 Q738 488 680 486 Q620 482 580 470 Z\" fill=\"#fdba74\" stroke=\"#ffffff\" stroke-width=\"2\"/>",
+   "labels": [
+    {
+     "name": "Femoral nerve",
+     "accept": [
+      "femoral",
+      "anterior cutaneous branches of the femoral nerve",
+      "anterior cutaneous nerves of the thigh"
+     ],
+     "function": "Anterior thigh skin; one long sensory branch reaches the foot",
+     "x": 215,
+     "y": 120,
+     "lx": 60,
+     "ly": 110
+    },
+    {
+     "name": "Obturator nerve",
+     "accept": [
+      "obturator"
+     ],
+     "function": "Only a small patch of medial thigh skin",
+     "x": 294,
+     "y": 135,
+     "lx": 385,
+     "ly": 135
+    },
+    {
+     "name": "Common fibular nerve",
+     "accept": [
+      "common peroneal nerve",
+      "common fibular"
+     ],
+     "function": "Winds around the neck of the lateral leg bone; foot drop if hurt",
+     "x": 168,
+     "y": 250,
+     "lx": 60,
+     "ly": 255
+    },
+    {
+     "name": "Saphenous nerve",
+     "accept": [
+      "saphenous"
+     ],
+     "function": "Purely sensory; medial leg down to the medial side of the foot",
+     "x": 262,
+     "y": 330,
+     "lx": 385,
+     "ly": 330
+    },
+    {
+     "name": "Superficial fibular nerve",
+     "accept": [
+      "superficial peroneal nerve",
+      "superficial fibular"
+     ],
+     "function": "Most of the dorsum of the foot; motor to the evertors",
+     "x": 226,
+     "y": 440,
+     "lx": 60,
+     "ly": 430
+    },
+    {
+     "name": "Deep fibular nerve",
+     "accept": [
+      "deep peroneal nerve",
+      "deep fibular"
+     ],
+     "function": "Only the first dorsal web space; motor to the dorsiflexors",
+     "x": 259,
+     "y": 458,
+     "lx": 385,
+     "ly": 470
+    },
+    {
+     "name": "Sural nerve",
+     "accept": [
+      "sural"
+     ],
+     "function": "Posterolateral leg and lateral border of the foot",
+     "x": 572,
+     "y": 225,
+     "lx": 690,
+     "ly": 200
+    },
+    {
+     "name": "Tibial nerve",
+     "accept": [
+      "tibial",
+      "medial and lateral plantar nerves",
+      "plantar nerves"
+     ],
+     "function": "Sole of the foot via two plantar branches; lost in tarsal tunnel",
+     "x": 660,
+     "y": 410,
+     "lx": 700,
+     "ly": 290
+    }
+   ]
+  }
+ ]
+}

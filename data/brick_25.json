@@ -1,0 +1,222 @@
+{
+ "brick": 25,
+ "title": "Histology of Adipose Tissue",
+ "diagrams": [
+  {
+   "title": "Two types of adipose tissue, H&E (schematic)",
+   "viewBox": "0 0 900 540",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"540\" fill=\"#f8f5ee\"/>\n<rect x=\"20\" y=\"40\" width=\"420\" height=\"440\" rx=\"10\" fill=\"#fbe9ee\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<circle cx=\"110\" cy=\"125\" r=\"72\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"125\" r=\"67\" fill=\"#fffdf6\"/><ellipse cx=\"48.0\" cy=\"102.4\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(290 48.0 102.4)\"/>\n<circle cx=\"255\" cy=\"115\" r=\"70\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"255\" cy=\"115\" r=\"65\" fill=\"#fffdf6\"/><ellipse cx=\"287.0\" cy=\"59.6\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(390 287.0 59.6)\"/>\n<circle cx=\"380\" cy=\"150\" r=\"52\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"380\" cy=\"150\" r=\"47\" fill=\"#fffdf6\"/><ellipse cx=\"423.2\" cy=\"165.7\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(110 423.2 165.7)\"/>\n<circle cx=\"105\" cy=\"290\" r=\"74\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"105\" cy=\"290\" r=\"69\" fill=\"#fffdf6\"/><ellipse cx=\"41.1\" cy=\"313.3\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(250 41.1 313.3)\"/>\n<circle cx=\"250\" cy=\"265\" r=\"72\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"265\" r=\"67\" fill=\"#fffdf6\"/><ellipse cx=\"283.0\" cy=\"322.2\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(150 283.0 322.2)\"/>\n<circle cx=\"378\" cy=\"300\" r=\"56\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"378\" cy=\"300\" r=\"51\" fill=\"#fffdf6\"/><ellipse cx=\"425.0\" cy=\"282.9\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(430 425.0 282.9)\"/>\n<circle cx=\"145\" cy=\"430\" r=\"48\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"145\" cy=\"430\" r=\"43\" fill=\"#fffdf6\"/><ellipse cx=\"130.6\" cy=\"390.5\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(340 130.6 390.5)\"/>\n<circle cx=\"290\" cy=\"425\" r=\"56\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"425\" r=\"51\" fill=\"#fffdf6\"/><ellipse cx=\"272.9\" cy=\"472.0\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(200 272.9 472.0)\"/>\n<circle cx=\"400\" cy=\"440\" r=\"34\" fill=\"#f4b6c2\" stroke=\"#b4536a\" stroke-width=\"2\"/><circle cx=\"400\" cy=\"440\" r=\"29\" fill=\"#fffdf6\"/><ellipse cx=\"373.7\" cy=\"430.4\" rx=\"16\" ry=\"5\" fill=\"#5b21b6\" transform=\"rotate(290 373.7 430.4)\"/>\n<circle cx=\"250\" cy=\"265\" r=\"76\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"3\" stroke-dasharray=\"7 4\"/>\n<path d=\"M158 226 Q183 196 210 178 Q188 206 158 226 Z\" fill=\"#e7a3b4\" stroke=\"#9f4560\" stroke-width=\"1.5\"/>\n<ellipse cx=\"184\" cy=\"202\" rx=\"11\" ry=\"3\" fill=\"#4c1d95\" transform=\"rotate(-40 184 202)\"/>\n<circle cx=\"178\" cy=\"362\" r=\"15\" fill=\"#e9b7c6\" stroke=\"#9f4560\" stroke-width=\"1.5\"/>\n<path d=\"M170 356 Q178 350 186 357 Q182 362 186 368 Q178 373 170 366 Q174 361 170 356 Z\" fill=\"#4c1d95\"/>\n<text x=\"230\" y=\"505\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" text-anchor=\"middle\">Adult hypodermis (H&amp;E)</text>\n<rect x=\"460\" y=\"40\" width=\"420\" height=\"440\" rx=\"10\" fill=\"#f6e3d3\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<circle cx=\"530\" cy=\"115\" r=\"50\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"505.5\" cy=\"138.9\" r=\"9.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"537.2\" cy=\"146.4\" r=\"8.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"564.0\" cy=\"124.3\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"524.6\" cy=\"129.7\" r=\"8.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"500.7\" cy=\"112.7\" r=\"8.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"524.6\" cy=\"94.8\" r=\"8.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"504.1\" cy=\"92.6\" r=\"6.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"545.2\" cy=\"128.2\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"522.2\" cy=\"112.6\" r=\"6.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"561.2\" cy=\"136.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(146 561.2 136.0)\"/><ellipse cx=\"554.6\" cy=\"139.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(125 554.6 139.5)\"/><ellipse cx=\"536.2\" cy=\"114.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(165 536.2 114.6)\"/><ellipse cx=\"536.1\" cy=\"78.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(95 536.1 78.2)\"/><ellipse cx=\"557.6\" cy=\"135.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(43 557.6 135.4)\"/><ellipse cx=\"512.4\" cy=\"119.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(21 512.4 119.7)\"/><ellipse cx=\"534.3\" cy=\"115.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(166 534.3 115.9)\"/><ellipse cx=\"536.1\" cy=\"111.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(55 536.1 111.1)\"/><ellipse cx=\"570.2\" cy=\"110.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(118 570.2 110.9)\"/><ellipse cx=\"545.8\" cy=\"83.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(17 545.8 83.2)\"/><circle cx=\"550\" cy=\"103\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"640\" cy=\"105\" r=\"50\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"651.9\" cy=\"86.3\" r=\"6.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"610.5\" cy=\"97.2\" r=\"8.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"669.6\" cy=\"101.8\" r=\"8.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"666.5\" cy=\"122.1\" r=\"7.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"642.1\" cy=\"103.7\" r=\"7.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"622.0\" cy=\"75.5\" r=\"9.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"635.8\" cy=\"141.2\" r=\"7.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"641.1\" cy=\"121.4\" r=\"6.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"597.7\" cy=\"113.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(32 597.7 113.4)\"/><ellipse cx=\"673.2\" cy=\"88.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(93 673.2 88.6)\"/><ellipse cx=\"669.6\" cy=\"79.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(89 669.6 79.5)\"/><ellipse cx=\"666.9\" cy=\"84.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(29 666.9 84.0)\"/><ellipse cx=\"672.4\" cy=\"87.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(44 672.4 87.3)\"/><ellipse cx=\"669.3\" cy=\"75.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(88 669.3 75.3)\"/><ellipse cx=\"652.1\" cy=\"70.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(91 652.1 70.6)\"/><ellipse cx=\"630.5\" cy=\"97.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(113 630.5 97.6)\"/><ellipse cx=\"679.1\" cy=\"86.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(131 679.1 86.6)\"/><ellipse cx=\"630.6\" cy=\"108.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(163 630.6 108.8)\"/><circle cx=\"618\" cy=\"123\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"750\" cy=\"112\" r=\"48\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"732.7\" cy=\"137.7\" r=\"8.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"749.7\" cy=\"111.7\" r=\"7.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"753.5\" cy=\"86.6\" r=\"6.6\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"720.0\" cy=\"96.3\" r=\"9.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"773.4\" cy=\"108.0\" r=\"8.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"734.7\" cy=\"84.0\" r=\"6.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"730.5\" cy=\"115.1\" r=\"7.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"752.2\" cy=\"146.4\" r=\"8.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"770.5\" cy=\"90.4\" r=\"6.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"715.5\" cy=\"132.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(145 715.5 132.9)\"/><ellipse cx=\"753.7\" cy=\"124.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(149 753.7 124.3)\"/><ellipse cx=\"785.1\" cy=\"135.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(101 785.1 135.0)\"/><ellipse cx=\"737.1\" cy=\"97.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(34 737.1 97.8)\"/><ellipse cx=\"744.1\" cy=\"74.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(22 744.1 74.4)\"/><ellipse cx=\"709.2\" cy=\"116.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(120 709.2 116.7)\"/><ellipse cx=\"736.2\" cy=\"101.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(59 736.2 101.7)\"/><ellipse cx=\"718.8\" cy=\"134.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(53 718.8 134.4)\"/><ellipse cx=\"740.9\" cy=\"96.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(68 740.9 96.9)\"/><ellipse cx=\"781.6\" cy=\"96.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(37 781.6 96.4)\"/><circle cx=\"768\" cy=\"130\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"835\" cy=\"150\" r=\"34\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"849.6\" cy=\"160.6\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"820.0\" cy=\"155.6\" r=\"7.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"835.5\" cy=\"151.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(64 835.5 151.2)\"/><ellipse cx=\"834.0\" cy=\"151.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(37 834.0 151.6)\"/><ellipse cx=\"837.6\" cy=\"154.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(97 837.6 154.3)\"/><ellipse cx=\"814.9\" cy=\"142.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(18 814.9 142.2)\"/><ellipse cx=\"832.9\" cy=\"153.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(0 832.9 153.9)\"/><ellipse cx=\"827.3\" cy=\"175.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(126 827.3 175.1)\"/><ellipse cx=\"819.6\" cy=\"135.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(165 819.6 135.0)\"/><ellipse cx=\"832.3\" cy=\"158.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(83 832.3 158.9)\"/><ellipse cx=\"836.1\" cy=\"161.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(12 836.1 161.2)\"/><ellipse cx=\"850.7\" cy=\"139.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(72 850.7 139.8)\"/><circle cx=\"835\" cy=\"136\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"530\" cy=\"235\" r=\"52\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"510.5\" cy=\"218.2\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"549.4\" cy=\"222.4\" r=\"8.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"531.4\" cy=\"232.6\" r=\"9.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"520.5\" cy=\"248.5\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"551.2\" cy=\"266.5\" r=\"6.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"496.3\" cy=\"235.1\" r=\"9.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"528.4\" cy=\"273.9\" r=\"8.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"535.5\" cy=\"205.7\" r=\"8.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"509.2\" cy=\"266.7\" r=\"7.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"558.7\" cy=\"209.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(35 558.7 209.5)\"/><ellipse cx=\"571.8\" cy=\"254.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(122 571.8 254.2)\"/><ellipse cx=\"556.4\" cy=\"206.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(154 556.4 206.7)\"/><ellipse cx=\"563.7\" cy=\"263.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(106 563.7 263.7)\"/><ellipse cx=\"538.1\" cy=\"251.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(45 538.1 251.5)\"/><ellipse cx=\"551.5\" cy=\"199.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(95 551.5 199.1)\"/><ellipse cx=\"507.0\" cy=\"252.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(19 507.0 252.0)\"/><ellipse cx=\"561.8\" cy=\"205.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(58 561.8 205.3)\"/><ellipse cx=\"501.1\" cy=\"256.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(147 501.1 256.4)\"/><ellipse cx=\"570.8\" cy=\"226.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(51 570.8 226.8)\"/><circle cx=\"554\" cy=\"245\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"642\" cy=\"225\" r=\"50\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"637.0\" cy=\"234.4\" r=\"8.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"652.2\" cy=\"202.5\" r=\"8.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"671.9\" cy=\"239.1\" r=\"7.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"621.2\" cy=\"251.0\" r=\"6.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"614.6\" cy=\"235.8\" r=\"6.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"648.5\" cy=\"253.2\" r=\"8.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"670.1\" cy=\"216.4\" r=\"7.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"649.3\" cy=\"221.6\" r=\"6.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"609.9\" cy=\"196.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(131 609.9 196.6)\"/><ellipse cx=\"638.6\" cy=\"192.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(149 638.6 192.9)\"/><ellipse cx=\"601.9\" cy=\"211.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(21 601.9 211.0)\"/><ellipse cx=\"633.3\" cy=\"188.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(28 633.3 188.3)\"/><ellipse cx=\"667.2\" cy=\"202.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(85 667.2 202.1)\"/><ellipse cx=\"637.2\" cy=\"212.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(17 637.2 212.5)\"/><ellipse cx=\"607.1\" cy=\"246.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(129 607.1 246.8)\"/><ellipse cx=\"599.2\" cy=\"219.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(9 599.2 219.1)\"/><ellipse cx=\"610.8\" cy=\"214.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(125 610.8 214.9)\"/><ellipse cx=\"634.7\" cy=\"258.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(155 634.7 258.2)\"/><circle cx=\"624\" cy=\"205\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"790\" cy=\"250\" r=\"52\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"786.2\" cy=\"241.8\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"800.3\" cy=\"250.1\" r=\"6.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"821.3\" cy=\"253.2\" r=\"8.7\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"798.3\" cy=\"214.2\" r=\"8.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"778.4\" cy=\"216.8\" r=\"7.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"801.6\" cy=\"279.5\" r=\"6.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"752.8\" cy=\"244.3\" r=\"7.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"809.0\" cy=\"233.0\" r=\"7.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"791.1\" cy=\"265.6\" r=\"7.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"766.6\" cy=\"281.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(54 766.6 281.0)\"/><ellipse cx=\"780.8\" cy=\"286.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(25 780.8 286.4)\"/><ellipse cx=\"809.4\" cy=\"260.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(146 809.4 260.1)\"/><ellipse cx=\"757.5\" cy=\"222.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(53 757.5 222.0)\"/><ellipse cx=\"760.8\" cy=\"228.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(122 760.8 228.9)\"/><ellipse cx=\"823.1\" cy=\"228.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(68 823.1 228.0)\"/><ellipse cx=\"819.6\" cy=\"272.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(30 819.6 272.9)\"/><ellipse cx=\"772.8\" cy=\"241.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(165 772.8 241.1)\"/><ellipse cx=\"804.6\" cy=\"263.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(26 804.6 263.4)\"/><ellipse cx=\"788.9\" cy=\"283.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(31 788.9 283.9)\"/><circle cx=\"768\" cy=\"266\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"535\" cy=\"360\" r=\"52\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"548.2\" cy=\"394.6\" r=\"9.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"553.6\" cy=\"363.4\" r=\"9.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"554.7\" cy=\"338.7\" r=\"6.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"531.1\" cy=\"333.8\" r=\"9.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"501.6\" cy=\"359.6\" r=\"7.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"534.6\" cy=\"362.1\" r=\"6.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"508.7\" cy=\"337.3\" r=\"7.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"572.0\" cy=\"351.9\" r=\"7.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"519.2\" cy=\"351.6\" r=\"6.9\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"545.4\" cy=\"349.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(117 545.4 349.6)\"/><ellipse cx=\"542.9\" cy=\"350.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(167 542.9 350.2)\"/><ellipse cx=\"545.2\" cy=\"348.2\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(51 545.2 348.2)\"/><ellipse cx=\"524.7\" cy=\"390.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(106 524.7 390.9)\"/><ellipse cx=\"529.2\" cy=\"382.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(124 529.2 382.8)\"/><ellipse cx=\"530.9\" cy=\"318.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(79 530.9 318.4)\"/><ellipse cx=\"570.3\" cy=\"366.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(42 570.3 366.4)\"/><ellipse cx=\"512.1\" cy=\"394.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(174 512.1 394.5)\"/><ellipse cx=\"566.5\" cy=\"337.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(3 566.5 337.4)\"/><ellipse cx=\"571.7\" cy=\"386.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(89 571.7 386.7)\"/><circle cx=\"515\" cy=\"378\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"650\" cy=\"350\" r=\"50\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"643.9\" cy=\"347.8\" r=\"8.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"665.0\" cy=\"354.1\" r=\"6.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"662.9\" cy=\"372.7\" r=\"6.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"635.3\" cy=\"365.4\" r=\"7.2\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"630.9\" cy=\"320.2\" r=\"9.3\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"614.9\" cy=\"346.8\" r=\"7.6\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"651.6\" cy=\"386.7\" r=\"7.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"656.1\" cy=\"315.1\" r=\"6.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"681.1\" cy=\"364.3\" r=\"6.6\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"616.6\" cy=\"369.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(118 616.6 369.1)\"/><ellipse cx=\"610.8\" cy=\"369.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(94 610.8 369.1)\"/><ellipse cx=\"614.7\" cy=\"325.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(120 614.7 325.0)\"/><ellipse cx=\"649.8\" cy=\"325.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(179 649.8 325.4)\"/><ellipse cx=\"687.3\" cy=\"340.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(97 687.3 340.4)\"/><ellipse cx=\"614.4\" cy=\"367.3\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(56 614.4 367.3)\"/><ellipse cx=\"617.2\" cy=\"365.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(166 617.2 365.7)\"/><ellipse cx=\"645.9\" cy=\"308.4\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(26 645.9 308.4)\"/><ellipse cx=\"652.6\" cy=\"358.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(149 652.6 358.8)\"/><ellipse cx=\"645.0\" cy=\"326.6\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(140 645.0 326.6)\"/><circle cx=\"670\" cy=\"334\" r=\"10\" fill=\"#5b21b6\"/>\n<circle cx=\"770\" cy=\"385\" r=\"54\" fill=\"#d9a67e\" stroke=\"#8a5a36\" stroke-width=\"2\"/><circle cx=\"779.0\" cy=\"345.7\" r=\"8.6\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"777.9\" cy=\"374.6\" r=\"8.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"746.0\" cy=\"397.9\" r=\"7.8\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"734.6\" cy=\"372.8\" r=\"8.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"770.6\" cy=\"408.3\" r=\"9.1\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"755.1\" cy=\"374.6\" r=\"7.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"805.0\" cy=\"379.7\" r=\"9.0\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"745.5\" cy=\"417.7\" r=\"6.5\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><circle cx=\"747.3\" cy=\"358.8\" r=\"6.4\" fill=\"#fffdf6\" stroke=\"#b98a64\" stroke-width=\"1\"/><ellipse cx=\"773.9\" cy=\"390.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(61 773.9 390.0)\"/><ellipse cx=\"766.1\" cy=\"383.5\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(179 766.1 383.5)\"/><ellipse cx=\"759.5\" cy=\"424.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(26 759.5 424.8)\"/><ellipse cx=\"767.7\" cy=\"393.1\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(6 767.7 393.1)\"/><ellipse cx=\"815.4\" cy=\"392.7\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(120 815.4 392.7)\"/><ellipse cx=\"812.2\" cy=\"405.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(143 812.2 405.9)\"/><ellipse cx=\"784.1\" cy=\"420.8\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(151 784.1 420.8)\"/><ellipse cx=\"730.4\" cy=\"394.0\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(83 730.4 394.0)\"/><ellipse cx=\"757.9\" cy=\"346.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(51 757.9 346.9)\"/><ellipse cx=\"809.0\" cy=\"361.9\" rx=\"5\" ry=\"2.6\" fill=\"#6b2f12\" transform=\"rotate(78 809.0 361.9)\"/><circle cx=\"792\" cy=\"399\" r=\"10\" fill=\"#5b21b6\"/>\n<path d=\"M705 160 C 700 230, 735 290, 705 345 C 690 380, 700 420, 712 478\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"16\" stroke-linecap=\"round\"/><path d=\"M705 160 C 700 230, 735 290, 705 345 C 690 380, 700 420, 712 478\" fill=\"none\" stroke=\"#fca5a5\" stroke-width=\"8\" stroke-linecap=\"round\"/><ellipse cx=\"704\" cy=\"190\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/><ellipse cx=\"713\" cy=\"252\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/><ellipse cx=\"716\" cy=\"300\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/><ellipse cx=\"700\" cy=\"360\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/><ellipse cx=\"701\" cy=\"420\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/><ellipse cx=\"709\" cy=\"460\" rx=\"5\" ry=\"3.5\" fill=\"#b91c1c\"/>\n<text x=\"670\" y=\"505\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" text-anchor=\"middle\">Newborn, interscapular region (H&amp;E)</text>\n<text x=\"450\" y=\"26\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">Same magnification, schematic</text>",
+   "labels": [
+    {
+     "name": "Central lipid droplet",
+     "accept": [
+      "single lipid droplet",
+      "unilocular lipid droplet",
+      "large lipid droplet",
+      "unilocular droplet"
+     ],
+     "function": "Holds triglycerides; lets the cell grow up to 20-fold in diameter",
+     "x": 110,
+     "y": 125
+    },
+    {
+     "name": "Peripheral nucleus",
+     "accept": [
+      "flattened nucleus",
+      "flattened peripheral nucleus",
+      "compressed nucleus"
+     ],
+     "function": "Pushed thin against the cell edge by the stored fat",
+     "x": 283,
+     "y": 322,
+     "lx": 300,
+     "ly": 360
+    },
+    {
+     "name": "Basal lamina",
+     "accept": [
+      "basement membrane",
+      "external lamina"
+     ],
+     "function": "Type IV collagen ECM that supports these fragile cells",
+     "x": 302,
+     "y": 211,
+     "lx": 330,
+     "ly": 225
+    },
+    {
+     "name": "Fibroblast",
+     "accept": [
+      "fibroblasts"
+     ],
+     "function": "Connective tissue cell found in the septa between fat cells",
+     "x": 184,
+     "y": 202,
+     "lx": 150,
+     "ly": 195
+    },
+    {
+     "name": "Macrophage",
+     "accept": [
+      "macrophages",
+      "adipose tissue macrophage"
+     ],
+     "function": "Resident immune cell adding pro-inflammatory cytokines",
+     "x": 178,
+     "y": 362,
+     "lx": 222,
+     "ly": 362
+    },
+    {
+     "name": "Multiple small lipid droplets",
+     "accept": [
+      "multilocular lipid droplets",
+      "multiple lipid droplets",
+      "small lipid droplets",
+      "multilocular droplets"
+     ],
+     "function": "Many fat stores per cell, typical of newborn thermogenic fat",
+     "x": 531,
+     "y": 233,
+     "lx": 600,
+     "ly": 172
+    },
+    {
+     "name": "Mitochondria",
+     "accept": [
+      "mitochondrion"
+     ],
+     "function": "Abundant; give the color and carry UCP1 to make heat",
+     "x": 635,
+     "y": 258,
+     "lx": 700,
+     "ly": 180
+    },
+    {
+     "name": "Eccentric nucleus",
+     "accept": [
+      "eccentrically located nucleus",
+      "round eccentric nucleus"
+     ],
+     "function": "Off-center but not pressed flat against the cell edge",
+     "x": 670,
+     "y": 334,
+     "lx": 620,
+     "ly": 420
+    },
+    {
+     "name": "Capillary",
+     "accept": [
+      "capillaries",
+      "blood vessel",
+      "blood vessels"
+     ],
+     "function": "Rich supply that carries the generated heat to the body",
+     "x": 716,
+     "y": 300,
+     "lx": 715,
+     "ly": 255
+    }
+   ]
+  },
+  {
+   "title": "Where fat is deposited (schematic body map)",
+   "viewBox": "0 0 800 600",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"600\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"62\" rx=\"38\" ry=\"44\" fill=\"#f1d3b3\" stroke=\"#a16a3c\" stroke-width=\"2.5\"/>\n<rect x=\"383\" y=\"100\" width=\"34\" height=\"26\" fill=\"#f1d3b3\" stroke=\"#a16a3c\" stroke-width=\"2.5\"/>\n<path d=\"M318 132 Q400 112 482 132 L492 250 Q488 300 500 340 Q512 380 498 410 L478 590 L416 590 L404 430 L396 430 L384 590 L322 590 L302 410 Q288 380 300 340 Q312 300 308 250 Z\" fill=\"#f1d3b3\" stroke=\"#a16a3c\" stroke-width=\"2.5\"/>\n<path d=\"M318 134 Q290 150 282 210 L262 330 L282 334 L304 230 Z\" fill=\"#f1d3b3\" stroke=\"#a16a3c\" stroke-width=\"2.5\"/>\n<path d=\"M482 134 Q510 150 518 210 L538 330 L518 334 L496 230 Z\" fill=\"#f1d3b3\" stroke=\"#a16a3c\" stroke-width=\"2.5\"/>\n<path d=\"M304 344 Q290 380 304 412 L318 520 L331 520 L317 410 Q305 380 316 346 Z\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<path d=\"M496 344 Q510 380 496 412 L482 520 L469 520 L483 410 Q495 380 484 346 Z\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<path d=\"M352 128 Q368 116 382 122 L380 136 Q364 140 352 128 Z\" fill=\"#a16207\" stroke=\"#713f12\" stroke-width=\"2\"/>\n<path d=\"M448 128 Q432 116 418 122 L420 136 Q436 140 448 128 Z\" fill=\"#a16207\" stroke=\"#713f12\" stroke-width=\"2\"/>\n<circle cx=\"448\" cy=\"196\" r=\"30\" fill=\"#f5c7a3\" stroke=\"#a16a3c\" stroke-width=\"2\"/>\n<circle cx=\"436\" cy=\"186\" r=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n<circle cx=\"458\" cy=\"184\" r=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n<circle cx=\"446\" cy=\"204\" r=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n<circle cx=\"462\" cy=\"206\" r=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n<circle cx=\"432\" cy=\"206\" r=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n<path d=\"M372 170 Q352 150 340 172 Q332 196 372 232 Q412 196 404 172 Q392 150 372 170 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M346 162 Q356 150 372 168 Q388 150 400 162 Q388 170 372 176 Q356 170 346 162 Z\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<rect x=\"330\" y=\"244\" width=\"140\" height=\"120\" rx=\"12\" fill=\"#fff7ed\" stroke=\"#a16a3c\" stroke-width=\"2\"/>\n<path d=\"M334 252 L410 252 Q404 278 366 290 Q342 294 334 282 Z\" fill=\"#9a4b3a\" stroke=\"#6b2f22\" stroke-width=\"2\"/>\n<circle cx=\"346\" cy=\"262\" r=\"4\" fill=\"#fffbeb\"/>\n<circle cx=\"360\" cy=\"270\" r=\"4\" fill=\"#fffbeb\"/>\n<circle cx=\"376\" cy=\"262\" r=\"4\" fill=\"#fffbeb\"/>\n<circle cx=\"392\" cy=\"262\" r=\"4\" fill=\"#fffbeb\"/>\n<circle cx=\"352\" cy=\"280\" r=\"4\" fill=\"#fffbeb\"/>\n<circle cx=\"368\" cy=\"280\" r=\"4\" fill=\"#fffbeb\"/>\n<ellipse cx=\"360\" cy=\"318\" rx=\"17\" ry=\"12\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<ellipse cx=\"400\" cy=\"306\" rx=\"17\" ry=\"12\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<ellipse cx=\"440\" cy=\"318\" rx=\"17\" ry=\"12\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<ellipse cx=\"378\" cy=\"346\" rx=\"17\" ry=\"12\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<ellipse cx=\"422\" cy=\"346\" rx=\"17\" ry=\"12\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"2\"/>\n<ellipse cx=\"381\" cy=\"326\" rx=\"8\" ry=\"6\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<ellipse cx=\"420\" cy=\"326\" rx=\"8\" ry=\"6\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<ellipse cx=\"400\" cy=\"352\" rx=\"8\" ry=\"6\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<ellipse cx=\"444\" cy=\"290\" rx=\"13\" ry=\"9\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<ellipse cx=\"352\" cy=\"300\" rx=\"9\" ry=\"7\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"1.5\"/>\n<rect x=\"432\" y=\"430\" width=\"44\" height=\"120\" rx=\"8\" fill=\"#fff7ed\" stroke=\"#a16a3c\" stroke-width=\"2\"/>\n<rect x=\"442\" y=\"436\" width=\"24\" height=\"108\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"448\" y=\"444\" width=\"12\" height=\"92\" rx=\"6\" fill=\"#fecaca\"/>\n<circle cx=\"454\" cy=\"452\" r=\"3.5\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"0.8\"/>\n<circle cx=\"454\" cy=\"468\" r=\"3.5\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"0.8\"/>\n<circle cx=\"454\" cy=\"486\" r=\"3.5\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"0.8\"/>\n<circle cx=\"454\" cy=\"504\" r=\"3.5\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"0.8\"/>\n<circle cx=\"454\" cy=\"522\" r=\"3.5\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"0.8\"/>\n<text x=\"400\" y=\"20\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">Adult, anterior view (windows show internal depots)</text>\n<text x=\"250\" y=\"596\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\">Right</text><text x=\"520\" y=\"596\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\">Left</text>",
+   "labels": [
+    {
+     "name": "Subcutaneous fat",
+     "accept": [
+      "subcutaneous adipose tissue",
+      "hypodermal fat",
+      "hypodermis"
+     ],
+     "function": "Hip and thigh depot of premenopausal females; may be protective",
+     "x": 310,
+     "y": 430,
+     "lx": 230,
+     "ly": 430
+    },
+    {
+     "name": "Visceral fat",
+     "accept": [
+      "intra-abdominal fat",
+      "visceral adipose tissue",
+      "abdominal visceral fat"
+     ],
+     "function": "Packed between abdominal organs; tied to insulin resistance, T2DM",
+     "x": 444,
+     "y": 290,
+     "lx": 580,
+     "ly": 300
+    },
+    {
+     "name": "Breast fat",
+     "accept": [
+      "mammary fat",
+      "breast adipose tissue"
+     ],
+     "function": "Less radiodense, so masses are easier to see on mammography",
+     "x": 458,
+     "y": 196,
+     "lx": 580,
+     "ly": 200
+    },
+    {
+     "name": "Marrow fat",
+     "accept": [
+      "bone marrow fat",
+      "marrow adipose tissue",
+      "bone marrow adipose tissue"
+     ],
+     "function": "Lies among hematopoietic cells; from mesenchymal stem cells",
+     "x": 454,
+     "y": 486,
+     "lx": 580,
+     "ly": 486
+    },
+    {
+     "name": "Brown fat",
+     "accept": [
+      "brown adipose tissue",
+      "BAT",
+      "baby fat"
+     ],
+     "function": "Heat-making depot of neck, shoulders, paravertebral and perirenal areas",
+     "x": 436,
+     "y": 128,
+     "lx": 580,
+     "ly": 110
+    },
+    {
+     "name": "Hepatic steatosis",
+     "accept": [
+      "fatty liver",
+      "ectopic liver fat",
+      "steatosis",
+      "fatty infiltration of the liver"
+     ],
+     "function": "Fat droplets inside liver cells; may progress to cirrhosis",
+     "x": 352,
+     "y": 270,
+     "lx": 230,
+     "ly": 270
+    },
+    {
+     "name": "Epicardial fat",
+     "accept": [
+      "ectopic cardiac fat",
+      "ectopic fat in the heart",
+      "subepicardial fat",
+      "cardiac ectopic fat"
+     ],
+     "function": "Ectopic deposit under the heart's outer layer, with fibrosis beneath",
+     "x": 362,
+     "y": 162,
+     "lx": 230,
+     "ly": 165
+    }
+   ]
+  }
+ ]
+}

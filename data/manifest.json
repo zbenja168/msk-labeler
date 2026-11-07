@@ -174,5 +174,77 @@
   "title": "Pharmacologic Treatment of Musculoskeletal Pain",
   "diagrams": 3,
   "labels": 25
+ },
+ {
+  "num": 23,
+  "week": 3,
+  "session": 1,
+  "title": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+  "diagrams": 3,
+  "labels": 34
+ },
+ {
+  "num": 24,
+  "week": 3,
+  "session": 1,
+  "title": "Vasculature and Lymphatics of the Lower Extremities",
+  "diagrams": 3,
+  "labels": 27
+ },
+ {
+  "num": 25,
+  "week": 3,
+  "session": 1,
+  "title": "Histology of Adipose Tissue",
+  "diagrams": 2,
+  "labels": 16
+ },
+ {
+  "num": 26,
+  "week": 3,
+  "session": 1,
+  "title": "MSK: Soft Tissue Tumors",
+  "diagrams": 2,
+  "labels": 16
+ },
+ {
+  "num": 27,
+  "week": 3,
+  "session": 2,
+  "title": "MSK: Osteomyelitis",
+  "diagrams": 2,
+  "labels": 16
+ },
+ {
+  "num": 28,
+  "week": 3,
+  "session": 2,
+  "title": "MSK: Bone Tumors",
+  "diagrams": 2,
+  "labels": 17
+ },
+ {
+  "num": 29,
+  "week": 3,
+  "session": 3,
+  "title": "Functional Anatomy of the Leg, Ankle and Foot",
+  "diagrams": 3,
+  "labels": 29
+ },
+ {
+  "num": 30,
+  "week": 3,
+  "session": 3,
+  "title": "Lower Extremity Injury- Part 1 of 2",
+  "diagrams": 3,
+  "labels": 20
+ },
+ {
+  "num": 31,
+  "week": 3,
+  "session": 3,
+  "title": "Lower Extremity Injury - Part 2 of 2",
+  "diagrams": 3,
+  "labels": 22
  }
 ]

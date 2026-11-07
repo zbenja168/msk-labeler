@@ -1,0 +1,408 @@
+{
+ "brick": 23,
+ "title": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+ "diagrams": [
+  {
+   "title": "Right gluteal region, posterior view, superficial muscle removed (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/>\n<path d=\"M120 70 L205 60 L215 300 L175 360 L140 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M205 62 Q390 10 590 85 Q600 150 560 215 Q500 250 440 262 L330 268 L300 300 L300 410 Q310 450 290 455 Q255 455 262 410 L268 300 L215 270 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<ellipse cx=\"282\" cy=\"430\" rx=\"34\" ry=\"24\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M455 285 Q520 280 575 288 L640 282 Q672 300 662 345 L640 360 L640 560 L585 560 L588 360 Q520 330 455 312 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M240 118 Q420 52 575 98 L640 300 L600 304 Q440 225 252 200 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<path d=\"M205 222 Q330 242 605 300 L606 318 Q330 300 205 294 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<path d=\"M300 330 L612 326 L612 340 L300 346 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\" stroke=\"#ffffff\"/>\n<path d=\"M290 352 L612 344 L612 360 L290 370 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M300 376 L612 364 L612 378 L300 392 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\" stroke=\"#ffffff\"/>\n<path d=\"M310 408 L612 392 L612 440 L310 456 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<path d=\"M345 236 Q420 225 470 172\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<path d=\"M352 318 Q300 336 228 338\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<path d=\"M390 312 Q430 400 452 560\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"13\" stroke-linecap=\"round\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"20\" y=\"535\">Medial</text><text x=\"690\" y=\"535\">Lateral</text><text x=\"20\" y=\"30\">Superior</text></g>",
+   "labels": [
+    {
+     "name": "Iliac crest",
+     "accept": [
+      "crest of the ilium",
+      "crest"
+     ],
+     "function": "Upper bony rim of the hip bone; ends in front at a palpable spine",
+     "x": 400,
+     "y": 34,
+     "lx": 400,
+     "ly": 34
+    },
+    {
+     "name": "Gluteus medius",
+     "accept": [
+      "glute med",
+      "gluteus medius muscle"
+     ],
+     "function": "Abducts and medially rotates the thigh; keeps the pelvis level",
+     "x": 520,
+     "y": 140
+    },
+    {
+     "name": "Superior gluteal nerve",
+     "accept": [
+      "superior gluteal",
+      "SGN"
+     ],
+     "function": "Injury drops the pelvis to the unsupported side (Trendelenburg)",
+     "x": 445,
+     "y": 205,
+     "lx": 330,
+     "ly": 160
+    },
+    {
+     "name": "Piriformis",
+     "accept": [
+      "piriformis muscle"
+     ],
+     "function": "Laterally rotates the extended thigh; landmark at the nerve exit",
+     "x": 330,
+     "y": 262
+    },
+    {
+     "name": "Inferior gluteal nerve",
+     "accept": [
+      "inferior gluteal",
+      "IGN"
+     ],
+     "function": "Supplies the main hip extender used for stairs and rising",
+     "x": 260,
+     "y": 336,
+     "lx": 200,
+     "ly": 395
+    },
+    {
+     "name": "Sciatic nerve",
+     "accept": [
+      "sciatic"
+     ],
+     "function": "Leaves the pelvis below the landmark rotator to the posterior thigh",
+     "x": 448,
+     "y": 520,
+     "lx": 530,
+     "ly": 510
+    },
+    {
+     "name": "Superior gemellus",
+     "accept": [
+      "gemellus superior",
+      "superior gemellus muscle"
+     ],
+     "function": "Small lateral rotator sharing its nerve with the muscle just below",
+     "x": 560,
+     "y": 334,
+     "lx": 720,
+     "ly": 290
+    },
+    {
+     "name": "Obturator internus",
+     "accept": [
+      "obturator internus muscle",
+      "obturator internus tendon"
+     ],
+     "function": "Its own nerve also supplies the small rotator just above it",
+     "x": 560,
+     "y": 352,
+     "lx": 720,
+     "ly": 330
+    },
+    {
+     "name": "Inferior gemellus",
+     "accept": [
+      "gemellus inferior",
+      "inferior gemellus muscle"
+     ],
+     "function": "Small lateral rotator innervated by the nerve to the muscle below",
+     "x": 560,
+     "y": 370,
+     "lx": 720,
+     "ly": 370
+    },
+    {
+     "name": "Quadratus femoris",
+     "accept": [
+      "quadratus femoris muscle",
+      "quadratus"
+     ],
+     "function": "Lowest deep rotator; its nerve also supplies the muscle above",
+     "x": 560,
+     "y": 420,
+     "lx": 720,
+     "ly": 420
+    },
+    {
+     "name": "Greater trochanter",
+     "accept": [
+      "greater trochanter of femur"
+     ],
+     "function": "Insertion site of the pelvic-stabilizing abductors",
+     "x": 655,
+     "y": 320,
+     "lx": 740,
+     "ly": 240
+    },
+    {
+     "name": "Ischial tuberosity",
+     "accept": [
+      "ischial tuberosity of the ischium",
+      "sit bone"
+     ],
+     "function": "Bears weight when sitting; origin of the posterior thigh muscles",
+     "x": 270,
+     "y": 438,
+     "lx": 200,
+     "ly": 470
+    }
+   ]
+  },
+  {
+   "title": "Right mid-thigh cross-section, viewed from below (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"275\" rx=\"315\" ry=\"245\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<ellipse cx=\"400\" cy=\"275\" rx=\"290\" ry=\"222\" fill=\"#f6e4cf\" stroke=\"#b08968\" stroke-width=\"1.5\"/>\n<ellipse cx=\"270\" cy=\"230\" rx=\"88\" ry=\"105\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"400\" cy=\"208\" rx=\"82\" ry=\"52\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"520\" cy=\"175\" rx=\"62\" ry=\"58\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"400\" cy=\"112\" rx=\"55\" ry=\"42\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"600\" cy=\"250\" rx=\"38\" ry=\"30\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"520\" cy=\"290\" rx=\"50\" ry=\"36\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"660\" cy=\"330\" rx=\"26\" ry=\"38\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"520\" cy=\"385\" rx=\"80\" ry=\"48\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"490\" cy=\"465\" rx=\"50\" ry=\"34\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"585\" cy=\"448\" rx=\"32\" ry=\"26\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<ellipse cx=\"355\" cy=\"440\" rx=\"68\" ry=\"44\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2\"/>\n<circle cx=\"400\" cy=\"262\" r=\"40\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"400\" cy=\"262\" r=\"20\" fill=\"#f3e9d2\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/>\n<circle cx=\"432\" cy=\"388\" r=\"15\" fill=\"#eab308\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<g stroke=\"#a8a29e\" stroke-width=\"2.5\" fill=\"none\" stroke-dasharray=\"7 5\"><path d=\"M368 285 Q260 360 112 352\"/><path d=\"M438 250 Q520 238 568 222 Q620 200 670 190\"/><path d=\"M430 296 Q440 330 420 420 Q415 470 430 515\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"370\" y=\"20\">Anterior</text><text x=\"365\" y=\"548\">Posterior</text><text x=\"14\" y=\"280\">Lateral</text><text x=\"730\" y=\"280\">Medial</text></g>",
+   "labels": [
+    {
+     "name": "Rectus femoris",
+     "accept": [
+      "rectus femoris muscle",
+      "rectus"
+     ],
+     "function": "Extends the knee and, crossing the hip, assists hip flexion",
+     "x": 400,
+     "y": 108,
+     "lx": 400,
+     "ly": 50
+    },
+    {
+     "name": "Vastus intermedius",
+     "accept": [
+      "vastus intermedius muscle"
+     ],
+     "function": "Knee extensor lying directly on the front of the bone",
+     "x": 400,
+     "y": 175,
+     "lx": 260,
+     "ly": 90
+    },
+    {
+     "name": "Vastus lateralis",
+     "accept": [
+      "vastus lateralis muscle"
+     ],
+     "function": "Knee extensor wrapping the outer side of the thigh",
+     "x": 240,
+     "y": 230
+    },
+    {
+     "name": "Vastus medialis",
+     "accept": [
+      "vastus medialis muscle"
+     ],
+     "function": "Knee extensor on the inner front of the thigh",
+     "x": 535,
+     "y": 165,
+     "lx": 560,
+     "ly": 75
+    },
+    {
+     "name": "Sartorius",
+     "accept": [
+      "sartorius muscle"
+     ],
+     "function": "Flexes, abducts, laterally rotates the thigh and flexes the knee",
+     "x": 605,
+     "y": 250,
+     "lx": 690,
+     "ly": 190
+    },
+    {
+     "name": "Adductor longus",
+     "accept": [
+      "adductor longus muscle"
+     ],
+     "function": "Adducts the thigh and assists hip flexion",
+     "x": 515,
+     "y": 292
+    },
+    {
+     "name": "Gracilis",
+     "accept": [
+      "gracilis muscle"
+     ],
+     "function": "Adducts the thigh; crosses the knee to aid flexion, medial rotation",
+     "x": 664,
+     "y": 335,
+     "lx": 750,
+     "ly": 360
+    },
+    {
+     "name": "Adductor magnus",
+     "accept": [
+      "adductor magnus muscle"
+     ],
+     "function": "Two parts with dual innervation: one adducts, one extends",
+     "x": 545,
+     "y": 380
+    },
+    {
+     "name": "Semimembranosus",
+     "accept": [
+      "semimembranosus muscle"
+     ],
+     "function": "Deep medial hamstring; medially rotates the flexed leg",
+     "x": 490,
+     "y": 468
+    },
+    {
+     "name": "Semitendinosus",
+     "accept": [
+      "semitendinosus muscle"
+     ],
+     "function": "Superficial medial hamstring from the sitting bone",
+     "x": 590,
+     "y": 452,
+     "lx": 650,
+     "ly": 500
+    },
+    {
+     "name": "Biceps femoris",
+     "accept": [
+      "biceps femoris muscle",
+      "biceps"
+     ],
+     "function": "Laterally rotates the flexed leg; two heads, two nerve divisions",
+     "x": 335,
+     "y": 445,
+     "lx": 250,
+     "ly": 500
+    },
+    {
+     "name": "Sciatic nerve",
+     "accept": [
+      "sciatic"
+     ],
+     "function": "Supplies the posterior compartment through two divisions",
+     "x": 432,
+     "y": 388,
+     "lx": 350,
+     "ly": 360
+    }
+   ]
+  },
+  {
+   "title": "Right knee joint, anterior view: ligaments and menisci (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/>\n<path d=\"M355 20 L445 20 L452 130 Q520 165 525 230 Q520 268 470 270 Q430 270 424 238 L420 200 L380 200 L376 238 Q370 270 330 270 Q280 268 275 230 Q280 165 348 130 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M275 330 L525 330 Q530 370 490 390 L462 402 L462 560 L352 560 L352 402 L310 390 Q270 370 275 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M395 330 L400 316 L405 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<ellipse cx=\"410\" cy=\"428\" rx=\"26\" ry=\"18\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<ellipse cx=\"255\" cy=\"395\" rx=\"26\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"244\" y=\"408\" width=\"22\" height=\"152\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M282 316 Q330 304 384 314 L384 330 L282 330 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<path d=\"M416 314 Q470 304 520 316 L520 330 L416 330 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/>\n<line x1=\"384\" y1=\"330\" x2=\"420\" y2=\"206\" stroke=\"#78716c\" stroke-width=\"10\" stroke-linecap=\"round\"/>\n<line x1=\"420\" y1=\"330\" x2=\"382\" y2=\"212\" stroke=\"#f5f0e1\" stroke-width=\"14\" stroke-linecap=\"round\"/>\n<line x1=\"420\" y1=\"330\" x2=\"382\" y2=\"212\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M505 175 L532 180 L528 440 L500 438 Q516 330 505 175 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/>\n<path d=\"M285 180 Q262 290 252 380\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"12\" stroke-linecap=\"round\"/>\n<path d=\"M285 180 Q262 290 252 380\" fill=\"none\" stroke=\"#f5f0e1\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"20\" y=\"535\">Lateral</text><text x=\"710\" y=\"535\">Medial</text><text x=\"20\" y=\"30\">Right knee, anterior view, kneecap removed</text></g>",
+   "labels": [
+    {
+     "name": "Lateral condyle of femur",
+     "accept": [
+      "lateral femoral condyle",
+      "lateral condyle"
+     ],
+     "function": "Outer rounded articular surface of the distal thigh bone",
+     "x": 320,
+     "y": 235,
+     "lx": 200,
+     "ly": 150
+    },
+    {
+     "name": "Medial condyle of femur",
+     "accept": [
+      "medial femoral condyle",
+      "medial condyle"
+     ],
+     "function": "Inner rounded articular surface of the distal thigh bone",
+     "x": 475,
+     "y": 235,
+     "lx": 600,
+     "ly": 130
+    },
+    {
+     "name": "Anterior cruciate ligament",
+     "accept": [
+      "ACL",
+      "anterior cruciate"
+     ],
+     "function": "Stops the tibia sliding forward on the femur",
+     "x": 416,
+     "y": 316,
+     "lx": 330,
+     "ly": 430
+    },
+    {
+     "name": "Posterior cruciate ligament",
+     "accept": [
+      "PCL",
+      "posterior cruciate"
+     ],
+     "function": "Stops the tibia sliding backward on the femur",
+     "x": 413,
+     "y": 230,
+     "lx": 470,
+     "ly": 80
+    },
+    {
+     "name": "Medial collateral ligament",
+     "accept": [
+      "MCL",
+      "tibial collateral ligament"
+     ],
+     "function": "Resists valgus stress; attached to the inner pad of cartilage",
+     "x": 524,
+     "y": 300,
+     "lx": 640,
+     "ly": 300
+    },
+    {
+     "name": "Lateral collateral ligament",
+     "accept": [
+      "LCL",
+      "fibular collateral ligament"
+     ],
+     "function": "Resists varus stress, a force that drives the knee outward",
+     "x": 266,
+     "y": 290,
+     "lx": 160,
+     "ly": 290
+    },
+    {
+     "name": "Medial meniscus",
+     "accept": [
+      "medial menisci"
+     ],
+     "function": "Torn with its attached ligament and the forward-limiting cruciate",
+     "x": 470,
+     "y": 318,
+     "lx": 630,
+     "ly": 380
+    },
+    {
+     "name": "Lateral meniscus",
+     "accept": [
+      "lateral menisci"
+     ],
+     "function": "Outer pad: improves congruency and absorbs shock",
+     "x": 330,
+     "y": 318,
+     "lx": 170,
+     "ly": 370
+    },
+    {
+     "name": "Fibula",
+     "accept": [
+      "fibular head",
+      "head of fibula"
+     ],
+     "function": "Lies beside the knee but does not take part in the joint",
+     "x": 255,
+     "y": 480,
+     "lx": 160,
+     "ly": 470
+    },
+    {
+     "name": "Tibial tuberosity",
+     "accept": [
+      "tuberosity of tibia",
+      "tibial tubercle"
+     ],
+     "function": "Receives the ligament carrying quadriceps force from the kneecap",
+     "x": 410,
+     "y": 430,
+     "lx": 560,
+     "ly": 470
+    }
+   ]
+  }
+ ]
+}

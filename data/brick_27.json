@@ -1,0 +1,222 @@
+{
+ "brick": 27,
+ "title": "MSK: Osteomyelitis",
+ "diagrams": [
+  {
+   "title": "Osteomyelitis in a child's long bone, longitudinal section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M240 0 L560 0 L560 230 Q600 330 590 440 L210 440 Q200 330 240 230 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/>\n<path d=\"M330 0 L330 220 Q320 300 288 340 L512 340 Q480 300 470 220 L470 0 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M354 0 L354 222 Q348 290 318 334 L482 334 Q452 290 446 222 L446 0 Z\" fill=\"#f7e2a0\" stroke=\"#c9a54a\" stroke-width=\"2\"/>\n<g stroke=\"#c9a54a\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M330 300 L360 270 M345 320 L385 285 M400 320 L430 290 M455 318 L470 300\"/></g>\n<rect x=\"286\" y=\"340\" width=\"228\" height=\"12\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<path d=\"M290 352 L510 352 Q522 400 500 420 L300 420 Q278 400 290 352 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M300 420 L500 420 Q505 428 498 432 L302 432 Q295 428 300 420 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<path d=\"M286 405 Q270 445 286 475 M514 405 Q530 445 514 475\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/>\n<rect x=\"296\" y=\"433\" width=\"208\" height=\"20\" fill=\"#e0f2fe\" stroke=\"none\"/>\n<path d=\"M298 462 L502 462 L502 500 L298 500 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<rect x=\"298\" y=\"453\" width=\"204\" height=\"10\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<path d=\"M560 110 L470 130 Q448 140 448 200 L448 296\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\"/>\n<g fill=\"none\" stroke=\"#dc2626\" stroke-width=\"3\"><path d=\"M448 296 L430 300 L430 328 Q436 334 442 328 L442 306 L454 304 L454 328 Q460 334 466 328 L466 304 L448 296\"/></g>\n<g fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"><path d=\"M322 110 Q312 170 318 235\"/><path d=\"M313 115 Q302 175 308 240\"/><path d=\"M304 122 Q293 180 299 245\"/></g>\n<ellipse cx=\"362\" cy=\"285\" rx=\"40\" ry=\"44\" fill=\"#d9dc6a\" stroke=\"#7a7a1e\" stroke-width=\"3\"/>\n<polygon points=\"356,272 382,268 390,290 374,306 352,298\" fill=\"#a8977a\" stroke=\"#4a3a24\" stroke-width=\"2.5\"/>\n<g fill=\"#4c1d95\"><circle cx=\"340\" cy=\"262\" r=\"2.5\"/><circle cx=\"348\" cy=\"312\" r=\"2.5\"/><circle cx=\"385\" cy=\"318\" r=\"2.5\"/><circle cx=\"395\" cy=\"262\" r=\"2.5\"/><circle cx=\"335\" cy=\"290\" r=\"2.5\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"20\" y=\"28\">Proximal</text><text x=\"20\" y=\"490\">Distal</text><text x=\"790\" y=\"490\" text-anchor=\"end\" font-size=\"13\" fill=\"#6b4a14\">child long bone, longitudinal section</text></g>",
+   "labels": [
+    {
+     "name": "Metaphysis",
+     "accept": [
+      "metaphyseal region"
+     ],
+     "function": "Usual site of bloodstream seeding in children (femur, tibia)",
+     "x": 425,
+     "y": 250,
+     "lx": 650,
+     "ly": 245
+    },
+    {
+     "name": "Vascular loops",
+     "accept": [
+      "metaphyseal vascular loops",
+      "slow-flowing vascular loops",
+      "loops"
+     ],
+     "function": "Sluggish blood flow here lets circulating bacteria settle",
+     "x": 466,
+     "y": 318,
+     "lx": 650,
+     "ly": 330
+    },
+    {
+     "name": "Cortex",
+     "accept": [
+      "cortical bone",
+      "bone cortex",
+      "compact bone"
+     ],
+     "function": "Its destruction or loss is seen on x-ray and MRI",
+     "x": 458,
+     "y": 50,
+     "lx": 650,
+     "ly": 50
+    },
+    {
+     "name": "Bone marrow",
+     "accept": [
+      "marrow",
+      "marrow cavity",
+      "medullary cavity"
+     ],
+     "function": "Edema here is an MRI sign before x-ray changes appear",
+     "x": 400,
+     "y": 120,
+     "lx": 650,
+     "ly": 150
+    },
+    {
+     "name": "Joint space",
+     "accept": [
+      "joint",
+      "joint cavity",
+      "synovial joint"
+     ],
+     "function": "Contiguous spread here causes septic arthritis",
+     "x": 400,
+     "y": 443,
+     "lx": 650,
+     "ly": 420
+    },
+    {
+     "name": "Periosteal reaction",
+     "accept": [
+      "periosteal new bone",
+      "periostitis"
+     ],
+     "function": "Plain-film sign that appears once bone destruction starts",
+     "x": 304,
+     "y": 170,
+     "lx": 140,
+     "ly": 150
+    },
+    {
+     "name": "Abscess",
+     "accept": [
+      "intraosseous abscess",
+      "bone abscess",
+      "pus"
+     ],
+     "function": "Pus collection that impinges on vessels supplying bone",
+     "x": 345,
+     "y": 252,
+     "lx": 140,
+     "ly": 245
+    },
+    {
+     "name": "Sequestrum",
+     "accept": [
+      "sequestra",
+      "necrotic bone",
+      "dead bone"
+     ],
+     "function": "Necrotic fragment poorly penetrated by antibiotics",
+     "x": 372,
+     "y": 288,
+     "lx": 140,
+     "ly": 330
+    }
+   ]
+  },
+  {
+   "title": "Routes of infection in osteomyelitis (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M120 90 C120 55 170 55 170 90 C170 55 220 55 220 90 C220 130 170 160 170 185 C170 160 120 130 120 90 Z\" fill=\"#f4a3a3\" stroke=\"#991b1b\" stroke-width=\"3\"/>\n<path d=\"M150 112 L190 112\" stroke=\"#991b1b\" stroke-width=\"3\"/>\n<g fill=\"#7c2d12\" stroke=\"#fff\" stroke-width=\"1\"><circle cx=\"164\" cy=\"108\" r=\"5\"/><circle cx=\"172\" cy=\"104\" r=\"6\"/><circle cx=\"180\" cy=\"109\" r=\"4.5\"/></g>\n<path d=\"M170 185 Q180 250 260 240 Q330 232 358 216\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\"/>\n<polygon points=\"354,206 374,214 358,226\" fill=\"#dc2626\"/>\n<g fill=\"#4c1d95\"><circle cx=\"190\" cy=\"232\" r=\"3\"/><circle cx=\"230\" cy=\"244\" r=\"3\"/><circle cx=\"280\" cy=\"236\" r=\"3\"/><circle cx=\"320\" cy=\"226\" r=\"3\"/></g>\n<rect x=\"372\" y=\"60\" width=\"90\" height=\"70\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M462 78 L500 72 L500 118 L462 112 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"372\" y=\"150\" width=\"90\" height=\"70\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M462 168 L500 162 L500 208 L462 202 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"372\" y=\"240\" width=\"90\" height=\"70\" rx=\"8\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M462 258 L500 252 L500 298 L462 292 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"376\" y=\"131\" width=\"82\" height=\"18\" rx=\"6\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<rect x=\"376\" y=\"221\" width=\"82\" height=\"18\" rx=\"6\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<path d=\"M380 160 Q400 175 392 200 Q405 210 420 196\" fill=\"none\" stroke=\"#7a7a1e\" stroke-width=\"3\"/>\n<ellipse cx=\"400\" cy=\"185\" rx=\"18\" ry=\"16\" fill=\"#d9dc6a\" opacity=\"0.85\"/>\n<ellipse cx=\"352\" cy=\"160\" rx=\"16\" ry=\"30\" fill=\"#d9dc6a\" stroke=\"#7a7a1e\" stroke-width=\"3\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"372\" y=\"48\">Anterior</text><text x=\"470\" y=\"48\">Posterior</text></g>\n<path d=\"M60 470 L60 380 Q70 340 120 340 L250 360 Q330 375 400 420 Q430 440 420 470 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"3\"/>\n<path d=\"M150 380 L330 398 Q352 402 350 416 Q346 430 326 426 L148 405 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M80 392 Q90 372 140 382 L140 412 Q95 424 80 410 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M298 470 Q318 448 340 470 Z\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"2\"/>\n<path d=\"M320 460 L326 452\" stroke=\"none\"/>\n<path d=\"M319 456 L321 440\" fill=\"none\" stroke=\"#7a7a1e\" stroke-width=\"4\"/>\n<polygon points=\"313,442 322,428 329,443\" fill=\"#7a7a1e\"/>\n<g fill=\"#4c1d95\"><circle cx=\"310\" cy=\"465\" r=\"2.5\"/><circle cx=\"330\" cy=\"465\" r=\"2.5\"/><circle cx=\"334\" cy=\"432\" r=\"2.5\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"40\" y=\"335\">Heel</text><text x=\"390\" y=\"400\">Toes</text><text x=\"200\" y=\"492\">Plantar surface</text></g>\n<path d=\"M560 60 Q640 40 720 70 L740 170 Q700 200 660 190 Q630 230 600 200 L560 160 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M610 250 Q640 200 680 205 L700 240 L700 470 L640 470 L640 280 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<circle cx=\"660\" cy=\"190\" r=\"30\" fill=\"#cbd5e1\" stroke=\"#475569\" stroke-width=\"3\"/>\n<path d=\"M660 205 L672 250 L668 420 L656 420 L650 255 Z\" fill=\"#cbd5e1\" stroke=\"#475569\" stroke-width=\"3\"/>\n<path d=\"M780 300 L702 330\" stroke=\"#3b1d0a\" stroke-width=\"5\"/>\n<polygon points=\"706,322 692,334 710,338\" fill=\"#3b1d0a\"/>\n<g fill=\"#4c1d95\"><circle cx=\"684\" cy=\"335\" r=\"3\"/><circle cx=\"676\" cy=\"350\" r=\"3\"/><circle cx=\"688\" cy=\"358\" r=\"3\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"720\" y=\"470\">Femur</text><text x=\"742\" y=\"88\">Pelvis</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\" fill=\"#6b4a14\"><text x=\"20\" y=\"20\">purple dots = bacteria</text></g>",
+   "labels": [
+    {
+     "name": "Endocarditis",
+     "accept": [
+      "infective endocarditis",
+      "valve vegetation",
+      "vegetation"
+     ],
+     "function": "Heart-valve source of bacteremia that can seed distant bone",
+     "x": 172,
+     "y": 104,
+     "lx": 60,
+     "ly": 150
+    },
+    {
+     "name": "Hematogenous spread",
+     "accept": [
+      "hematogenous",
+      "hematogenous seeding",
+      "bloodstream spread"
+     ],
+     "function": "Most common route in infants and children",
+     "x": 260,
+     "y": 240,
+     "lx": 250,
+     "ly": 290
+    },
+    {
+     "name": "Vertebral body",
+     "accept": [
+      "vertebra",
+      "vertebrae",
+      "vertebral bodies"
+     ],
+     "function": "Most common adult site of blood-borne bone infection",
+     "x": 430,
+     "y": 185,
+     "lx": 540,
+     "ly": 260
+    },
+    {
+     "name": "Paraspinal abscess",
+     "accept": [
+      "paravertebral abscess",
+      "psoas abscess"
+     ],
+     "function": "Pus collection seen on MRI in Pott disease",
+     "x": 350,
+     "y": 150,
+     "lx": 290,
+     "ly": 110
+    },
+    {
+     "name": "Diabetic foot ulcer",
+     "accept": [
+      "foot ulcer",
+      "ulcer",
+      "plantar ulcer"
+     ],
+     "function": "Painless portal of entry over a bony prominence",
+     "x": 318,
+     "y": 466,
+     "lx": 450,
+     "ly": 480
+    },
+    {
+     "name": "Contiguous spread",
+     "accept": [
+      "contiguous"
+     ],
+     "function": "Route from adjacent soft-tissue infection into bone",
+     "x": 320,
+     "y": 445,
+     "lx": 230,
+     "ly": 450
+    },
+    {
+     "name": "Prosthetic joint",
+     "accept": [
+      "hip prosthesis",
+      "joint replacement",
+      "prosthesis",
+      "implant"
+     ],
+     "function": "Hardware that raises adjacent infection risk (S. epidermidis)",
+     "x": 660,
+     "y": 300,
+     "lx": 560,
+     "ly": 330
+    },
+    {
+     "name": "Direct inoculation",
+     "accept": [
+      "inoculation",
+      "direct implantation"
+     ],
+     "function": "Organisms introduced at a surgical or deep wound site",
+     "x": 740,
+     "y": 315,
+     "lx": 750,
+     "ly": 250
+    }
+   ]
+  }
+ ]
+}

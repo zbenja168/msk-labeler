@@ -1,0 +1,293 @@
+{
+ "brick": 31,
+ "title": "Lower Extremity Injury - Part 2 of 2",
+ "diagrams": [
+  {
+   "title": "Right proximal femur, anterior view: blood supply of the femoral head (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><path d=\"M430 40 Q540 20 600 90 Q640 150 610 215\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"30\" stroke-linecap=\"round\"/><path d=\"M430 40 Q540 20 600 90 Q640 150 610 215\" fill=\"none\" stroke=\"#e8dcc4\" stroke-width=\"24\" stroke-linecap=\"round\"/><path d=\"M220 170 Q250 140 300 160 L340 210 L440 150 L470 205 L372 270 L392 300 L380 520 L290 520 L278 300 Q220 260 220 170 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"490\" cy=\"140\" r=\"62\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"392\" cy=\"318\" rx=\"20\" ry=\"16\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M536 128 L590 112 L596 134 L540 150 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><path d=\"M596 118 L540 138\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M596 118 L540 138\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M736 0 L796 0 Q730 310 404 332 L394 306 Q680 270 736 0 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/><path d=\"M430 520 L430 360\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"11\" stroke-linecap=\"round\"/><path d=\"M430 520 L430 360\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M430 372 Q470 330 382 266\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M430 372 Q470 330 382 266\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M372 250 L446 196 M380 260 L460 206\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M372 250 L446 196 M380 260 L460 206\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M430 392 Q330 380 250 330 Q228 300 236 236\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M430 392 Q330 380 250 330 Q228 300 236 236\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-linecap=\"round\"/>",
+   "labels": [
+    {
+     "name": "Femoral head",
+     "accept": [
+      "head of femur",
+      "head of the femur"
+     ],
+     "function": "Collapses in AVN after fracture or dislocation",
+     "x": 470,
+     "y": 110,
+     "lx": 400,
+     "ly": 40
+    },
+    {
+     "name": "Femoral neck",
+     "accept": [
+      "neck of femur",
+      "neck of the femur"
+     ],
+     "function": "Common fragility fracture site after a low-energy fall",
+     "x": 400,
+     "y": 190,
+     "lx": 220,
+     "ly": 90
+    },
+    {
+     "name": "Medial circumflex femoral artery",
+     "accept": [
+      "MCFA",
+      "medial circumflex",
+      "medial femoral circumflex artery"
+     ],
+     "function": "Dominant adult supply to the head, about 85%",
+     "x": 454,
+     "y": 330,
+     "lx": 600,
+     "ly": 440
+    },
+    {
+     "name": "Retinacular arteries",
+     "accept": [
+      "retinacular artery",
+      "retinacular vessels"
+     ],
+     "function": "Run up the neck to the head; torn by displaced fractures",
+     "x": 420,
+     "y": 231,
+     "lx": 600,
+     "ly": 380
+    },
+    {
+     "name": "Lateral circumflex femoral artery",
+     "accept": [
+      "LCFA",
+      "lateral circumflex",
+      "lateral femoral circumflex artery"
+     ],
+     "function": "Provides about 15% of the head's blood supply",
+     "x": 268,
+     "y": 355,
+     "lx": 120,
+     "ly": 400
+    },
+    {
+     "name": "Artery of the ligamentum teres",
+     "accept": [
+      "foveolar artery",
+      "artery of ligamentum teres",
+      "ligamentum teres artery"
+     ],
+     "function": "Main head supply in children; trivial in adults",
+     "x": 568,
+     "y": 128,
+     "lx": 700,
+     "ly": 150
+    },
+    {
+     "name": "Iliopsoas",
+     "accept": [
+      "iliopsoas muscle",
+      "psoas"
+     ],
+     "function": "Pulls a fractured femur up and into external rotation",
+     "x": 740,
+     "y": 120,
+     "lx": 650,
+     "ly": 40
+    }
+   ]
+  },
+  {
+   "title": "Right leg and ankle (anterior view, left) and right foot skeleton (dorsal view, right): fracture and injury sites",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><path d=\"M185 20 L265 20 L258 320 L282 350 L288 410 L264 414 L252 380 L192 376 L198 320 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M118 20 L144 20 L150 330 Q160 362 152 432 L126 432 L118 362 L124 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M156 380 Q206 366 254 382 L258 412 Q250 452 208 456 Q166 452 156 412 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M262 410 L288 412 L300 470 L234 466 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"2.5\"/><path d=\"M262 60 L258 300\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"3\" stroke-dasharray=\"6 5\"/><line x1=\"390\" y1=\"20\" x2=\"390\" y2=\"500\" stroke=\"#d6cdb8\" stroke-width=\"2\"/><ellipse cx=\"600\" cy=\"470\" rx=\"46\" ry=\"38\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"592\" cy=\"404\" rx=\"40\" ry=\"28\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"556\" cy=\"352\" rx=\"30\" ry=\"20\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M612 330 L668 336 L664 382 L618 384 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"512\" y=\"290\" width=\"30\" height=\"36\" rx=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"546\" y=\"290\" width=\"30\" height=\"36\" rx=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"578\" y=\"290\" width=\"30\" height=\"36\" rx=\"5\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><line x1=\"527\" y1=\"286\" x2=\"518\" y2=\"140\" stroke=\"#7c6a4f\" stroke-width=\"32\" stroke-linecap=\"round\"/><line x1=\"527\" y1=\"286\" x2=\"518\" y2=\"140\" stroke=\"#e8dcc4\" stroke-width=\"26\" stroke-linecap=\"round\"/><line x1=\"518\" y1=\"124\" x2=\"517\" y2=\"78\" stroke=\"#7c6a4f\" stroke-width=\"26\" stroke-linecap=\"round\"/><line x1=\"518\" y1=\"124\" x2=\"517\" y2=\"78\" stroke=\"#e8dcc4\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"560\" y1=\"286\" x2=\"560\" y2=\"130\" stroke=\"#7c6a4f\" stroke-width=\"24\" stroke-linecap=\"round\"/><line x1=\"560\" y1=\"286\" x2=\"560\" y2=\"130\" stroke=\"#e8dcc4\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"560\" y1=\"114\" x2=\"560\" y2=\"68\" stroke=\"#7c6a4f\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"560\" y1=\"114\" x2=\"560\" y2=\"68\" stroke=\"#e8dcc4\" stroke-width=\"12\" stroke-linecap=\"round\"/><line x1=\"592\" y1=\"288\" x2=\"598\" y2=\"136\" stroke=\"#7c6a4f\" stroke-width=\"23\" stroke-linecap=\"round\"/><line x1=\"592\" y1=\"288\" x2=\"598\" y2=\"136\" stroke=\"#e8dcc4\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"598\" y1=\"120\" x2=\"598\" y2=\"74\" stroke=\"#7c6a4f\" stroke-width=\"17\" stroke-linecap=\"round\"/><line x1=\"598\" y1=\"120\" x2=\"598\" y2=\"74\" stroke=\"#e8dcc4\" stroke-width=\"11\" stroke-linecap=\"round\"/><line x1=\"628\" y1=\"330\" x2=\"634\" y2=\"150\" stroke=\"#7c6a4f\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"628\" y1=\"330\" x2=\"634\" y2=\"150\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"634\" y1=\"134\" x2=\"634\" y2=\"88\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"634\" y1=\"134\" x2=\"634\" y2=\"88\" stroke=\"#e8dcc4\" stroke-width=\"10\" stroke-linecap=\"round\"/><line x1=\"660\" y1=\"334\" x2=\"676\" y2=\"172\" stroke=\"#7c6a4f\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"660\" y1=\"334\" x2=\"676\" y2=\"172\" stroke=\"#e8dcc4\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"676\" y1=\"156\" x2=\"677\" y2=\"110\" stroke=\"#7c6a4f\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"676\" y1=\"156\" x2=\"677\" y2=\"110\" stroke=\"#e8dcc4\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M504 286 L548 284 L580 287 L612 300 L626 322 L672 328\" fill=\"none\" stroke=\"#3b1d0a\" stroke-width=\"3\" stroke-dasharray=\"5 4\"/>",
+   "labels": [
+    {
+     "name": "Lateral malleolus",
+     "accept": [
+      "distal fibula"
+     ],
+     "function": "Fractured by inversion injuries",
+     "x": 138,
+     "y": 410,
+     "lx": 60,
+     "ly": 370
+    },
+    {
+     "name": "Medial malleolus",
+     "accept": [
+      "distal tibia"
+     ],
+     "function": "Pulled off transversely by an intact ligament in eversion",
+     "x": 276,
+     "y": 392,
+     "lx": 340,
+     "ly": 330
+    },
+    {
+     "name": "Deltoid ligament",
+     "accept": [
+      "deltoid"
+     ],
+     "function": "Strong medial fan that can avulse a fragment of bone",
+     "x": 268,
+     "y": 450,
+     "lx": 340,
+     "ly": 480
+    },
+    {
+     "name": "Talus",
+     "accept": [
+      "talus bone"
+     ],
+     "function": "Sits in the socket seen on mortise-view radiographs",
+     "x": 206,
+     "y": 420,
+     "lx": 120,
+     "ly": 490
+    },
+    {
+     "name": "Medial tibial border",
+     "accept": [
+      "medial border of the tibia",
+      "medial tibia"
+     ],
+     "function": "Diffuse tenderness along it in shin splints",
+     "x": 260,
+     "y": 180,
+     "lx": 340,
+     "ly": 150
+    },
+    {
+     "name": "Calcaneus",
+     "accept": [
+      "calcaneal bone",
+      "heel bone"
+     ],
+     "function": "Fall onto the heels; look for a thoracolumbar fracture",
+     "x": 600,
+     "y": 478,
+     "lx": 730,
+     "ly": 470
+    },
+    {
+     "name": "Tarsometatarsal joint",
+     "accept": [
+      "Lisfranc joint",
+      "tarsometatarsal joints",
+      "TMT joint"
+     ],
+     "function": "Fracture-dislocation here from axial load on a pointed foot",
+     "x": 548,
+     "y": 285,
+     "lx": 450,
+     "ly": 250
+    },
+    {
+     "name": "Proximal fifth metatarsal",
+     "accept": [
+      "fifth metatarsal",
+      "5th metatarsal",
+      "Jones fracture site",
+      "base of fifth metatarsal"
+     ],
+     "function": "Watershed junction; fractures here heal poorly (nonunion)",
+     "x": 662,
+     "y": 305,
+     "lx": 740,
+     "ly": 260
+    }
+   ]
+  },
+  {
+   "title": "Right lower limb, side view: pulses at risk and amputation levels (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/><path d=\"M300 10 L440 10 Q450 140 432 250 Q440 300 420 340 L398 480 Q420 500 560 506 Q584 512 580 534 L330 536 Q314 520 330 480 L322 340 Q300 300 312 250 Q290 140 300 10 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"3\"/><path d=\"M352 10 L392 10 L388 250 Q396 268 384 278 L348 278 Q340 266 350 250 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M346 292 L390 292 Q398 300 384 316 L376 470 L352 470 L350 316 Q338 302 346 292 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M344 285 L392 285\" stroke=\"#3b82f6\" stroke-width=\"6\"/><path d=\"M330 10 Q326 150 334 250 Q338 290 344 330\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"11\" stroke-linecap=\"round\"/><path d=\"M330 10 Q326 150 334 250 Q338 290 344 330\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M344 330 Q350 420 352 480 Q356 500 370 512\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M344 330 Q350 420 352 480 Q356 500 370 512\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M344 330 Q380 340 396 380 L400 470 Q440 488 520 500\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M344 330 Q380 340 396 380 L400 470 Q440 488 520 500\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\"/><line x1=\"290\" y1=\"150\" x2=\"450\" y2=\"150\" stroke=\"#3b1d0a\" stroke-width=\"3\" stroke-dasharray=\"10 6\"/><line x1=\"300\" y1=\"380\" x2=\"440\" y2=\"380\" stroke=\"#3b1d0a\" stroke-width=\"3\" stroke-dasharray=\"10 6\"/><line x1=\"486\" y1=\"482\" x2=\"482\" y2=\"542\" stroke=\"#3b1d0a\" stroke-width=\"3\" stroke-dasharray=\"8 5\"/>",
+   "labels": [
+    {
+     "name": "Popliteal artery",
+     "accept": [
+      "popliteal"
+     ],
+     "function": "Tethered above and below; torn in knee dislocation",
+     "x": 337,
+     "y": 280,
+     "lx": 180,
+     "ly": 280
+    },
+    {
+     "name": "Dorsalis pedis artery",
+     "accept": [
+      "dorsalis pedis",
+      "dorsalis pedis pulse"
+     ],
+     "function": "Pulse on the top of the foot; check after any dislocation",
+     "x": 470,
+     "y": 494,
+     "lx": 640,
+     "ly": 440
+    },
+    {
+     "name": "Posterior tibial artery",
+     "accept": [
+      "posterior tibial",
+      "posterior tibial pulse"
+     ],
+     "function": "Ankle pulse that is absent in acute limb ischemia",
+     "x": 352,
+     "y": 440,
+     "lx": 200,
+     "ly": 450
+    },
+    {
+     "name": "Knee joint",
+     "accept": [
+      "knee"
+     ],
+     "function": "Keeping it retains active flexion and extension",
+     "x": 368,
+     "y": 285,
+     "lx": 560,
+     "ly": 285
+    },
+    {
+     "name": "Above-knee amputation level",
+     "accept": [
+      "above-knee amputation",
+      "AKA",
+      "transfemoral amputation"
+     ],
+     "function": "Prosthetic gait needs substantially more energy",
+     "x": 445,
+     "y": 150,
+     "lx": 580,
+     "ly": 120
+    },
+    {
+     "name": "Below-knee amputation level",
+     "accept": [
+      "below-knee amputation",
+      "BKA",
+      "transtibial amputation"
+     ],
+     "function": "Prosthetic gait needs a moderate increase in energy",
+     "x": 436,
+     "y": 380,
+     "lx": 580,
+     "ly": 370
+    },
+    {
+     "name": "Transmetatarsal amputation level",
+     "accept": [
+      "transmetatarsal amputation",
+      "transmetatarsal"
+     ],
+     "function": "Relatively minor effect on walking energy",
+     "x": 484,
+     "y": 530,
+     "lx": 640,
+     "ly": 530
+    }
+   ]
+  }
+ ]
+}

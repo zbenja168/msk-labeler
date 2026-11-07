@@ -1,0 +1,350 @@
+{
+ "brick": 24,
+ "title": "Vasculature and Lymphatics of the Lower Extremities",
+ "diagrams": [
+  {
+   "title": "Arteries of the right lower limb, anterior view (schematic)",
+   "viewBox": "0 0 600 900",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"600\" height=\"900\" fill=\"#f8f5ee\"/>\n<path d=\"M100 0 L500 0 L500 210 Q420 250 345 300 L305 560 Q320 610 314 650 L314 795 Q340 850 330 895 L172 895 Q158 850 178 795 L165 650 Q140 610 150 560 L120 320 Q95 240 100 0 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M115 150 Q170 130 225 165 L240 250 Q205 265 160 260 Q120 240 115 150 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M225 165 Q300 200 330 290 L300 310 Q270 280 240 270 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"242\" cy=\"305\" r=\"22\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M240 300 L180 312 L168 335 L185 345 L225 600 L262 598 L240 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M200 600 Q195 640 225 642 L270 642 Q290 630 278 598 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"222\" y=\"655\" width=\"48\" height=\"160\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"186\" y=\"662\" width=\"16\" height=\"148\" rx=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"276\" cy=\"815\" r=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M122 238 Q230 270 318 318\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/>\n<path d=\"M330 0 L330 100\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"11\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M330 100 L400 168\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M330 100 L250 175\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M250 175 Q270 205 285 240 M285 240 L255 268 M285 240 L300 278 M285 240 L322 258\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M250 175 L234 282\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M229 330 Q262 352 292 340\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M234 282 Q236 420 262 570\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M234 318 Q205 360 200 410 Q195 470 197 525\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M206 350 Q170 340 140 372\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M199 425 L174 430 M197 475 L172 480\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M262 570 L258 690\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M266 712 Q215 735 200 765 L198 805\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"9 5\"/><path d=\"M258 690 Q232 700 229 720 L230 810 Q234 845 250 885\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M258 690 Q278 720 282 760 L288 818\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"345\" y=\"108\">L4</text><text x=\"20\" y=\"890\">Lateral</text><text x=\"525\" y=\"890\">Medial</text></g>",
+   "labels": [
+    {
+     "name": "Common iliac artery",
+     "accept": [
+      "common iliac"
+     ],
+     "function": "Arises at the L4 bifurcation; splits into pelvic and limb branches",
+     "x": 290,
+     "y": 138,
+     "lx": 430,
+     "ly": 115
+    },
+    {
+     "name": "Internal iliac artery",
+     "accept": [
+      "internal iliac",
+      "hypogastric artery"
+     ],
+     "function": "Supplies the pelvis, gluteal region and medial thigh",
+     "x": 272,
+     "y": 214,
+     "lx": 430,
+     "ly": 195
+    },
+    {
+     "name": "External iliac artery",
+     "accept": [
+      "external iliac"
+     ],
+     "function": "Takes a new name after passing beneath the inguinal ligament",
+     "x": 241,
+     "y": 232,
+     "lx": 70,
+     "ly": 185
+    },
+    {
+     "name": "Femoral artery",
+     "accept": [
+      "femoral",
+      "common femoral artery"
+     ],
+     "function": "Groin pulse and catheter site; pressed against the hip's ball",
+     "x": 240,
+     "y": 430,
+     "lx": 430,
+     "ly": 420
+    },
+    {
+     "name": "Deep femoral artery",
+     "accept": [
+      "profunda femoris",
+      "deep femoral",
+      "profunda femoris artery"
+     ],
+     "function": "Largest thigh branch; its perforators feed the posterior thigh",
+     "x": 197,
+     "y": 480,
+     "lx": 60,
+     "ly": 470
+    },
+    {
+     "name": "Lateral circumflex femoral artery",
+     "accept": [
+      "lateral circumflex femoral",
+      "lateral circumflex"
+     ],
+     "function": "Minor supply to the head of the thigh bone; joins hip anastomoses",
+     "x": 172,
+     "y": 350,
+     "lx": 60,
+     "ly": 330
+    },
+    {
+     "name": "Medial circumflex femoral artery",
+     "accept": [
+      "medial circumflex femoral",
+      "medial circumflex"
+     ],
+     "function": "Principal supply to the head and neck of the thigh bone",
+     "x": 285,
+     "y": 343,
+     "lx": 430,
+     "ly": 310
+    },
+    {
+     "name": "Popliteal artery",
+     "accept": [
+      "popliteal"
+     ],
+     "function": "Fixed deep behind the knee; at risk in knee dislocation",
+     "x": 260,
+     "y": 630,
+     "lx": 430,
+     "ly": 620
+    },
+    {
+     "name": "Anterior tibial artery",
+     "accept": [
+      "anterior tibial"
+     ],
+     "function": "Pierces the interosseous membrane to supply the dorsiflexors",
+     "x": 229,
+     "y": 755,
+     "lx": 60,
+     "ly": 720
+    },
+    {
+     "name": "Fibular artery",
+     "accept": [
+      "peroneal artery",
+      "fibular",
+      "peroneal"
+     ],
+     "function": "Supplies the lateral compartment of the leg",
+     "x": 198,
+     "y": 795,
+     "lx": 60,
+     "ly": 790
+    },
+    {
+     "name": "Posterior tibial artery",
+     "accept": [
+      "posterior tibial"
+     ],
+     "function": "Pulse behind the medial malleolus; supplies the plantarflexors",
+     "x": 285,
+     "y": 785,
+     "lx": 430,
+     "ly": 770
+    },
+    {
+     "name": "Dorsalis pedis artery",
+     "accept": [
+      "dorsalis pedis",
+      "dorsal pedal artery",
+      "DP"
+     ],
+     "function": "Pulse on top of the foot; weak in peripheral arterial disease",
+     "x": 240,
+     "y": 862,
+     "lx": 430,
+     "ly": 860
+    }
+   ]
+  },
+  {
+   "title": "Deep and superficial veins of the right lower limb, anterior view (schematic)",
+   "viewBox": "0 0 600 900",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"600\" height=\"900\" fill=\"#f8f5ee\"/>\n<path d=\"M100 0 L500 0 L500 210 Q420 250 345 300 L305 560 Q320 610 314 650 L314 795 Q340 850 330 895 L172 895 Q158 850 178 795 L165 650 Q140 610 150 560 L120 320 Q95 240 100 0 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M115 150 Q170 130 225 165 L240 250 Q205 265 160 260 Q120 240 115 150 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M225 165 Q300 200 330 290 L300 310 Q270 280 240 270 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"242\" cy=\"305\" r=\"22\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M240 300 L180 312 L168 335 L185 345 L225 600 L262 598 L240 330 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M200 600 Q195 640 225 642 L270 642 Q290 630 278 598 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"222\" y=\"655\" width=\"48\" height=\"160\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<rect x=\"186\" y=\"662\" width=\"16\" height=\"148\" rx=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<circle cx=\"276\" cy=\"815\" r=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/>\n<path d=\"M122 238 Q230 270 318 318\" fill=\"none\" stroke=\"#a8a29e\" stroke-width=\"4\"/>\n<path d=\"M300 0 L300 100\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"13\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M300 100 L360 165\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M300 100 L240 180\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M240 180 L272 235\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M240 180 L246 282\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M246 282 Q252 430 272 570\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M272 570 L266 690\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M266 690 Q238 698 224 718 L226 812 M266 690 Q246 704 236 724 L238 812\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M266 690 Q280 716 280 756 L284 818 M266 690 Q290 706 291 750 L293 812\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M280 870 Q312 845 306 790 L306 650 Q322 600 306 520 Q300 420 278 340 Q265 310 250 300\" fill=\"none\" stroke=\"#60a5fa\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"20\" y=\"890\">Lateral</text><text x=\"525\" y=\"890\">Medial</text></g>",
+   "labels": [
+    {
+     "name": "Inferior vena cava",
+     "accept": [
+      "IVC",
+      "inferior vena cava vein",
+      "vena cava"
+     ],
+     "function": "Final channel returning lower-limb blood to the heart",
+     "x": 300,
+     "y": 50,
+     "lx": 430,
+     "ly": 50
+    },
+    {
+     "name": "Common iliac vein",
+     "accept": [
+      "common iliac"
+     ],
+     "function": "Last paired deep vein before the caval trunk",
+     "x": 270,
+     "y": 140,
+     "lx": 430,
+     "ly": 140
+    },
+    {
+     "name": "External iliac vein",
+     "accept": [
+      "external iliac"
+     ],
+     "function": "Continues the thigh's deep vein above the inguinal ligament",
+     "x": 243,
+     "y": 232,
+     "lx": 70,
+     "ly": 215
+    },
+    {
+     "name": "Femoral vein",
+     "accept": [
+      "femoral"
+     ],
+     "function": "Receives the main superficial vein just below the ligament",
+     "x": 256,
+     "y": 430,
+     "lx": 70,
+     "ly": 430
+    },
+    {
+     "name": "Great saphenous vein",
+     "accept": [
+      "great saphenous",
+      "long saphenous vein",
+      "GSV"
+     ],
+     "function": "Starts at the medial foot; varicose when its valves fail",
+     "x": 303,
+     "y": 480,
+     "lx": 430,
+     "ly": 480
+    },
+    {
+     "name": "Popliteal vein",
+     "accept": [
+      "popliteal"
+     ],
+     "function": "Deep vein behind the knee; a clot here can embolize to the lungs",
+     "x": 269,
+     "y": 630,
+     "lx": 70,
+     "ly": 620
+    },
+    {
+     "name": "Anterior tibial veins",
+     "accept": [
+      "anterior tibial vein",
+      "anterior tibial"
+     ],
+     "function": "Paired deep veins of the dorsiflexor compartment",
+     "x": 225,
+     "y": 770,
+     "lx": 70,
+     "ly": 760
+    },
+    {
+     "name": "Posterior tibial veins",
+     "accept": [
+      "posterior tibial vein",
+      "posterior tibial"
+     ],
+     "function": "Paired calf veins squeezed by the skeletal muscle pump",
+     "x": 287,
+     "y": 785,
+     "lx": 430,
+     "ly": 760
+    }
+   ]
+  },
+  {
+   "title": "Lymphatic drainage of the lower limbs to the venous circulation (schematic)",
+   "viewBox": "0 0 600 900",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"600\" height=\"900\" fill=\"#f8f5ee\"/>\n<circle cx=\"300\" cy=\"62\" r=\"42\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<rect x=\"278\" y=\"96\" width=\"44\" height=\"40\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M165 140 Q300 118 435 140 L440 520 Q300 545 160 520 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M160 515 L180 880 L280 880 L292 540 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M440 515 L420 880 L320 880 L308 540 Z\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2.5\"/>\n<path d=\"M185 150 Q240 140 290 150 M310 150 Q360 140 415 150\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M342 96 L342 168\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M342 168 Q390 172 440 182\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M258 96 L258 168 Q235 172 165 182\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M240 860 Q235 780 240 705 Q235 620 236 560 Q250 520 268 470 Q285 440 296 425\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3.5\"/>\n<path d=\"M360 860 Q365 780 360 705 Q365 620 364 560 Q350 520 332 470 Q315 440 304 425\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3.5\"/>\n<path d=\"M300 392 Q296 330 304 270 Q312 200 330 175 L342 170\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"5\"/>\n<ellipse cx=\"300\" cy=\"410\" rx=\"13\" ry=\"24\" fill=\"#86efac\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<g fill=\"#86efac\" stroke=\"#16a34a\" stroke-width=\"2.5\"><circle cx=\"222\" cy=\"548\" r=\"8\"/><circle cx=\"240\" cy=\"556\" r=\"8\"/><circle cx=\"258\" cy=\"548\" r=\"8\"/><circle cx=\"342\" cy=\"548\" r=\"8\"/><circle cx=\"360\" cy=\"556\" r=\"8\"/><circle cx=\"378\" cy=\"548\" r=\"8\"/><circle cx=\"236\" cy=\"700\" r=\"7\"/><circle cx=\"250\" cy=\"712\" r=\"7\"/><circle cx=\"350\" cy=\"712\" r=\"7\"/><circle cx=\"364\" cy=\"700\" r=\"7\"/><circle cx=\"392\" cy=\"138\" r=\"9\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\"><text x=\"20\" y=\"890\">Right</text><text x=\"540\" y=\"890\">Left</text><text x=\"20\" y=\"30\">Anterior view</text></g>",
+   "labels": [
+    {
+     "name": "Popliteal nodes",
+     "accept": [
+      "popliteal lymph nodes",
+      "popliteal node"
+     ],
+     "function": "Palpable nodes behind the knee checked in the leg exam",
+     "x": 243,
+     "y": 706,
+     "lx": 80,
+     "ly": 700
+    },
+    {
+     "name": "Superficial inguinal nodes",
+     "accept": [
+      "superficial inguinal lymph nodes",
+      "inguinal nodes",
+      "inguinal lymph nodes"
+     ],
+     "function": "Palpable groin nodes checked for infection or malignancy",
+     "x": 222,
+     "y": 548,
+     "lx": 80,
+     "ly": 560
+    },
+    {
+     "name": "Lumbar lymphatic trunks",
+     "accept": [
+      "lumbar trunks",
+      "lumbar trunk",
+      "lumbar lymphatic trunk"
+     ],
+     "function": "First trunk channels receiving lymph from both lower limbs",
+     "x": 274,
+     "y": 462,
+     "lx": 80,
+     "ly": 440
+    },
+    {
+     "name": "Cisterna chyli",
+     "accept": [
+      "cisterna"
+     ],
+     "function": "Abdominal sac where the lower-limb trunks converge",
+     "x": 300,
+     "y": 410,
+     "lx": 480,
+     "ly": 420
+    },
+    {
+     "name": "Thoracic duct",
+     "accept": [
+      "thoracic"
+     ],
+     "function": "Ascends through the chest carrying lymph from both legs",
+     "x": 302,
+     "y": 290,
+     "lx": 480,
+     "ly": 300
+    },
+    {
+     "name": "Left subclavian vein",
+     "accept": [
+      "subclavian vein",
+      "left subclavian"
+     ],
+     "function": "Where lymph from both legs re-enters the bloodstream",
+     "x": 410,
+     "y": 177,
+     "lx": 520,
+     "ly": 215
+    },
+    {
+     "name": "Left supraclavicular (Virchow) node",
+     "accept": [
+      "Virchow node",
+      "Virchow's node",
+      "left supraclavicular node",
+      "supraclavicular node",
+      "Virchow"
+     ],
+     "function": "Enlarges with abdominal cancer; lies near the duct's end",
+     "x": 392,
+     "y": 138,
+     "lx": 520,
+     "ly": 100
+    }
+   ]
+  }
+ ]
+}
