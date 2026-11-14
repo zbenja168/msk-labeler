@@ -1,0 +1,297 @@
+{
+ "brick": 32,
+ "title": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+ "diagrams": [
+  {
+   "title": "Osteoarthritic joint: LOSS findings (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M224 150 Q150 250 224 350\" fill=\"none\" stroke=\"#db2777\" stroke-width=\"4\"/><path d=\"M578 140 Q690 250 578 360\" fill=\"none\" stroke=\"#db2777\" stroke-width=\"4\"/><path d=\"M300 20 L300 110 Q222 130 222 190 L222 200 L410 200 Q440 204 456 240 Q462 266 480 268 L578 268 L578 190 Q578 130 500 110 L500 20 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M222 300 L578 300 Q580 360 500 385 L500 480 L300 480 L300 385 Q222 360 222 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M576 300 Q614 298 626 330 Q604 318 576 326 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M576 268 Q614 270 626 238 Q604 250 576 242 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M462 255 L576 255 L576 267 L480 267 Q466 266 462 255 Z\" fill=\"#9c8565\"/><rect x=\"440\" y=\"302\" width=\"136\" height=\"13\" fill=\"#9c8565\"/><path d=\"M226 200 L408 200 Q422 202 428 218 L226 218 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M226 282 L436 282 L436 298 L226 298 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M436 284 L450 288 L462 292 L470 298 L436 298 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><ellipse cx=\"512\" cy=\"348\" rx=\"24\" ry=\"15\" fill=\"#fdf8e8\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><polygon points=\"318,242 340,236 352,248 344,262 322,260\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><path d=\"M322 260 L344 262 L352 248\" fill=\"none\" stroke=\"#3b82f6\" stroke-width=\"3\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"360\" y=\"45\">Proximal</text><text x=\"365\" y=\"472\">Distal</text></g>",
+   "labels": [
+    {
+     "name": "Articular cartilage",
+     "accept": [
+      "cartilage",
+      "hyaline cartilage"
+     ],
+     "function": "Reduces friction between bones and permits normal movement",
+     "x": 300,
+     "y": 209,
+     "lx": 110,
+     "ly": 120
+    },
+    {
+     "name": "Joint mouse",
+     "accept": [
+      "joint mice",
+      "loose body",
+      "loose bodies"
+     ],
+     "function": "Free fragment of bone and cartilage that blocks motion",
+     "x": 334,
+     "y": 250,
+     "lx": 110,
+     "ly": 200
+    },
+    {
+     "name": "Synovial membrane",
+     "accept": [
+      "synovium",
+      "synovial lining"
+     ],
+     "function": "Lining that encloses the lubricated cavity between bones",
+     "x": 186,
+     "y": 300,
+     "lx": 110,
+     "ly": 330
+    },
+    {
+     "name": "Subchondral sclerosis",
+     "accept": [
+      "sclerosis",
+      "bony sclerosis"
+     ],
+     "function": "Hardened, thickened bone ends after the overlying layer dies",
+     "x": 530,
+     "y": 261,
+     "lx": 690,
+     "ly": 170
+    },
+    {
+     "name": "Joint space narrowing",
+     "accept": [
+      "loss of joint space",
+      "narrowed joint space",
+      "narrowing"
+     ],
+     "function": "Thinning of the gliding layer lets bone rub on bone",
+     "x": 520,
+     "y": 284,
+     "lx": 690,
+     "ly": 235
+    },
+    {
+     "name": "Osteophyte",
+     "accept": [
+      "osteophytes",
+      "bone spur",
+      "bone spurs"
+     ],
+     "function": "Spur from disordered repair; enlarges joint, causes locking",
+     "x": 612,
+     "y": 316,
+     "lx": 720,
+     "ly": 320
+    },
+    {
+     "name": "Subchondral cyst",
+     "accept": [
+      "subchondral cysts",
+      "bone cyst"
+     ],
+     "function": "Fluid-like encased sac that forms within bone",
+     "x": 512,
+     "y": 348,
+     "lx": 690,
+     "ly": 400
+    }
+   ]
+  },
+  {
+   "title": "Rheumatoid joint: synovitis and pannus (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"224\" y=\"214\" width=\"352\" height=\"70\" fill=\"#fde68a\" opacity=\"0.75\"/><path d=\"M300 20 L300 110 Q222 130 222 190 L222 200 L578 200 L578 190 Q578 130 500 110 L500 20 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M222 300 L536 300 Q516 326 540 348 Q560 356 577 346 Q570 370 500 385 L500 480 L300 480 L300 385 Q222 360 222 300 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"226\" y=\"200\" width=\"350\" height=\"14\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M226 284 L540 284 L530 300 L226 300 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><path d=\"M224 140 Q120 160 128 200 Q108 214 130 228 Q106 244 130 258 Q106 274 130 290 Q112 310 140 326 Q160 360 224 360 Z\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"3\"/><circle cx=\"150\" cy=\"236\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"160\" cy=\"246\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"146\" cy=\"252\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"158\" cy=\"258\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"170\" cy=\"240\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"168\" cy=\"256\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"154\" cy=\"268\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"176\" cy=\"264\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"142\" cy=\"242\" r=\"4.5\" fill=\"#7c3aed\"/><circle cx=\"162\" cy=\"232\" r=\"4.5\" fill=\"#7c3aed\"/><path d=\"M578 140 Q660 170 662 250 Q660 330 578 360 L578 344 L560 312 L578 300 L578 200 Z\" fill=\"#f9a8d4\" stroke=\"#be185d\" stroke-width=\"3\"/><path d=\"M600 262 Q560 266 520 274 Q486 280 474 288 Q500 294 536 300 Q560 300 580 312 Q606 308 616 288 Q614 270 600 262 Z\" fill=\"#e11d48\" stroke=\"#9f1239\" stroke-width=\"2.5\"/><ellipse cx=\"540\" cy=\"346\" rx=\"14\" ry=\"7\" fill=\"#c4b5fd\" stroke=\"#6d28d9\" stroke-width=\"2\"/><circle cx=\"533\" cy=\"346\" r=\"2.4\" fill=\"#4c1d95\"/><circle cx=\"540\" cy=\"344\" r=\"2.4\" fill=\"#4c1d95\"/><circle cx=\"547\" cy=\"347\" r=\"2.4\" fill=\"#4c1d95\"/><path d=\"M626 205 Q640 192 652 204 Q660 214 650 226 Q636 234 626 222 Q618 214 626 205 Z\" fill=\"#fef3c7\" stroke=\"#92400e\" stroke-width=\"2\"/><path d=\"M634 210 Q644 206 646 214 Q640 216 642 222 Q634 222 634 210 Z\" fill=\"#92400e\"/><circle cx=\"270\" cy=\"248\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"300\" cy=\"262\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"340\" cy=\"244\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"380\" cy=\"258\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"420\" cy=\"246\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"250\" cy=\"262\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"455\" cy=\"258\" r=\"3\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"1.5\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"360\" y=\"45\">Proximal</text><text x=\"365\" y=\"472\">Distal</text></g>",
+   "labels": [
+    {
+     "name": "Hyperplastic synovium",
+     "accept": [
+      "synovial hyperplasia",
+      "synovium",
+      "synovial membrane",
+      "villous synovium"
+     ],
+     "function": "Thickened lining forming villi; secretes destructive proteases",
+     "x": 124,
+     "y": 300,
+     "lx": 60,
+     "ly": 380
+    },
+    {
+     "name": "Lymphoid aggregate",
+     "accept": [
+      "lymphoid infiltrate",
+      "inflammatory infiltrate",
+      "lymphocytes"
+     ],
+     "function": "Dense infiltrate of T cells, B cells and plasma cells",
+     "x": 158,
+     "y": 250,
+     "lx": 60,
+     "ly": 160
+    },
+    {
+     "name": "Articular cartilage",
+     "accept": [
+      "cartilage",
+      "hyaline cartilage"
+     ],
+     "function": "Hyaline layer destroyed by proteases in this disease",
+     "x": 300,
+     "y": 207,
+     "lx": 330,
+     "ly": 150
+    },
+    {
+     "name": "Synovial fluid",
+     "accept": [
+      "joint fluid"
+     ],
+     "function": "Cloudy yellow; 5,000-25,000 WBC/mm3, mostly neutrophils",
+     "x": 360,
+     "y": 250,
+     "lx": 420,
+     "ly": 150
+    },
+    {
+     "name": "Macrophage",
+     "accept": [
+      "macrophages"
+     ],
+     "function": "Releases TNF-alpha, IL-1 and IL-6",
+     "x": 640,
+     "y": 213,
+     "lx": 720,
+     "ly": 160
+    },
+    {
+     "name": "Pannus",
+     "accept": [],
+     "function": "Granulation-tissue mass that creeps over the joint surface",
+     "x": 560,
+     "y": 286,
+     "lx": 720,
+     "ly": 250
+    },
+    {
+     "name": "Bone erosion",
+     "accept": [
+      "erosion",
+      "erosions",
+      "bone erosions",
+      "bare area"
+     ],
+     "function": "Marginal defect seen on RA hand and foot radiographs",
+     "x": 552,
+     "y": 324,
+     "lx": 720,
+     "ly": 330
+    },
+    {
+     "name": "Osteoclast",
+     "accept": [
+      "osteoclasts"
+     ],
+     "function": "Driven by RANKL on activated T cells; resorbs bone",
+     "x": 540,
+     "y": 346,
+     "lx": 690,
+     "ly": 410
+    }
+   ]
+  },
+  {
+   "title": "Hand joints in OA and RA (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M296 500 L290 420 Q236 380 214 300 Q200 252 232 248 Q258 262 270 300 L276 250 L282 60 Q305 44 328 60 L334 220 L340 40 Q362 24 384 40 L390 220 L396 54 Q418 38 440 54 L446 225 L450 92 Q470 78 490 92 L494 300 Q500 380 480 420 L476 500 Z\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"320\" y=\"440\" width=\"54\" height=\"70\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"392\" y=\"440\" width=\"54\" height=\"70\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"312\" y=\"396\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"350\" y=\"392\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"388\" y=\"392\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"426\" y=\"396\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"320\" y=\"362\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"358\" y=\"358\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"396\" y=\"358\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"432\" y=\"364\" width=\"34\" height=\"26\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"294\" y=\"232\" width=\"22\" height=\"116\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"351\" y=\"226\" width=\"22\" height=\"122\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"407\" y=\"230\" width=\"22\" height=\"118\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"459\" y=\"242\" width=\"22\" height=\"106\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"248\" y=\"270\" width=\"22\" height=\"80\" rx=\"10\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\" transform=\"rotate(-28 259 310)\"/><rect x=\"222\" y=\"226\" width=\"20\" height=\"44\" rx=\"9\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\" transform=\"rotate(-28 232 248)\"/><rect x=\"295.0\" y=\"156\" width=\"20\" height=\"60\" rx=\"9.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"296.0\" y=\"108\" width=\"18\" height=\"36\" rx=\"8.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"297.0\" y=\"66\" width=\"16\" height=\"30\" rx=\"7.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"352.0\" y=\"144\" width=\"20\" height=\"66\" rx=\"9.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"353.0\" y=\"92\" width=\"18\" height=\"40\" rx=\"8.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"354.0\" y=\"48\" width=\"16\" height=\"32\" rx=\"7.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"408.0\" y=\"152\" width=\"20\" height=\"62\" rx=\"9.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"409.0\" y=\"104\" width=\"18\" height=\"36\" rx=\"8.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"410.0\" y=\"62\" width=\"16\" height=\"30\" rx=\"7.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"460.0\" y=\"178\" width=\"20\" height=\"48\" rx=\"9.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"461.0\" y=\"136\" width=\"18\" height=\"30\" rx=\"8.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><rect x=\"462.0\" y=\"100\" width=\"16\" height=\"24\" rx=\"7.0\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"305\" cy=\"222\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"305\" cy=\"150\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"305\" cy=\"102\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"362\" cy=\"216\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"362\" cy=\"138\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"362\" cy=\"86\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"418\" cy=\"220\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"418\" cy=\"146\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"418\" cy=\"98\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"470\" cy=\"232\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"470\" cy=\"172\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><ellipse cx=\"470\" cy=\"130\" rx=\"11\" ry=\"5\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/><circle cx=\"458\" cy=\"130\" r=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"482\" cy=\"130\" r=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"405\" cy=\"146\" r=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><circle cx=\"431\" cy=\"146\" r=\"7\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><ellipse cx=\"482\" cy=\"462\" rx=\"13\" ry=\"11\" fill=\"#e7b98f\" stroke=\"#9a6b43\" stroke-width=\"2.5\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"560\" y=\"490\">Dorsal view, right hand</text><text x=\"160\" y=\"330\">Thumb side</text></g>",
+   "labels": [
+    {
+     "name": "DIP joint",
+     "accept": [
+      "distal interphalangeal joint",
+      "DIP",
+      "distal interphalangeal"
+     ],
+     "function": "Typically spared in RA",
+     "x": 305,
+     "y": 102,
+     "lx": 160,
+     "ly": 80
+    },
+    {
+     "name": "PIP joint",
+     "accept": [
+      "proximal interphalangeal joint",
+      "PIP",
+      "proximal interphalangeal"
+     ],
+     "function": "Hyperextended in swan neck, flexed in Boutonniere",
+     "x": 362,
+     "y": 138,
+     "lx": 160,
+     "ly": 150
+    },
+    {
+     "name": "MCP joint",
+     "accept": [
+      "metacarpophalangeal joint",
+      "MCP",
+      "metacarpophalangeal",
+      "knuckle"
+     ],
+     "function": "Fingers drift into ulnar deviation here in RA",
+     "x": 305,
+     "y": 222,
+     "lx": 160,
+     "ly": 220
+    },
+    {
+     "name": "Wrist",
+     "accept": [
+      "wrist joint",
+      "carpus",
+      "carpal bones"
+     ],
+     "function": "Small joints here swell symmetrically in RA",
+     "x": 369,
+     "y": 384,
+     "lx": 160,
+     "ly": 400
+    },
+    {
+     "name": "Heberden node",
+     "accept": [
+      "Heberden nodes",
+      "Heberden's node"
+     ],
+     "function": "Firm bony OA nodule at the joint nearest the fingertip",
+     "x": 482,
+     "y": 130,
+     "lx": 640,
+     "ly": 100
+    },
+    {
+     "name": "Bouchard node",
+     "accept": [
+      "Bouchard nodes",
+      "Bouchard's node"
+     ],
+     "function": "Firm bony OA nodule at the middle joint of the finger",
+     "x": 431,
+     "y": 146,
+     "lx": 640,
+     "ly": 180
+    },
+    {
+     "name": "Rheumatoid nodule",
+     "accept": [
+      "rheumatoid nodules"
+     ],
+     "function": "Subcutaneous lesion: central necrosis, palisaded macrophages",
+     "x": 482,
+     "y": 462,
+     "lx": 640,
+     "ly": 430
+    }
+   ]
+  }
+ ]
+}

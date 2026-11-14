@@ -246,5 +246,37 @@
   "title": "Lower Extremity Injury - Part 2 of 2",
   "diagrams": 3,
   "labels": 22
+ },
+ {
+  "num": 32,
+  "week": 4,
+  "session": 1,
+  "title": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+  "diagrams": 3,
+  "labels": 22
+ },
+ {
+  "num": 33,
+  "week": 4,
+  "session": 1,
+  "title": "MSK: Crystal-Induced Arthritis",
+  "diagrams": 3,
+  "labels": 23
+ },
+ {
+  "num": 34,
+  "week": 4,
+  "session": 1,
+  "title": "MSK: Spondyloarthropathies",
+  "diagrams": 2,
+  "labels": 15
+ },
+ {
+  "num": 35,
+  "week": 4,
+  "session": 1,
+  "title": "MSK: Septic Arthritis",
+  "diagrams": 2,
+  "labels": 13
  }
 ]

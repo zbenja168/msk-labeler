@@ -1,0 +1,312 @@
+{
+ "brick": 33,
+ "title": "MSK: Crystal-Induced Arthritis",
+ "diagrams": [
+  {
+   "title": "Uric acid production and elimination with drug sites (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><g><ellipse cx=\"70\" cy=\"70\" rx=\"34\" ry=\"16\" fill=\"#93c5fd\" stroke=\"#1e3a8a\" stroke-width=\"2.5\"/><polygon points=\"102,70 124,54 124,86\" fill=\"#93c5fd\" stroke=\"#1e3a8a\" stroke-width=\"2.5\"/><circle cx=\"54\" cy=\"66\" r=\"3\" fill=\"#1e3a8a\"/><path d=\"M40 112 Q60 96 92 104 Q112 112 100 128 Q80 140 52 134 Q32 126 40 112 Z\" fill=\"#b45309\" stroke=\"#7c2d12\" stroke-width=\"2.5\"/><ellipse cx=\"80\" cy=\"120\" rx=\"8\" ry=\"6\" fill=\"#fef3c7\"/></g><g><circle cx=\"78\" cy=\"250\" r=\"30\" fill=\"#ddd6fe\" stroke=\"#6d28d9\" stroke-width=\"2.5\" stroke-dasharray=\"14 7\"/><circle cx=\"78\" cy=\"250\" r=\"11\" fill=\"#7c3aed\"/><circle cx=\"124\" cy=\"226\" r=\"4\" fill=\"#7c3aed\"/><circle cx=\"128\" cy=\"262\" r=\"5\" fill=\"#7c3aed\"/><circle cx=\"36\" cy=\"292\" r=\"4\" fill=\"#7c3aed\"/><circle cx=\"112\" cy=\"290\" r=\"3.5\" fill=\"#7c3aed\"/></g><line x1=\"130\" y1=\"95\" x2=\"170\" y2=\"105\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"170,105 158,107 161,97\" fill=\"#57534e\"/><line x1=\"130\" y1=\"240\" x2=\"175\" y2=\"128\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"175,128 176,140 166,136\" fill=\"#57534e\"/><rect x=\"175.0\" y=\"90.0\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"240\" y=\"116\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Hypoxanthine</text><rect x=\"380.0\" y=\"90.0\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"430\" y=\"116\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Xanthine</text><rect x=\"570.0\" y=\"90.0\" width=\"100\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"620\" y=\"116\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Uric acid</text><rect x=\"680.0\" y=\"210.0\" width=\"110\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"735\" y=\"236\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Allantoin</text><rect x=\"165.0\" y=\"250.0\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"240\" y=\"276\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Nucleotides</text><line x1=\"305\" y1=\"110\" x2=\"378\" y2=\"110\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"378,110 367,115 367,105\" fill=\"#57534e\"/><circle cx=\"335\" cy=\"110\" r=\"15\" fill=\"#fde68a\" stroke=\"#b45309\" stroke-width=\"3\"/><line x1=\"480\" y1=\"110\" x2=\"568\" y2=\"110\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"568,110 557,115 557,105\" fill=\"#57534e\"/><circle cx=\"520\" cy=\"110\" r=\"15\" fill=\"#fde68a\" stroke=\"#b45309\" stroke-width=\"3\"/><line x1=\"520\" y1=\"45\" x2=\"520\" y2=\"92\" stroke=\"#b91c1c\" stroke-width=\"3\"/><line x1=\"508\" y1=\"92\" x2=\"532\" y2=\"92\" stroke=\"#b91c1c\" stroke-width=\"5\"/><rect x=\"496\" y=\"34\" width=\"48\" height=\"22\" rx=\"11\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/><line x1=\"520\" y1=\"34\" x2=\"520\" y2=\"56\" stroke=\"#b91c1c\" stroke-width=\"2\"/><line x1=\"240\" y1=\"132\" x2=\"240\" y2=\"248\" stroke=\"#15803d\" stroke-width=\"3\"/><polygon points=\"240,248 235,237 245,237\" fill=\"#15803d\"/><circle cx=\"240\" cy=\"190\" r=\"15\" fill=\"#bbf7d0\" stroke=\"#15803d\" stroke-width=\"3\"/><line x1=\"660\" y1=\"132\" x2=\"712\" y2=\"207\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"712,207 702,201 710,195\" fill=\"#57534e\"/><circle cx=\"686\" cy=\"170\" r=\"15\" fill=\"#e9d5ff\" stroke=\"#7e22ce\" stroke-width=\"3\"/><path d=\"M330 380 L760 380 Q780 380 780 400 Q780 420 760 420 L330 420 Q310 420 310 400 Q310 380 330 380 Z\" fill=\"#fde2e4\" stroke=\"#9f1239\" stroke-width=\"3\"/><text x=\"330\" y=\"455\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Renal tubule</text><text x=\"700\" y=\"455\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Urine &#8594;</text><line x1=\"650\" y1=\"132\" x2=\"650\" y2=\"375\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"650,375 645,364 655,364\" fill=\"#57534e\"/><line x1=\"580\" y1=\"378\" x2=\"580\" y2=\"135\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"580,135 585,146 575,146\" fill=\"#57534e\"/><rect x=\"634\" y=\"292\" width=\"32\" height=\"12\" rx=\"3\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/><line x1=\"500\" y1=\"255\" x2=\"580\" y2=\"255\" stroke=\"#b91c1c\" stroke-width=\"3\"/><line x1=\"580\" y1=\"243\" x2=\"580\" y2=\"267\" stroke=\"#b91c1c\" stroke-width=\"5\"/><rect x=\"476\" y=\"244\" width=\"48\" height=\"22\" rx=\"11\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/><line x1=\"500\" y1=\"244\" x2=\"500\" y2=\"266\" stroke=\"#b91c1c\" stroke-width=\"2\"/><line x1=\"580\" y1=\"243\" x2=\"580\" y2=\"267\" stroke=\"#b91c1c\" stroke-width=\"5\"/><g font-size=\"13\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\"><text x=\"660\" y=\"350\">excretion</text><text x=\"490\" y=\"352\">reabsorption</text><text x=\"20\" y=\"490\" fill=\"#6b4a14\">red capsules = drugs; red bars = sites blocked or reduced</text></g>",
+   "labels": [
+    {
+     "name": "Purine-rich foods",
+     "accept": [
+      "dietary purines",
+      "diet",
+      "red meat",
+      "seafood",
+      "purine rich foods"
+     ],
+     "function": "Red meat, organ meat and shellfish raise urate; restrict them",
+     "x": 70,
+     "y": 70,
+     "lx": 70,
+     "ly": 165
+    },
+    {
+     "name": "Tumor lysis syndrome",
+     "accept": [
+      "tumor lysis",
+      "TLS",
+      "cell lysis"
+     ],
+     "function": "Mass cancer cell death during leukemia/lymphoma chemotherapy",
+     "x": 78,
+     "y": 250,
+     "lx": 60,
+     "ly": 335
+    },
+    {
+     "name": "Xanthine oxidase",
+     "accept": [
+      "XO"
+     ],
+     "function": "Enzyme forming the end product of purine breakdown",
+     "x": 335,
+     "y": 110,
+     "lx": 335,
+     "ly": 50
+    },
+    {
+     "name": "Allopurinol",
+     "accept": [
+      "oxypurinol"
+     ],
+     "function": "Preferred first-line urate-lowering drug, including in CKD",
+     "x": 520,
+     "y": 45,
+     "lx": 620,
+     "ly": 45
+    },
+    {
+     "name": "HPRT",
+     "accept": [
+      "hypoxanthine-guanine phosphoribosyltransferase",
+      "hypoxanthine guanine phosphoribosyl transferase",
+      "HGPRT"
+     ],
+     "function": "Salvage enzyme deficient in Lesch-Nyhan syndrome",
+     "x": 240,
+     "y": 190,
+     "lx": 150,
+     "ly": 190
+    },
+    {
+     "name": "Pegloticase",
+     "accept": [
+      "uricase",
+      "recombinant uricase"
+     ],
+     "function": "IV option for refractory gout; hemolysis if G6PD deficient",
+     "x": 686,
+     "y": 170,
+     "lx": 745,
+     "ly": 150
+    },
+    {
+     "name": "Probenecid",
+     "accept": [],
+     "function": "Uricosuric; risk of uric acid kidney stones, weaker in CKD",
+     "x": 500,
+     "y": 255,
+     "lx": 460,
+     "ly": 320
+    },
+    {
+     "name": "Thiazide diuretics",
+     "accept": [
+      "thiazide",
+      "hydrochlorothiazide",
+      "HCTZ",
+      "thiazides"
+     ],
+     "function": "Antihypertensives that cut urate excretion; replace in gout",
+     "x": 650,
+     "y": 298,
+     "lx": 735,
+     "ly": 320
+    }
+   ]
+  },
+  {
+   "title": "A joint with crystal deposits: composite schematic",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f1d3b3\" opacity=\"0.55\"/><path d=\"M230 0 L570 0 L570 150 Q570 190 520 196 L280 196 Q230 190 230 150 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M236 168 Q246 196 282 198 L518 198 Q556 196 564 168 L566 186 Q560 222 520 224 L280 224 Q240 222 234 186 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/><path d=\"M236 500 L236 440 Q284 432 284 406 Q284 384 226 378 L236 352 Q240 310 280 304 L520 304 Q566 310 570 352 L570 500 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M240 330 Q248 300 282 298 L518 298 Q558 300 566 330 L566 344 Q560 324 520 322 L282 322 Q246 324 238 344 Z\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2.5\"/><path d=\"M420 311 L556 311\" stroke=\"#334155\" stroke-width=\"3.5\" stroke-dasharray=\"6 4\"/><g fill=\"#fef9c3\" stroke=\"#1d4ed8\" stroke-width=\"1.6\"><ellipse cx=\"440\" cy=\"211\" rx=\"7\" ry=\"4.5\"/><ellipse cx=\"470\" cy=\"213\" rx=\"7\" ry=\"4.5\"/><ellipse cx=\"500\" cy=\"211\" rx=\"7\" ry=\"4.5\"/><ellipse cx=\"530\" cy=\"207\" rx=\"7\" ry=\"4.5\"/></g><path d=\"M226 150 Q190 260 226 360 L230 360 L230 150 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><path d=\"M574 150 Q610 260 574 360 L570 360 L570 150 Z\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/><path d=\"M234 226 L566 226 L566 296 L234 296 Z\" fill=\"#e0f2fe\" opacity=\"0.9\"/><g stroke=\"#ca8a04\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"270\" y1=\"240\" x2=\"290\" y2=\"262\"/><line x1=\"300\" y1=\"270\" x2=\"326\" y2=\"254\"/><line x1=\"282\" y1=\"278\" x2=\"300\" y2=\"290\"/><line x1=\"330\" y1=\"236\" x2=\"346\" y2=\"258\"/><line x1=\"352\" y1=\"270\" x2=\"376\" y2=\"280\"/><line x1=\"316\" y1=\"242\" x2=\"336\" y2=\"236\"/></g><path d=\"M140 400 Q150 372 186 376 Q222 380 228 406 Q230 438 196 444 Q154 446 140 424 Z\" fill=\"#fefce8\" stroke=\"#a16207\" stroke-width=\"2.5\"/><g fill=\"#facc15\"><circle cx=\"170\" cy=\"400\" r=\"3\"/><circle cx=\"190\" cy=\"418\" r=\"3\"/><circle cx=\"204\" cy=\"398\" r=\"3\"/><circle cx=\"164\" cy=\"424\" r=\"3\"/></g><g font-size=\"14\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\"><text x=\"600\" y=\"40\">Proximal</text><text x=\"600\" y=\"480\">Distal</text><text x=\"20\" y=\"490\" fill=\"#6b4a14\">Composite: features of two diseases in one joint</text></g>",
+   "labels": [
+    {
+     "name": "Monosodium urate crystals",
+     "accept": [
+      "urate crystals",
+      "MSU crystals",
+      "MSU",
+      "uric acid crystals",
+      "monosodium urate"
+     ],
+     "function": "Needle-shaped, negatively birefringent; drive the flares",
+     "x": 300,
+     "y": 266,
+     "lx": 120,
+     "ly": 250
+    },
+    {
+     "name": "Tophus",
+     "accept": [
+      "tophi"
+     ],
+     "function": "Chalky yellow-white nodule with foreign-body giant cells",
+     "x": 180,
+     "y": 412,
+     "lx": 90,
+     "ly": 460
+    },
+    {
+     "name": "Bone erosion with overhanging edge",
+     "accept": [
+      "overhanging edge",
+      "erosion",
+      "bone erosion",
+      "overhanging edges"
+     ],
+     "function": "X-ray hallmark of chronic, long-standing gout",
+     "x": 266,
+     "y": 406,
+     "lx": 340,
+     "ly": 455
+    },
+    {
+     "name": "Calcium pyrophosphate deposits",
+     "accept": [
+      "CPP deposits",
+      "CPPD",
+      "chondrocalcinosis",
+      "calcium pyrophosphate"
+     ],
+     "function": "Thin radiodense line at the bone end; often incidental",
+     "x": 500,
+     "y": 311,
+     "lx": 680,
+     "ly": 330
+    },
+    {
+     "name": "Chondrocytes",
+     "accept": [
+      "chondrocyte"
+     ],
+     "function": "Cells whose overproduction drives pseudogout crystals",
+     "x": 470,
+     "y": 213,
+     "lx": 680,
+     "ly": 130
+    },
+    {
+     "name": "Synovial fluid",
+     "accept": [
+      "joint fluid",
+      "joint space",
+      "synovial cavity"
+     ],
+     "function": "Aspirate it; WBC over 50,000/mm3 raises concern for sepsis",
+     "x": 470,
+     "y": 262,
+     "lx": 680,
+     "ly": 230
+    },
+    {
+     "name": "Articular cartilage",
+     "accept": [
+      "cartilage",
+      "hyaline cartilage"
+     ],
+     "function": "Soft covering of the bone ends at the joint",
+     "x": 300,
+     "y": 212,
+     "lx": 330,
+     "ly": 120
+    }
+   ]
+  },
+  {
+   "title": "Crystal-induced inflammation and anti-inflammatory drug sites (schematic)",
+   "viewBox": "0 0 800 440",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"440\" fill=\"#f8f5ee\"/><g stroke=\"#ca8a04\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"30\" y1=\"200\" x2=\"52\" y2=\"220\"/><line x1=\"40\" y1=\"235\" x2=\"66\" y2=\"226\"/><line x1=\"58\" y1=\"196\" x2=\"70\" y2=\"214\"/></g><text x=\"22\" y=\"270\" font-size=\"14\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Crystals</text><line x1=\"78\" y1=\"214\" x2=\"112\" y2=\"214\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"112,214 101,219 101,209\" fill=\"#57534e\"/><path d=\"M120 214 Q118 140 200 136 Q282 140 284 210 Q286 290 200 292 Q122 290 120 214 Z\" fill=\"#ddd6fe\" stroke=\"#6d28d9\" stroke-width=\"3\"/><ellipse cx=\"170\" cy=\"250\" rx=\"26\" ry=\"18\" fill=\"#a78bfa\" stroke=\"#5b21b6\" stroke-width=\"2\"/><g stroke=\"#ca8a04\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"150\" y1=\"180\" x2=\"168\" y2=\"196\"/><line x1=\"160\" y1=\"200\" x2=\"180\" y2=\"188\"/></g><circle cx=\"235\" cy=\"200\" r=\"17\" fill=\"#86efac\" stroke=\"#15803d\" stroke-width=\"2.5\" stroke-dasharray=\"20 6\"/><g fill=\"#15803d\"><circle cx=\"258\" cy=\"186\" r=\"2.5\"/><circle cx=\"262\" cy=\"206\" r=\"2.5\"/><circle cx=\"252\" cy=\"222\" r=\"2.5\"/></g><line x1=\"288\" y1=\"214\" x2=\"330\" y2=\"214\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"330,214 319,219 319,209\" fill=\"#57534e\"/><g fill=\"#f97316\" stroke=\"#9a3412\" stroke-width=\"1.5\"><circle cx=\"350\" cy=\"196\" r=\"6\"/><circle cx=\"368\" cy=\"222\" r=\"6\"/><circle cx=\"386\" cy=\"200\" r=\"6\"/><circle cx=\"404\" cy=\"228\" r=\"6\"/><circle cx=\"352\" cy=\"238\" r=\"6\"/></g><line x1=\"420\" y1=\"214\" x2=\"460\" y2=\"214\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"460,214 449,219 449,209\" fill=\"#57534e\"/><circle cx=\"540\" cy=\"214\" r=\"74\" fill=\"#fbcfe8\" stroke=\"#be185d\" stroke-width=\"3\"/><g fill=\"#9d174d\"><circle cx=\"512\" cy=\"232\" r=\"13\"/><circle cx=\"536\" cy=\"246\" r=\"13\"/><circle cx=\"562\" cy=\"234\" r=\"13\"/></g><g stroke=\"#334155\" stroke-width=\"2\" fill=\"none\"><path d=\"M500 180 L580 160\"/><path d=\"M498 196 L590 184\"/><path d=\"M506 168 L566 150\"/></g><line x1=\"616\" y1=\"214\" x2=\"660\" y2=\"214\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"660,214 649,219 649,209\" fill=\"#57534e\"/><text x=\"664\" y=\"208\" font-size=\"14\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Migration,</text><text x=\"664\" y=\"226\" font-size=\"14\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">activation,</text><text x=\"664\" y=\"244\" font-size=\"14\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">tissue injury</text><line x1=\"540\" y1=\"40\" x2=\"540\" y2=\"150\" stroke=\"#b91c1c\" stroke-width=\"3\"/><line x1=\"528\" y1=\"150\" x2=\"552\" y2=\"150\" stroke=\"#b91c1c\" stroke-width=\"5\"/><rect x=\"516\" y=\"29\" width=\"48\" height=\"22\" rx=\"11\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/><line x1=\"540\" y1=\"29\" x2=\"540\" y2=\"51\" stroke=\"#b91c1c\" stroke-width=\"2\"/><rect x=\"120.0\" y=\"360.0\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"200\" y=\"386\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Arachidonic acid</text><line x1=\"282\" y1=\"380\" x2=\"380\" y2=\"380\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"380,380 369,385 369,375\" fill=\"#57534e\"/><circle cx=\"330\" cy=\"380\" r=\"15\" fill=\"#fde68a\" stroke=\"#b45309\" stroke-width=\"3\"/><rect x=\"385.0\" y=\"360.0\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#ffffff\" stroke=\"#7c6a4f\" stroke-width=\"2.5\"/><text x=\"460\" y=\"386\" text-anchor=\"middle\" font-size=\"16\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Prostaglandins</text><line x1=\"537\" y1=\"380\" x2=\"600\" y2=\"380\" stroke=\"#57534e\" stroke-width=\"3\"/><polygon points=\"600,380 589,385 589,375\" fill=\"#57534e\"/><text x=\"608\" y=\"386\" font-size=\"15\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\">Pain and swelling</text><line x1=\"330\" y1=\"315\" x2=\"330\" y2=\"362\" stroke=\"#b91c1c\" stroke-width=\"3\"/><line x1=\"318\" y1=\"362\" x2=\"342\" y2=\"362\" stroke=\"#b91c1c\" stroke-width=\"5\"/><rect x=\"306\" y=\"304\" width=\"48\" height=\"22\" rx=\"11\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"2.5\"/><line x1=\"330\" y1=\"304\" x2=\"330\" y2=\"326\" stroke=\"#b91c1c\" stroke-width=\"2\"/>",
+   "labels": [
+    {
+     "name": "Macrophage",
+     "accept": [
+      "macrophages"
+     ],
+     "function": "Phagocytoses crystals deposited in the joint",
+     "x": 140,
+     "y": 160,
+     "lx": 120,
+     "ly": 100
+    },
+    {
+     "name": "Lysosome",
+     "accept": [
+      "lysosomes"
+     ],
+     "function": "Ruptures after crystal uptake, adding to tissue injury",
+     "x": 235,
+     "y": 200,
+     "lx": 270,
+     "ly": 100
+    },
+    {
+     "name": "IL-1",
+     "accept": [
+      "interleukin-1",
+      "interleukin 1",
+      "IL1"
+     ],
+     "function": "Cytokine released after crystal uptake that drives the flare",
+     "x": 386,
+     "y": 200,
+     "lx": 386,
+     "ly": 130
+    },
+    {
+     "name": "Neutrophil",
+     "accept": [
+      "neutrophils",
+      "PMN"
+     ],
+     "function": "Predominant cell in the synovial fluid of crystal arthritis",
+     "x": 536,
+     "y": 246,
+     "lx": 470,
+     "ly": 320
+    },
+    {
+     "name": "Microtubules",
+     "accept": [
+      "microtubule",
+      "tubulin",
+      "beta-tubulin"
+     ],
+     "function": "Polymers needed for the effector cell to migrate",
+     "x": 590,
+     "y": 184,
+     "lx": 680,
+     "ly": 150
+    },
+    {
+     "name": "Colchicine",
+     "accept": [],
+     "function": "Flare drug; diarrhea, myopathy and cytopenias in CKD",
+     "x": 540,
+     "y": 40,
+     "lx": 640,
+     "ly": 40
+    },
+    {
+     "name": "Cyclooxygenase",
+     "accept": [
+      "COX",
+      "COX-1",
+      "COX-2",
+      "cyclooxygenase-1",
+      "cyclooxygenase-2",
+      "COX-1 and COX-2"
+     ],
+     "function": "Enzyme making the mediators of pain and swelling",
+     "x": 330,
+     "y": 380,
+     "lx": 330,
+     "ly": 425
+    },
+    {
+     "name": "Indomethacin",
+     "accept": [
+      "NSAID",
+      "NSAIDs"
+     ],
+     "function": "Classic flare NSAID; does not lower serum urate",
+     "x": 330,
+     "y": 315,
+     "lx": 220,
+     "ly": 300
+    }
+   ]
+  }
+ ]
+}
