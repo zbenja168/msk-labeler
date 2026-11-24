@@ -1,0 +1,215 @@
+{
+ "brick": 38,
+ "title": "Sunlight and the Skin",
+ "diagrams": [
+  {
+   "title": "How far sunlight's UV bands reach into the skin (schematic cross-section)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"0\" y=\"0\" width=\"800\" height=\"150\" fill=\"#eef4fb\"/><circle cx=\"50\" cy=\"45\" r=\"26\" fill=\"#fbbf24\" stroke=\"#d97706\" stroke-width=\"3\"/><rect x=\"0\" y=\"400\" width=\"800\" height=\"100\" fill=\"#fef3c7\"/><circle cx=\"25\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"49\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"73\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"97\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"121\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"145\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"169\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"193\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"217\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"241\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"265\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"289\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"313\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"337\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"361\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"385\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"409\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"433\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"457\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"481\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"505\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"529\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"553\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"577\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"601\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"625\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"649\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"673\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"697\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"721\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"745\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"769\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"793\" cy=\"428\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><circle cx=\"817\" cy=\"472\" r=\"20\" fill=\"#fde68a\" stroke=\"#ca8a04\" stroke-width=\"2\"/><rect x=\"0\" y=\"215\" width=\"800\" height=\"185\" fill=\"#f8e4cf\"/><path d=\"M0 240 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M0 270 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M0 300 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M0 330 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M0 365 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M0 390 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0 q 25 10 50 0 q 25 -10 50 0\" fill=\"none\" stroke=\"#e7b0a4\" stroke-width=\"3\"/><path d=\"M540 355 C600 340 700 372 800 352\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"20\" stroke-linecap=\"round\"/><path d=\"M540 355 C600 340 700 372 800 352\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"13\" stroke-linecap=\"round\"/><path d=\"M425 300 Q470 284 515 300 Q470 316 425 300 Z\" fill=\"#fdba74\" stroke=\"#9a3412\" stroke-width=\"3\"/><ellipse cx=\"470\" cy=\"300\" rx=\"9\" ry=\"5\" fill=\"#9a3412\"/><rect x=\"0\" y=\"150\" width=\"800\" height=\"65\" fill=\"#f1d3b3\"/><rect x=\"0\" y=\"146\" width=\"800\" height=\"6\" fill=\"#e2c3a0\"/><rect x=\"4\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"47\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"90\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"133\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"176\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"219\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"262\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"305\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"348\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"391\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"434\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"477\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"520\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"563\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"606\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"649\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"692\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"735\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"778\" y=\"156\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"25\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"68\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"111\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"154\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"197\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"240\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"283\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"326\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"369\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"412\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"455\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"498\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"541\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"584\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"627\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"670\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"713\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"756\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#f6e0c8\" stroke=\"#c9a27e\" stroke-width=\"2\"/><rect x=\"369\" y=\"184\" width=\"39\" height=\"24\" rx=\"9\" fill=\"#fbe7d2\" stroke=\"#7c4a1e\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"191\" r=\"3\" fill=\"#5b3412\"/><circle cx=\"390\" cy=\"196\" r=\"3\" fill=\"#5b3412\"/><circle cx=\"398\" cy=\"190\" r=\"3\" fill=\"#5b3412\"/><circle cx=\"385\" cy=\"201\" r=\"3\" fill=\"#5b3412\"/><path d=\"M330 212 Q345 200 372 198 M330 212 Q318 196 300 192 M330 212 Q340 222 362 214\" fill=\"none\" stroke=\"#5b3412\" stroke-width=\"4\" stroke-linecap=\"round\"/><ellipse cx=\"330\" cy=\"213\" rx=\"15\" ry=\"10\" fill=\"#7c4a1e\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"350\" cy=\"203\" r=\"3\" fill=\"#3b1d0a\"/><circle cx=\"360\" cy=\"200\" r=\"3\" fill=\"#3b1d0a\"/><line x1=\"0\" y1=\"215\" x2=\"800\" y2=\"215\" stroke=\"#a8795a\" stroke-width=\"2\"/><rect x=\"560\" y=\"68\" width=\"220\" height=\"16\" fill=\"#bae6fd\" stroke=\"#0284c7\" stroke-width=\"3\" opacity=\"0.9\"/><polyline points=\"610.0,8.0 603.3,15.7 617.7,22.3 604.0,30.3 618.3,37.0 604.7,45.0 612.0,52.0\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"4\" stroke-linejoin=\"round\"/><polygon points=\"612.6,66.0 604.0,52.4 620.0,51.6\" fill=\"#7c3aed\"/><path d=\"M598 62 L626 62 M604 56 L620 66 M620 56 L604 66\" stroke=\"#7c3aed\" stroke-width=\"3\"/><polyline points=\"712.0,8.0 706.0,21.0 721.0,32.2 708.0,45.8 723.0,57.0 710.0,70.6 725.0,81.8 712.0,95.4 727.0,106.6 714.0,120.2 722.0,132.0\" fill=\"none\" stroke=\"#0d9488\" stroke-width=\"4\" stroke-linejoin=\"round\"/><polygon points=\"723.1,146.0 714.0,132.6 730.0,131.4\" fill=\"#0d9488\"/><polyline points=\"150.0,15.0 147.5,30.9 165.0,40.8 155.8,58.8 173.4,68.7 164.1,86.6 181.7,96.5 172.5,114.4 190.0,124.3 180.8,142.3 198.4,152.2 189.1,170.1 200.0,182.0\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"4\" stroke-linejoin=\"round\"/><polygon points=\"204.0,195.4 192.3,184.3 207.7,179.7\" fill=\"#7c3aed\"/><polyline points=\"255.0,15.0 253.3,33.7 271.7,46.3 263.3,67.0 281.7,79.7 273.3,100.3 291.7,113.0 283.3,133.7 301.7,146.3 293.3,167.0 311.7,179.7 303.3,200.3 321.7,213.0 313.3,233.7 331.7,246.3 323.3,267.0 341.7,279.7 333.3,300.3 345.0,315.0\" fill=\"none\" stroke=\"#0d9488\" stroke-width=\"4\" stroke-linejoin=\"round\"/><polygon points=\"349.0,328.4 337.3,317.3 352.7,312.7\" fill=\"#0d9488\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"690\" y=\"490\">Subcutis</text><text x=\"560\" y=\"142\">Indoors</text><text x=\"80\" y=\"142\">Direct sun</text></g>",
+   "labels": [
+    {
+     "name": "UVB",
+     "accept": [
+      "UVB radiation",
+      "ultraviolet B",
+      "UV-B"
+     ],
+     "function": "Shorter band (280-315 nm); causes sunburn and the delayed tan",
+     "x": 176,
+     "y": 100
+    },
+    {
+     "name": "UVA",
+     "accept": [
+      "UVA radiation",
+      "ultraviolet A",
+      "UV-A"
+     ],
+     "function": "Longer band (315-400 nm); drives photoaging and immediate darkening",
+     "x": 295,
+     "y": 150,
+     "lx": 310,
+     "ly": 95
+    },
+    {
+     "name": "Window glass",
+     "accept": [
+      "glass",
+      "standard window glass",
+      "car window"
+     ],
+     "function": "Stops the shorter UV band but lets the longer band through",
+     "x": 660,
+     "y": 76,
+     "lx": 655,
+     "ly": 112
+    },
+    {
+     "name": "Epidermis",
+     "accept": [
+      "epidermal layer"
+     ],
+     "function": "Outer layer where sunburn injury and later peeling occur",
+     "x": 60,
+     "y": 150,
+     "lx": 40,
+     "ly": 105
+    },
+    {
+     "name": "Keratinocyte",
+     "accept": [
+      "keratinocytes",
+      "epidermal keratinocyte"
+     ],
+     "function": "Receives transferred pigment; makes beta-endorphin after UV",
+     "x": 398,
+     "y": 196,
+     "lx": 455,
+     "ly": 120
+    },
+    {
+     "name": "Melanocyte",
+     "accept": [
+      "melanocytes"
+     ],
+     "function": "Makes melanin in melanosomes; up-regulated 2-3 days after sun",
+     "x": 326,
+     "y": 214,
+     "lx": 250,
+     "ly": 262
+    },
+    {
+     "name": "Dermis",
+     "accept": [
+      "dermal layer",
+      "collagenous dermis"
+     ],
+     "function": "Collagen-rich layer whose loss causes wrinkles and atrophy",
+     "x": 120,
+     "y": 320
+    },
+    {
+     "name": "Fibroblast",
+     "accept": [
+      "fibroblasts",
+      "dermal fibroblast"
+     ],
+     "function": "Collagen factory destroyed by free radicals in photoaging",
+     "x": 470,
+     "y": 300,
+     "lx": 520,
+     "ly": 255
+    },
+    {
+     "name": "Dermal blood vessel",
+     "accept": [
+      "blood vessel",
+      "vessel",
+      "cutaneous vasculature",
+      "dermal vessel"
+     ],
+     "function": "Loses its collagen cushion with age; bruises as solar purpura",
+     "x": 680,
+     "y": 358,
+     "lx": 680,
+     "ly": 310
+    }
+   ]
+  },
+  {
+   "title": "Where sun-related skin findings appear (schematic body map)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/><path d=\"M290 230 Q400 200 510 230 L540 300 L530 540 L270 540 L260 300 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><path d=\"M365 150 L435 150 L445 222 Q400 232 355 222 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><ellipse cx=\"400\" cy=\"95\" rx=\"62\" ry=\"75\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><path d=\"M340 70 Q400 0 460 70 Q430 40 400 42 Q370 40 340 70 Z\" fill=\"#6b4a2e\"/><circle cx=\"378\" cy=\"92\" r=\"4\" fill=\"#3b1d0a\"/><circle cx=\"422\" cy=\"92\" r=\"4\" fill=\"#3b1d0a\"/><path d=\"M385 135 Q400 143 415 135\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"3\"/><path d=\"M292 232 L250 250 L205 395 L240 405 L272 300 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><path d=\"M205 395 L130 500 L162 515 L240 405 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><ellipse cx=\"128\" cy=\"530\" rx=\"34\" ry=\"24\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><path d=\"M508 232 L550 250 L595 395 L560 405 L528 300 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><path d=\"M595 395 L670 500 L638 515 L560 405 Z\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><ellipse cx=\"672\" cy=\"530\" rx=\"34\" ry=\"24\" fill=\"#f1d3b3\" stroke=\"#b98a62\" stroke-width=\"3\"/><ellipse cx=\"382\" cy=\"58\" rx=\"10\" ry=\"6\" fill=\"#f9a8a8\" stroke=\"#b91c1c\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/><ellipse cx=\"416\" cy=\"52\" rx=\"10\" ry=\"6\" fill=\"#f9a8a8\" stroke=\"#b91c1c\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/><circle cx=\"362\" cy=\"108\" r=\"2.6\" fill=\"#1f2937\"/><circle cx=\"368\" cy=\"116\" r=\"2.6\" fill=\"#1f2937\"/><circle cx=\"356\" cy=\"118\" r=\"2.6\" fill=\"#1f2937\"/><circle cx=\"438\" cy=\"108\" r=\"2.6\" fill=\"#1f2937\"/><circle cx=\"432\" cy=\"116\" r=\"2.6\" fill=\"#1f2937\"/><circle cx=\"444\" cy=\"118\" r=\"2.6\" fill=\"#1f2937\"/><path d=\"M330 225 L470 225 L400 330 Z\" fill=\"#b45f3c\" opacity=\"0.55\"/><path d=\"M360 170 L378 170 L376 222 L356 222 Z M422 170 L440 170 L444 222 L424 222 Z\" fill=\"#b45f3c\" opacity=\"0.55\"/><circle cx=\"441\" cy=\"436\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"414\" cy=\"458\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"373\" cy=\"414\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"406\" cy=\"454\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"419\" cy=\"433\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"365\" cy=\"448\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"445\" cy=\"420\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"435\" cy=\"432\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"401\" cy=\"427\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"450\" cy=\"431\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"439\" cy=\"456\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"399\" cy=\"440\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"434\" cy=\"435\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"388\" cy=\"469\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"438\" cy=\"415\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"427\" cy=\"441\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"378\" cy=\"437\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"427\" cy=\"425\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"361\" cy=\"434\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"407\" cy=\"456\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"428\" cy=\"468\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"447\" cy=\"465\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"438\" cy=\"442\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"363\" cy=\"419\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"420\" cy=\"416\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"392\" cy=\"417\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"376\" cy=\"467\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"418\" cy=\"415\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"375\" cy=\"459\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"410\" cy=\"428\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"446\" cy=\"421\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"405\" cy=\"439\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"413\" cy=\"441\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"396\" cy=\"450\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"393\" cy=\"421\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"415\" cy=\"426\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"448\" cy=\"454\" r=\"2.8\" fill=\"#dc2626\"/><circle cx=\"380\" cy=\"454\" r=\"2.8\" fill=\"#dc2626\"/><ellipse cx=\"610\" cy=\"440\" rx=\"14\" ry=\"9\" fill=\"#7e22ce\" opacity=\"0.7\"/><ellipse cx=\"630\" cy=\"470\" rx=\"11\" ry=\"7\" fill=\"#7e22ce\" opacity=\"0.7\"/><circle cx=\"115\" cy=\"522\" r=\"4.5\" fill=\"#92400e\"/><circle cx=\"132\" cy=\"532\" r=\"4.5\" fill=\"#92400e\"/><circle cx=\"142\" cy=\"520\" r=\"4.5\" fill=\"#92400e\"/><circle cx=\"122\" cy=\"540\" r=\"4.5\" fill=\"#92400e\"/><circle cx=\"660\" cy=\"522\" r=\"8\" fill=\"#fefce8\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"684\" cy=\"532\" r=\"8\" fill=\"#fefce8\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><path d=\"M664 542 l10 -3\" stroke=\"#991b1b\" stroke-width=\"3\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"20\" y=\"30\">Anterior view</text><text x=\"60\" y=\"470\">Dorsal hand</text><text x=\"680\" y=\"470\">Dorsal hand</text></g>",
+   "labels": [
+    {
+     "name": "Actinic keratosis",
+     "accept": [
+      "actinic keratoses",
+      "solar keratosis",
+      "solar keratoses",
+      "AK"
+     ],
+     "function": "Rough precancerous lesion from UV-induced DNA mutations",
+     "x": 382,
+     "y": 58,
+     "lx": 270,
+     "ly": 50
+    },
+    {
+     "name": "Favre-Racouchot syndrome",
+     "accept": [
+      "Favre-Racouchot",
+      "Favre Racouchot syndrome"
+     ],
+     "function": "Comedonal lesions over the zygomatic cheeks",
+     "x": 440,
+     "y": 113,
+     "lx": 540,
+     "ly": 110
+    },
+    {
+     "name": "Poikiloderma of Civatte",
+     "accept": [
+      "poikiloderma",
+      "Civatte"
+     ],
+     "function": "V-shaped red-brown pigment with the central neck spared",
+     "x": 400,
+     "y": 262,
+     "lx": 560,
+     "ly": 200
+    },
+    {
+     "name": "Polymorphous light eruption",
+     "accept": [
+      "PMLE",
+      "polymorphic light eruption",
+      "sun allergy"
+     ],
+     "function": "Itchy minute papules each spring on skin covered all winter",
+     "x": 405,
+     "y": 440,
+     "lx": 330,
+     "ly": 505
+    },
+    {
+     "name": "Solar purpura",
+     "accept": [
+      "actinic purpura",
+      "senile purpura"
+     ],
+     "function": "Bruises after trivial trauma once dermal support is lost",
+     "x": 610,
+     "y": 440,
+     "lx": 720,
+     "ly": 400
+    },
+    {
+     "name": "Solar lentigines",
+     "accept": [
+      "solar lentigo",
+      "lentigines",
+      "lentigo",
+      "sun spots"
+     ],
+     "function": "Flat brown macules from long-term sun exposure",
+     "x": 128,
+     "y": 528,
+     "lx": 60,
+     "ly": 420
+    },
+    {
+     "name": "Porphyria cutanea tarda",
+     "accept": [
+      "PCT"
+     ],
+     "function": "Fragile bullae and scars; elevated 24-hour urine porphyrins",
+     "x": 672,
+     "y": 527,
+     "lx": 760,
+     "ly": 500
+    }
+   ]
+  }
+ ]
+}

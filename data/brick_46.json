@@ -1,0 +1,186 @@
+{
+ "brick": 46,
+ "title": "Inflammatory Skin Diseases",
+ "diagrams": [
+  {
+   "title": "Lichenoid pattern: a flat-topped papule in cross-section (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"40\" y=\"150\" width=\"720\" height=\"320\" fill=\"#ecd2b8\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M40 150 L200 150 C230 150 240 105 270 105 L530 105 C560 105 570 150 600 150 L760 150 L760 300 L760 300 L740 270 L720 270 L700 300 L680 300 L660 270 L640 270 L620 300 L600 300 L580 270 L560 270 L540 300 L520 300 L500 270 L480 270 L460 300 L440 300 L420 270 L400 270 L380 300 L360 300 L340 270 L320 270 L300 300 L280 300 L260 270 L240 270 L220 300 L200 300 L180 270 L160 270 L140 300 L120 300 L100 270 L80 270 L60 300 L40 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<path d=\"M40 150 L200 150 C230 150 240 105 270 105 L530 105 C560 105 570 150 600 150 L760 150 L760 60 L40 60 Z\" fill=\"#f8f5ee\"/>\n<path d=\"M40 150 L200 150 C230 150 240 105 270 105 L530 105 C560 105 570 150 600 150 L760 150\" fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<ellipse cx=\"70\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"104\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"138\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"172\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"206\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"240\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"274\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"308\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"342\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"376\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"410\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"444\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"478\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"512\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"546\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"580\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"614\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"648\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"682\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"716\" cy=\"175\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"70\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"104\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"138\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"172\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"206\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"240\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"274\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"308\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"342\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"376\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"410\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"444\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"478\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"512\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"546\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"580\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"614\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"648\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"682\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"716\" cy=\"205\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"70\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"104\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"138\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"172\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"206\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"240\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"274\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"308\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"342\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"376\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"410\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"444\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"478\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"512\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"546\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"580\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"614\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"648\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"682\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"716\" cy=\"235\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"290\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"324\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"358\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"392\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"426\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"460\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<ellipse cx=\"494\" cy=\"135\" rx=\"11\" ry=\"7\" fill=\"none\" stroke=\"#c9a27e\" stroke-width=\"1.5\"/>\n<rect x=\"43.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"63.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"83.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"103.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"123.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"143.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"163.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"183.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"203.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"223.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"243.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"263.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"283.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"303.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"323.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"343.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"363.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"383.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"403.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"423.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"443.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"463.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"483.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"503.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"523.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"543.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#f5e6c8\" stroke=\"#8b5e3c\" stroke-width=\"2\" stroke-dasharray=\"3 2\"/>\n<rect x=\"563.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"583.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"603.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"623.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"643.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"663.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"683.0\" y=\"285.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"703.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"723.0\" y=\"255.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<rect x=\"743.0\" y=\"270.0\" width=\"14\" height=\"12\" rx=\"2\" fill=\"#d4a373\" stroke=\"#8b5e3c\" stroke-width=\"2\"/>\n<g stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\"><path d=\"M300 112 L340 116 M360 110 L392 118 M410 112 L452 110 M470 116 L505 111\"/></g>\n<g stroke=\"#ffffff\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M318 116 L330 108 M430 110 L440 118\"/></g>\n<path d=\"M60 345 C200 337 320 353 460 345 S680 339 740 345\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<path d=\"M60 367 C200 359 320 375 460 367 S680 361 740 367\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<path d=\"M60 389 C200 381 320 397 460 389 S680 383 740 389\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<path d=\"M60 411 C200 403 320 419 460 411 S680 405 740 411\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<path d=\"M60 433 C200 425 320 441 460 433 S680 427 740 433\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<path d=\"M60 455 C200 447 320 463 460 455 S680 449 740 455\" fill=\"none\" stroke=\"#d6b394\" stroke-width=\"2\"/>\n<circle cx=\"318\" cy=\"309\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"368\" cy=\"310\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"266\" cy=\"319\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"530\" cy=\"333\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"482\" cy=\"313\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"411\" cy=\"315\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"299\" cy=\"309\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"311\" cy=\"337\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"502\" cy=\"333\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"493\" cy=\"312\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"341\" cy=\"327\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"472\" cy=\"335\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"518\" cy=\"308\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"433\" cy=\"329\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"402\" cy=\"311\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"392\" cy=\"308\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"535\" cy=\"335\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"415\" cy=\"316\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"527\" cy=\"325\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"519\" cy=\"335\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"403\" cy=\"319\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"431\" cy=\"320\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"295\" cy=\"316\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"497\" cy=\"307\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"259\" cy=\"327\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"332\" cy=\"324\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"391\" cy=\"317\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"554\" cy=\"312\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"373\" cy=\"312\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"441\" cy=\"315\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"355\" cy=\"331\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"344\" cy=\"325\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"525\" cy=\"309\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"264\" cy=\"313\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"482\" cy=\"327\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"319\" cy=\"317\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"300\" cy=\"321\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"258\" cy=\"329\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"523\" cy=\"338\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"473\" cy=\"339\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"251\" cy=\"315\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"544\" cy=\"332\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"372\" cy=\"338\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"437\" cy=\"334\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"336\" cy=\"312\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"383\" cy=\"310\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"363\" cy=\"339\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"348\" cy=\"305\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"259\" cy=\"311\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"488\" cy=\"318\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"335\" cy=\"308\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"549\" cy=\"320\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"309\" cy=\"307\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"262\" cy=\"311\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"455\" cy=\"310\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"258\" cy=\"322\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"322\" cy=\"340\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"283\" cy=\"324\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"485\" cy=\"319\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"551\" cy=\"322\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"320\" cy=\"319\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"256\" cy=\"320\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"322\" cy=\"336\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"503\" cy=\"322\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"255\" cy=\"314\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"320\" cy=\"312\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"317\" cy=\"335\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"289\" cy=\"307\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"533\" cy=\"325\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<circle cx=\"552\" cy=\"319\" r=\"5\" fill=\"#5b21b6\" stroke=\"#ffffff\" stroke-width=\"1\"/>\n<g><circle cx=\"610\" cy=\"395\" r=\"9\" fill=\"#fb7185\" stroke=\"#be123c\" stroke-width=\"2\"/><circle cx=\"607\" cy=\"395\" r=\"3\" fill=\"#7f1d1d\"/><circle cx=\"614\" cy=\"395\" r=\"3\" fill=\"#7f1d1d\"/></g>\n<g><circle cx=\"650\" cy=\"420\" r=\"9\" fill=\"#fb7185\" stroke=\"#be123c\" stroke-width=\"2\"/><circle cx=\"647\" cy=\"420\" r=\"3\" fill=\"#7f1d1d\"/><circle cx=\"654\" cy=\"420\" r=\"3\" fill=\"#7f1d1d\"/></g>\n<g><circle cx=\"690\" cy=\"390\" r=\"9\" fill=\"#fb7185\" stroke=\"#be123c\" stroke-width=\"2\"/><circle cx=\"687\" cy=\"390\" r=\"3\" fill=\"#7f1d1d\"/><circle cx=\"694\" cy=\"390\" r=\"3\" fill=\"#7f1d1d\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"48\" y=\"490\">Schematic cross-section of a flat-topped papule (not to scale)</text></g>",
+   "labels": [
+    {
+     "name": "Wickham's striae",
+     "accept": [
+      "wickham striae",
+      "wickhams striae",
+      "wickham's stria"
+     ],
+     "function": "White surface dots and lines that mark lichen planus papules",
+     "x": 392,
+     "y": 116,
+     "lx": 392,
+     "ly": 60
+    },
+    {
+     "name": "Epidermis",
+     "accept": [
+      "epidermal layer"
+     ],
+     "function": "Layer that necroses and sloughs off in SJS/TEN",
+     "x": 120,
+     "y": 205,
+     "lx": 120,
+     "ly": 100
+    },
+    {
+     "name": "Basal keratinocytes",
+     "accept": [
+      "basal keratinocyte",
+      "basal cells",
+      "basal layer"
+     ],
+     "function": "Cells damaged by the immune attack in lichenoid disease",
+     "x": 410,
+     "y": 261,
+     "lx": 640,
+     "ly": 225
+    },
+    {
+     "name": "Dermal-epidermal junction",
+     "accept": [
+      "DEJ",
+      "dermoepidermal junction",
+      "basement membrane zone"
+     ],
+     "function": "Interface where lichenoid inflammation concentrates",
+     "x": 160,
+     "y": 291,
+     "lx": 120,
+     "ly": 340
+    },
+    {
+     "name": "Lymphocytic infiltrate",
+     "accept": [
+      "lymphocytes",
+      "lymphocyte infiltrate",
+      "band-like infiltrate"
+     ],
+     "function": "Immune cells whose attack defines the lichenoid pattern",
+     "x": 400,
+     "y": 325,
+     "lx": 400,
+     "ly": 410
+    },
+    {
+     "name": "Dermis",
+     "accept": [
+      "dermal layer"
+     ],
+     "function": "Layer that becomes sclerotic in LSetA",
+     "x": 210,
+     "y": 420,
+     "lx": 250,
+     "ly": 450
+    },
+    {
+     "name": "Eosinophils",
+     "accept": [
+      "eosinophil"
+     ],
+     "function": "Biopsy clue favoring a drug cause over idiopathic LP",
+     "x": 650,
+     "y": 420,
+     "lx": 700,
+     "ly": 455
+    }
+   ]
+  },
+  {
+   "title": "Where each eruption classically appears (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<path d=\"M200 118 L150 290 L168 296 L212 160 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<path d=\"M300 118 L350 290 L332 296 L288 160 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"157\" cy=\"306\" r=\"13\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/><circle cx=\"343\" cy=\"306\" r=\"13\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<path d=\"M205 300 L210 462 L244 462 L248 318 L252 318 L256 462 L290 462 L295 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<rect x=\"198\" y=\"112\" width=\"104\" height=\"196\" rx=\"22\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<rect x=\"238\" y=\"96\" width=\"24\" height=\"20\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"250\" cy=\"66\" r=\"34\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<ellipse cx=\"226\" cy=\"472\" rx=\"22\" ry=\"10\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/><ellipse cx=\"274\" cy=\"472\" rx=\"22\" ry=\"10\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"238\" cy=\"60\" r=\"3\" fill=\"#3b1d0a\"/><circle cx=\"262\" cy=\"60\" r=\"3\" fill=\"#3b1d0a\"/>\n<path d=\"M239 82 Q250 88 261 82\" fill=\"none\" stroke=\"#b45353\" stroke-width=\"3\"/>\n<path d=\"M540 118 L490 290 L508 296 L552 160 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<path d=\"M640 118 L690 290 L672 296 L628 160 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"497\" cy=\"306\" r=\"13\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/><circle cx=\"683\" cy=\"306\" r=\"13\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<path d=\"M545 300 L550 462 L584 462 L588 318 L592 318 L596 462 L630 462 L635 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<rect x=\"538\" y=\"112\" width=\"104\" height=\"196\" rx=\"22\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<rect x=\"578\" y=\"96\" width=\"24\" height=\"20\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"590\" cy=\"66\" r=\"34\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<ellipse cx=\"566\" cy=\"472\" rx=\"22\" ry=\"10\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/><ellipse cx=\"614\" cy=\"472\" rx=\"22\" ry=\"10\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"3\"/>\n<circle cx=\"256\" cy=\"86\" r=\"5\" fill=\"#6b21a8\" stroke=\"#3b0764\" stroke-width=\"1.5\"/>\n<polygon points=\"150,275 154,273 158,276 157,281 151,282\" fill=\"#7e22ce\"/>\n<polygon points=\"158,281 162,279 166,282 165,287 159,288\" fill=\"#7e22ce\"/>\n<polygon points=\"146,285 150,283 154,286 153,291 147,292\" fill=\"#7e22ce\"/>\n<polygon points=\"154,269 158,267 162,270 161,275 155,276\" fill=\"#7e22ce\"/>\n<circle cx=\"237\" cy=\"191\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"263\" cy=\"183\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"254\" cy=\"213\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"217\" cy=\"228\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"215\" cy=\"221\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"217\" cy=\"185\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"245\" cy=\"262\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"222\" cy=\"198\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"261\" cy=\"275\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"257\" cy=\"217\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"288\" cy=\"180\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"279\" cy=\"205\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"223\" cy=\"187\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"236\" cy=\"261\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"226\" cy=\"236\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"262\" cy=\"214\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"255\" cy=\"182\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"217\" cy=\"197\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"265\" cy=\"220\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"237\" cy=\"236\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"247\" cy=\"206\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"274\" cy=\"248\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"231\" cy=\"235\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"253\" cy=\"267\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"269\" cy=\"205\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"288\" cy=\"187\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"245\" cy=\"254\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"224\" cy=\"226\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"215\" cy=\"245\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"272\" cy=\"235\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"280\" cy=\"208\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"266\" cy=\"237\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"257\" cy=\"223\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"278\" cy=\"274\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"249\" cy=\"245\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"217\" cy=\"249\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"262\" cy=\"279\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"276\" cy=\"205\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"242\" cy=\"245\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"214\" cy=\"223\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"225\" cy=\"187\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"217\" cy=\"256\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"222\" cy=\"201\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"242\" cy=\"266\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<circle cx=\"218\" cy=\"222\" r=\"2.6\" fill=\"#e11d48\" opacity=\"0.8\"/>\n<ellipse cx=\"250\" cy=\"312\" rx=\"10\" ry=\"7\" fill=\"#ffffff\" stroke=\"#d1d5db\" stroke-width=\"1.5\"/>\n<circle cx=\"272\" cy=\"335\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"272\" cy=\"344\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"271\" cy=\"353\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"271\" cy=\"362\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"270\" cy=\"371\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"270\" cy=\"380\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"269\" cy=\"389\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"269\" cy=\"398\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"268\" cy=\"407\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"268\" cy=\"416\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"268\" cy=\"425\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"267\" cy=\"434\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"267\" cy=\"443\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"266\" cy=\"452\" r=\"3\" fill=\"#f9a8b4\" stroke=\"#be123c\" stroke-width=\"1\"/>\n<circle cx=\"222\" cy=\"470\" r=\"6\" fill=\"none\" stroke=\"#db2777\" stroke-width=\"2.5\"/><circle cx=\"236\" cy=\"473\" r=\"4\" fill=\"none\" stroke=\"#db2777\" stroke-width=\"2\"/>\n<ellipse cx=\"610\" cy=\"150\" rx=\"11\" ry=\"7\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1.5\"/>\n<ellipse cx=\"574\" cy=\"180\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 180)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"185\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 185)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"180\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 180)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"185\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 185)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"574\" cy=\"202\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 202)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"207\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 207)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"202\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 202)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"207\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 207)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"574\" cy=\"224\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 224)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"229\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 229)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"224\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 224)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"229\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 229)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"574\" cy=\"246\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 246)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"251\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 251)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"246\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 246)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"251\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 251)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"574\" cy=\"268\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 268)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"273\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 273)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"268\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 268)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"273\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 273)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"574\" cy=\"290\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 574 290)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"558\" cy=\"295\" rx=\"6\" ry=\"3.5\" transform=\"rotate(-25 558 295)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"606\" cy=\"290\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 606 290)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<ellipse cx=\"622\" cy=\"295\" rx=\"6\" ry=\"3.5\" transform=\"rotate(25 622 295)\" fill=\"#fda4af\" stroke=\"#e11d48\" stroke-width=\"1\"/>\n<line x1=\"590\" y1=\"120\" x2=\"590\" y2=\"300\" stroke=\"#c9a27e\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"16\" font-weight=\"700\"><text x=\"210\" y=\"24\">Anterior</text><text x=\"545\" y=\"24\">Posterior</text></g>",
+   "labels": [
+    {
+     "name": "Fixed drug eruption",
+     "accept": [
+      "FDE",
+      "fixed drug reaction"
+     ],
+     "function": "Recurs at the same site with each re-exposure to the culprit",
+     "x": 256,
+     "y": 86,
+     "lx": 370,
+     "ly": 70
+    },
+    {
+     "name": "Lichen planus",
+     "accept": [
+      "LP"
+     ],
+     "function": "Purple pruritic polygonal papules; linked to hepatitis C",
+     "x": 156,
+     "y": 280,
+     "lx": 70,
+     "ly": 230
+    },
+    {
+     "name": "Simple drug eruption",
+     "accept": [
+      "morbilliform drug eruption",
+      "morbilliform exanthem",
+      "exanthematous drug eruption"
+     ],
+     "function": "Morbilliform rash days after a new medication; face spared",
+     "x": 262,
+     "y": 225,
+     "lx": 400,
+     "ly": 200
+    },
+    {
+     "name": "Lichen sclerosus et atrophicus",
+     "accept": [
+      "lichen sclerosus",
+      "LSetA",
+      "LS&A",
+      "LSA"
+     ],
+     "function": "Hypopigmented, thinned vulvar plaques in postmenopausal women",
+     "x": 250,
+     "y": 312,
+     "lx": 130,
+     "ly": 360
+    },
+    {
+     "name": "Lichen striatus",
+     "accept": [],
+     "function": "Single line of papules in a child; resolves in about a year",
+     "x": 270,
+     "y": 400,
+     "lx": 380,
+     "ly": 400
+    },
+    {
+     "name": "Granuloma annulare",
+     "accept": [
+      "GA"
+     ],
+     "function": "Non-scaly ring-shaped plaques with firm borders",
+     "x": 222,
+     "y": 470,
+     "lx": 120,
+     "ly": 465
+    },
+    {
+     "name": "Pityriasis rosea",
+     "accept": [
+      "PR"
+     ],
+     "function": "Oval patches along skin tension lines after a herald patch",
+     "x": 606,
+     "y": 224,
+     "lx": 740,
+     "ly": 200
+    }
+   ]
+  }
+ ]
+}

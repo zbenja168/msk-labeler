@@ -278,5 +278,157 @@
   "title": "MSK: Septic Arthritis",
   "diagrams": 2,
   "labels": 13
+ },
+ {
+  "num": 36,
+  "week": 5,
+  "session": 1,
+  "title": "Histology of the Skin",
+  "diagrams": 2,
+  "labels": 21
+ },
+ {
+  "num": 37,
+  "week": 5,
+  "session": 1,
+  "title": "Description of Skin Lesions",
+  "diagrams": 3,
+  "labels": 26
+ },
+ {
+  "num": 38,
+  "week": 5,
+  "session": 1,
+  "title": "Sunlight and the Skin",
+  "diagrams": 2,
+  "labels": 16
+ },
+ {
+  "num": 39,
+  "week": 5,
+  "session": 1,
+  "title": "Disorders of Pigmentation",
+  "diagrams": 3,
+  "labels": 23
+ },
+ {
+  "num": 40,
+  "week": 5,
+  "session": 1,
+  "title": "Cutaneous Fungal Infections",
+  "diagrams": 3,
+  "labels": 22
+ },
+ {
+  "num": 42,
+  "week": 5,
+  "session": 2,
+  "title": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+  "diagrams": 3,
+  "labels": 21
+ },
+ {
+  "num": 43,
+  "week": 5,
+  "session": 2,
+  "title": "Skin Cancer: Malignant Melanoma",
+  "diagrams": 2,
+  "labels": 18
+ },
+ {
+  "num": 44,
+  "week": 5,
+  "session": 2,
+  "title": "Benign Skin Lesions",
+  "diagrams": 2,
+  "labels": 17
+ },
+ {
+  "num": 45,
+  "week": 5,
+  "session": 2,
+  "title": "Anatomy of the Face and Scalp",
+  "diagrams": 3,
+  "labels": 27
+ },
+ {
+  "num": 46,
+  "week": 6,
+  "session": 1,
+  "title": "Inflammatory Skin Diseases",
+  "diagrams": 2,
+  "labels": 14
+ },
+ {
+  "num": 47,
+  "week": 6,
+  "session": 1,
+  "title": "Vesiculobullous Skin Disorders",
+  "diagrams": 2,
+  "labels": 13
+ },
+ {
+  "num": 48,
+  "week": 6,
+  "session": 1,
+  "title": "Dermatitis",
+  "diagrams": 2,
+  "labels": 15
+ },
+ {
+  "num": 49,
+  "week": 6,
+  "session": 1,
+  "title": "Urticaria and Pruritus",
+  "diagrams": 3,
+  "labels": 22
+ },
+ {
+  "num": 50,
+  "week": 6,
+  "session": 2,
+  "title": "Psoriasis and Psoriatic Arthritis",
+  "diagrams": 3,
+  "labels": 22
+ },
+ {
+  "num": 51,
+  "week": 6,
+  "session": 2,
+  "title": "The Skin in Autoimmune Diseases",
+  "diagrams": 2,
+  "labels": 18
+ },
+ {
+  "num": 52,
+  "week": 6,
+  "session": 2,
+  "title": "Cutaneous T cell Lymphoma",
+  "diagrams": 2,
+  "labels": 15
+ },
+ {
+  "num": 53,
+  "week": 6,
+  "session": 3,
+  "title": "Diseases of the Hair and Nails",
+  "diagrams": 3,
+  "labels": 20
+ },
+ {
+  "num": 54,
+  "week": 6,
+  "session": 3,
+  "title": "Acne, Rosacea, and Other Follicular Disorders",
+  "diagrams": 2,
+  "labels": 15
+ },
+ {
+  "num": 55,
+  "week": 6,
+  "session": 3,
+  "title": "Infestations, Bites, & Stings",
+  "diagrams": 3,
+  "labels": 25
  }
 ]

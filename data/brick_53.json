@@ -1,0 +1,256 @@
+{
+ "brick": 53,
+ "title": "Diseases of the Hair and Nails",
+ "diagrams": [
+  {
+   "title": "Hair cycle: the follicle through its three phases (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><rect x=\"20\" y=\"118\" width=\"760\" height=\"22\" fill=\"#e9c39c\" stroke=\"#9a6b43\" stroke-width=\"2\"/><rect x=\"20\" y=\"140\" width=\"760\" height=\"340\" fill=\"#f7e3cc\" stroke=\"#9a6b43\" stroke-width=\"2\"/><path d=\"M162 120 L162 374 M198 120 L198 374\" stroke=\"#9a6b43\" stroke-width=\"3\" fill=\"none\"/><rect x=\"164\" y=\"121\" width=\"32\" height=\"253\" fill=\"#e7b48a\"/><ellipse cx=\"180\" cy=\"400\" rx=\"36\" ry=\"32\" fill=\"#d48a5c\" stroke=\"#9a6b43\" stroke-width=\"3\"/><ellipse cx=\"180\" cy=\"420\" rx=\"13\" ry=\"12\" fill=\"#f7e3cc\" stroke=\"#9a6b43\" stroke-width=\"2\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"398\" stroke=\"#3b2a1a\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M382 120 L382 276 M418 120 L418 276\" stroke=\"#9a6b43\" stroke-width=\"3\" fill=\"none\"/><rect x=\"384\" y=\"121\" width=\"32\" height=\"155\" fill=\"#e7b48a\"/><ellipse cx=\"400\" cy=\"290\" rx=\"20\" ry=\"20\" fill=\"#e0a77a\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M400 310 L400 370\" stroke=\"#9a6b43\" stroke-width=\"3\" stroke-dasharray=\"4 4\"/><line x1=\"400\" y1=\"40\" x2=\"400\" y2=\"285\" stroke=\"#3b2a1a\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M602 120 L602 222 M638 120 L638 222\" stroke=\"#9a6b43\" stroke-width=\"3\" fill=\"none\"/><rect x=\"604\" y=\"121\" width=\"32\" height=\"100\" fill=\"#e7b48a\"/><path d=\"M602 222 Q620 250 638 222\" stroke=\"#9a6b43\" stroke-width=\"3\" fill=\"#e7b48a\"/><line x1=\"620\" y1=\"40\" x2=\"620\" y2=\"215\" stroke=\"#3b2a1a\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"620\" cy=\"220\" r=\"11\" fill=\"#f2e6c8\" stroke=\"#3b2a1a\" stroke-width=\"3\"/><path d=\"M620 247 L620 290\" stroke=\"#9a6b43\" stroke-width=\"3\" stroke-dasharray=\"4 4\"/><g stroke=\"#0f766e\" stroke-width=\"3\" fill=\"none\"><path d=\"M245 200 L330 200\"/><path d=\"M465 200 L550 200\"/><path d=\"M620 440 Q400 500 190 465\"/></g><g fill=\"#0f766e\"><polygon points=\"330,193 344,200 330,207\"/><polygon points=\"550,193 564,200 550,207\"/><polygon points=\"196,457 182,463 195,472\"/></g><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"660\" y=\"112\">Skin surface</text><text x=\"690\" y=\"470\">Dermis</text><text x=\"300\" y=\"20\">Hair cycle, left to right, then back</text></g>",
+   "labels": [
+    {
+     "name": "Hair shaft",
+     "accept": [
+      "shaft"
+     ],
+     "function": "Narrows proximally in exclamation point hairs",
+     "x": 180,
+     "y": 75,
+     "lx": 110,
+     "ly": 60
+    },
+    {
+     "name": "Follicular opening",
+     "accept": [
+      "follicle opening",
+      "follicular ostium",
+      "ostium"
+     ],
+     "function": "Still visible in non-scarring loss; lost permanently in scarring",
+     "x": 400,
+     "y": 121,
+     "lx": 470,
+     "ly": 80
+    },
+    {
+     "name": "Anagen",
+     "accept": [
+      "anagen follicle",
+      "anagen phase",
+      "anagen hair",
+      "growth phase"
+     ],
+     "function": "Active growth for 2-6 years; about 85% of scalp hairs",
+     "x": 168,
+     "y": 260,
+     "lx": 110,
+     "ly": 260
+    },
+    {
+     "name": "Hair bulb",
+     "accept": [
+      "bulb",
+      "follicle bulb"
+     ],
+     "function": "Swarmed by T lymphocytes in alopecia areata",
+     "x": 205,
+     "y": 395,
+     "lx": 280,
+     "ly": 395
+    },
+    {
+     "name": "Catagen",
+     "accept": [
+      "catagen follicle",
+      "catagen phase",
+      "catagen hair"
+     ],
+     "function": "2-week phase: growth stops and the follicle shrinks",
+     "x": 416,
+     "y": 240,
+     "lx": 470,
+     "ly": 290
+    },
+    {
+     "name": "Telogen",
+     "accept": [
+      "telogen follicle",
+      "telogen phase",
+      "telogen hair",
+      "resting phase"
+     ],
+     "function": "3-4 month rest ending in shedding; about 15% of hairs",
+     "x": 636,
+     "y": 170,
+     "lx": 700,
+     "ly": 200
+    }
+   ]
+  },
+  {
+   "title": "The nail unit: side and top views (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M30 160 L250 160 Q330 158 400 166 Q470 175 470 250 Q470 330 380 340 L30 340 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M60 215 L300 220 Q360 222 380 250 Q385 275 360 288 L300 292 L60 295 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/><path d=\"M215 178 L400 180 Q440 186 448 205 L440 210 Q420 196 395 194 L215 194 Z\" fill=\"#e8958c\" stroke=\"#b4544c\" stroke-width=\"2\"/><path d=\"M150 178 L215 178 L215 196 L160 200 Q140 190 150 178 Z\" fill=\"#b8574f\" stroke=\"#7f2f29\" stroke-width=\"2\"/><path d=\"M155 168 L400 166 Q445 170 465 196 L452 202 Q432 180 398 178 L155 178 Z\" fill=\"#fbe3e0\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M30 160 L170 160 Q215 160 230 166 L220 172 Q200 170 160 170 L150 176 L30 176 Z\" fill=\"#e2b48c\" stroke=\"#9a6b43\" stroke-width=\"2.5\"/><g stroke=\"#0f766e\" stroke-width=\"2\" stroke-dasharray=\"6 4\" fill=\"none\"><path d=\"M228 165 L120 140\"/><path d=\"M228 165 L360 160\"/><path d=\"M190 156 Q228 140 268 158\"/></g><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"40\" y=\"380\">Side (sagittal) view</text><text x=\"40\" y=\"200\">Proximal</text><text x=\"410\" y=\"380\">Distal</text><text x=\"120\" y=\"260\">bone</text></g><path d=\"M560 470 L560 190 Q560 90 650 90 Q740 90 740 190 L740 470 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M590 320 L590 175 Q590 115 650 115 Q710 115 710 175 L710 320 Z\" fill=\"#fbe3e0\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M590 320 Q650 340 710 320 L710 335 Q650 355 590 335 Z\" fill=\"#e2b48c\" stroke=\"#9a6b43\" stroke-width=\"2\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"590\" y=\"495\">Top (dorsal) view</text></g>",
+   "labels": [
+    {
+     "name": "Proximal nail fold",
+     "accept": [
+      "proximal fold",
+      "posterior nail fold"
+     ],
+     "function": "Pushed back repetitively in habit-tic deformity",
+     "x": 100,
+     "y": 166,
+     "lx": 100,
+     "ly": 110
+    },
+    {
+     "name": "Nail matrix",
+     "accept": [
+      "matrix",
+      "germinal matrix"
+     ],
+     "function": "Makes the plate; a brief halt here leaves Beau's lines",
+     "x": 180,
+     "y": 190,
+     "lx": 190,
+     "ly": 240
+    },
+    {
+     "name": "Lovibond's angle",
+     "accept": [
+      "Lovibond angle",
+      "hyponychial angle",
+      "Lovibonds angle"
+     ],
+     "function": "Exceeds 180 degrees in clubbing",
+     "x": 228,
+     "y": 148,
+     "lx": 250,
+     "ly": 110
+    },
+    {
+     "name": "Nail bed",
+     "accept": [
+      "bed"
+     ],
+     "function": "Site of splinter hemorrhages and of psoriasis or fungus",
+     "x": 330,
+     "y": 189,
+     "lx": 330,
+     "ly": 250
+    },
+    {
+     "name": "Nail plate",
+     "accept": [
+      "plate",
+      "nail body"
+     ],
+     "function": "Lifts up in onycholysis; concave in iron deficiency",
+     "x": 650,
+     "y": 210
+    },
+    {
+     "name": "Lateral nail fold",
+     "accept": [
+      "lateral fold",
+      "nail fold",
+      "paronychium"
+     ],
+     "function": "Opened by a hangnail; abscess site in acute paronychia",
+     "x": 575,
+     "y": 250,
+     "lx": 520,
+     "ly": 300
+    }
+   ]
+  },
+  {
+   "title": "Common nail findings and their causes (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/><path d=\"M40 220 L40 80 Q40 20 100 20 Q160 20 160 80 L160 220 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M60 190 L60 75 Q60 40 100 40 Q140 40 140 75 L140 190 Z\" fill=\"#fbfaf6\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M60 90 L60 75 Q60 40 100 40 Q140 40 140 75 L140 90 Z\" fill=\"#f6c9c4\"/><path d=\"M60 190 L60 75 Q60 40 100 40 Q140 40 140 75 L140 190 Z\" fill=\"none\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M240 220 L240 80 Q240 20 300 20 Q360 20 360 80 L360 220 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M260 190 L260 75 Q260 40 300 40 Q340 40 340 75 L340 190 Z\" fill=\"#fbfaf6\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M260 115 L260 75 Q260 40 300 40 Q340 40 340 75 L340 115 Z\" fill=\"#e8a07a\"/><path d=\"M260 190 L260 75 Q260 40 300 40 Q340 40 340 75 L340 190 Z\" fill=\"none\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M440 220 L440 80 Q440 20 500 20 Q560 20 560 80 L560 220 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M460 190 L460 75 Q460 40 500 40 Q540 40 540 75 L540 190 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M460 130 Q500 120 540 130\" stroke=\"#7f2f29\" stroke-width=\"5\" fill=\"none\"/><path d=\"M460 136 Q500 126 540 136\" stroke=\"#fde7e4\" stroke-width=\"2\" fill=\"none\"/><path d=\"M640 220 L640 80 Q640 20 700 20 Q760 20 760 80 L760 220 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M660 190 L660 75 Q660 40 700 40 Q740 40 740 75 L740 190 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><line x1=\"682\" y1=\"65\" x2=\"683\" y2=\"93\" stroke=\"#5b0f0f\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"696\" y1=\"80\" x2=\"697\" y2=\"108\" stroke=\"#5b0f0f\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"712\" y1=\"60\" x2=\"713\" y2=\"88\" stroke=\"#5b0f0f\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"724\" y1=\"90\" x2=\"725\" y2=\"118\" stroke=\"#5b0f0f\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M40 470 L40 330 Q40 270 100 270 Q160 270 160 330 L160 470 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M60 440 L60 325 Q60 290 100 290 Q140 290 140 325 L140 440 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M60 360 Q80 345 100 362 Q120 350 140 358 L140 325 Q140 290 100 290 Q60 290 60 325 Z\" fill=\"#f3ecd0\"/><path d=\"M60 440 L60 325 Q60 290 100 290 Q140 290 140 325 L140 440 Z\" fill=\"none\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M240 470 L240 330 Q240 270 300 270 Q360 270 360 330 L360 470 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M260 440 L260 325 Q260 290 300 290 Q340 290 340 325 L340 440 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><ellipse cx=\"302\" cy=\"375\" rx=\"30\" ry=\"38\" fill=\"#3f1530\" opacity=\"0.9\"/><path d=\"M260 440 L260 325 Q260 290 300 290 Q340 290 340 325 L340 440 Z\" fill=\"none\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M465 480 L465 360 Q450 280 505 280 Q565 285 545 370 L530 480 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M528 420 Q558 370 550 320 Q540 288 512 284 L514 292 Q536 298 542 325 Q548 370 522 416 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><path d=\"M665 480 L665 330 Q670 285 705 285 Q730 288 735 320 L735 480 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b43\" stroke-width=\"3\"/><path d=\"M740 315 Q708 370 740 425 L730 425 Q700 370 728 315 Z\" fill=\"#f6c9c4\" stroke=\"#a8504a\" stroke-width=\"2.5\"/><g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\"><text x=\"455\" y=\"495\">side view</text><text x=\"655\" y=\"495\">side view</text><text x=\"10\" y=\"14\">Distal = up</text></g>",
+   "labels": [
+    {
+     "name": "Terry's nails",
+     "accept": [
+      "Terry nails",
+      "Terrys nails"
+     ],
+     "function": "Proximal 3/4 or more pale on many nails: liver disease",
+     "x": 100,
+     "y": 140
+    },
+    {
+     "name": "Half and half nails",
+     "accept": [
+      "Lindsay's nails",
+      "Lindsay nails",
+      "half-and-half nails"
+     ],
+     "function": "Proximal half pale on many nails: renal disease",
+     "x": 300,
+     "y": 150
+    },
+    {
+     "name": "Beau's lines",
+     "accept": [
+      "Beau lines",
+      "Beaus lines"
+     ],
+     "function": "Transverse groove on all nails after a major illness or surgery",
+     "x": 500,
+     "y": 126
+    },
+    {
+     "name": "Splinter hemorrhages",
+     "accept": [
+      "splinter hemorrhage",
+      "splinter haemorrhages"
+     ],
+     "function": "Linear dark streaks; in many digits, think endocarditis",
+     "x": 712,
+     "y": 75
+    },
+    {
+     "name": "Onycholysis",
+     "accept": [
+      "nail plate separation"
+     ],
+     "function": "Plate lifts off the bed; one nail usually trauma, many need workup",
+     "x": 100,
+     "y": 320
+    },
+    {
+     "name": "Subungual hematoma",
+     "accept": [
+      "subungual haematoma"
+     ],
+     "function": "Blood under the plate; drain it if 25% or more or painful",
+     "x": 302,
+     "y": 375
+    },
+    {
+     "name": "Clubbing",
+     "accept": [
+      "digital clubbing",
+      "nail clubbing"
+     ],
+     "function": "Widened tip, angle over 180 degrees: lung cancer",
+     "x": 548,
+     "y": 345
+    },
+    {
+     "name": "Koilonychia",
+     "accept": [
+      "spoon nails",
+      "spoon nail"
+     ],
+     "function": "Concave spoon-shaped plate: iron deficiency anemia",
+     "x": 718,
+     "y": 372,
+     "lx": 760,
+     "ly": 440
+    }
+   ]
+  }
+ ]
+}

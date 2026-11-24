@@ -1,0 +1,199 @@
+{
+ "brick": 54,
+ "title": "Acne, Rosacea, and Other Follicular Disorders",
+ "diagrams": [
+  {
+   "title": "Pilosebaceous unit in the skin (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"40\" y=\"330\" width=\"720\" height=\"150\" fill=\"#fef3c7\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"90\" cy=\"370\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"170\" cy=\"400\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"250\" cy=\"365\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"320\" cy=\"420\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"470\" cy=\"430\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"560\" cy=\"380\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"640\" cy=\"420\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"710\" cy=\"370\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"130\" cy=\"450\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"600\" cy=\"455\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"700\" cy=\"450\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<ellipse cx=\"240\" cy=\"455\" rx=\"34\" ry=\"22\" fill=\"#fde68a\" stroke=\"#d6b86a\" stroke-width=\"2\"/>\n<rect x=\"40\" y=\"118\" width=\"720\" height=\"212\" fill=\"#f1d3b3\" stroke=\"#c2410c\" stroke-opacity=\"0.25\" stroke-width=\"2\"/>\n<path d=\"M40 80 L760 80 L760 118 L40 118 Z\" fill=\"#e8b48a\" stroke=\"#9a5b34\" stroke-width=\"3\"/>\n<path d=\"M40 80 L760 80\" stroke=\"#7c4a2b\" stroke-width=\"4\"/>\n<path d=\"M392 268 C 450 240, 520 180, 600 122 L 612 134 C 530 196, 460 258, 398 286 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"2.5\"/>\n<path d=\"M398 170 L 430 180\" stroke=\"#b45309\" stroke-width=\"6\"/>\n<ellipse cx=\"452\" cy=\"170\" rx=\"26\" ry=\"20\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n<ellipse cx=\"478\" cy=\"200\" rx=\"24\" ry=\"20\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n<ellipse cx=\"448\" cy=\"210\" rx=\"22\" ry=\"18\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n<ellipse cx=\"480\" cy=\"160\" rx=\"18\" ry=\"16\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"2.5\"/>\n<path d=\"M360 80 L 360 330 C 340 345, 345 385, 380 392 C 415 385, 420 345, 400 330 L 400 80 Z\" fill=\"#f5e6d3\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<path d=\"M370 392 C 372 372, 388 372, 390 392\" fill=\"#f1d3b3\" stroke=\"#7c4a2b\" stroke-width=\"2\"/>\n<path d=\"M380 375 L 380 80 L 384 20\" stroke=\"#3f2a1d\" stroke-width=\"9\" stroke-linecap=\"round\" fill=\"none\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"600\" y=\"40\">Skin surface (air above)</text><text x=\"48\" y=\"497\" font-size=\"13\">Deep</text></g>",
+   "labels": [
+    {
+     "name": "Hair shaft",
+     "accept": [
+      "hair",
+      "shaft"
+     ],
+     "function": "Keratinized strand projecting above the skin surface",
+     "x": 382,
+     "y": 45,
+     "lx": 300,
+     "ly": 40
+    },
+    {
+     "name": "Epidermis",
+     "accept": [
+      "epidermal layer"
+     ],
+     "function": "Outer layer; releases cathelicidin after toll-like receptor activation",
+     "x": 150,
+     "y": 99
+    },
+    {
+     "name": "Dermis",
+     "accept": [
+      "dermal layer"
+     ],
+     "function": "Middle layer that receives spilled contents when a plugged pore bursts",
+     "x": 200,
+     "y": 230
+    },
+    {
+     "name": "Subcutaneous tissue",
+     "accept": [
+      "subcutis",
+      "hypodermis",
+      "subcutaneous fat"
+     ],
+     "function": "Deepest layer that hidradenitis inflammation can reach",
+     "x": 320,
+     "y": 420,
+     "lx": 420,
+     "ly": 470
+    },
+    {
+     "name": "Hair follicle",
+     "accept": [
+      "follicle"
+     ],
+     "function": "Tube that clogs with keratin and sebum in acne and hidradenitis",
+     "x": 362,
+     "y": 250,
+     "lx": 290,
+     "ly": 290
+    },
+    {
+     "name": "Sebaceous gland",
+     "accept": [
+      "sebaceous glands",
+      "oil gland"
+     ],
+     "function": "Androgen receptors drive its hyperplasia and oil output at puberty",
+     "x": 478,
+     "y": 200,
+     "lx": 560,
+     "ly": 230
+    },
+    {
+     "name": "Arrector pili muscle",
+     "accept": [
+      "arrector pili",
+      "arrector pili muscles"
+     ],
+     "function": "Small smooth muscle; third part of the pilosebaceous unit",
+     "x": 520,
+     "y": 186,
+     "lx": 640,
+     "ly": 170
+    }
+   ]
+  },
+  {
+   "title": "Acne lesions from plugged follicle to nodule (schematic)",
+   "viewBox": "0 0 900 480",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"480\" fill=\"#f8f5ee\"/>\n<rect x=\"20\" y=\"140\" width=\"860\" height=\"250\" fill=\"#f1d3b3\"/>\n<rect x=\"20\" y=\"390\" width=\"860\" height=\"70\" fill=\"#fef3c7\"/>\n<rect x=\"20\" y=\"110\" width=\"860\" height=\"30\" fill=\"#e8b48a\"/>\n<path d=\"M20 110 L880 110\" stroke=\"#7c4a2b\" stroke-width=\"4\"/>\n<path d=\"M92 110 L 92 330 C 84 348, 136 348, 128 330 L 128 110\" fill=\"#f5e6d3\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<ellipse cx=\"110\" cy=\"190\" rx=\"14\" ry=\"34\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<circle cx=\"105\" cy=\"175\" r=\"3\" fill=\"#7e22ce\"/>\n<circle cx=\"114\" cy=\"185\" r=\"3\" fill=\"#7e22ce\"/>\n<circle cx=\"107\" cy=\"200\" r=\"3\" fill=\"#7e22ce\"/>\n<circle cx=\"116\" cy=\"205\" r=\"3\" fill=\"#7e22ce\"/>\n<circle cx=\"110\" cy=\"215\" r=\"3\" fill=\"#7e22ce\"/>\n<ellipse cx=\"144\" cy=\"185\" rx=\"16\" ry=\"12\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"2\"/>\n<path d=\"M266 140 C 230 160, 228 250, 266 290 L 266 330 C 258 348, 302 348, 294 330 L 294 290 C 332 250, 330 160, 294 140 Z\" fill=\"#f5e6d3\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<ellipse cx=\"280\" cy=\"210\" rx=\"34\" ry=\"60\" fill=\"#fffbeb\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M240 110 C 260 96, 300 96, 320 110\" fill=\"#e8b48a\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<rect x=\"424\" y=\"108\" width=\"52\" height=\"34\" fill=\"#f8f5ee\"/>\n<path d=\"M424 110 C 400 160, 398 250, 436 290 L 436 330 C 428 348, 472 348, 464 330 L 464 290 C 502 250, 500 160, 476 110\" fill=\"#f5e6d3\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<path d=\"M426 112 C 406 160, 412 250, 450 270 C 488 250, 494 160, 474 112 Z\" fill=\"#fffbeb\" stroke=\"#a16207\" stroke-width=\"2\"/>\n<path d=\"M426 112 C 438 100, 462 100, 474 112 L 478 130 L 422 130 Z\" fill=\"#27272a\"/>\n<path d=\"M560 110 C 570 60, 670 60, 680 110 Z\" fill=\"#e8b48a\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<ellipse cx=\"620\" cy=\"96\" rx=\"34\" ry=\"20\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2.5\"/>\n<path d=\"M604 140 L 604 230 M604 262 L 604 330 C 596 348, 644 348, 636 330 L 636 140\" fill=\"none\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<path d=\"M604 230 L 594 238 M604 262 L 592 254\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<ellipse cx=\"560\" cy=\"246\" rx=\"38\" ry=\"26\" fill=\"#fecaca\" fill-opacity=\"0.7\"/>\n<circle cx=\"570\" cy=\"240\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<circle cx=\"554\" cy=\"252\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<circle cx=\"540\" cy=\"238\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<circle cx=\"576\" cy=\"256\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<circle cx=\"550\" cy=\"228\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<circle cx=\"562\" cy=\"262\" r=\"5\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"1.5\"/>\n<path d=\"M776 110 L 776 200 C 768 218, 812 218, 804 200 L 804 110\" fill=\"#f5e6d3\" stroke=\"#7c4a2b\" stroke-width=\"3\"/>\n<ellipse cx=\"790\" cy=\"290\" rx=\"62\" ry=\"62\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"3\"/>\n<ellipse cx=\"790\" cy=\"290\" rx=\"34\" ry=\"34\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"30\" y=\"32\">Skin surface at the dark line; left to right = worsening</text><text x=\"28\" y=\"474\" font-size=\"13\">Deep</text></g>",
+   "labels": [
+    {
+     "name": "Microcomedo",
+     "accept": [
+      "micro-comedo",
+      "microcomedone"
+     ],
+     "function": "Earliest plug: anaerobic, lipid-rich space where bacteria multiply",
+     "x": 97,
+     "y": 212,
+     "lx": 55,
+     "ly": 300
+    },
+    {
+     "name": "Cutibacterium acnes",
+     "accept": [
+      "C. acnes",
+      "C acnes",
+      "Propionibacterium acnes",
+      "P. acnes"
+     ],
+     "function": "Gram-positive flora; triggers the NLRP3 inflammasome and TLRs",
+     "x": 114,
+     "y": 185,
+     "lx": 175,
+     "ly": 60
+    },
+    {
+     "name": "Closed comedo",
+     "accept": [
+      "whitehead",
+      "closed comedone",
+      "closed comedones"
+     ],
+     "function": "Debris-filled follicle with skin covering the pore",
+     "x": 280,
+     "y": 230,
+     "lx": 280,
+     "ly": 375
+    },
+    {
+     "name": "Open comedo",
+     "accept": [
+      "blackhead",
+      "open comedone",
+      "open comedones"
+     ],
+     "function": "Debris-filled follicle exposed to air, giving a dark top",
+     "x": 450,
+     "y": 118,
+     "lx": 420,
+     "ly": 50
+    },
+    {
+     "name": "Ruptured follicle wall",
+     "accept": [
+      "follicle rupture",
+      "ruptured follicle"
+     ],
+     "function": "Break that spills keratin, sebum and bacteria into the dermis",
+     "x": 604,
+     "y": 246,
+     "lx": 660,
+     "ly": 300
+    },
+    {
+     "name": "Neutrophils",
+     "accept": [
+      "neutrophil",
+      "PMNs"
+     ],
+     "function": "Cells recruited by IL-8 and IL-12 to the rupture site",
+     "x": 556,
+     "y": 250,
+     "lx": 500,
+     "ly": 330
+    },
+    {
+     "name": "Pustule",
+     "accept": [
+      "pustules"
+     ],
+     "function": "Superficial raised dome filled with white-yellow exudate",
+     "x": 620,
+     "y": 94,
+     "lx": 700,
+     "ly": 45
+    },
+    {
+     "name": "Nodule",
+     "accept": [
+      "cyst",
+      "nodulocystic lesion",
+      "acne cyst",
+      "nodule or cyst"
+     ],
+     "function": "Deep inflammatory lesion most likely to leave a scar",
+     "x": 790,
+     "y": 330,
+     "lx": 830,
+     "ly": 425
+    }
+   ]
+  }
+ ]
+}

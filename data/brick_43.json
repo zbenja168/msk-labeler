@@ -1,0 +1,228 @@
+{
+ "brick": 43,
+ "title": "Skin Cancer: Malignant Melanoma",
+ "diagrams": [
+  {
+   "title": "Melanoma depth and staging landmarks in the skin (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"40\" y=\"330\" width=\"720\" height=\"130\" fill=\"#fdf0b5\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<ellipse cx=\"100\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"100\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"170\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"170\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"240\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"240\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"310\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"310\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"380\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"380\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"450\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"450\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"520\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"520\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"590\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"590\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"660\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"660\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"730\" cy=\"365\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<ellipse cx=\"730\" cy=\"425\" rx=\"30\" ry=\"24\" fill=\"#fef9c3\" stroke=\"#ca8a04\" stroke-width=\"2\"/>\n<rect x=\"40\" y=\"190\" width=\"720\" height=\"140\" fill=\"#efc9b8\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M50 205 Q 200 197 400 205 T 750 205\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<path d=\"M50 227 Q 200 219 400 227 T 750 227\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<path d=\"M50 249 Q 200 241 400 249 T 750 249\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<path d=\"M50 271 Q 200 263 400 271 T 750 271\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<path d=\"M50 293 Q 200 285 400 293 T 750 293\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<path d=\"M50 315 Q 200 307 400 315 T 750 315\" fill=\"none\" stroke=\"#c2876f\" stroke-width=\"2\"/>\n<rect x=\"40\" y=\"128\" width=\"720\" height=\"62\" fill=\"#fbe7e3\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M60 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M100 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M140 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M180 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M220 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M260 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M300 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M340 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M380 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M420 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M460 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M500 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M540 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M580 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M620 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M660 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M700 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<path d=\"M740 140 q 8 12 0 24 q -8 12 0 22\" fill=\"none\" stroke=\"#e8b4a8\" stroke-width=\"1.5\"/>\n<rect x=\"40\" y=\"84\" width=\"720\" height=\"34\" fill=\"#f1d3b3\" stroke=\"#a8a29e\" stroke-width=\"1.5\"/>\n<rect x=\"40\" y=\"118\" width=\"720\" height=\"10\" fill=\"#c9956b\" stroke=\"#7c4a2a\" stroke-width=\"1.5\"/>\n<rect x=\"40\" y=\"72\" width=\"720\" height=\"12\" fill=\"#b07b4f\" stroke=\"#7c4a2a\" stroke-width=\"1.5\"/>\n<rect x=\"40\" y=\"60\" width=\"720\" height=\"12\" fill=\"#f7ecd9\" stroke=\"#a8a29e\" stroke-width=\"1.5\"/>\n<circle cx=\"50\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"64\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"78\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"92\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"106\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"120\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"134\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"148\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"162\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"176\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"190\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"204\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"218\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"232\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"246\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"260\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"274\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"288\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"302\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"316\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"330\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"344\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"358\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"372\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"386\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"400\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"414\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"428\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"442\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"456\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"470\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"484\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"498\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"512\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"526\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"540\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"554\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"568\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"582\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"596\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"610\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"624\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"638\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"652\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"666\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"680\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"694\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"708\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"722\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"736\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<circle cx=\"750\" cy=\"78\" r=\"1.8\" fill=\"#4a2a12\"/>\n<g><path d=\"M70 123 l -12 -14 M70 123 l 12 -14 M70 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<g><path d=\"M130 123 l -12 -14 M130 123 l 12 -14 M130 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"130\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<g><path d=\"M190 123 l -12 -14 M190 123 l 12 -14 M190 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"190\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<g><path d=\"M250 123 l -12 -14 M250 123 l 12 -14 M250 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<g><path d=\"M330 123 l -12 -14 M330 123 l 12 -14 M330 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"330\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<g><path d=\"M390 123 l -12 -14 M390 123 l 12 -14 M390 123 l 0 -18\" stroke=\"#3b2416\" stroke-width=\"2\"/><circle cx=\"390\" cy=\"123\" r=\"6\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1\"/></g>\n<path d=\"M480 60 L640 60 C 640 120 625 180 600 230 C 585 265 565 290 555 292 C 540 290 520 262 505 225 C 490 180 480 120 480 60 Z\" fill=\"#3b2416\" stroke=\"#1c0f08\" stroke-width=\"3\"/>\n<circle cx=\"520\" cy=\"110\" r=\"7\" fill=\"#5b3a26\" stroke=\"#7a5136\" stroke-width=\"1.5\"/>\n<circle cx=\"590\" cy=\"140\" r=\"8\" fill=\"#5b3a26\" stroke=\"#7a5136\" stroke-width=\"1.5\"/>\n<circle cx=\"550\" cy=\"200\" r=\"9\" fill=\"#5b3a26\" stroke=\"#7a5136\" stroke-width=\"1.5\"/>\n<circle cx=\"575\" cy=\"245\" r=\"7\" fill=\"#5b3a26\" stroke=\"#7a5136\" stroke-width=\"1.5\"/>\n<circle cx=\"530\" cy=\"160\" r=\"6\" fill=\"#5b3a26\" stroke=\"#7a5136\" stroke-width=\"1.5\"/>\n<path d=\"M515 60 Q 545 92 585 60 Z\" fill=\"#b91c1c\" stroke=\"#7f1d1d\" stroke-width=\"2\"/>\n<path d=\"M505 60 L515 52 L530 58 L545 50 L560 57 L575 51 L595 60\" fill=\"none\" stroke=\"#7f1d1d\" stroke-width=\"2\"/>\n<circle cx=\"660\" cy=\"112\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<circle cx=\"678\" cy=\"96\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<circle cx=\"700\" cy=\"106\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<circle cx=\"690\" cy=\"80\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<circle cx=\"720\" cy=\"92\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<circle cx=\"742\" cy=\"110\" r=\"5.5\" fill=\"#3b2416\" stroke=\"#fff\" stroke-width=\"1.2\"/>\n<line x1=\"440\" y1=\"78\" x2=\"440\" y2=\"292\" stroke=\"#0f766e\" stroke-width=\"4\"/>\n<line x1=\"428\" y1=\"78\" x2=\"452\" y2=\"78\" stroke=\"#0f766e\" stroke-width=\"4\"/><line x1=\"428\" y1=\"292\" x2=\"452\" y2=\"292\" stroke=\"#0f766e\" stroke-width=\"4\"/>\n<line x1=\"452\" y1=\"78\" x2=\"640\" y2=\"78\" stroke=\"#0f766e\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"452\" y1=\"292\" x2=\"555\" y2=\"292\" stroke=\"#0f766e\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/>\n<ellipse cx=\"690\" cy=\"255\" rx=\"30\" ry=\"16\" fill=\"#dcfce7\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<path d=\"M660 255 Q 640 250 625 240\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"3\"/>\n<text x=\"60\" y=\"488\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\">Normal skin (left) beside an invasive tumor with surface breakdown (right); not to scale</text>",
+   "labels": [
+    {
+     "name": "Melanocyte",
+     "accept": [
+      "melanocytes",
+      "normal melanocyte"
+     ],
+     "function": "Pigment-producing cell from which this cancer arises",
+     "x": 130,
+     "y": 123,
+     "lx": 70,
+     "ly": 30
+    },
+    {
+     "name": "Stratum granulosum",
+     "accept": [
+      "granular layer",
+      "stratum granulosa"
+     ],
+     "function": "Upper reference point for measuring tumor thickness",
+     "x": 200,
+     "y": 78,
+     "lx": 190,
+     "ly": 30
+    },
+    {
+     "name": "Stratum basale",
+     "accept": [
+      "basal layer",
+      "stratum germinativum"
+     ],
+     "function": "Deepest epidermal layer; normal home of pigment cells",
+     "x": 300,
+     "y": 123,
+     "lx": 310,
+     "ly": 30
+    },
+    {
+     "name": "Ulceration",
+     "accept": [
+      "ulcer",
+      "tumor ulceration"
+     ],
+     "function": "Surface breakdown; worrisome feature used in T staging",
+     "x": 550,
+     "y": 66,
+     "lx": 550,
+     "ly": 26
+    },
+    {
+     "name": "Pagetoid spread",
+     "accept": [
+      "pagetoid melanocytes",
+      "pagetoid"
+     ],
+     "function": "Atypical cells at all epidermal levels; favors malignancy",
+     "x": 700,
+     "y": 106,
+     "lx": 700,
+     "ly": 30
+    },
+    {
+     "name": "Breslow thickness",
+     "accept": [
+      "Breslow depth",
+      "Breslow"
+     ],
+     "function": "Single most important prognostic factor in invasive disease",
+     "x": 440,
+     "y": 200,
+     "lx": 395,
+     "ly": 240
+    },
+    {
+     "name": "Papillary dermis",
+     "accept": [
+      "papillary layer of dermis"
+     ],
+     "function": "Clark 2 if partly involved, Clark 3 if fully involved",
+     "x": 250,
+     "y": 160
+    },
+    {
+     "name": "Reticular dermis",
+     "accept": [
+      "reticular layer of dermis"
+     ],
+     "function": "Clark 4 when reached without entering the fat",
+     "x": 250,
+     "y": 262
+    },
+    {
+     "name": "Subcutaneous tissue",
+     "accept": [
+      "subcutis",
+      "hypodermis",
+      "subcutaneous fat"
+     ],
+     "function": "Clark 5, the deepest level of invasion",
+     "x": 250,
+     "y": 400
+    },
+    {
+     "name": "Lymphatic vessel",
+     "accept": [
+      "lymphatic",
+      "lymphatics",
+      "lymph vessel"
+     ],
+     "function": "Invaded more often as depth increases; route to nodes",
+     "x": 690,
+     "y": 255,
+     "lx": 720,
+     "ly": 300
+    }
+   ]
+  },
+  {
+   "title": "Targeted and immune therapy sites in melanoma (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"30\" y=\"50\" width=\"380\" height=\"410\" rx=\"40\" fill=\"#f1d3b3\" stroke=\"#9a3412\" stroke-width=\"4\"/>\n<ellipse cx=\"200\" cy=\"415\" rx=\"90\" ry=\"30\" fill=\"#e9c7a0\" stroke=\"#7c4a2a\" stroke-width=\"2.5\"/>\n<text x=\"140\" y=\"420\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\">proliferation, survival</text>\n<rect x=\"155\" y=\"73\" width=\"90\" height=\"44\" rx=\"22\" fill=\"#93c5fd\" stroke=\"#1d4ed8\" stroke-width=\"3\"/>\n<polygon points=\"150,175 175,150 225,150 250,175 225,200 175,200\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"3\"/>\n<polygon points=\"252,143 257,155 270,155 260,163 264,175 252,168 240,175 244,163 234,155 247,155\" fill=\"#dc2626\"/>\n<rect x=\"155\" y=\"231\" width=\"90\" height=\"48\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"3\"/>\n<ellipse cx=\"200\" cy=\"335\" rx=\"48\" ry=\"24\" fill=\"#a7f3d0\" stroke=\"#047857\" stroke-width=\"3\"/>\n<line x1=\"200\" y1=\"117\" x2=\"200\" y2=\"144\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"194,142 206,142 200,150\" fill=\"#3b1d0a\"/>\n<line x1=\"200\" y1=\"200\" x2=\"200\" y2=\"225\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"194,223 206,223 200,231\" fill=\"#3b1d0a\"/>\n<line x1=\"200\" y1=\"279\" x2=\"200\" y2=\"305\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"194,303 206,303 200,311\" fill=\"#3b1d0a\"/>\n<line x1=\"200\" y1=\"359\" x2=\"200\" y2=\"379\" stroke=\"#3b1d0a\" stroke-width=\"3\"/><polygon points=\"194,377 206,377 200,385\" fill=\"#3b1d0a\"/>\n<line x1=\"330\" y1=\"175\" x2=\"262\" y2=\"175\" stroke=\"#7c3aed\" stroke-width=\"4\"/><line x1=\"262\" y1=\"161\" x2=\"262\" y2=\"189\" stroke=\"#7c3aed\" stroke-width=\"5\"/>\n<rect x=\"330\" y=\"163\" width=\"40\" height=\"24\" rx=\"6\" fill=\"#ede9fe\" stroke=\"#7c3aed\" stroke-width=\"2\"/>\n<line x1=\"330\" y1=\"255\" x2=\"262\" y2=\"255\" stroke=\"#7c3aed\" stroke-width=\"4\"/><line x1=\"262\" y1=\"241\" x2=\"262\" y2=\"269\" stroke=\"#7c3aed\" stroke-width=\"5\"/>\n<rect x=\"330\" y=\"243\" width=\"40\" height=\"24\" rx=\"6\" fill=\"#ede9fe\" stroke=\"#7c3aed\" stroke-width=\"2\"/>\n<path d=\"M410 250 L440 250\" stroke=\"#9a3412\" stroke-width=\"5\"/><path d=\"M440 232 L440 268 L457 268 L457 232 Z\" fill=\"#fb923c\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<circle cx=\"640\" cy=\"260\" r=\"125\" fill=\"#c7d2fe\" stroke=\"#4338ca\" stroke-width=\"4\"/>\n<circle cx=\"660\" cy=\"270\" r=\"50\" fill=\"#a5b4fc\" stroke=\"#4338ca\" stroke-width=\"2\"/>\n<path d=\"M516 250 L500 250\" stroke=\"#4338ca\" stroke-width=\"5\"/><path d=\"M500 228 L482 228 L482 272 L500 272\" fill=\"none\" stroke=\"#1e3a8a\" stroke-width=\"6\"/>\n<path d=\"M712 158 L740 118 M740 118 L728 92 M740 118 L766 104\" fill=\"none\" stroke=\"#be185d\" stroke-width=\"7\" stroke-linecap=\"round\"/>\n<path d=\"M484 205 l 0 -18 m 0 0 l -10 -12 m 10 12 l 10 -12\" stroke=\"#7c3aed\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/>\n<path d=\"M772 140 l 0 18 m 0 -18 l -10 -12 m 10 12 l 10 -12\" stroke=\"#7c3aed\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/>\n<text x=\"60\" y=\"488\" font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\">Tumor cell (left) meets an effector immune cell (right); purple = drug blockade</text>",
+   "labels": [
+    {
+     "name": "RAS",
+     "accept": [
+      "Ras"
+     ],
+     "function": "Membrane GTPase that starts this kinase cascade",
+     "x": 200,
+     "y": 95,
+     "lx": 90,
+     "ly": 95
+    },
+    {
+     "name": "BRAF",
+     "accept": [
+      "B-Raf",
+      "RAF",
+      "BRAF V600E"
+     ],
+     "function": "Mutated in about half of cases, most often V600E",
+     "x": 200,
+     "y": 175,
+     "lx": 90,
+     "ly": 175
+    },
+    {
+     "name": "MEK",
+     "accept": [
+      "MAP2K",
+      "MEK1"
+     ],
+     "function": "Kinase blocked by trametinib and binimetinib",
+     "x": 200,
+     "y": 255,
+     "lx": 90,
+     "ly": 255
+    },
+    {
+     "name": "ERK",
+     "accept": [
+      "MAPK"
+     ],
+     "function": "Final kinase driving tumor cell survival",
+     "x": 200,
+     "y": 335,
+     "lx": 90,
+     "ly": 335
+    },
+    {
+     "name": "PD-L1",
+     "accept": [
+      "PDL1",
+      "programmed death ligand 1"
+     ],
+     "function": "Tumor ligand blocked by atezolizumab",
+     "x": 448,
+     "y": 250,
+     "lx": 430,
+     "ly": 330
+    },
+    {
+     "name": "PD-1",
+     "accept": [
+      "PD1",
+      "programmed death 1",
+      "programmed cell death protein 1"
+     ],
+     "function": "T-cell receptor blocked by nivolumab and pembrolizumab",
+     "x": 484,
+     "y": 260,
+     "lx": 525,
+     "ly": 180
+    },
+    {
+     "name": "CTLA-4",
+     "accept": [
+      "CTLA4"
+     ],
+     "function": "Inhibitory T-cell receptor blocked by ipilimumab",
+     "x": 740,
+     "y": 118,
+     "lx": 690,
+     "ly": 70
+    },
+    {
+     "name": "T cell",
+     "accept": [
+      "T lymphocyte",
+      "cytotoxic T cell",
+      "T-cell"
+     ],
+     "function": "Effector cell unleashed against the tumor by checkpoint blockade",
+     "x": 640,
+     "y": 360
+    }
+   ]
+  }
+ ]
+}

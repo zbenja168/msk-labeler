@@ -1,0 +1,358 @@
+{
+ "brick": 55,
+ "title": "Infestations, Bites, & Stings",
+ "diagrams": [
+  {
+   "title": "Skin cross-section: scabies burrow, nit and botfly lesion (schematic)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/> <rect x=\"20\" y=\"170\" width=\"760\" height=\"310\" fill=\"#f6dcc4\" stroke=\"#9a6b4a\" stroke-width=\"2\"/> <rect x=\"20\" y=\"130\" width=\"760\" height=\"60\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2\"/> <rect x=\"20\" y=\"122\" width=\"760\" height=\"12\" fill=\"#e9c9a3\" stroke=\"#9a6b4a\" stroke-width=\"2\"/> <path d=\"M60 128 Q90 150 140 148 L260 150 Q290 150 300 146\" fill=\"none\" stroke=\"#7c4a2a\" stroke-width=\"14\" stroke-linecap=\"round\" opacity=\"0.45\"/> <ellipse cx=\"150\" cy=\"149\" rx=\"7\" ry=\"4.5\" fill=\"#fffaf0\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/> <ellipse cx=\"175\" cy=\"149\" rx=\"7\" ry=\"4.5\" fill=\"#fffaf0\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/> <ellipse cx=\"200\" cy=\"149\" rx=\"7\" ry=\"4.5\" fill=\"#fffaf0\" stroke=\"#7c6a4f\" stroke-width=\"1.5\"/> <circle cx=\"90\" cy=\"143\" r=\"3.2\" fill=\"#4a2a12\"/> <circle cx=\"108\" cy=\"147\" r=\"3.2\" fill=\"#4a2a12\"/> <circle cx=\"122\" cy=\"143\" r=\"3.2\" fill=\"#4a2a12\"/> <g stroke=\"#3b1d0a\" stroke-width=\"2\"><path d=\"M292 140 l-10 -8 M292 152 l-10 8 M300 138 l-4 -10 M300 154 l-4 10 M312 140 l8 -8 M312 152 l8 8\"/></g> <ellipse cx=\"302\" cy=\"146\" rx=\"15\" ry=\"11\" fill=\"#fdf6e3\" stroke=\"#3b1d0a\" stroke-width=\"2\"/> <path d=\"M455 330 Q460 250 462 130\" fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"16\"/> <ellipse cx=\"455\" cy=\"340\" rx=\"16\" ry=\"14\" fill=\"#c08457\" stroke=\"#7c4a2a\" stroke-width=\"2\"/> <path d=\"M462 130 Q468 70 486 22\" fill=\"none\" stroke=\"#4a2a12\" stroke-width=\"5\"/> <ellipse cx=\"474\" cy=\"74\" rx=\"6\" ry=\"11\" fill=\"#fffaf0\" stroke=\"#7c6a4f\" stroke-width=\"2\" transform=\"rotate(18 474 74)\"/> <path d=\"M570 122 Q650 60 730 122\" fill=\"#ecb9a0\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"650\" cy=\"230\" rx=\"70\" ry=\"70\" fill=\"#f3c1b0\" stroke=\"#b45309\" stroke-width=\"2\"/> <g fill=\"#fffbeb\" stroke=\"#78350f\" stroke-width=\"2\"><ellipse cx=\"650\" cy=\"235\" rx=\"22\" ry=\"48\"/></g> <g stroke=\"#78350f\" stroke-width=\"1.5\"><path d=\"M630 210 h40 M628 228 h44 M628 246 h44 M632 264 h36\"/></g> <path d=\"M650 188 L650 96\" stroke=\"#3b1d0a\" stroke-width=\"5\"/> <circle cx=\"650\" cy=\"94\" r=\"5\" fill=\"#3b1d0a\"/> <g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"30\" y=\"30\">Above skin surface</text><text x=\"560\" y=\"470\">Schematic, not to scale</text></g>",
+   "labels": [
+    {
+     "name": "Burrow",
+     "accept": [
+      "scabies burrow",
+      "tunnel",
+      "mite burrow"
+     ],
+     "function": "Tunnel under the surface; classic in finger and toe webs",
+     "x": 230,
+     "y": 150,
+     "lx": 230,
+     "ly": 250
+    },
+    {
+     "name": "Female mite",
+     "accept": [
+      "mite",
+      "Sarcoptes scabiei",
+      "scabies mite",
+      "itch mite"
+     ],
+     "function": "Dermoscopy: flat triangle of head and four front legs",
+     "x": 304,
+     "y": 146,
+     "lx": 330,
+     "ly": 60
+    },
+    {
+     "name": "Eggs",
+     "accept": [
+      "mite eggs",
+      "scabies eggs",
+      "ova"
+     ],
+     "function": "Often visible on microscopy even when the parasite is not",
+     "x": 175,
+     "y": 149,
+     "lx": 160,
+     "ly": 60
+    },
+    {
+     "name": "Scybala",
+     "accept": [
+      "mite feces",
+      "feces",
+      "scybalum"
+     ],
+     "function": "Fecal pellets seen in a mineral oil scraping",
+     "x": 108,
+     "y": 146,
+     "lx": 70,
+     "ly": 250
+    },
+    {
+     "name": "Nit",
+     "accept": [
+      "nits",
+      "louse egg",
+      "lice egg",
+      "head louse egg"
+     ],
+     "function": "Cemented in place; unlike pseudonits, does not slide",
+     "x": 474,
+     "y": 74,
+     "lx": 380,
+     "ly": 40
+    },
+    {
+     "name": "Hair shaft",
+     "accept": [
+      "hair"
+     ],
+     "function": "Long, straight, low-sebum ones are highest risk for infestation",
+     "x": 466,
+     "y": 108,
+     "lx": 380,
+     "ly": 100
+    },
+    {
+     "name": "Botfly larva",
+     "accept": [
+      "larva",
+      "Dermatobia hominis",
+      "maggot",
+      "human botfly larva"
+     ],
+     "function": "Causes a boil-like lesion after travel to Latin America",
+     "x": 650,
+     "y": 250,
+     "lx": 540,
+     "ly": 380
+    },
+    {
+     "name": "Punctum",
+     "accept": [
+      "central punctum",
+      "opening",
+      "pore"
+     ],
+     "function": "Breathing tunnel to the surface; treat by excision or I&D",
+     "x": 650,
+     "y": 110,
+     "lx": 760,
+     "ly": 60
+    }
+   ]
+  },
+  {
+   "title": "Scabies distribution, anterior view (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/> <path d=\"M335 300 L396 312 L390 478 L358 478 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"368\" cy=\"492\" rx=\"28\" ry=\"11\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M342 146 L316 152 L272 318 L296 324 L338 205 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"282\" cy=\"348\" rx=\"17\" ry=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M465 300 L404 312 L410 478 L442 478 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"432\" cy=\"492\" rx=\"28\" ry=\"11\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M458 146 L484 152 L528 318 L504 324 L462 205 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"518\" cy=\"348\" rx=\"17\" ry=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M340 140 Q400 126 460 140 L472 300 Q400 322 328 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <rect x=\"386\" y=\"112\" width=\"28\" height=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"400\" cy=\"72\" rx=\"38\" ry=\"45\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <g fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"2\"><path d=\"M368 190 q8 10 16 0 M416 190 q8 10 16 0\"/><circle cx=\"400\" cy=\"250\" r=\"3\"/><path d=\"M388 318 q12 10 24 0\"/><path d=\"M270 352 l-4 18 M278 360 l-2 14 M286 361 l2 13 M294 355 l4 12\"/><path d=\"M530 352 l4 18 M522 360 l2 14 M514 361 l-2 13 M506 355 l-4 12\"/><path d=\"M350 494 v8 M362 496 v8 M374 496 v8 M386 494 v7 M450 494 v8 M438 496 v8 M426 496 v8 M414 494 v7\"/></g> <g fill=\"#3b1d0a\"><circle cx=\"386\" cy=\"68\" r=\"3\"/><circle cx=\"414\" cy=\"68\" r=\"3\"/></g> <g fill=\"#dc2626\" opacity=\"0.75\"><circle cx=\"274\" cy=\"368\" r=\"3.5\"/><circle cx=\"280\" cy=\"372\" r=\"3.5\"/><circle cx=\"520\" cy=\"368\" r=\"3.5\"/><circle cx=\"526\" cy=\"372\" r=\"3.5\"/><circle cx=\"286\" cy=\"322\" r=\"3.5\"/><circle cx=\"292\" cy=\"326\" r=\"3.5\"/><circle cx=\"508\" cy=\"322\" r=\"3.5\"/><circle cx=\"514\" cy=\"326\" r=\"3.5\"/><circle cx=\"348\" cy=\"160\" r=\"3.5\"/><circle cx=\"452\" cy=\"160\" r=\"3.5\"/><circle cx=\"354\" cy=\"168\" r=\"3.5\"/><circle cx=\"446\" cy=\"168\" r=\"3.5\"/><circle cx=\"372\" cy=\"196\" r=\"3.5\"/><circle cx=\"428\" cy=\"196\" r=\"3.5\"/><circle cx=\"392\" cy=\"256\" r=\"3.5\"/><circle cx=\"408\" cy=\"256\" r=\"3.5\"/><circle cx=\"400\" cy=\"262\" r=\"3.5\"/><circle cx=\"394\" cy=\"244\" r=\"3.5\"/><circle cx=\"396\" cy=\"314\" r=\"3.5\"/><circle cx=\"404\" cy=\"318\" r=\"3.5\"/><circle cx=\"400\" cy=\"309\" r=\"3.5\"/><circle cx=\"370\" cy=\"474\" r=\"3.5\"/><circle cx=\"430\" cy=\"474\" r=\"3.5\"/><circle cx=\"378\" cy=\"470\" r=\"3.5\"/><circle cx=\"422\" cy=\"470\" r=\"3.5\"/><circle cx=\"356\" cy=\"500\" r=\"3.5\"/><circle cx=\"368\" cy=\"502\" r=\"3.5\"/><circle cx=\"444\" cy=\"500\" r=\"3.5\"/><circle cx=\"432\" cy=\"502\" r=\"3.5\"/></g> <g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"20\" y=\"30\">Anterior view</text><text x=\"20\" y=\"545\">red dots = typical lesions</text></g>",
+   "labels": [
+    {
+     "name": "Finger web spaces",
+     "accept": [
+      "finger webs",
+      "interdigital spaces",
+      "webs of the fingers"
+     ],
+     "function": "Classic site of papules and burrows",
+     "x": 277,
+     "y": 370,
+     "lx": 170,
+     "ly": 400
+    },
+    {
+     "name": "Wrists",
+     "accept": [
+      "wrist",
+      "volar wrist"
+     ],
+     "function": "Rarely spared; examine with thenar and hypothenar skin",
+     "x": 289,
+     "y": 324,
+     "lx": 170,
+     "ly": 300
+    },
+    {
+     "name": "Axillae",
+     "accept": [
+      "axilla",
+      "underarms",
+      "underarm",
+      "armpit"
+     ],
+     "function": "Part of the circular distribution named after von Hebra",
+     "x": 450,
+     "y": 164,
+     "lx": 600,
+     "ly": 150
+    },
+    {
+     "name": "Breasts",
+     "accept": [
+      "breast",
+      "nipples",
+      "areolae"
+     ],
+     "function": "Upper limb of the circular truncal distribution",
+     "x": 372,
+     "y": 196,
+     "lx": 230,
+     "ly": 180
+    },
+    {
+     "name": "Periumbilical area",
+     "accept": [
+      "umbilicus",
+      "periumbilical",
+      "navel",
+      "belly button"
+     ],
+     "function": "Midline trunk site in the ring of lesions",
+     "x": 404,
+     "y": 252,
+     "lx": 600,
+     "ly": 250
+    },
+    {
+     "name": "Genitals",
+     "accept": [
+      "genitalia",
+      "groin",
+      "genital area",
+      "penis",
+      "scrotum"
+     ],
+     "function": "Look here for bite-like papules and nodules",
+     "x": 400,
+     "y": 316,
+     "lx": 600,
+     "ly": 340
+    },
+    {
+     "name": "Ankles",
+     "accept": [
+      "ankle"
+     ],
+     "function": "Lower-limb site of lesions along with the toe webs",
+     "x": 426,
+     "y": 472,
+     "lx": 600,
+     "ly": 440
+    },
+    {
+     "name": "Toe web spaces",
+     "accept": [
+      "toe webs",
+      "webs of the toes",
+      "interdigital toe spaces"
+     ],
+     "function": "Where the female burrows and lays eggs in the feet",
+     "x": 362,
+     "y": 501,
+     "lx": 220,
+     "ly": 510
+    },
+    {
+     "name": "Face and scalp",
+     "accept": [
+      "face",
+      "scalp",
+      "head",
+      "head and neck"
+     ],
+     "function": "Spared in adults and older children, but not in infants",
+     "x": 400,
+     "y": 60,
+     "lx": 560,
+     "ly": 60
+    }
+   ]
+  },
+  {
+   "title": "Where lice, bites and parasites appear, anterior view (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/> <path d=\"M335 300 L396 312 L390 478 L358 478 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"368\" cy=\"492\" rx=\"28\" ry=\"11\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M342 146 L316 152 L272 318 L296 324 L338 205 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"282\" cy=\"348\" rx=\"17\" ry=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M465 300 L404 312 L410 478 L442 478 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"432\" cy=\"492\" rx=\"28\" ry=\"11\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M458 146 L484 152 L528 318 L504 324 L462 205 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"518\" cy=\"348\" rx=\"17\" ry=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <path d=\"M340 140 Q400 126 460 140 L472 300 Q400 322 328 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <rect x=\"386\" y=\"112\" width=\"28\" height=\"26\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <ellipse cx=\"400\" cy=\"72\" rx=\"38\" ry=\"45\" fill=\"#f1d3b3\" stroke=\"#9a6b4a\" stroke-width=\"2.5\"/> <g fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"2\"><path d=\"M368 190 q8 10 16 0 M416 190 q8 10 16 0\"/><circle cx=\"400\" cy=\"250\" r=\"3\"/><path d=\"M388 318 q12 10 24 0\"/><path d=\"M270 352 l-4 18 M278 360 l-2 14 M286 361 l2 13 M294 355 l4 12\"/><path d=\"M530 352 l4 18 M522 360 l2 14 M514 361 l-2 13 M506 355 l-4 12\"/><path d=\"M350 494 v8 M362 496 v8 M374 496 v8 M386 494 v7 M450 494 v8 M438 496 v8 M426 496 v8 M414 494 v7\"/></g> <g fill=\"#3b1d0a\"><circle cx=\"386\" cy=\"68\" r=\"3\"/><circle cx=\"414\" cy=\"68\" r=\"3\"/></g> <path d=\"M362 50 Q400 14 438 50 Q420 34 400 34 Q380 34 362 50 Z\" fill=\"#6b4a2a\" stroke=\"#4a2a12\" stroke-width=\"2\"/> <ellipse cx=\"415\" cy=\"70\" rx=\"13\" ry=\"10\" fill=\"#e7a19a\" stroke=\"#b91c1c\" stroke-width=\"2\"/> <circle cx=\"414\" cy=\"68\" r=\"2.5\" fill=\"#3b1d0a\"/> <g fill=\"#b91c1c\"><circle cx=\"504\" cy=\"250\" r=\"5\"/><circle cx=\"498\" cy=\"268\" r=\"5\"/><circle cx=\"492\" cy=\"286\" r=\"5\"/></g> <g fill=\"#7e22ce\" opacity=\"0.6\"><ellipse cx=\"384\" cy=\"250\" rx=\"9\" ry=\"6\"/><ellipse cx=\"416\" cy=\"250\" rx=\"9\" ry=\"6\"/><ellipse cx=\"400\" cy=\"234\" rx=\"6\" ry=\"9\"/><ellipse cx=\"400\" cy=\"266\" rx=\"6\" ry=\"9\"/></g> <g fill=\"#dc2626\"><circle cx=\"392\" cy=\"306\" r=\"2.5\"/><circle cx=\"402\" cy=\"303\" r=\"2.5\"/><circle cx=\"410\" cy=\"308\" r=\"2.5\"/><circle cx=\"398\" cy=\"311\" r=\"2.5\"/></g> <g fill=\"#dc2626\"><circle cx=\"346\" cy=\"172\" r=\"2.5\"/><circle cx=\"352\" cy=\"182\" r=\"2.5\"/><circle cx=\"344\" cy=\"190\" r=\"2.5\"/><circle cx=\"350\" cy=\"200\" r=\"2.5\"/></g> <g fill=\"#dc2626\"><circle cx=\"420\" cy=\"440\" r=\"4\"/><circle cx=\"426\" cy=\"452\" r=\"4\"/><circle cx=\"416\" cy=\"458\" r=\"4\"/></g> <path d=\"M350 490 q6 -8 12 0 t12 0 t10 -4\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"3\"/> <g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"20\" y=\"30\">Anterior view</text></g>",
+   "labels": [
+    {
+     "name": "Head lice",
+     "accept": [
+      "pediculosis capitis",
+      "Pediculus humanus capitis",
+      "head louse"
+     ],
+     "function": "Nits glued to hair; spread by shared hats and brushes",
+     "x": 400,
+     "y": 30,
+     "lx": 280,
+     "ly": 40
+    },
+    {
+     "name": "Romana sign",
+     "accept": [
+      "chagoma",
+      "Chagas disease",
+      "periorbital edema",
+      "unilateral periorbital edema"
+     ],
+     "function": "Reduviid bug bite near the eye; Trypanosoma cruzi",
+     "x": 418,
+     "y": 72,
+     "lx": 560,
+     "ly": 70
+    },
+    {
+     "name": "Body lice",
+     "accept": [
+      "Pediculus humanus corporis",
+      "body louse",
+      "pediculosis corporis"
+     ],
+     "function": "Pinpoint torso and underarm bites; live in clothing seams",
+     "x": 348,
+     "y": 186,
+     "lx": 220,
+     "ly": 180
+    },
+    {
+     "name": "Bed bug bites",
+     "accept": [
+      "bed bugs",
+      "bedbugs",
+      "Cimex lectularius",
+      "breakfast lunch and dinner sign"
+     ],
+     "function": "Row of three or more night-time bites with a central apex",
+     "x": 498,
+     "y": 268,
+     "lx": 620,
+     "ly": 250
+    },
+    {
+     "name": "Thumbprint purpura",
+     "accept": [
+      "periumbilical purpura",
+      "disseminated strongyloidiasis",
+      "Strongyloides"
+     ],
+     "function": "Dissemination of a soil nematode in immunocompromised hosts",
+     "x": 416,
+     "y": 250,
+     "lx": 600,
+     "ly": 190
+    },
+    {
+     "name": "Pubic lice",
+     "accept": [
+      "Pthirus pubis",
+      "pubic louse",
+      "crab lice",
+      "pediculosis pubis"
+     ],
+     "function": "Sexually spread; can also infest eyelashes and eyebrows",
+     "x": 402,
+     "y": 306,
+     "lx": 600,
+     "ly": 330
+    },
+    {
+     "name": "Flea bites",
+     "accept": [
+      "fleas",
+      "flea"
+     ],
+     "function": "Itchy papule or nodule typical of the lower legs and ankles",
+     "x": 422,
+     "y": 450,
+     "lx": 600,
+     "ly": 430
+    },
+    {
+     "name": "Cutaneous larva migrans",
+     "accept": [
+      "CLM",
+      "larva migrans",
+      "creeping eruption",
+      "hookworm"
+     ],
+     "function": "Serpiginous track from dog and cat hookworm in sand",
+     "x": 362,
+     "y": 490,
+     "lx": 220,
+     "ly": 500
+    }
+   ]
+  }
+ ]
+}

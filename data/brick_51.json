@@ -1,0 +1,255 @@
+{
+ "brick": 51,
+ "title": "The Skin in Autoimmune Diseases",
+ "diagrams": [
+  {
+   "title": "Leukocytoclastic vasculitis: a dermal vessel in palpable purpura (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><rect x=\"0\" y=\"40\" width=\"800\" height=\"12\" fill=\"#d9a77a\"/><rect x=\"0\" y=\"52\" width=\"800\" height=\"48\" fill=\"#e7b98f\" stroke=\"#a16207\" stroke-width=\"2\"/><rect x=\"0\" y=\"100\" width=\"800\" height=\"315\" fill=\"#f6dcc4\"/><rect x=\"0\" y=\"415\" width=\"800\" height=\"105\" fill=\"#fdf0c4\"/><ellipse cx=\"30\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"100\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"170\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"240\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"310\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"380\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"450\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"520\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"590\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"660\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><ellipse cx=\"730\" cy=\"470\" rx=\"32\" ry=\"26\" fill=\"#fef3c7\" stroke=\"#d6b35a\" stroke-width=\"2\"/><circle cx=\"640\" cy=\"462\" r=\"40\" fill=\"#fca5a5\" stroke=\"#b91c1c\" stroke-width=\"4\"/><circle cx=\"640\" cy=\"462\" r=\"27\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"6\" stroke-dasharray=\"4 3\"/><circle cx=\"640\" cy=\"462\" r=\"14\" fill=\"#fee2e2\" stroke=\"#b91c1c\" stroke-width=\"2\"/><ellipse cx=\"330\" cy=\"255\" rx=\"185\" ry=\"140\" fill=\"#dbeafe\" fill-opacity=\"0.75\" stroke=\"#60a5fa\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><circle cx=\"190\" cy=\"200\" r=\"4\" fill=\"#93c5fd\"/><circle cx=\"205\" cy=\"320\" r=\"4\" fill=\"#93c5fd\"/><circle cx=\"470\" cy=\"330\" r=\"4\" fill=\"#93c5fd\"/><circle cx=\"480\" cy=\"190\" r=\"4\" fill=\"#93c5fd\"/><circle cx=\"330\" cy=\"135\" r=\"4\" fill=\"#93c5fd\"/><circle cx=\"260\" cy=\"380\" r=\"4\" fill=\"#93c5fd\"/><ellipse cx=\"460\" cy=\"255\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"411\" cy=\"333\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"359\" cy=\"352\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"301\" cy=\"352\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"249\" cy=\"333\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"213\" cy=\"298\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"200\" cy=\"255\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"213\" cy=\"212\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"249\" cy=\"177\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"301\" cy=\"158\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"359\" cy=\"158\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"411\" cy=\"177\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"447\" cy=\"212\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"330\" cy=\"255\" rx=\"92\" ry=\"70\" fill=\"#ddd6fe\" stroke=\"#6d28d9\" stroke-width=\"3\"/><ellipse cx=\"330\" cy=\"255\" rx=\"58\" ry=\"40\" fill=\"#fff1f2\" stroke=\"#6d28d9\" stroke-width=\"2\"/><ellipse cx=\"312\" cy=\"248\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"340\" cy=\"262\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><ellipse cx=\"352\" cy=\"240\" rx=\"9\" ry=\"6\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/><circle cx=\"258\" cy=\"241\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"260\" cy=\"234\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"264\" cy=\"228\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"269\" cy=\"223\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"275\" cy=\"217\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"282\" cy=\"213\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"289\" cy=\"209\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"297\" cy=\"206\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"306\" cy=\"203\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"314\" cy=\"201\" r=\"4\" fill=\"#3b0764\"/><circle cx=\"323\" cy=\"200\" r=\"4\" fill=\"#3b0764\"/><path d=\"M 398 291 A 75 55 0 0 1 330 310\" fill=\"none\" stroke=\"#ec4899\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M 404 280 A 75 55 0 0 1 300 306\" fill=\"none\" stroke=\"#f9a8d4\" stroke-width=\"3\" stroke-dasharray=\"5 4\"/><circle cx=\"410\" cy=\"222\" r=\"13\" fill=\"#f5f5f4\" stroke=\"#57534e\" stroke-width=\"2\"/><circle cx=\"405\" cy=\"219\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"414\" cy=\"218\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"410\" cy=\"226\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"458\" cy=\"285\" r=\"13\" fill=\"#f5f5f4\" stroke=\"#57534e\" stroke-width=\"2\"/><circle cx=\"453\" cy=\"282\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"462\" cy=\"281\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"458\" cy=\"289\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"262\" cy=\"300\" r=\"13\" fill=\"#f5f5f4\" stroke=\"#57534e\" stroke-width=\"2\"/><circle cx=\"257\" cy=\"297\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"266\" cy=\"296\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"262\" cy=\"304\" r=\"4\" fill=\"#1e3a8a\"/><circle cx=\"220\" cy=\"255\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"228\" cy=\"268\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"214\" cy=\"274\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"236\" cy=\"252\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"224\" cy=\"284\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"240\" cy=\"278\" r=\"2.6\" fill=\"#111827\"/><circle cx=\"210\" cy=\"262\" r=\"2.6\" fill=\"#111827\"/><ellipse cx=\"610\" cy=\"170\" rx=\"34\" ry=\"24\" fill=\"#fbcfe8\" stroke=\"#9d174d\" stroke-width=\"2\"/><circle cx=\"610\" cy=\"170\" r=\"8\" fill=\"#831843\"/><circle cx=\"592\" cy=\"160\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"626\" cy=\"158\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"596\" cy=\"184\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"628\" cy=\"182\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"604\" cy=\"152\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"620\" cy=\"188\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"570\" cy=\"182\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"556\" cy=\"194\" r=\"3\" fill=\"#6b21a8\"/><circle cx=\"544\" cy=\"204\" r=\"3\" fill=\"#6b21a8\"/><text x=\"790\" y=\"78\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"15\" text-anchor=\"end\">Epidermis</text><text x=\"790\" y=\"130\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"15\" text-anchor=\"end\">Dermis</text><text x=\"790\" y=\"436\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"15\" text-anchor=\"end\">Subcutis</text><text x=\"12\" y=\"26\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"15\">Cross-section of dependent skin (lower leg), schematic</text>",
+   "labels": [
+    {
+     "name": "Post-capillary venule",
+     "accept": [
+      "postcapillary venule",
+      "venule",
+      "post capillary venule"
+     ],
+     "function": "Slow-flow small vessel where the immune complexes collect",
+     "x": 330,
+     "y": 222,
+     "lx": 330,
+     "ly": 160
+    },
+    {
+     "name": "Immune complex deposits",
+     "accept": [
+      "immune complexes",
+      "immune complex",
+      "antigen-antibody complexes"
+     ],
+     "function": "IgG, IgM or IgA bound to antigen along the vessel wall",
+     "x": 266,
+     "y": 222,
+     "lx": 140,
+     "ly": 150
+    },
+    {
+     "name": "Fibrin deposition",
+     "accept": [
+      "fibrin",
+      "fibrin deposits",
+      "fibrinoid necrosis"
+     ],
+     "function": "Clotting protein laid down in the necrotic vessel wall",
+     "x": 372,
+     "y": 305,
+     "lx": 372,
+     "ly": 395
+    },
+    {
+     "name": "Neutrophil",
+     "accept": [
+      "neutrophils",
+      "PMN",
+      "polymorphonuclear leukocyte"
+     ],
+     "function": "Inflammatory cell infiltrating the damaged vessel wall",
+     "x": 410,
+     "y": 222,
+     "lx": 470,
+     "ly": 120
+    },
+    {
+     "name": "Nuclear dust",
+     "accept": [
+      "leukocytoclasis",
+      "karyorrhectic debris",
+      "nuclear debris"
+     ],
+     "function": "Debris of fragmented white cells; gives the disease its name",
+     "x": 224,
+     "y": 268,
+     "lx": 70,
+     "ly": 268
+    },
+    {
+     "name": "Extravasated red blood cells",
+     "accept": [
+      "extravasated RBCs",
+      "red blood cells",
+      "RBC extravasation",
+      "erythrocytes"
+     ],
+     "function": "Leak in a 360-degree arc, making each lesion round and purple",
+     "x": 301,
+     "y": 352,
+     "lx": 250,
+     "ly": 400
+    },
+    {
+     "name": "Mast cell",
+     "accept": [
+      "mast cells",
+      "mast cell degranulation"
+     ],
+     "function": "Degranulates, driving vasodilation and vascular permeability",
+     "x": 610,
+     "y": 170,
+     "lx": 700,
+     "ly": 200
+    },
+    {
+     "name": "Dermal edema",
+     "accept": [
+      "edema",
+      "oedema",
+      "tissue edema",
+      "fluid extravasation"
+     ],
+     "function": "Leaked tissue fluid that makes the purpura palpable",
+     "x": 490,
+     "y": 255,
+     "lx": 560,
+     "ly": 290
+    },
+    {
+     "name": "Medium-sized artery",
+     "accept": [
+      "medium artery",
+      "medium vessel",
+      "muscular artery",
+      "medium-sized vessel"
+     ],
+     "function": "Involvement brings necrosis, as in ANCA vasculitis or PAN",
+     "x": 640,
+     "y": 435,
+     "lx": 520,
+     "ly": 470
+    }
+   ]
+  },
+  {
+   "title": "Where the autoimmune skin findings appear: face and body map (schematic)",
+   "viewBox": "0 0 900 600",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"900\" height=\"600\" fill=\"#f8f5ee\"/><line x1=\"450\" y1=\"20\" x2=\"450\" y2=\"580\" stroke=\"#d6cfc0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><text x=\"20\" y=\"34\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"16\">Face, frontal close-up</text><text x=\"470\" y=\"34\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"16\">Body, anterior view</text><ellipse cx=\"88\" cy=\"320\" rx=\"20\" ry=\"38\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><ellipse cx=\"352\" cy=\"320\" rx=\"20\" ry=\"38\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><ellipse cx=\"220\" cy=\"310\" rx=\"130\" ry=\"165\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><path d=\"M 92 270 Q 100 140 220 140 Q 340 140 348 270 Q 330 200 220 196 Q 110 200 92 270 Z\" fill=\"#6b4f3a\" stroke=\"#4a3426\" stroke-width=\"2\"/><ellipse cx=\"355\" cy=\"318\" rx=\"12\" ry=\"20\" fill=\"#b45366\" stroke=\"#7f1d3a\" stroke-width=\"2\"/><ellipse cx=\"355\" cy=\"318\" rx=\"5\" ry=\"10\" fill=\"#f5f0e1\"/><path d=\"M 142 288 Q 172 258 202 288 Q 172 276 142 288 Z\" fill=\"#a78bfa\" fill-opacity=\"0.85\" stroke=\"#6d28d9\" stroke-width=\"1.5\"/><ellipse cx=\"172\" cy=\"292\" rx=\"24\" ry=\"9\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"172\" cy=\"292\" r=\"6\" fill=\"#3b1d0a\"/><path d=\"M 144 248 Q 172 236 200 248\" fill=\"none\" stroke=\"#4a3426\" stroke-width=\"4\"/><path d=\"M 238 288 Q 268 258 298 288 Q 268 276 238 288 Z\" fill=\"#a78bfa\" fill-opacity=\"0.85\" stroke=\"#6d28d9\" stroke-width=\"1.5\"/><ellipse cx=\"268\" cy=\"292\" rx=\"24\" ry=\"9\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"292\" r=\"6\" fill=\"#3b1d0a\"/><path d=\"M 240 248 Q 268 236 296 248\" fill=\"none\" stroke=\"#4a3426\" stroke-width=\"4\"/><ellipse cx=\"140\" cy=\"348\" rx=\"38\" ry=\"26\" fill=\"#ef4444\" fill-opacity=\"0.45\"/><ellipse cx=\"300\" cy=\"348\" rx=\"38\" ry=\"26\" fill=\"#ef4444\" fill-opacity=\"0.45\"/><path d=\"M 172 334 Q 220 318 268 334 L 262 346 Q 220 334 178 346 Z\" fill=\"#ef4444\" fill-opacity=\"0.45\"/><path d=\"M 214 300 L 204 360 Q 220 372 236 360 L 226 300\" fill=\"none\" stroke=\"#b08968\" stroke-width=\"3\"/><path d=\"M 196 364 Q 178 388 184 420\" fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"3.5\"/><path d=\"M 244 364 Q 262 388 256 420\" fill=\"none\" stroke=\"#9a6b4a\" stroke-width=\"3.5\"/><path d=\"M 194 428 Q 220 442 246 428\" fill=\"none\" stroke=\"#9a3412\" stroke-width=\"4\"/><circle cx=\"670\" cy=\"90\" r=\"38\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"658\" y=\"124\" width=\"24\" height=\"22\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"580\" y=\"148\" width=\"36\" height=\"250\" rx=\"16\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"724\" y=\"148\" width=\"36\" height=\"250\" rx=\"16\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><ellipse cx=\"598\" cy=\"420\" rx=\"20\" ry=\"28\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><ellipse cx=\"742\" cy=\"420\" rx=\"20\" ry=\"28\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"615\" y=\"335\" width=\"50\" height=\"245\" rx=\"18\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"675\" y=\"335\" width=\"50\" height=\"245\" rx=\"18\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><rect x=\"608\" y=\"140\" width=\"124\" height=\"215\" rx=\"30\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"3\"/><path d=\"M 634 146 L 706 146 L 670 214 Z\" fill=\"#fecaca\" fill-opacity=\"0.6\"/><circle cx=\"652\" cy=\"160\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"684\" cy=\"158\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"668\" cy=\"180\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"674\" cy=\"200\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"646\" cy=\"150\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><circle cx=\"696\" cy=\"150\" r=\"7\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2.5\"/><ellipse cx=\"598\" cy=\"275\" rx=\"14\" ry=\"11\" fill=\"#7c3aed\" fill-opacity=\"0.55\"/><ellipse cx=\"742\" cy=\"275\" rx=\"14\" ry=\"11\" fill=\"#7c3aed\" fill-opacity=\"0.55\"/><ellipse cx=\"640\" cy=\"455\" rx=\"16\" ry=\"11\" fill=\"#7c3aed\" fill-opacity=\"0.55\"/><ellipse cx=\"700\" cy=\"455\" rx=\"16\" ry=\"11\" fill=\"#7c3aed\" fill-opacity=\"0.55\"/><circle cx=\"586\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"594\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"602\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"610\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"730\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"738\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"746\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><circle cx=\"754\" cy=\"406\" r=\"3.5\" fill=\"#7c3aed\" stroke=\"#4c1d95\" stroke-width=\"1\"/><g fill=\"none\" stroke=\"#7e22ce\" stroke-width=\"2\" stroke-opacity=\"0.8\"><path d=\"M 620 365 q 10 -10 20 0 q 10 10 20 0\"/><path d=\"M 620 385 q 10 -10 20 0 q 10 10 20 0\"/><path d=\"M 620 405 q 10 -10 20 0 q 10 10 20 0\"/><circle cx=\"640\" cy=\"375\" r=\"9\"/><circle cx=\"628\" cy=\"395\" r=\"8\"/><circle cx=\"652\" cy=\"396\" r=\"8\"/><circle cx=\"640\" cy=\"418\" r=\"8\"/></g><circle cx=\"637\" cy=\"554\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"657\" cy=\"510\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"637\" cy=\"519\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"657\" cy=\"522\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"647\" cy=\"560\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"651\" cy=\"560\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"655\" cy=\"533\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"645\" cy=\"539\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"639\" cy=\"541\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"622\" cy=\"504\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"623\" cy=\"558\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"638\" cy=\"494\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"652\" cy=\"512\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"644\" cy=\"568\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"641\" cy=\"537\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"650\" cy=\"514\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"683\" cy=\"546\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"692\" cy=\"550\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"682\" cy=\"497\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"688\" cy=\"565\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"688\" cy=\"512\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"717\" cy=\"549\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"683\" cy=\"545\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"708\" cy=\"515\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"705\" cy=\"504\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"713\" cy=\"560\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"693\" cy=\"565\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"704\" cy=\"547\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"713\" cy=\"505\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"715\" cy=\"546\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"682\" cy=\"545\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><circle cx=\"716\" cy=\"495\" r=\"3.5\" fill=\"#9f1239\" stroke=\"#4c0519\" stroke-width=\"0.8\"/><text x=\"670\" y=\"595\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"13\" text-anchor=\"middle\">Right | Left</text>",
+   "labels": [
+    {
+     "name": "Malar rash",
+     "accept": [
+      "malar erythema",
+      "butterfly rash",
+      "acute cutaneous lupus",
+      "acute cutaneous lupus erythematosus",
+      "ACLE"
+     ],
+     "function": "Sunburn-like cheek erythema; nearly always signals SLE",
+     "x": 135,
+     "y": 350,
+     "lx": 60,
+     "ly": 420
+    },
+    {
+     "name": "Nasolabial fold",
+     "accept": [
+      "nasolabial folds",
+      "nasolabial crease"
+     ],
+     "function": "Spared by the butterfly-shaped facial rash of lupus",
+     "x": 184,
+     "y": 400,
+     "lx": 150,
+     "ly": 480
+    },
+    {
+     "name": "Heliotrope rash",
+     "accept": [
+      "heliotrope erythema",
+      "heliotrope sign",
+      "heliotrope"
+     ],
+     "function": "Lilac upper-eyelid sign, pathognomonic for dermatomyositis",
+     "x": 268,
+     "y": 272,
+     "lx": 300,
+     "ly": 215
+    },
+    {
+     "name": "Discoid lupus erythematosus",
+     "accept": [
+      "discoid lupus",
+      "DLE",
+      "chronic cutaneous lupus",
+      "discoid plaque"
+     ],
+     "function": "Scarring plaque; only 10-20% of patients progress to SLE",
+     "x": 357,
+     "y": 318,
+     "lx": 410,
+     "ly": 380
+    },
+    {
+     "name": "Subacute cutaneous lupus erythematosus",
+     "accept": [
+      "subacute cutaneous lupus",
+      "SCLE",
+      "subacute lupus"
+     ],
+     "function": "Annular scaly patches; up to 90% are anti-Ro positive",
+     "x": 668,
+     "y": 180,
+     "lx": 540,
+     "ly": 110
+    },
+    {
+     "name": "Gottron's sign",
+     "accept": [
+      "gottrons sign",
+      "gottron sign"
+     ],
+     "function": "Violaceous change over elbows and knees in dermatomyositis",
+     "x": 742,
+     "y": 275,
+     "lx": 800,
+     "ly": 240
+    },
+    {
+     "name": "Gottron's papules",
+     "accept": [
+      "gottrons papules",
+      "gottron papules"
+     ],
+     "function": "Scaly violaceous papules over the MCP and IP joints",
+     "x": 746,
+     "y": 406,
+     "lx": 810,
+     "ly": 380
+    },
+    {
+     "name": "Livedo reticularis",
+     "accept": [
+      "livedo"
+     ],
+     "function": "Net-like pattern from antiphospholipid hypercoagulability",
+     "x": 640,
+     "y": 385,
+     "lx": 520,
+     "ly": 470
+    },
+    {
+     "name": "Palpable purpura",
+     "accept": [
+      "leukocytoclastic vasculitis",
+      "LCV",
+      "cutaneous small vessel vasculitis",
+      "purpura"
+     ],
+     "function": "Non-blanching dependent lesions from venule immune complexes",
+     "x": 700,
+     "y": 530,
+     "lx": 790,
+     "ly": 530
+    }
+   ]
+  }
+ ]
+}

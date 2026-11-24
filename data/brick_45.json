@@ -1,0 +1,362 @@
+{
+ "brick": 45,
+ "title": "Anatomy of the Face and Scalp",
+ "diagrams": [
+  {
+   "title": "Layers of the scalp, stepped cutaway (schematic)",
+   "viewBox": "0 0 800 470",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"470\" fill=\"#f8f5ee\"/>\n<rect x=\"40\" y=\"304\" width=\"730\" height=\"76\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<polyline points=\"520,304 510,318 528,332 510,346 528,360 514,380\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<path d=\"M40 290 L670 290 L670 304 L527 304 L520 314 L513 304 L40 304 Z\" fill=\"#c9b48a\" stroke=\"#7c6a4f\" stroke-width=\"2\"/>\n<rect x=\"40\" y=\"250\" width=\"520\" height=\"40\" fill=\"#fdfaf3\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<g stroke=\"#cbbf9f\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M55 270 q8 -6 16 0\"/><path d=\"M89 278 q8 -6 16 0\"/><path d=\"M123 262 q8 -6 16 0\"/><path d=\"M157 270 q8 -6 16 0\"/><path d=\"M191 278 q8 -6 16 0\"/><path d=\"M225 262 q8 -6 16 0\"/><path d=\"M259 270 q8 -6 16 0\"/><path d=\"M293 278 q8 -6 16 0\"/><path d=\"M327 262 q8 -6 16 0\"/><path d=\"M361 270 q8 -6 16 0\"/><path d=\"M395 278 q8 -6 16 0\"/><path d=\"M429 262 q8 -6 16 0\"/><path d=\"M463 270 q8 -6 16 0\"/><path d=\"M497 278 q8 -6 16 0\"/><path d=\"M531 262 q8 -6 16 0\"/></g>\n<rect x=\"170\" y=\"230\" width=\"280\" height=\"20\" fill=\"#f5f0e1\" stroke=\"#a8a29e\" stroke-width=\"3\"/>\n<path d=\"M40 226 L150 226 C165 226 170 232 172 240 C170 248 165 254 150 254 L40 254 Z\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<g stroke=\"#9a3412\" stroke-width=\"1.2\"><line x1=\"50\" y1=\"232\" x2=\"64\" y2=\"248\"/><line x1=\"66\" y1=\"232\" x2=\"80\" y2=\"248\"/><line x1=\"82\" y1=\"232\" x2=\"96\" y2=\"248\"/><line x1=\"98\" y1=\"232\" x2=\"112\" y2=\"248\"/><line x1=\"114\" y1=\"232\" x2=\"128\" y2=\"248\"/><line x1=\"130\" y1=\"232\" x2=\"144\" y2=\"248\"/><line x1=\"146\" y1=\"232\" x2=\"160\" y2=\"248\"/></g>\n<rect x=\"40\" y=\"190\" width=\"300\" height=\"40\" fill=\"#f6e2c6\" stroke=\"#b08968\" stroke-width=\"2\"/>\n<circle cx=\"70\" cy=\"206\" r=\"5\" fill=\"#dc2626\"/><circle cx=\"115\" cy=\"216\" r=\"5\" fill=\"#2563eb\"/><circle cx=\"160\" cy=\"206\" r=\"5\" fill=\"#dc2626\"/><circle cx=\"205\" cy=\"216\" r=\"5\" fill=\"#2563eb\"/><circle cx=\"250\" cy=\"206\" r=\"5\" fill=\"#dc2626\"/><circle cx=\"295\" cy=\"216\" r=\"5\" fill=\"#2563eb\"/>\n<g stroke=\"#d6b892\" stroke-width=\"1.2\"><line x1=\"52\" y1=\"194\" x2=\"60\" y2=\"226\"/><line x1=\"64\" y1=\"194\" x2=\"72\" y2=\"226\"/><line x1=\"76\" y1=\"194\" x2=\"84\" y2=\"226\"/><line x1=\"88\" y1=\"194\" x2=\"96\" y2=\"226\"/><line x1=\"100\" y1=\"194\" x2=\"108\" y2=\"226\"/><line x1=\"112\" y1=\"194\" x2=\"120\" y2=\"226\"/><line x1=\"124\" y1=\"194\" x2=\"132\" y2=\"226\"/><line x1=\"136\" y1=\"194\" x2=\"144\" y2=\"226\"/><line x1=\"148\" y1=\"194\" x2=\"156\" y2=\"226\"/><line x1=\"160\" y1=\"194\" x2=\"168\" y2=\"226\"/><line x1=\"172\" y1=\"194\" x2=\"180\" y2=\"226\"/><line x1=\"184\" y1=\"194\" x2=\"192\" y2=\"226\"/><line x1=\"196\" y1=\"194\" x2=\"204\" y2=\"226\"/><line x1=\"208\" y1=\"194\" x2=\"216\" y2=\"226\"/><line x1=\"220\" y1=\"194\" x2=\"228\" y2=\"226\"/><line x1=\"232\" y1=\"194\" x2=\"240\" y2=\"226\"/><line x1=\"244\" y1=\"194\" x2=\"252\" y2=\"226\"/><line x1=\"256\" y1=\"194\" x2=\"264\" y2=\"226\"/><line x1=\"268\" y1=\"194\" x2=\"276\" y2=\"226\"/><line x1=\"280\" y1=\"194\" x2=\"288\" y2=\"226\"/><line x1=\"292\" y1=\"194\" x2=\"300\" y2=\"226\"/><line x1=\"304\" y1=\"194\" x2=\"312\" y2=\"226\"/><line x1=\"316\" y1=\"194\" x2=\"324\" y2=\"226\"/><line x1=\"328\" y1=\"194\" x2=\"336\" y2=\"226\"/></g>\n<rect x=\"40\" y=\"150\" width=\"190\" height=\"40\" fill=\"#f1d3b3\" stroke=\"#9c6b48\" stroke-width=\"3\"/>\n<g stroke=\"#3b1d0a\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"55\" y1=\"186\" x2=\"61\" y2=\"118\"/><line x1=\"69\" y1=\"186\" x2=\"75\" y2=\"118\"/><line x1=\"83\" y1=\"186\" x2=\"89\" y2=\"118\"/><line x1=\"97\" y1=\"186\" x2=\"103\" y2=\"118\"/><line x1=\"111\" y1=\"186\" x2=\"117\" y2=\"118\"/><line x1=\"125\" y1=\"186\" x2=\"131\" y2=\"118\"/><line x1=\"139\" y1=\"186\" x2=\"145\" y2=\"118\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"600\" y=\"420\">Skull bone</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"13\"><text x=\"40\" y=\"104\">hair</text></g>",
+   "labels": [
+    {
+     "name": "Skin",
+     "accept": [
+      "scalp skin"
+     ],
+     "function": "Outermost layer; moves as one unit with the layer beneath",
+     "x": 190,
+     "y": 170,
+     "lx": 190,
+     "ly": 75
+    },
+    {
+     "name": "Dense connective tissue",
+     "accept": [
+      "connective tissue",
+      "dense connective tissue layer",
+      "subcutaneous connective tissue"
+     ],
+     "function": "Dense, vascular layer tightly bound to the skin",
+     "x": 300,
+     "y": 210,
+     "lx": 300,
+     "ly": 110
+    },
+    {
+     "name": "Galea aponeurotica",
+     "accept": [
+      "aponeurosis",
+      "epicranial aponeurosis",
+      "galea"
+     ],
+     "function": "Links frontal and occipital bellies; lets scalp move over skull",
+     "x": 410,
+     "y": 240,
+     "lx": 410,
+     "ly": 150
+    },
+    {
+     "name": "Loose areolar connective tissue",
+     "accept": [
+      "loose areolar tissue",
+      "loose connective tissue",
+      "loose areolar layer"
+     ],
+     "function": "Avascular surgical plane; danger zone for infection and hematoma",
+     "x": 520,
+     "y": 272,
+     "lx": 520,
+     "ly": 190
+    },
+    {
+     "name": "Pericranium",
+     "accept": [
+      "periosteum",
+      "pericranium (periosteum)"
+     ],
+     "function": "Deepest layer; firmly attached at sutures, confining collections",
+     "x": 630,
+     "y": 297,
+     "lx": 630,
+     "ly": 230
+    },
+    {
+     "name": "Frontalis",
+     "accept": [
+      "frontal belly",
+      "frontal belly of occipitofrontalis",
+      "occipitofrontalis frontal belly"
+     ],
+     "function": "No bony origin; raises the eyebrows and wrinkles the forehead",
+     "x": 100,
+     "y": 242,
+     "lx": 100,
+     "ly": 440
+    },
+    {
+     "name": "Suture line",
+     "accept": [
+      "suture",
+      "cranial suture"
+     ],
+     "function": "Fixed attachment point that limits subperiosteal spread",
+     "x": 520,
+     "y": 345,
+     "lx": 520,
+     "ly": 440
+    }
+   ]
+  },
+  {
+   "title": "Lateral face: facial nerve branches and parotid region (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/>\n<path d=\"M520 60 C380 40 262 70 232 150 L216 200 L170 270 L205 295 L195 320 L205 340 L198 362 L215 400 C225 428 255 442 300 442 L400 438 L395 555 L650 555 L640 410 C662 380 695 330 690 260 C700 160 640 70 520 60 Z\" fill=\"#f1d3b3\" stroke=\"#9c6b48\" stroke-width=\"3\"/>\n<ellipse cx=\"282\" cy=\"200\" rx=\"22\" ry=\"9\" fill=\"#fff\" stroke=\"#9c6b48\" stroke-width=\"2\"/><circle cx=\"272\" cy=\"200\" r=\"5\" fill=\"#3b1d0a\"/>\n<path d=\"M250 178 Q285 165 320 178\" fill=\"none\" stroke=\"#7c5a3a\" stroke-width=\"4\"/>\n<path d=\"M204 340 L245 343\" stroke=\"#9c6b48\" stroke-width=\"3\"/>\n<path d=\"M232 428 C320 434 420 426 470 405 L480 300 L470 268\" fill=\"none\" stroke=\"#7c6a4f\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/>\n<polygon points=\"375,262 468,258 478,402 398,412\" fill=\"#e07a5f\" stroke=\"#9a3412\" stroke-width=\"3\"/>\n<g stroke=\"#9a3412\" stroke-width=\"1.3\"><line x1=\"385\" y1=\"268\" x2=\"405\" y2=\"404\"/><line x1=\"399\" y1=\"268\" x2=\"418\" y2=\"404\"/><line x1=\"413\" y1=\"268\" x2=\"431\" y2=\"404\"/><line x1=\"427\" y1=\"268\" x2=\"444\" y2=\"404\"/><line x1=\"441\" y1=\"268\" x2=\"457\" y2=\"404\"/></g>\n<path d=\"M330 232 C400 226 470 232 545 240 L545 254 C470 246 400 242 330 248 Z\" fill=\"#e8dcc4\" stroke=\"#7c6a4f\" stroke-width=\"3\"/>\n<ellipse cx=\"575\" cy=\"270\" rx=\"24\" ry=\"42\" fill=\"#ecc6a2\" stroke=\"#9c6b48\" stroke-width=\"3\"/><path d=\"M570 248 q14 6 6 26\" fill=\"none\" stroke=\"#9c6b48\" stroke-width=\"2\"/>\n<path d=\"M470 262 L548 258 C556 290 552 330 536 362 C522 388 500 396 478 392 C470 360 466 300 470 262 Z\" fill=\"#f4d6a0\" stroke=\"#b7791f\" stroke-width=\"3\"/>\n<path d=\"M472 296 L360 298 L352 304\" fill=\"none\" stroke=\"#b7791f\" stroke-width=\"5\" stroke-linecap=\"round\"/>\n<path d=\"M410 555 L402 445 C396 410 340 380 312 340 C286 300 272 260 268 222\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\"/>\n<path d=\"M545 420 L542 250 C540 190 525 140 480 95 M536 180 C560 135 595 110 625 100\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\"/>\n<g fill=\"none\" stroke=\"#eab308\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M565 330 L508 322\"/><path d=\"M508 322 L496 302 M508 322 L496 345\"/><path d=\"M496 302 C480 270 470 245 455 215 C440 185 425 160 405 130\"/><path d=\"M496 302 C460 270 400 240 330 222\"/><path d=\"M496 318 C450 318 360 322 270 334\"/><path d=\"M508 322 L496 318\"/><path d=\"M496 345 C470 400 420 428 330 430 C300 430 275 410 262 380\"/><path d=\"M496 345 C490 410 470 470 450 530\"/></g>\n<circle cx=\"568\" cy=\"330\" r=\"7\" fill=\"#3b1d0a\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"20\" y=\"30\">Anterior</text><text x=\"720\" y=\"30\">Posterior</text></g>",
+   "labels": [
+    {
+     "name": "Temporal branch",
+     "accept": [
+      "temporal branch of facial nerve",
+      "temporal branch of CN VII",
+      "temporal"
+     ],
+     "function": "Crosses the zygomatic arch; supplies frontalis to raise eyebrows",
+     "x": 418,
+     "y": 150,
+     "lx": 330,
+     "ly": 70
+    },
+    {
+     "name": "Zygomatic branch",
+     "accept": [
+      "zygomatic branch of facial nerve",
+      "zygomatic branch of CN VII",
+      "zygomatic"
+     ],
+     "function": "Tight eye closure via lower orbicularis oculi",
+     "x": 350,
+     "y": 226,
+     "lx": 300,
+     "ly": 150
+    },
+    {
+     "name": "Buccal branch",
+     "accept": [
+      "buccal branch of facial nerve",
+      "buccal branch of CN VII",
+      "buccal"
+     ],
+     "function": "Puffs the cheeks and shows the teeth",
+     "x": 300,
+     "y": 330,
+     "lx": 80,
+     "ly": 300
+    },
+    {
+     "name": "Marginal mandibular branch",
+     "accept": [
+      "marginal mandibular",
+      "mandibular branch of facial nerve",
+      "marginal mandibular branch of CN VII"
+     ],
+     "function": "Runs along the jaw's lower border; pulls the mouth corners down",
+     "x": 360,
+     "y": 429,
+     "lx": 150,
+     "ly": 470
+    },
+    {
+     "name": "Cervical branch",
+     "accept": [
+      "cervical branch of facial nerve",
+      "cervical branch of CN VII",
+      "cervical"
+     ],
+     "function": "Supplies platysma to tense the neck skin",
+     "x": 466,
+     "y": 480,
+     "lx": 310,
+     "ly": 520
+    },
+    {
+     "name": "Stylomastoid foramen",
+     "accept": [
+      "stylomastoid"
+     ],
+     "function": "Exit of CN VII from the skull, just behind the gland",
+     "x": 568,
+     "y": 330,
+     "lx": 730,
+     "ly": 360
+    },
+    {
+     "name": "Parotid gland",
+     "accept": [
+      "parotid"
+     ],
+     "function": "CN VII divides inside it but does not supply it; CN IX does",
+     "x": 515,
+     "y": 370,
+     "lx": 680,
+     "ly": 440
+    },
+    {
+     "name": "Parotid duct",
+     "accept": [
+      "stensen duct",
+      "stensen's duct"
+     ],
+     "function": "Crosses masseter, pierces buccinator, opens at upper 2nd molar",
+     "x": 420,
+     "y": 297,
+     "lx": 650,
+     "ly": 215
+    },
+    {
+     "name": "Masseter",
+     "accept": [
+      "masseter muscle"
+     ],
+     "function": "Elevates the mandible; supplied by V3",
+     "x": 440,
+     "y": 380,
+     "lx": 560,
+     "ly": 500
+    },
+    {
+     "name": "Facial artery",
+     "accept": [
+      "facial a"
+     ],
+     "function": "Pulse at mandible's lower border; ends as the angular artery",
+     "x": 402,
+     "y": 470,
+     "lx": 250,
+     "ly": 520
+    },
+    {
+     "name": "Superficial temporal artery",
+     "accept": [
+      "superficial temporal a",
+      "STA"
+     ],
+     "function": "Pulse in front of the tragus; supplies temple and scalp",
+     "x": 540,
+     "y": 200,
+     "lx": 700,
+     "ly": 150
+    }
+   ]
+  },
+  {
+   "title": "Front of the face: sensory territories and facial foramina (schematic)",
+   "viewBox": "0 0 800 560",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"560\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"400\" cy=\"290\" rx=\"165\" ry=\"215\" fill=\"#f1d3b3\"/>\n<polygon points=\"400,75 384.1,76.0 352.4,84.1 335.2,92.3 322.2,100.4 311.5,108.6 302.3,116.7 294.3,124.9 287.3,133.0 280.9,141.1 275.2,149.3 270.1,157.4 265.4,165.6 261.2,173.7 257.4,181.9 253.9,190.0 385,190 390,300 400,300\" fill=\"#bfdbfe\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n<polygon points=\"253.9,190.0 249.9,200.7 246.4,211.4 243.4,222.1 240.9,232.9 238.9,243.6 237.3,254.3 236.1,265.0 235.4,275.7 235.0,286.4 235.1,297.1 235.6,307.9 236.5,318.6 237.8,329.3 239.5,340.0 330,360 400,372 400,300 390,300 385,190\" fill=\"#bbf7d0\" stroke=\"#16a34a\" stroke-width=\"2\"/>\n<polygon points=\"239.5,340.0 242.0,351.8 245.0,363.6 248.6,375.4 252.8,387.1 257.7,398.9 263.5,410.7 270.1,422.5 277.7,434.3 286.5,446.1 296.9,457.9 309.3,469.6 324.9,481.4 346.1,493.2 400.0,505.0 400,505 400,372 330,360\" fill=\"#fed7aa\" stroke=\"#ea580c\" stroke-width=\"2\"/>\n<polygon points=\"252.0,385.0 256.7,396.7 262.2,408.3 268.6,420.0 275.9,431.7 284.3,443.3 294.2,455.0 328.21543980954016,450 281.9811743661546,390\" fill=\"#e9d5ff\" stroke=\"#7e22ce\" stroke-width=\"2\"/>\n<ellipse cx=\"400\" cy=\"290\" rx=\"165\" ry=\"215\" fill=\"none\" stroke=\"#9c6b48\" stroke-width=\"3\"/>\n<line x1=\"400\" y1=\"70\" x2=\"400\" y2=\"510\" stroke=\"#9c6b48\" stroke-width=\"1.5\" stroke-dasharray=\"4 5\"/>\n<g fill=\"#fff\" stroke=\"#7c5a3a\" stroke-width=\"2\"><ellipse cx=\"335\" cy=\"205\" rx=\"28\" ry=\"11\"/><ellipse cx=\"465\" cy=\"205\" rx=\"28\" ry=\"11\"/></g>\n<circle cx=\"335\" cy=\"205\" r=\"6\" fill=\"#3b1d0a\"/><circle cx=\"465\" cy=\"205\" r=\"6\" fill=\"#3b1d0a\"/>\n<path d=\"M300 180 Q335 166 368 180 M432 180 Q465 166 500 180\" fill=\"none\" stroke=\"#7c5a3a\" stroke-width=\"4\"/>\n<path d=\"M392 205 L380 290 Q400 305 420 290 L408 205\" fill=\"none\" stroke=\"#7c5a3a\" stroke-width=\"2\"/>\n<path d=\"M350 385 Q400 372 450 385 Q400 405 350 385 Z\" fill=\"#e9a0a0\" stroke=\"#9c4a4a\" stroke-width=\"2\"/>\n<polygon points=\"400,200 347,388 453,388\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"3\" stroke-dasharray=\"8 5\"/>\n<line x1=\"465\" y1=\"150\" x2=\"465\" y2=\"450\" stroke=\"#7c6a4f\" stroke-width=\"1\" stroke-dasharray=\"2 6\"/>\n<g fill=\"none\" stroke=\"#eab308\" stroke-width=\"5\" stroke-linecap=\"round\"><path d=\"M465 168 L455 120 M465 168 L478 110 M455 120 L445 92 M478 110 L495 88\"/><path d=\"M424 174 L418 120 L414 95\"/><path d=\"M465 262 L440 290 M465 262 L460 300 M465 262 L490 296 M465 262 L505 270 M465 262 L438 248\"/><path d=\"M462 432 L432 410 M462 432 L455 470 M462 432 L490 455 M462 432 L470 404\"/></g>\n<g fill=\"#3b1d0a\"><circle cx=\"465\" cy=\"168\" r=\"5\"/><circle cx=\"465\" cy=\"262\" r=\"5\"/><circle cx=\"462\" cy=\"432\" r=\"5\"/><circle cx=\"424\" cy=\"174\" r=\"4\"/></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"15\"><text x=\"250\" y=\"545\">Patient right</text><text x=\"455\" y=\"545\">Patient left</text></g>",
+   "labels": [
+    {
+     "name": "Ophthalmic division (V1) territory",
+     "accept": [
+      "V1",
+      "ophthalmic",
+      "ophthalmic division",
+      "ophthalmic nerve",
+      "CN V1"
+     ],
+     "function": "Forehead, upper eyelid, nose tip; exits superior orbital fissure",
+     "x": 320,
+     "y": 130,
+     "lx": 140,
+     "ly": 110
+    },
+    {
+     "name": "Maxillary division (V2) territory",
+     "accept": [
+      "V2",
+      "maxillary",
+      "maxillary division",
+      "maxillary nerve",
+      "CN V2"
+     ],
+     "function": "Lower eyelid, cheek, upper lip; exits foramen rotundum",
+     "x": 300,
+     "y": 270,
+     "lx": 120,
+     "ly": 250
+    },
+    {
+     "name": "Mandibular division (V3) territory",
+     "accept": [
+      "V3",
+      "mandibular",
+      "mandibular division",
+      "mandibular nerve",
+      "CN V3"
+     ],
+     "function": "Lower lip and chin; only division with motor fibers (foramen ovale)",
+     "x": 345,
+     "y": 460,
+     "lx": 150,
+     "ly": 480
+    },
+    {
+     "name": "Great auricular nerve territory",
+     "accept": [
+      "great auricular",
+      "great auricular nerve",
+      "C2-C3",
+      "C2 and C3"
+     ],
+     "function": "Skin over the angle of the jaw; not a trigeminal area",
+     "x": 258,
+     "y": 420,
+     "lx": 110,
+     "ly": 380
+    },
+    {
+     "name": "Supraorbital nerve",
+     "accept": [
+      "supraorbital"
+     ],
+     "function": "Lateral V1 branch to the forehead and anterior scalp",
+     "x": 470,
+     "y": 140,
+     "lx": 650,
+     "ly": 110
+    },
+    {
+     "name": "Supratrochlear nerve",
+     "accept": [
+      "supratrochlear"
+     ],
+     "function": "Medial V1 branch to the skin of the medial forehead",
+     "x": 418,
+     "y": 120,
+     "lx": 560,
+     "ly": 60
+    },
+    {
+     "name": "Infraorbital nerve",
+     "accept": [
+      "infraorbital"
+     ],
+     "function": "Main V2 branch to cheek, side of nose and upper lip",
+     "x": 465,
+     "y": 262,
+     "lx": 660,
+     "ly": 250
+    },
+    {
+     "name": "Mental nerve",
+     "accept": [
+      "mental"
+     ],
+     "function": "V3 branch to the lower lip and chin",
+     "x": 462,
+     "y": 432,
+     "lx": 660,
+     "ly": 440
+    },
+    {
+     "name": "Danger triangle of the face",
+     "accept": [
+      "danger triangle",
+      "danger area"
+     ],
+     "function": "Infection here can reach the cavernous sinus via valveless veins",
+     "x": 425,
+     "y": 345,
+     "lx": 660,
+     "ly": 345
+    }
+   ]
+  }
+ ]
+}

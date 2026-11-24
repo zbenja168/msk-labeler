@@ -1,0 +1,222 @@
+{
+ "brick": 44,
+ "title": "Benign Skin Lesions",
+ "diagrams": [
+  {
+   "title": "Where benign lesions sit in the skin (schematic cross-section)",
+   "viewBox": "0 0 800 500",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"500\" fill=\"#f8f5ee\"/>\n<rect x=\"20\" y=\"200\" width=\"760\" height=\"140\" fill=\"#f1d3b3\" stroke=\"#b08968\" stroke-width=\"2\"/>\n<rect x=\"20\" y=\"340\" width=\"760\" height=\"140\" fill=\"#fdf0c4\" stroke=\"#b08968\" stroke-width=\"2\"/>\n<ellipse cx=\"50\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"65\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"110\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"125\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"170\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"185\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"230\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"245\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"290\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"305\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"350\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"365\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"410\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"425\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"470\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"485\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"530\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"545\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"590\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"605\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"650\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"665\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"710\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"725\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"770\" cy=\"375\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<ellipse cx=\"785\" cy=\"440\" rx=\"24\" ry=\"20\" fill=\"#fde68a\" stroke=\"#d6b85a\" stroke-width=\"1.5\"/>\n<rect x=\"20\" y=\"175\" width=\"760\" height=\"25\" fill=\"#e8b98f\" stroke=\"#9c6b43\" stroke-width=\"2\"/>\n<circle cx=\"113\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"130\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"147\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<rect x=\"103\" y=\"175\" width=\"54\" height=\"6\" fill=\"#8b5a2b\"/>\n<path d=\"M150 176 Q200 120 250 176 Z\" fill=\"#8b5a2b\" stroke=\"#3b1d0a\" stroke-width=\"2\"/>\n<circle cx=\"180\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"200\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"220\" cy=\"199\" r=\"7\" fill=\"#6b3f1d\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"188\" cy=\"222\" r=\"7\" fill=\"#a0703f\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"212\" cy=\"222\" r=\"7\" fill=\"#a0703f\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<circle cx=\"200\" cy=\"243\" r=\"7\" fill=\"#a0703f\" stroke=\"#3b1d0a\" stroke-width=\"1.5\"/>\n<path d=\"M270 176 Q320 112 370 176 Z\" fill=\"#e8b98f\" stroke=\"#9c6b43\" stroke-width=\"2\"/>\n<circle cx=\"300\" cy=\"160\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<circle cx=\"320\" cy=\"150\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<circle cx=\"340\" cy=\"160\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<circle cx=\"310\" cy=\"215\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<circle cx=\"330\" cy=\"215\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<circle cx=\"320\" cy=\"238\" r=\"7\" fill=\"#d9b48a\" stroke=\"#7c5a3a\" stroke-width=\"1.5\"/>\n<path d=\"M400 176 L400 140 L410 132 L418 140 L426 130 L434 140 L442 128 L450 140 L458 131 L466 140 L474 133 L480 140 L480 176 Z\" fill=\"#5a3a1e\" stroke=\"#2d1a0b\" stroke-width=\"2\"/>\n<path d=\"M408 160 L472 160 M410 148 L470 148\" stroke=\"#c9a27a\" stroke-width=\"1.5\" stroke-dasharray=\"3 4\"/>\n<path d=\"M532 176 L534 140 Q520 130 524 112 Q540 92 556 112 Q560 130 546 140 L548 176 Z\" fill=\"#e8b98f\" stroke=\"#9c6b43\" stroke-width=\"2\"/>\n<path d=\"M595 176 Q630 158 665 176 Z\" fill=\"#c08a5a\" stroke=\"#7c4a2a\" stroke-width=\"2\"/>\n<ellipse cx=\"630\" cy=\"240\" rx=\"38\" ry=\"32\" fill=\"#b77b52\" stroke=\"#7c4a2a\" stroke-width=\"2\"/>\n<path d=\"M600 232 Q630 218 660 232 M598 248 Q630 262 662 248 M606 240 Q630 228 654 242\" stroke=\"#6b3a1f\" stroke-width=\"1.5\" fill=\"none\"/>\n<ellipse cx=\"725\" cy=\"275\" rx=\"45\" ry=\"45\" fill=\"#fffdf5\" stroke=\"#9c6b43\" stroke-width=\"6\"/>\n<path d=\"M695 262 Q725 250 755 262 M692 278 Q725 266 758 278 M697 294 Q725 284 753 294\" stroke=\"#d6cdb5\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M721 200 L721 232 M729 200 L729 232\" stroke=\"#9c6b43\" stroke-width=\"4\"/>\n<rect x=\"720\" y=\"174\" width=\"10\" height=\"28\" fill=\"#3b2a1a\"/>\n<ellipse cx=\"420\" cy=\"410\" rx=\"95\" ry=\"52\" fill=\"#fff3b0\" stroke=\"#b45309\" stroke-width=\"3\"/>\n<circle cx=\"380\" cy=\"395\" r=\"15\" fill=\"#fde68a\" stroke=\"#d6a74a\" stroke-width=\"1.2\"/>\n<circle cx=\"420\" cy=\"390\" r=\"15\" fill=\"#fde68a\" stroke=\"#d6a74a\" stroke-width=\"1.2\"/>\n<circle cx=\"460\" cy=\"398\" r=\"15\" fill=\"#fde68a\" stroke=\"#d6a74a\" stroke-width=\"1.2\"/>\n<circle cx=\"395\" cy=\"428\" r=\"15\" fill=\"#fde68a\" stroke=\"#d6a74a\" stroke-width=\"1.2\"/>\n<circle cx=\"440\" cy=\"428\" r=\"15\" fill=\"#fde68a\" stroke=\"#d6a74a\" stroke-width=\"1.2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"28\" y=\"193\">Epidermis</text><text x=\"28\" y=\"330\">Dermis</text><text x=\"28\" y=\"472\">Subcutis</text></g>",
+   "labels": [
+    {
+     "name": "Junctional nevus",
+     "accept": [
+      "junctional",
+      "junctional melanocytic nevus"
+     ],
+     "function": "Flat and pigmented; nests at the epidermal-dermal junction",
+     "x": 130,
+     "y": 199,
+     "lx": 100,
+     "ly": 80
+    },
+    {
+     "name": "Compound nevus",
+     "accept": [
+      "compound",
+      "compound melanocytic nevus"
+     ],
+     "function": "Raised and pigmented; nests at junction plus dermis",
+     "x": 200,
+     "y": 150,
+     "lx": 200,
+     "ly": 40
+    },
+    {
+     "name": "Intradermal nevus",
+     "accept": [
+      "intradermal",
+      "dermal nevus",
+      "intradermal melanocytic nevus"
+     ],
+     "function": "Raised but not pigmented; nests in the dermis only",
+     "x": 320,
+     "y": 150,
+     "lx": 320,
+     "ly": 80
+    },
+    {
+     "name": "Seborrheic keratosis",
+     "accept": [
+      "SK",
+      "seborrheic keratoses"
+     ],
+     "function": "Waxy, rough, stuck-on growth of epidermal keratinocytes",
+     "x": 440,
+     "y": 145,
+     "lx": 440,
+     "ly": 40
+    },
+    {
+     "name": "Acrochordon",
+     "accept": [
+      "skin tag",
+      "skin tags",
+      "acrochordons"
+     ],
+     "function": "Pedunculated normal skin; more common with obesity and diabetes",
+     "x": 540,
+     "y": 115,
+     "lx": 545,
+     "ly": 70
+    },
+    {
+     "name": "Dermatofibroma",
+     "accept": [
+      "dermatofibromas"
+     ],
+     "function": "Fibroblast and histiocyte proliferation; dimples when pinched",
+     "x": 630,
+     "y": 240,
+     "lx": 640,
+     "ly": 120
+    },
+    {
+     "name": "Epidermal inclusion cyst",
+     "accept": [
+      "EIC",
+      "epidermal cyst",
+      "epidermoid cyst",
+      "sebaceous cyst"
+     ],
+     "function": "Keratin-filled sac with a central punctum; sterile if it ruptures",
+     "x": 725,
+     "y": 275,
+     "lx": 740,
+     "ly": 60
+    },
+    {
+     "name": "Lipoma",
+     "accept": [
+      "lipomas"
+     ],
+     "function": "Soft, compressible, encapsulated benign tumor of fat",
+     "x": 420,
+     "y": 410,
+     "lx": 560,
+     "ly": 410
+    }
+   ]
+  },
+  {
+   "title": "Where benign lesions favor: face, trunk and fingertip (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/>\n<ellipse cx=\"80\" cy=\"250\" rx=\"20\" ry=\"38\" fill=\"#f1d3b3\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<ellipse cx=\"340\" cy=\"250\" rx=\"20\" ry=\"38\" fill=\"#f1d3b3\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<ellipse cx=\"210\" cy=\"250\" rx=\"130\" ry=\"170\" fill=\"#f1d3b3\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<path d=\"M82 220 Q80 70 210 75 Q340 70 338 220 Q320 120 210 118 Q100 120 82 220 Z\" fill=\"#5b3a21\" stroke=\"#3b2414\" stroke-width=\"2\"/>\n<path d=\"M240 104 Q262 70 284 106 Z\" fill=\"#e9c6a0\" stroke=\"#9c6b43\" stroke-width=\"2\"/>\n<ellipse cx=\"74\" cy=\"295\" rx=\"16\" ry=\"13\" fill=\"#c76b5a\" stroke=\"#8a3b2e\" stroke-width=\"2\"/>\n<ellipse cx=\"160\" cy=\"225\" rx=\"30\" ry=\"13\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/>\n<circle cx=\"160\" cy=\"225\" r=\"8\" fill=\"#4b3621\"/>\n<path d=\"M126 205 Q160 190 194 205\" stroke=\"#3b2414\" stroke-width=\"4\" fill=\"none\"/>\n<ellipse cx=\"260\" cy=\"225\" rx=\"30\" ry=\"13\" fill=\"#ffffff\" stroke=\"#3b1d0a\" stroke-width=\"2.5\"/>\n<circle cx=\"260\" cy=\"225\" r=\"8\" fill=\"#4b3621\"/>\n<path d=\"M226 205 Q260 190 294 205\" stroke=\"#3b2414\" stroke-width=\"4\" fill=\"none\"/>\n<circle cx=\"140\" cy=\"250\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#b8a68a\" stroke-width=\"1\"/>\n<circle cx=\"152\" cy=\"256\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#b8a68a\" stroke-width=\"1\"/>\n<circle cx=\"166\" cy=\"252\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#b8a68a\" stroke-width=\"1\"/>\n<circle cx=\"178\" cy=\"258\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#b8a68a\" stroke-width=\"1\"/>\n<circle cx=\"282\" cy=\"240\" r=\"8\" fill=\"#bfdbfe\" fill-opacity=\"0.85\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/>\n<circle cx=\"190\" cy=\"160\" r=\"7\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"190\" cy=\"160\" r=\"1.8\" fill=\"#92400e\"/>\n<circle cx=\"218\" cy=\"152\" r=\"7\" fill=\"#fcd34d\" stroke=\"#b45309\" stroke-width=\"1.5\"/><circle cx=\"218\" cy=\"152\" r=\"1.8\" fill=\"#92400e\"/>\n<path d=\"M210 235 L198 295 Q210 303 222 295\" stroke=\"#9c6b43\" stroke-width=\"2.5\" fill=\"none\"/>\n<path d=\"M170 340 Q210 362 250 340\" stroke=\"#9c4a3a\" stroke-width=\"4\" fill=\"none\"/>\n<path d=\"M420 120 Q505 100 590 120 L615 150 L605 470 L405 470 L395 150 Z\" fill=\"#f1d3b3\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<path d=\"M505 95 L505 118\" stroke=\"#9c6b43\" stroke-width=\"10\"/>\n<circle cx=\"455\" cy=\"210\" r=\"9\" fill=\"#b97a5f\" stroke=\"#7c4a3a\" stroke-width=\"1.5\"/><circle cx=\"455\" cy=\"210\" r=\"3\" fill=\"#7c4a3a\"/>\n<circle cx=\"555\" cy=\"210\" r=\"9\" fill=\"#b97a5f\" stroke=\"#7c4a3a\" stroke-width=\"1.5\"/><circle cx=\"555\" cy=\"210\" r=\"3\" fill=\"#7c4a3a\"/>\n<circle cx=\"462\" cy=\"285\" r=\"5\" fill=\"#b97a5f\" stroke=\"#7c4a3a\" stroke-width=\"1.5\"/><circle cx=\"462\" cy=\"285\" r=\"1.6\" fill=\"#7c4a3a\"/>\n<path d=\"M450 160 Q462 280 488 420\" stroke=\"#a8a29e\" stroke-width=\"1.5\" stroke-dasharray=\"4 5\" fill=\"none\"/>\n<circle cx=\"535\" cy=\"300\" r=\"5\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/>\n<circle cx=\"560\" cy=\"320\" r=\"5\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/>\n<circle cx=\"520\" cy=\"340\" r=\"5\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/>\n<circle cx=\"575\" cy=\"280\" r=\"5\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/>\n<circle cx=\"548\" cy=\"355\" r=\"5\" fill=\"#dc2626\" stroke=\"#7f1d1d\" stroke-width=\"1\"/>\n<ellipse cx=\"455\" cy=\"395\" rx=\"28\" ry=\"17\" fill=\"#c9a06b\" fill-opacity=\"0.8\"/>\n<path d=\"M505 340 L505 352\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<rect x=\"640\" y=\"120\" width=\"145\" height=\"330\" rx=\"14\" fill=\"#fffdf7\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M672 440 L672 210 Q672 150 712 150 Q752 150 752 210 L752 440 Z\" fill=\"#f1d3b3\" stroke=\"#9c6b43\" stroke-width=\"3\"/>\n<path d=\"M684 245 L684 190 Q684 165 712 165 Q740 165 740 190 L740 245 Z\" fill=\"#fbe7e1\" stroke=\"#a8a29e\" stroke-width=\"2\"/>\n<path d=\"M712 172 L712 244\" stroke=\"#b8968a\" stroke-width=\"4\"/>\n<path d=\"M680 250 Q712 262 744 250\" stroke=\"#9c6b43\" stroke-width=\"2\" fill=\"none\"/>\n<ellipse cx=\"712\" cy=\"272\" rx=\"14\" ry=\"11\" fill=\"#e0f2fe\" fill-opacity=\"0.9\" stroke=\"#60a5fa\" stroke-width=\"2\"/>\n<path d=\"M674 320 Q712 330 750 320 M676 330 Q712 340 748 330\" stroke=\"#9c6b43\" stroke-width=\"2\" fill=\"none\"/>\n<ellipse cx=\"672\" cy=\"325\" rx=\"8\" ry=\"12\" fill=\"#e9c6a0\" stroke=\"#9c6b43\" stroke-width=\"2\"/><ellipse cx=\"752\" cy=\"325\" rx=\"8\" ry=\"12\" fill=\"#e9c6a0\" stroke=\"#9c6b43\" stroke-width=\"2\"/>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"662\" y=\"142\">Fingertip, dorsal</text><text x=\"690\" y=\"358\" font-size=\"13\">DIP</text></g>\n<g font-family=\"Segoe UI, sans-serif\" fill=\"#3b1d0a\" font-size=\"14\"><text x=\"170\" y=\"505\">Face</text><text x=\"485\" y=\"500\">Trunk, front</text></g>",
+   "labels": [
+    {
+     "name": "Pilar cyst",
+     "accept": [
+      "pilar cysts",
+      "trichilemmal cyst"
+     ],
+     "function": "Familial scalp cyst with no punctum; rarely ruptures",
+     "x": 262,
+     "y": 92,
+     "lx": 262,
+     "ly": 30
+    },
+    {
+     "name": "Sebaceous hyperplasia",
+     "accept": [],
+     "function": "Yellow umbilicated papules of the forehead and cheeks in midlife",
+     "x": 190,
+     "y": 160,
+     "lx": 160,
+     "ly": 40
+    },
+    {
+     "name": "Keloid",
+     "accept": [
+      "keloids",
+      "keloid scar"
+     ],
+     "function": "Scar growing beyond the wound; TGF-beta-1 driven, recurs",
+     "x": 74,
+     "y": 295,
+     "lx": 40,
+     "ly": 380
+    },
+    {
+     "name": "Milia",
+     "accept": [
+      "milium"
+     ],
+     "function": "1-2 mm white keratinous cysts, most often in adult women",
+     "x": 166,
+     "y": 252,
+     "lx": 110,
+     "ly": 450
+    },
+    {
+     "name": "Hidrocystoma",
+     "accept": [
+      "hidrocystomas"
+     ],
+     "function": "Clear fluid-filled sweat gland cyst; drain and remove lining",
+     "x": 282,
+     "y": 240,
+     "lx": 300,
+     "ly": 450
+    },
+    {
+     "name": "Accessory nipple",
+     "accept": [
+      "polythelia",
+      "supernumerary nipple"
+     ],
+     "function": "Extra nipple on the embryonic milk line, often mistaken for a mole",
+     "x": 462,
+     "y": 285,
+     "lx": 380,
+     "ly": 300
+    },
+    {
+     "name": "Cherry angioma",
+     "accept": [
+      "cherry angiomas"
+     ],
+     "function": "Red dome-shaped vascular tumors that multiply with age",
+     "x": 560,
+     "y": 320,
+     "lx": 625,
+     "ly": 480
+    },
+    {
+     "name": "Cafe-au-lait macule",
+     "accept": [
+      "cafe au lait macule",
+      "cafe-au-lait spot",
+      "CALM"
+     ],
+     "function": "Congenital fixed melanin increase; six or more suggest NF",
+     "x": 455,
+     "y": 395,
+     "lx": 380,
+     "ly": 420
+    },
+    {
+     "name": "Digital mucous cyst",
+     "accept": [
+      "myxoid cyst",
+      "digital myxoid cyst",
+      "mucous cyst"
+     ],
+     "function": "Joint fluid from DIP osteoarthritis pressing on the nail matrix",
+     "x": 712,
+     "y": 272,
+     "lx": 775,
+     "ly": 290
+    }
+   ]
+  }
+ ]
+}

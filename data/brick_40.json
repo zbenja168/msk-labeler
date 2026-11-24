@@ -1,0 +1,306 @@
+{
+ "brick": 40,
+ "title": "Cutaneous Fungal Infections",
+ "diagrams": [
+  {
+   "title": "Skin layers and how deep each fungal infection reaches (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><rect x=\"180\" y=\"360\" width=\"440\" height=\"140\" fill=\"#fde68a\" stroke=\"#b45309\" stroke-width=\"2\"/><ellipse cx=\"205\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"230\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"255\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"280\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"305\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"330\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"355\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"380\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"405\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"430\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"455\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"480\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"505\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"530\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"555\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"580\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"605\" cy=\"390\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><ellipse cx=\"630\" cy=\"450\" rx=\"22\" ry=\"20\" fill=\"#fef3c7\" stroke=\"#d97706\" stroke-width=\"2\"/><rect x=\"180\" y=\"190\" width=\"440\" height=\"170\" fill=\"#f1d3b3\" stroke=\"#c9a27e\" stroke-width=\"2\"/><path d=\"M200 230 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M252 260 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M304 290 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M356 230 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M408 260 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M460 290 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M512 230 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M564 260 q20 -12 40 0\" fill=\"none\" stroke=\"#d9a27a\" stroke-width=\"2\"/><path d=\"M180 128 L620 128 L620 190 Q600 206 580 190 Q560 206 540 190 Q520 206 500 190 Q480 206 460 190 L380 190 Q360 206 340 190 Q320 206 300 190 Q280 206 260 190 Q240 206 220 190 Q200 206 180 190 Z\" fill=\"#e3a47e\" stroke=\"#9a5b3a\" stroke-width=\"2\"/><circle cx=\"190\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"208\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"226\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"244\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"262\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"280\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"298\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"316\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"334\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"352\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"370\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"460\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"478\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"496\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"514\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"532\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"550\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"568\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"586\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><circle cx=\"604\" cy=\"160\" r=\"5\" fill=\"#c98762\"/><rect x=\"180\" y=\"108\" width=\"440\" height=\"20\" fill=\"#fdf0d5\" stroke=\"#c9a27e\" stroke-width=\"2\"/><line x1=\"186\" y1=\"114\" x2=\"200\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"192\" y1=\"122\" x2=\"206\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"208\" y1=\"114\" x2=\"222\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"214\" y1=\"122\" x2=\"228\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"230\" y1=\"114\" x2=\"244\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"236\" y1=\"122\" x2=\"250\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"252\" y1=\"114\" x2=\"266\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"258\" y1=\"122\" x2=\"272\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"274\" y1=\"114\" x2=\"288\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"280\" y1=\"122\" x2=\"294\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"296\" y1=\"114\" x2=\"310\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"302\" y1=\"122\" x2=\"316\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"318\" y1=\"114\" x2=\"332\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"324\" y1=\"122\" x2=\"338\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"340\" y1=\"114\" x2=\"354\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"346\" y1=\"122\" x2=\"360\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"362\" y1=\"114\" x2=\"376\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"368\" y1=\"122\" x2=\"382\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"384\" y1=\"114\" x2=\"398\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"390\" y1=\"122\" x2=\"404\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"472\" y1=\"114\" x2=\"486\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"478\" y1=\"122\" x2=\"492\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"494\" y1=\"114\" x2=\"508\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"500\" y1=\"122\" x2=\"514\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"516\" y1=\"114\" x2=\"530\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"522\" y1=\"122\" x2=\"536\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"538\" y1=\"114\" x2=\"552\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"544\" y1=\"122\" x2=\"558\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"560\" y1=\"114\" x2=\"574\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"566\" y1=\"122\" x2=\"580\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"582\" y1=\"114\" x2=\"596\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"588\" y1=\"122\" x2=\"602\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"604\" y1=\"114\" x2=\"618\" y2=\"114\" stroke=\"#d6b98f\" stroke-width=\"2\"/><line x1=\"610\" y1=\"122\" x2=\"624\" y2=\"122\" stroke=\"#d6b98f\" stroke-width=\"2\"/><circle cx=\"214\" cy=\"118\" r=\"3\" fill=\"#7c3aed\"/><circle cx=\"230\" cy=\"116\" r=\"3\" fill=\"#7c3aed\"/><circle cx=\"246\" cy=\"120\" r=\"3\" fill=\"#7c3aed\"/><circle cx=\"262\" cy=\"117\" r=\"3\" fill=\"#7c3aed\"/><path d=\"M396 108 L396 300 Q380 312 384 330 Q392 352 421 352 Q450 352 458 330 Q462 312 446 300 L446 108 Z\" fill=\"#fbe3cf\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M414 340 L414 40 Q421 30 428 40 L428 340 Z\" fill=\"#5b3a1e\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"421\" cy=\"70\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"104\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"138\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"172\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"206\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"240\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"274\" r=\"2.6\" fill=\"#facc15\"/><circle cx=\"421\" cy=\"308\" r=\"2.6\" fill=\"#facc15\"/><text x=\"630\" y=\"118\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\">Surface</text><text x=\"630\" y=\"498\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\">Deep</text><text x=\"400\" y=\"20\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"15\" text-anchor=\"middle\">Skin, cross-section (schematic)</text>",
+   "labels": [
+    {
+     "name": "Stratum corneum",
+     "accept": [
+      "corneum",
+      "horny layer",
+      "keratin layer",
+      "keratinized layer"
+     ],
+     "function": "Only layer Malassezia reaches; few or no symptoms",
+     "x": 300,
+     "y": 118,
+     "lx": 90,
+     "ly": 60
+    },
+    {
+     "name": "Epidermis",
+     "accept": [
+      "inner epidermis",
+      "living epidermis",
+      "viable epidermis"
+     ],
+     "function": "Inner layers penetrated by keratin-loving dermatophytes",
+     "x": 300,
+     "y": 168,
+     "lx": 90,
+     "ly": 165
+    },
+    {
+     "name": "Dermis",
+     "accept": [
+      "dermal layer",
+      "corium"
+     ],
+     "function": "Also reached by dermatophytes and by disseminated systemic fungi",
+     "x": 300,
+     "y": 290,
+     "lx": 90,
+     "ly": 280
+    },
+    {
+     "name": "Subcutaneous tissue",
+     "accept": [
+      "subcutis",
+      "subcutaneous fat",
+      "hypodermis",
+      "subcutaneous layer"
+     ],
+     "function": "Deepest layer, infected only in deep fungal disease (biopsy)",
+     "x": 330,
+     "y": 430,
+     "lx": 90,
+     "ly": 430
+    },
+    {
+     "name": "Hair shaft",
+     "accept": [
+      "hair",
+      "shaft"
+     ],
+     "function": "Spores within it in T. tonsurans scalp infection (no glow)",
+     "x": 421,
+     "y": 60,
+     "lx": 600,
+     "ly": 50
+    },
+    {
+     "name": "Hair follicle",
+     "accept": [
+      "follicle"
+     ],
+     "function": "Infection here needs oral therapy; topicals recur",
+     "x": 446,
+     "y": 250,
+     "lx": 700,
+     "ly": 250
+    }
+   ]
+  },
+  {
+   "title": "KOH prep and hair-shaft findings in cutaneous fungal infections (schematic)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><circle cx=\"110\" cy=\"240\" r=\"92\" fill=\"#eef2f7\" stroke=\"#64748b\" stroke-width=\"4\"/><text x=\"110\" y=\"125\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">KOH: chest scale</text><circle cx=\"310\" cy=\"240\" r=\"92\" fill=\"#eef2f7\" stroke=\"#64748b\" stroke-width=\"4\"/><text x=\"310\" y=\"125\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">KOH: annular plaque edge</text><circle cx=\"510\" cy=\"240\" r=\"92\" fill=\"#eef2f7\" stroke=\"#64748b\" stroke-width=\"4\"/><text x=\"510\" y=\"125\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">KOH: groin fold</text><text x=\"705\" y=\"125\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"14\" text-anchor=\"middle\">Plucked scalp hairs</text><circle cx=\"80\" cy=\"220\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"96\" cy=\"210\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"92\" cy=\"236\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"246\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"130\" cy=\"205\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"144\" cy=\"214\" r=\"9\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><path d=\"M110 270 q15 -14 34 -6\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M110 270 q15 -14 34 -6\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M126 290 q18 4 30 -10\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M126 290 q18 4 30 -10\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M66 282 q10 14 30 10\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M66 282 q10 14 30 10\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M150 248 q12 10 10 26\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M150 248 q12 10 10 26\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M60 200 q4 -16 20 -20\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M60 200 q4 -16 20 -20\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M250 190 L300 225 L370 250\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M250 190 L300 225 L370 250\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M300 225 L320 300\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M300 225 L320 300\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M240 270 L290 268 L340 300\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M240 270 L290 268 L340 300\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M290 268 L300 180\" fill=\"none\" stroke=\"#5b21b6\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M290 268 L300 180\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"7\" stroke-linecap=\"round\"/><line x1=\"268\" y1=\"197\" x2=\"278\" y2=\"207\" stroke=\"#3b0764\" stroke-width=\"3\"/><line x1=\"335\" y1=\"232\" x2=\"333\" y2=\"244\" stroke=\"#3b0764\" stroke-width=\"3\"/><line x1=\"306\" y1=\"260\" x2=\"316\" y2=\"258\" stroke=\"#3b0764\" stroke-width=\"3\"/><line x1=\"262\" y1=\"263\" x2=\"262\" y2=\"275\" stroke=\"#3b0764\" stroke-width=\"3\"/><line x1=\"316\" y1=\"281\" x2=\"324\" y2=\"274\" stroke=\"#3b0764\" stroke-width=\"3\"/><line x1=\"291\" y1=\"205\" x2=\"301\" y2=\"207\" stroke=\"#3b0764\" stroke-width=\"3\"/><ellipse cx=\"450\" cy=\"262\" rx=\"15\" ry=\"8\" transform=\"rotate(-14 450 262)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"478\" cy=\"255\" rx=\"15\" ry=\"8\" transform=\"rotate(-14 478 255)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"506\" cy=\"248\" rx=\"15\" ry=\"8\" transform=\"rotate(-14 506 248)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"534\" cy=\"241\" rx=\"15\" ry=\"8\" transform=\"rotate(-14 534 241)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"562\" cy=\"234\" rx=\"15\" ry=\"8\" transform=\"rotate(-14 562 234)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"490\" cy=\"238\" r=\"6\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"520\" cy=\"270\" r=\"6\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"548\" cy=\"224\" r=\"6\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><circle cx=\"464\" cy=\"278\" r=\"6\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"470\" cy=\"205\" rx=\"14\" ry=\"7\" transform=\"rotate(20 470 205)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><ellipse cx=\"498\" cy=\"197\" rx=\"14\" ry=\"7\" transform=\"rotate(20 498 197)\" fill=\"#c4b5fd\" stroke=\"#5b21b6\" stroke-width=\"2\"/><rect x=\"640\" y=\"150\" width=\"130\" height=\"200\" rx=\"8\" fill=\"#eef2f7\" stroke=\"#64748b\" stroke-width=\"3\"/><rect x=\"664\" y=\"165\" width=\"26\" height=\"170\" rx=\"6\" fill=\"#7c5a3a\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"674\" cy=\"178\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"679\" cy=\"192\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"674\" cy=\"206\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"679\" cy=\"220\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"674\" cy=\"234\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"679\" cy=\"248\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"674\" cy=\"262\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"679\" cy=\"276\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"674\" cy=\"290\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"679\" cy=\"304\" r=\"3.5\" fill=\"#fde68a\"/><circle cx=\"674\" cy=\"318\" r=\"3.5\" fill=\"#fde68a\"/><rect x=\"722\" y=\"165\" width=\"26\" height=\"170\" rx=\"6\" fill=\"#7c5a3a\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"718\" cy=\"172\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"177\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"183\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"188\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"194\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"199\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"205\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"210\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"216\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"221\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"227\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"232\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"238\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"243\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"249\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"254\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"260\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"265\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"271\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"276\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"282\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"287\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"293\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"298\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"304\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"309\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"315\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"320\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"718\" cy=\"326\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><circle cx=\"752\" cy=\"331\" r=\"4\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"1\"/><text x=\"677\" y=\"364\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"13\" text-anchor=\"middle\">Hair 1</text><text x=\"735\" y=\"364\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"13\" text-anchor=\"middle\">Hair 2</text>",
+   "labels": [
+    {
+     "name": "Round yeast form",
+     "accept": [
+      "yeast",
+      "yeast form",
+      "round yeast",
+      "meatballs",
+      "yeast cells"
+     ],
+     "function": "The \"meatballs\" of Malassezia in pityriasis versicolor",
+     "x": 92,
+     "y": 236,
+     "lx": 60,
+     "ly": 400
+    },
+    {
+     "name": "Short hyphal form",
+     "accept": [
+      "short hyphae",
+      "short hypha",
+      "spaghetti",
+      "hyphal segments"
+     ],
+     "function": "The \"spaghetti\" strands of pityriasis versicolor",
+     "x": 145,
+     "y": 265,
+     "lx": 160,
+     "ly": 460
+    },
+    {
+     "name": "Branching septate hypha",
+     "accept": [
+      "septate hypha",
+      "septate hyphae",
+      "branching septate hyphae",
+      "branching hyphae",
+      "dermatophyte hyphae"
+     ],
+     "function": "Dermatophyte filament seen on KOH prep in tinea",
+     "x": 352,
+     "y": 244,
+     "lx": 380,
+     "ly": 460
+    },
+    {
+     "name": "Septum",
+     "accept": [
+      "septa",
+      "cross wall",
+      "crosswall"
+     ],
+     "function": "Cross-wall that divides a dermatophyte filament into cells",
+     "x": 262,
+     "y": 269,
+     "lx": 250,
+     "ly": 400
+    },
+    {
+     "name": "Pseudohypha",
+     "accept": [
+      "pseudohyphae",
+      "pseudo-hyphae",
+      "pseudo-hypha"
+     ],
+     "function": "Elongated cells in one filament, constricted where cells join",
+     "x": 534,
+     "y": 241,
+     "lx": 470,
+     "ly": 400
+    },
+    {
+     "name": "Blastospore",
+     "accept": [
+      "blastospores",
+      "blastoconidia",
+      "budding yeast",
+      "bud"
+     ],
+     "function": "Small budding structure attached to Candida filaments",
+     "x": 520,
+     "y": 270,
+     "lx": 560,
+     "ly": 460
+    },
+    {
+     "name": "Endothrix spores",
+     "accept": [
+      "endothrix",
+      "endothrix infection",
+      "endothrix spore"
+     ],
+     "function": "Inside the shaft (T. tonsurans); no Wood's lamp glow",
+     "x": 677,
+     "y": 290,
+     "lx": 660,
+     "ly": 410
+    },
+    {
+     "name": "Ectothrix spores",
+     "accept": [
+      "ectothrix",
+      "ectothrix infection",
+      "ectothrix spore"
+     ],
+     "function": "Coat the outside (M. canis); fluoresce under Wood's lamp",
+     "x": 752,
+     "y": 300,
+     "lx": 740,
+     "ly": 470
+    }
+   ]
+  },
+  {
+   "title": "Tinea named by body site (schematic body map)",
+   "viewBox": "0 0 800 520",
+   "svg": "<rect x=\"0\" y=\"0\" width=\"800\" height=\"520\" fill=\"#f8f5ee\"/><path d=\"M352 290 L340 470 L372 470 L392 320 L408 320 L428 470 L460 470 L448 290 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M340 466 L372 466 L374 490 L326 492 Q318 482 340 466 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M428 466 L460 466 Q482 482 474 492 L426 490 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><rect x=\"320\" y=\"482\" width=\"10\" height=\"9\" rx=\"3\" fill=\"#fde68a\" stroke=\"#a16207\" stroke-width=\"2\"/><path d=\"M346 135 L300 180 L282 300 L304 302 L318 196 L350 170 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M454 135 L500 180 L518 300 L496 302 L482 196 L450 170 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><ellipse cx=\"292\" cy=\"318\" rx=\"16\" ry=\"22\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><ellipse cx=\"508\" cy=\"318\" rx=\"16\" ry=\"22\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M346 128 L454 128 L456 300 L344 300 Z\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M380 300 L400 322 L420 300\" fill=\"none\" stroke=\"#9a5b3a\" stroke-width=\"2\"/><circle cx=\"420\" cy=\"205\" r=\"18\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"4\" stroke-dasharray=\"4 3\"/><rect x=\"388\" y=\"104\" width=\"24\" height=\"26\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><ellipse cx=\"400\" cy=\"70\" rx=\"36\" ry=\"42\" fill=\"#f1d3b3\" stroke=\"#9a5b3a\" stroke-width=\"3\"/><path d=\"M364 62 Q366 26 400 26 Q434 26 436 62 Q420 44 400 44 Q380 44 364 62 Z\" fill=\"#5b3a1e\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><path d=\"M366 72 Q366 114 400 116 Q434 114 434 72 Q428 98 400 100 Q372 98 366 72 Z\" fill=\"#7c5a3a\" stroke=\"#3b1d0a\" stroke-width=\"2\"/><circle cx=\"388\" cy=\"66\" r=\"3\" fill=\"#3b1d0a\"/><circle cx=\"412\" cy=\"66\" r=\"3\" fill=\"#3b1d0a\"/><text x=\"400\" y=\"512\" font-family=\"Segoe UI\" fill=\"#3b1d0a\" font-size=\"13\" text-anchor=\"middle\">Anterior view (schematic)</text>",
+   "labels": [
+    {
+     "name": "Tinea capitis",
+     "accept": [
+      "capitis",
+      "scalp ringworm"
+     ],
+     "function": "Children; T. tonsurans most common; oral therapy 4-8 weeks",
+     "x": 400,
+     "y": 34,
+     "lx": 230,
+     "ly": 34
+    },
+    {
+     "name": "Tinea faciei",
+     "accept": [
+      "faciei"
+     ],
+     "function": "Non-beard face, often ages 20-40; oral therapy",
+     "x": 380,
+     "y": 80,
+     "lx": 200,
+     "ly": 100
+    },
+    {
+     "name": "Tinea barbae",
+     "accept": [
+      "barbae"
+     ],
+     "function": "Relatively rare; older teen and adult males; oral therapy",
+     "x": 412,
+     "y": 108,
+     "lx": 600,
+     "ly": 90
+    },
+    {
+     "name": "Tinea corporis",
+     "accept": [
+      "corporis",
+      "ringworm"
+     ],
+     "function": "Trunk or limbs ring with central clearing; topical 2-4 wks",
+     "x": 438,
+     "y": 205,
+     "lx": 620,
+     "ly": 190
+    },
+    {
+     "name": "Tinea manuum",
+     "accept": [
+      "manuum"
+     ],
+     "function": "Often one palm, paired with both feet in a classic pattern",
+     "x": 292,
+     "y": 318,
+     "lx": 170,
+     "ly": 300
+    },
+    {
+     "name": "Tinea cruris",
+     "accept": [
+      "cruris",
+      "jock itch"
+     ],
+     "function": "Advancing border from the groin; scrotum spared",
+     "x": 412,
+     "y": 306,
+     "lx": 620,
+     "ly": 320
+    },
+    {
+     "name": "Tinea pedis",
+     "accept": [
+      "pedis",
+      "athlete's foot",
+      "athletes foot"
+     ],
+     "function": "Interdigital or moccasin type; often spreads to the groin",
+     "x": 450,
+     "y": 482,
+     "lx": 620,
+     "ly": 450
+    },
+    {
+     "name": "Tinea unguium",
+     "accept": [
+      "unguium"
+     ],
+     "function": "Nail plate; oral 6 wks fingernails, 12+ wks toenails",
+     "x": 325,
+     "y": 486,
+     "lx": 170,
+     "ly": 450
+    }
+   ]
+  }
+ ]
+}
