@@ -46,7 +46,7 @@ def main():
         sys.exit("validation failed")
     io.open(os.path.join(ROOT, "data", "manifest.json"), "w", encoding="utf-8").write(json.dumps(manifest, indent=1))
 
-    badge = io.open(os.path.join(ROOT, "_badge.html"), encoding="utf-8").read()
+    badge = ""  # the corner badge + promo card now come from the shared at-header.js
     body, wk, ss = "", None, None
     for m in manifest:
         if m["week"] != wk:
@@ -63,13 +63,11 @@ def main():
     total = sum(m["labels"] for m in manifest)
     page = f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MSK Diagram Labeler</title><link rel="stylesheet" href="style.css">
+<title>Skin &amp; MSK Diagram Labeler · Active Transport</title><link rel="stylesheet" href="style.css">
 <script defer src="https://activetransport.app/static/tool-track.js"></script></head>
 <body>
 {badge}
 <header class="hero">
-  <div class="eyebrow">Skin, Musculoskeletal &amp; Connective Tissue</div>
-  <h1>MSK Diagram Labeler</h1>
   <p>Label simple diagrams for every brick: type each structure's name right on the picture, or drag it there from a word bank. Flip on Functions to also drop each structure's function under its name. {len(manifest)} bricks, {total} structures.</p>
 </header>
 <main>
@@ -83,5 +81,14 @@ def main():
     print(f"built: {len(manifest)} bricks, {total} structures")
 
 
+def _sync_shared_look():
+    """Primary Active Transport shared header/styles (C:/study-tools/_shared/STYLE_SPEC.md)."""
+    import subprocess
+    sync = os.path.join(ROOT, "..", "_shared", "sync_static.py")
+    if os.path.exists(sync):
+        subprocess.run([sys.executable, sync, ROOT], check=True)
+
+
 if __name__ == "__main__":
     main()
+    _sync_shared_look()
