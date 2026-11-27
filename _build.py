@@ -68,7 +68,7 @@ def main():
 <body>
 {badge}
 <header class="hero">
-  <p>Label simple diagrams for every brick: type each structure's name right on the picture, or drag it there from a word bank. Flip on Functions to also drop each structure's function under its name. {len(manifest)} bricks, {total} structures.</p>
+  <p>Type or drag each name onto the diagram. {len(manifest)} bricks, {total} structures.</p>
 </header>
 <main>
 {body}</main>

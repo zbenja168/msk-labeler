@@ -220,9 +220,9 @@
     $('stage').classList.add('wide');
     $('answers').innerHTML = '';
     $('hint').textContent =
-      (mode === 'type' ? 'Type each structure’s name in its box on the diagram. Small typos are fine; press Enter for the next box.'
-                       : 'Drag each name onto its box on the diagram, or tap a name and then a box. Tap a filled box to clear it.') +
-      (funcs ? ' Then drop each function into the smaller box under the name.' : '');
+      (mode === 'type' ? 'Type each name in its box. Enter = next box.'
+                       : 'Drag or tap each name onto its box. Tap a filled box to clear it.') +
+      (funcs ? ' Functions go in the smaller box.' : '');
     renderBank();
     mark();
   }
